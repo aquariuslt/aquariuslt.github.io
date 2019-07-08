@@ -4,7 +4,7 @@
         <title>Aquariuslt Blog</title>
         <link>https://blog.aquariuslt.com</link>
         <description>Personal Blog</description>
-        <lastBuildDate>Sun, 07 Jul 2019 18:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2019 17:32:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
@@ -32,12 +32,12 @@
         <category>Blog</category>
         <atom:link href="https://blog.aquariuslt.com//feed/atom" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Github Actions: Overview and In Actions]]></title>
+            <title><![CDATA[Github Actions: Overview and Practice]]></title>
             <link>https://blog.aquariuslt.com/posts/2019/07/07/github-actions-overview-and-practice</link>
             <guid>https://blog.aquariuslt.com/posts/2019/07/07/github-actions-overview-and-practice</guid>
             <pubDate>Sun, 07 Jul 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Github Actions 自从开放 beta 以来，感觉一直没有掀起什么大浪。但是他的在 CI 平台插件方面的概念其实是符合一直以来的方向的: `Docker Image as Plugins`我]]></description>
-            <content:encoded><![CDATA[<h1 id="github-actions-overview-and-in-actions">Github Actions: Overview and In Actions</h1>
+            <content:encoded><![CDATA[<h1 id="github-actions-overview-and-practice">Github Actions: Overview and Practice</h1>
 <h2 id="background">Background</h2>
 <p>Github Actions 自从开放 beta 以来，感觉一直没有掀起什么大浪。但是他的在 CI 平台插件方面的概念其实是符合一直以来的方向的: <code>Docker Image as Plugins</code></p>
 <p>我在二月份开始已经申请到了 Github Actions Beta 的体验许可，为了体验 Github Actions 的功能，以及跟目前其他开源项目所用的持续集成平台进行简单的对比，下面将以一个 通过 Gtihub Action 发布 npm package 的过程作为初步体验，讲讲我对 Github Actions 在 CI 方面的认识。</p>

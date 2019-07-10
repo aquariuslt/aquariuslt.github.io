@@ -33,7 +33,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "ea8e1470aeb0273e7921632108f8506c"
+    "revision": "ffffbb679e13346068faf2b63f7f1c58"
   },
   {
     "url": "categories/Note/index.html",
@@ -61,7 +61,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "5a55eba48d84eb670fa583d095f2c299"
+    "revision": "88c2a74a9b65a5143f4b9317721f5ffa"
   },
   {
     "url": "posts/2015/11/10/index.html",
@@ -77,7 +77,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "dc2ee59fe5eee7f5d75f9e447e2d9fcb"
+    "revision": "c128c5fcde06c90c3b8ed485b6d724c1"
   },
   {
     "url": "posts/2015/12/14/index.html",
@@ -85,7 +85,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "4056c7ea9008a44124f5042663ecc334"
+    "revision": "41d7e62290f7266444ce80ff81fe93b4"
   },
   {
     "url": "posts/2015/12/27/index.html",
@@ -109,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "3054e4c49b6964db77d8341d058bf0e8"
+    "revision": "cfbe463bac4f3fd42f388f10c6e534b7"
   },
   {
     "url": "posts/2016/01/11/index.html",
@@ -125,7 +125,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "903d2cc1b49ccd35258aa36fd57f709e"
+    "revision": "25d1becdff44015852d1ea0d40f2a627"
   },
   {
     "url": "posts/2016/01/index.html",
@@ -133,11 +133,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/index.html",
-    "revision": "fa7bf7734717648f1445cfbb5287f3b5"
+    "revision": "372a2a9c762988e974b61c25368afe8d"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "3bcbf1d175ccfad5002fdea201947aaa"
+    "revision": "b1fbb1400e6d937d83b6bcdd57427010"
   },
   {
     "url": "posts/2016/03/index.html",
@@ -145,7 +145,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "29c71e9bff52caf0b452f72ad28f9cbe"
+    "revision": "c5d1b35323ade55bbdd8af3279ac04df"
   },
   {
     "url": "posts/2016/04/09/index.html",
@@ -153,7 +153,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "81ba6774353d005b4590885173d5c6bf"
+    "revision": "7b92f905639bae34fb05f89b8392d88f"
   },
   {
     "url": "posts/2016/04/10/index.html",
@@ -161,7 +161,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "3c729e52ebc2040535e3de2019a2adc1"
+    "revision": "ff4dbdcd18bda3e2fb6eeb243fae7a64"
   },
   {
     "url": "posts/2016/04/30/index.html",
@@ -169,7 +169,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/index.html",
-    "revision": "adc2d3c81b48eee7d33f781a42d844ab"
+    "revision": "ee23faa26fdd8fca1a9fae5dd1f42f5a"
   },
   {
     "url": "posts/2016/07/05/index.html",
@@ -177,7 +177,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "4a9613374717b3abeda5e3c27c49a98b"
+    "revision": "4ec4c92c765bd38e05b0f88de2666217"
   },
   {
     "url": "posts/2016/07/index.html",
@@ -189,11 +189,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/index.html",
-    "revision": "da22d74e65f16975d815cc0c7ea06043"
+    "revision": "e332f49d597e82d87a265c0f886be20c"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "1b72ea80fc09813f79d2869dc743a848"
+    "revision": "4282919998543bc931199350bf2c934c"
   },
   {
     "url": "posts/2017/01/index.html",
@@ -205,7 +205,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "5c72bb0dc038aea65684d0529223eeca"
+    "revision": "79e97ce3327829d7871f0bd36589463f"
   },
   {
     "url": "posts/2017/03/index.html",
@@ -217,7 +217,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "0a827b8ec7676d3ecf5cf4eabf1e52f0"
+    "revision": "f5ae0dcdffefb8364a07d2165b04c9f3"
   },
   {
     "url": "posts/2017/05/index.html",
@@ -241,11 +241,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/index.html",
-    "revision": "0b986eb241fc6ab1bd443d3c0cb669b1"
+    "revision": "2d134cc5616db070a6bfbe36ff4f36f9"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "690a995f217cb45e78058624005e3563"
+    "revision": "7f965084c7bced4b0a54ce4693846eca"
   },
   {
     "url": "posts/2018/03/04/index.html",
@@ -253,7 +253,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "118681f251903b46b01b7b140581d2eb"
+    "revision": "617c1cb173205deb2c705995db2b3b9d"
   },
   {
     "url": "posts/2018/03/index.html",
@@ -273,7 +273,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/index.html",
-    "revision": "7c2e5573be25980570ac103c79ee8c0f"
+    "revision": "d17a0f4b6111c43070b28e03571ed629"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -345,7 +345,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/GithubActions/index.html",
-    "revision": "8e4b01d7716e933b1d2dadbc38720875"
+    "revision": "7b9e4781fd2dde926f18dcd9208b27af"
   },
   {
     "url": "tags/Google/index.html",
@@ -429,11 +429,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/Ubuntu/index.html",
-    "revision": "10324921af3ea89326c03612e4777faf"
+    "revision": "fcdf32e0e494ff3ecafe8147cf8641df"
   },
   {
     "url": "tags/VPS/index.html",
-    "revision": "2e1476203bf025b2ea53c62ac3646b21"
+    "revision": "ff31f005a09de96810fb5fafc49dd9b4"
   },
   {
     "url": "tags/Vue/index.html",

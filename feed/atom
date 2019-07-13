@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aquariuslt.com</id>
     <title>Aquariuslt Blog</title>
-    <updated>2019-07-13T17:37:37.592Z</updated>
+    <updated>2019-07-13T19:10:25.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aquariuslt.com"/>
     <link rel="self" href="https://blog.aquariuslt.com//feed/atom"/>
@@ -1321,7 +1321,7 @@ Lines        : 100% ( 11/11 )
 <h3 id="pluginsangularjs-batarang">Plugins:AngularJS Batarang</h3>
 <p>利用 Angular 官方开发的 Chrome 插件<code>AngularJS Batarang</code>来监控页面性能.<br>
 <a href="https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk">Angular Batarang</a><br>
-<img src="https://img.alicdn.com/tfscom/TB1OmxkKXXXXXXIXXXXXXXXXXXX.png" alt="运行截图"></p>
+<img src="https://img.aquariuslt.com/posts/2016/04/performance.webp" alt="运行截图"></p>
 <p>通过<code>Angular Batarang</code>,我们可以轻易的统计在页面的<code>watcher</code>数量,<code>$scope</code>中变量的数量. 还有平均一段时间内<code>angular</code>执行<code>$digest</code>的数量.</p>
 <p>对于代码不熟悉的项目前端,查找分析性能瓶颈的时候,可以通过通过该插件进行二分对于,快速定位出瓶颈处. 当然,如果在对 angular 比较熟悉,在开发的过程中也遵循了常见的性能优化约定,该插件的监控作用就不大. 最后还是只能通过其他手段细化性能瓶颈定位粒度.</p>
 <p>经过本人测试,对于大部分使用 Angular 的页面都支持良好.(可惜不支持 CommonJS 打包成的我的主站的分析)</p>
@@ -1329,7 +1329,7 @@ Lines        : 100% ( 11/11 )
 <p>在常见的 CRUD 系统中,我们经常会遇到很多数据展示的区域,但是这些数据一旦渲染好,一般不需要强刷新. 比如页面标题,菜单选项等不需要实时更新的情况.所以这时候可以通过<code>Once Binding</code>,即一次绑定,渲染一次即可,不必监控该表达式.</p>
 <p>之前遇到的情况是,我们的页面 header 会有一个通知栏,展开会通知那些已经显示的列表.<br>
 单条通知样子类似于微博的这种:<br>
-![通知栏(https://img.alicdn.com/tfscom/TB17PpkKXXXXXX8XXXXXXXXXXXX.png) 在没优化之前,通知部分的伪代码如下:</p>
+<img src="https://img.aquariuslt.com/posts/2016/04/notification.webp" alt="通知栏"> 在没优化之前,通知部分的伪代码如下:</p>
 <pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"notification"</span>&gt;</span>
   <span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">ng-repeat</span>=<span class="hljs-string">"notification in vm.displayNotifications"</span>&gt;</span>
@@ -2038,7 +2038,7 @@ $ sbin/start-yarn.sh
 6409 Jps
 </code></pre>
 <p>或者可以通过浏览器访问<a href="https://master:8088">https://master:8088</a> 或者<a href="https://master:50070">https://master:50070</a> 查看 Hadoop 服务状态.</p>
-<p><img src="https://img.alicdn.com/tfscom/TB1vHd.MpXXXXXDXFXXXXXXXXXX.png" alt="Nodes of the cluster"> <img src="https://img.alicdn.com/tfscom/TB16f8YMpXXXXbJXVXXXXXXXXXX.png" alt="Namenode information"></p>
+<p><img src="https://img.aquariuslt.com/2016/04/nodes-of-the-cluster.png" alt="Nodes of the cluster"> <img src="https://img.alicdn.com/tfscom/TB16f8YMpXXXXbJXVXXXXXXXXXX.png" alt="Namenode information"></p>
 <p>P.S.关于<code>jps</code>命令. jps 位于 jdk 的 bin 目录下,其作用是显示当前系统的 java 进程情况,及其 id 号. jps 相当于 linux 进程工具 ps,但是不支持管道命令 grep jps 并不使用应用程序名来查找 JVM 实例.</p>
 <h2 id="trouble-shooting">Trouble Shooting</h2>
 <p>防跌坑指南. 记录了在 Hadoop 环境搭建过程中所遇到的坑</p>
@@ -2422,7 +2422,7 @@ $sidp hdfs namenode -format
 <pre><code class="hljs sh">sudo gedit /etc/hosts   (vi也行)
 </code></pre>
 <p>查找<code>127.0.0.1</code> 在对应的 hostname 后面添加<code>centos-vm</code>,即本机器名</p>
-<p><img src="https://img.alicdn.com/tfscom/TB17d0.LpXXXXXpXpXXXXXXXXXX.png" alt="修改CentOS hosts文件"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/01/update-centos-hosts.png" alt="修改CentOS hosts文件"></p>
 <p>重启即可.</p>
 <p><a href="https://chaos667.tumblr.com/post/20006357466/ora-21561-and-oracle-instant-client-112">Origin Post</a></p>
 ]]></content>
@@ -2727,7 +2727,7 @@ You'll be able to stop and start Redis using the script named
 </code></pre>
 <p>重启电脑
 之后在查看<code>node</code>和<code>npm</code>版本,应该如下图
-<img src="https://img.alicdn.com/tfscom/TB1JHnGKVXXXXaFXVXXXXXXXXXX.png" alt="更新Node.js"></p>
+<img src="https://img.aquariuslt.com/posts/2015/12/update-nodejs.webp" alt="更新Node.js"></p>
 <h2 id="linux下node-oracledb的配置">Linux下Node-OracleDB的配置</h2>
 <p>Linux 下搭建好node-oracledb 也是相当操蛋.
 大概需要做下面几个工作:</p>
@@ -2759,7 +2759,7 @@ export OCI_INC_DIR=/OPT/oracle/instantclient
 export ORACLE_HOME=$OCI_LIB_DIR
 export LD_LIBRARY_PATH=/opt/oracle/instantclient:$LD_LIBRARY_PATH
 </code></pre>
-<p><img src="https://img.alicdn.com/tfscom/TB1PA2SKVXXXXX2XpXXXXXXXXXX.png" alt="添加Oracle Client 相关全局环境变量"></p>
+<p><img src="https://img.aquariuslt.com/posts/2015/12/add-oracle-cli-global-env-var.webp" alt="添加Oracle Client 相关全局环境变量"></p>
 <p>此时执行命令安装 <code>oracledb</code> 大概应该不会出问题了</p>
 <blockquote>
 <p>其实还有个小问题,<code>oracledb</code>得必须是1.3.0 以上的版本..不然爆的错我也无法入手解决</p>
@@ -2795,7 +2795,7 @@ export PATH=$PATH:$JAVA_HOME/bin
 <p>保存后,查看java版本</p>
 <pre><code>$java -version
 </code></pre>
-<p><img src="https://img.alicdn.com/tfscom/TB10eYyKVXXXXc8aXXXXXXXXXXX.png" alt="配置JDK路径"></p>
+<p><img src="https://img.aquariuslt.com/posts/2015/12/config-jdk-path.webp" alt="配置JDK路径"></p>
 <h3 id="配置idea在ubuntu中的启动图标">配置Idea在Ubuntu中的启动图标</h3>
 <p>默认情况下,通过Idea目录下的<code>/bin/idea.sh</code>即可启动IdeaUI
 但是为了能够显示Ubuntu的docker里面(左边那条任务栏,不知道叫什么东西,叫docker吧)</p>
@@ -2813,7 +2813,7 @@ Exec=/home/dev/Applications/IntellijIdea15/bin/idea.sh
 Terminal=false
 Categories=Development;IDE;Java;
 </code></pre>
-<p><img src="https://img.alicdn.com/tfscom/TB100DBKVXXXXbCaXXXXXXXXXXX.png" alt="添加Ubuntu Applications启动图标"></p>
+<p><img src="https://img.aquariuslt.com/posts/2015/12/add-app-launch-icon.webp" alt="添加Ubuntu Applications启动图标"></p>
 <h3 id="idea在ubuntu下一些特殊的配置">Idea在Ubuntu下一些特殊的配置</h3>
 <blockquote>
 <p>虽然都是类Unix系统,Idea跟Mac在一些读取环境变量时候的做法不大一样.
@@ -2824,7 +2824,7 @@ Liux下在<code>run configuration</code>里面添加新的<code>Node.js</code>�
 </blockquote>
 <p>在<code>Run Configurations</code>-&gt;<code>Environment Variables</code>-&gt;<code>Include Parents Variables</code>-&gt;<code>Show</code> 查看所有环境变量.
 如果没有,烦请自己加上,为求能达到与Terminal运行同样的结果.</p>
-<p><img src="https://img.alicdn.com/tfscom/TB1ik2EKVXXXXaxaXXXXXXXXXXX.png" alt="查看Run Configurations全局变量"></p>
+<p><img src="https://img.aquariuslt.com/posts/2015/12/check-run-configuration.webp" alt="查看Run Configurations全局变量"></p>
 ]]></content>
     </entry>
     <entry>
@@ -2852,13 +2852,13 @@ IBM的 <a href="https://www.ibm.com/developerworks/cn/java/j-lo-profiling/">常�
 <blockquote>
 <p>由于JProfiler 本身也是通过javaagent的方法更改一些类加载运行时策略,所以会跟Jrebel冲突.
 所以在使用JProfiler监控性能的时候,如果之前在weblogic服务器运行配置的过程中添加了jrebel.jar 作为javaagent的参数,务必删掉
-其余配置 与之前的<a href="https://blog.aquariuslt.com/2015/10/08/jrebel-configuration-with-weblogic-in-idea/">Jrebel插件结合weblogic</a>一样</p>
+其余配置 与之前的<a href="https://blog.aquariuslt.com/posts/2015/10/08/jrebel-configuration-with-weblogic-in-idea/">Jrebel插件结合weblogic</a>一样</p>
 </blockquote>
 <h4 id="通过jprofiler-分析方法执行时间">通过JProfiler 分析方法执行时间</h4>
 <p>通过JProfiler插件启动weblogic服务器实例之后,JProfiler的GUI界面将会启动,并成功监听到对应的实例进程.
 实例成功启动之后,下面会有一个CPU Time的标签页,选中并点击<code>record</code>.
-触发任意次目标方法,即可看到所有方法的执行时间
-<img src="https://img.alicdn.com/tfscom/TB1Q_QmKpXXXXaAXpXXXXXXXXXX.png" alt="方法执行时间"></p>
+触发任意次目标方法,即可看到所有方法的执行时间</p>
+<p><img src="https://img.aquariuslt.com/posts/2015/11/method-executing-time.webp" alt="方法执行时间"></p>
 <h3 id="正文性能优化部分">正文:性能优化部分</h3>
 <p>言归正传,在看到性能分析记录的时候,一个叫做
 <code>ReflectionUtil.convertObjectWithSameFields()</code>

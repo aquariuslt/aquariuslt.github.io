@@ -3,7 +3,7 @@
     "title": "Aquariuslt Blog",
     "home_page_url": "https://blog.aquariuslt.com",
     "feed_url": "https://blog.aquariuslt.com//feed/json",
-    "description": "Personal Blog",
+    "description": "Personal Blog | Coder | WoWer | On the way.",
     "items": [
         {
             "id": "https://blog.aquariuslt.com/posts/2019/07/07/github-actions-overview-and-practice",

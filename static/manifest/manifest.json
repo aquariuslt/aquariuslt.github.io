@@ -41,7 +41,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "Personal Blog",
-  "theme_color": "#fafafa",
-  "background_color": "#fafafa"
+  "description": "Personal Blog | Coder | WoWer | On the way.",
+  "theme_color": "#FAFAFA",
+  "background_color": "#FAFAFA"
 }

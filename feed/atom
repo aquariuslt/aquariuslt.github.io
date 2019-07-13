@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aquariuslt.com</id>
     <title>Aquariuslt Blog</title>
-    <updated>2019-07-13T09:51:59.538Z</updated>
+    <updated>2019-07-13T10:28:33.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aquariuslt.com"/>
     <link rel="self" href="https://blog.aquariuslt.com//feed/atom"/>
@@ -975,7 +975,6 @@ Lines        : 100% ( 11/11 )
         <updated>2018-03-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[结合最近学到的一些知识，了解的一些规范，和实践过的一些新姿势，重构了 Blog 的整个应用。目前 Vue Branch 版本从`4.0.0-beta` 到了`4.0.1` ，算是可以标记 releas]]></summary>
         <content type="html"><![CDATA[<h1 id="latest-update-on-blog-app">Latest Update on Blog App</h1>
-<h1 id="latest-update-on-blog-app-2">Latest Update on Blog App</h1>
 <p>结合最近学到的一些知识，了解的一些规范，和实践过的一些新姿势，重构了 Blog 的整个应用。目前 Vue Branch 版本从<code>4.0.0-beta</code> 到了<code>4.0.1</code> ，算是可以标记 release 的一个版本了。</p>
 <p><a href="https://github.com/aquariuslt/blog">项目地址</a>不变。(除了最近更新过一次 Github account 的 url，开头从大写变成小写，对其他第三方服务迁移的时候有点麻烦)。</p>
 <h2 id="refactor-background">Refactor Background</h2>

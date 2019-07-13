@@ -4,7 +4,7 @@
         <title>Aquariuslt Blog</title>
         <link>https://blog.aquariuslt.com</link>
         <description>Personal Blog | Coder | WoWer | On the way.</description>
-        <lastBuildDate>Sat, 13 Jul 2019 09:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2019 10:28:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
@@ -980,7 +980,6 @@ Lines        : 100% ( 11/11 )
             <pubDate>Sat, 03 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[结合最近学到的一些知识，了解的一些规范，和实践过的一些新姿势，重构了 Blog 的整个应用。目前 Vue Branch 版本从`4.0.0-beta` 到了`4.0.1` ，算是可以标记 releas]]></description>
             <content:encoded><![CDATA[<h1 id="latest-update-on-blog-app">Latest Update on Blog App</h1>
-<h1 id="latest-update-on-blog-app-2">Latest Update on Blog App</h1>
 <p>结合最近学到的一些知识，了解的一些规范，和实践过的一些新姿势，重构了 Blog 的整个应用。目前 Vue Branch 版本从<code>4.0.0-beta</code> 到了<code>4.0.1</code> ，算是可以标记 release 的一个版本了。</p>
 <p><a href="https://github.com/aquariuslt/blog">项目地址</a>不变。(除了最近更新过一次 Github account 的 url，开头从大写变成小写，对其他第三方服务迁移的时候有点麻烦)。</p>
 <h2 id="refactor-background">Refactor Background</h2>

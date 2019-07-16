@@ -48,6 +48,10 @@ self.__precacheManifest = [
     "revision": "989690a42de2ffba8c00beb1000159c7"
   },
   {
+    "url": "api/v1/pages/about.json",
+    "revision": "f1cdb0dfcee2cd7e844da4c9a2a76910"
+  },
+  {
     "url": "api/v1/posts.json",
     "revision": "4e3fca1371601d297ca12ab7168b739a"
   },
@@ -436,28 +440,24 @@ self.__precacheManifest = [
     "revision": "230cd1154ff04477be83359b4da7d252"
   },
   {
-    "url": "pages/about.json",
-    "revision": "f1cdb0dfcee2cd7e844da4c9a2a76910"
-  },
-  {
     "url": "routes.json",
     "revision": "a9ad0d5e826970f361aaafac65f472c9"
   },
   {
-    "url": "static/css/main.20231b7cf5eddc52524e.css",
+    "url": "static/css/main.197c26ed891bde788193.css",
     "revision": "8efad7d7060b7162cc3ebdb94f967318"
   },
   {
-    "url": "static/css/vendors.8470e25a2bf3d37afc6e.css",
+    "url": "static/css/vendors.6932227f2fa22a845673.css",
     "revision": "8ceacd6286906a667c21221c5bd64a42"
   },
   {
-    "url": "static/js/main.20231b7cf5eddc52524e.js",
-    "revision": "995772b8b2bf8e3500511aa5d1bc8523"
+    "url": "static/js/main.197c26ed891bde788193.js",
+    "revision": "989e2b8ae9e4d40f17bc491c8fead446"
   },
   {
-    "url": "static/js/vendors.8470e25a2bf3d37afc6e.js",
-    "revision": "df3def70dd42a6874f986a2449eb2eeb"
+    "url": "static/js/vendors.6932227f2fa22a845673.js",
+    "revision": "44314364b4ee4dead44002743f94d9d7"
   },
   {
     "url": "static/manifest/manifest.json",

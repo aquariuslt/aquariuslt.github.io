@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "2a2c7bf74a476ddb10d275a2f899925f"
+    "revision": "c5ec6a77f698a4aadd6343690a265bea"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -37,11 +37,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Note.json",
-    "revision": "6e642ba03a1f155266eeed52fc92e0a4"
+    "revision": "cd3980922889bc1f1121257737aa6185"
   },
   {
     "url": "api/v1/categories/Others.json",
-    "revision": "0c151cf9ec2062e2fcc3e60c26abd785"
+    "revision": "88bd30c3e0e7f6774579f0f7f1376c6c"
   },
   {
     "url": "api/v1/pages.json",
@@ -53,7 +53,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "4e3fca1371601d297ca12ab7168b739a"
+    "revision": "4a7f84746fd044b24133068e99155367"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -113,19 +113,19 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2016.json",
-    "revision": "6bc5cea662915914f74a983076b63e86"
+    "revision": "f7e2724b9b9066f5cfd14f2ce6cf1da2"
   },
   {
     "url": "api/v1/posts/2016/01.json",
-    "revision": "d18a0de430d112dec41f8daed433ff7b"
+    "revision": "fe854b8ebae387ac263edf7f7faab3c6"
   },
   {
     "url": "api/v1/posts/2016/01/01.json",
-    "revision": "aab2ff90b75c5b77fb2f0e81a8612c8e"
+    "revision": "fbc9833fa00e7850c57ca2d627262bec"
   },
   {
     "url": "api/v1/posts/2016/01/01/review-2015.json",
-    "revision": "7632fab9f9051aa0ffc8b9ca5a2ab5a2"
+    "revision": "086a32441b5f2c456d79ed5a89acce6f"
   },
   {
     "url": "api/v1/posts/2016/01/11.json",
@@ -145,27 +145,27 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2016/03.json",
-    "revision": "d90278a4aae189c6a6f53939466d13ff"
+    "revision": "e7c81f59e98f8341a19a736e2eedaffa"
   },
   {
     "url": "api/v1/posts/2016/03/06.json",
-    "revision": "d90278a4aae189c6a6f53939466d13ff"
+    "revision": "e7c81f59e98f8341a19a736e2eedaffa"
   },
   {
     "url": "api/v1/posts/2016/03/06/site-code-structure.json",
-    "revision": "5a3e26d92e29dd4ed7cfca8a42c2a5dd"
+    "revision": "17730bcda37f8220ee24853561a81e1c"
   },
   {
     "url": "api/v1/posts/2016/04.json",
-    "revision": "f10bf1d1a7b19f4a325f1057a479219b"
+    "revision": "a6a8e1ba8382a43b43298303d672bf27"
   },
   {
     "url": "api/v1/posts/2016/04/09.json",
-    "revision": "39b6f5e64f4531e9f0a9c03b6678b06d"
+    "revision": "1bae3a42dbde7a8d9984cf32924f43da"
   },
   {
     "url": "api/v1/posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide.json",
-    "revision": "275f088ae69f53db4e27127bc84402d9"
+    "revision": "7e2ff968e6711e85d1522711aa6db8bd"
   },
   {
     "url": "api/v1/posts/2016/04/10.json",
@@ -185,43 +185,43 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2016/07.json",
-    "revision": "1de20778e7c7b40ec52ce1090eba340a"
+    "revision": "c520967b7a9b21d66760753237ac7efe"
   },
   {
     "url": "api/v1/posts/2016/07/05.json",
-    "revision": "1de20778e7c7b40ec52ce1090eba340a"
+    "revision": "c520967b7a9b21d66760753237ac7efe"
   },
   {
     "url": "api/v1/posts/2016/07/05/move-to-new-apartment.json",
-    "revision": "6a2e643312e5d41dc42295d04312181d"
+    "revision": "c1b752fc8c901576144020b4c8a630e2"
   },
   {
     "url": "api/v1/posts/2017.json",
-    "revision": "a9c26c6cf6645af3e5772c343013e9be"
+    "revision": "1c2644b8ec6290d5be5733a065b942f8"
   },
   {
     "url": "api/v1/posts/2017/01.json",
-    "revision": "e7deefa1c472e2191c021723aa4e90ce"
+    "revision": "1fc79166ee68caea6b68afd869984556"
   },
   {
     "url": "api/v1/posts/2017/01/01.json",
-    "revision": "e7deefa1c472e2191c021723aa4e90ce"
+    "revision": "1fc79166ee68caea6b68afd869984556"
   },
   {
     "url": "api/v1/posts/2017/01/01/review-2016.json",
-    "revision": "c307f1634d7fc14eb3a91a6c5884eebb"
+    "revision": "b6d1dea5bb5a01dbd8c3897a024ad2b4"
   },
   {
     "url": "api/v1/posts/2017/03.json",
-    "revision": "c8874a895dbc6422ce2593db7b870947"
+    "revision": "6edb84638a1cc05eae0f8802961ef696"
   },
   {
     "url": "api/v1/posts/2017/03/12.json",
-    "revision": "c8874a895dbc6422ce2593db7b870947"
+    "revision": "6edb84638a1cc05eae0f8802961ef696"
   },
   {
     "url": "api/v1/posts/2017/03/12/new-version-blog-migration.json",
-    "revision": "1bcba110972814c50b77eb64174acad3"
+    "revision": "fb1ac5e0e34275c6aded1141a25fa987"
   },
   {
     "url": "api/v1/posts/2017/05.json",
@@ -309,7 +309,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Angular.json",
-    "revision": "f3132d93d2b22ab1c288fc383260da51"
+    "revision": "4d8700d9c2818eb5205955d729b45ed8"
   },
   {
     "url": "api/v1/tags/AngularJS.json",
@@ -321,7 +321,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Blog.json",
-    "revision": "5a496d453f3b15396e1009068c15be7b"
+    "revision": "250d08fbbdcf7a104a3369a9014c99df"
   },
   {
     "url": "api/v1/tags/CI.json",
@@ -329,7 +329,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Diary.json",
-    "revision": "f51307f31419e33ebb3a842ed1ddfcf4"
+    "revision": "6636029fab0da71ed7eca323d8f762e0"
   },
   {
     "url": "api/v1/tags/Docker.json",
@@ -353,7 +353,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Hadoop.json",
-    "revision": "39b6f5e64f4531e9f0a9c03b6678b06d"
+    "revision": "1bae3a42dbde7a8d9984cf32924f43da"
   },
   {
     "url": "api/v1/tags/IntelliJ IDEA.json",
@@ -365,7 +365,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/JavaScript.json",
-    "revision": "025cdd8842e6f3e3bc77559bc65967a3"
+    "revision": "6c996bf8a8df006c4e88b8d63094f2c2"
   },
   {
     "url": "api/v1/tags/JAWR.json",
@@ -381,11 +381,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Linux.json",
-    "revision": "25183e0b5d80d3734f732c49ba41a7e8"
+    "revision": "fba4a50d389b2c3ebddf08c666283748"
   },
   {
     "url": "api/v1/tags/Node.json",
-    "revision": "6ad03a5de9edbde923d8710f1bea5e3c"
+    "revision": "b1aa39fd4ddf2ac29d960dfcb06c3bb6"
   },
   {
     "url": "api/v1/tags/NPM.json",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aquariuslt.com</id>
     <title>Aquariuslt Blog</title>
-    <updated>2019-07-17T18:42:32.689Z</updated>
+    <updated>2019-07-18T18:47:06.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aquariuslt.com"/>
     <link rel="self" href="https://blog.aquariuslt.com//feed/atom"/>
@@ -1157,13 +1157,13 @@ Lines        : 100% ( 11/11 )
 <li>支持渐进式网页应用 <a href="https://developers.google.com/web/progressive-web-apps/">Progressive Web Apps</a>. 通过现代的移动浏览器,已经可以添加一个离线的快捷方式查看.</li>
 </ol>
 <p>通过 Chrome 浏览的时候提示可以添加到桌面</p>
-<p><img src="https://ooo.0o0.ooo/2017/03/13/58c5750dd1641.png" alt="通过Chrome浏览的时候提示可以添加到桌面"></p>
+<p><img src="https://img.aquariuslt.com/posts/2017/03/13/add-shortcut.png" alt="通过Chrome浏览的时候提示可以添加到桌面"></p>
 <p>桌面版本也可以可以添加快捷方式,像桌面版本的 Google Keep 一样</p>
-<p><img src="https://ooo.0o0.ooo/2017/03/13/58c576a266e6f.png" alt="桌面版本快捷方式"></p>
+<p><img src="https://img.aquariuslt.com/posts/2017/03/13/desktop-version-shortcut.png" alt="桌面版本快捷方式"></p>
 <p>添加成功后桌面会有一个快捷方式</p>
-<p><img src="https://ooo.0o0.ooo/2017/03/13/58c57510236a3.png" alt="添加成功后桌面会有一个快捷方式"></p>
+<p><img src="https://img.aquariuslt.com/posts/2017/03/13/shortcut.png" alt="添加成功后桌面会有一个快捷方式"></p>
 <p>打开快捷方式会有一个自定义的启动动画</p>
-<p><img src="https://ooo.0o0.ooo/2017/03/13/58c5750dc2499.png" alt="打开快捷方式会有一个默认的启动动画"></p>
+<p><img src="https://img.aquariuslt.com/posts/2017/03/13/launching.png" alt="打开快捷方式会有一个默认的启动动画"></p>
 <pre><code>颜色,图表可通过PWA提供的manifest.webapp来配置
 </code></pre>
 <p>此外,还有如下变化:</p>
@@ -1217,7 +1217,7 @@ Lines        : 100% ( 11/11 )
 <p>结果就变成这样了...</p>
 <p>老黄坑了一把,说好的新架构 Mac WebDriver 呢?</p>
 <p>我一直在等待 WebDriver 的出现带动黑苹果</p>
-<p><img src="https://wx2.sinaimg.cn/large/7755dd69gy1fceizh66juj215u16m79s.jpg" alt="6700K+32G+GTX1070"></p>
+<p><img src="https://img.aquariuslt.com/posts/2017/01/hardware-info.jpg" alt="6700K+32G+GTX1070"></p>
 <h2 id="google-pixel">Google Pixel</h2>
 <p>新一代亲儿子,贵的出汁.</p>
 <p>除了三星 P 拍 AMOLED 屏 比 Nexus5 的 IPS 观感要差之外,其他完美.</p>
@@ -1246,21 +1246,21 @@ Lines        : 100% ( 11/11 )
 <p>从提交申请,审核,到正式通知抽签选房,签合同入住大概经历了快三个月.<br>
 三月初提交的申请,劳动节之后终于通知下来去抽签.</p>
 <p>一层的户型图大概如下图: 从结构上分,个人申请只能申请一房一厅或者单身公寓了.<br>
-<img src="https://ww3.sinaimg.cn/large/006tNbRwgw1f5nswirc5fj30zk0my42b.jpg" alt="IMG_0916.JPG"> 抽到了个 08 户型,一房一厅,实用面积才 30 多.</p>
+<img src="https://img.aquariuslt.com/posts/2016/07/room-architecture.jpg" alt="IMG_0916.JPG"> 抽到了个 08 户型,一房一厅,实用面积才 30 多.</p>
 <h2 id="布置">布置</h2>
 <h3 id="空无一物的房间">空无一物的房间</h3>
 <p>签完合同刚拿到房子的时候,房间里面除了空调和稍微有点像样的厨房灶台之后,其他空无一物,显得比较空洞.<br>
 大概是这样子的:</p>
 <h4 id="空洞的过道">空洞的过道</h4>
-<p><img src="https://ww2.sinaimg.cn/large/006tNbRwgw1f5ntaislpcj31kw23u1i4.jpg" alt="空洞的过道"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/passing-route.jpg" alt="空洞的过道"></p>
 <h4 id="空洞的客厅">空洞的客厅</h4>
-<p><img src="https://ww3.sinaimg.cn/large/006tNbRwgw1f5ntaknst1j31kw23ue5u.jpg" alt="空洞的客厅"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/meeting-room.jpg" alt="空洞的客厅"></p>
 <h4 id="空洞的睡房">空洞的睡房</h4>
-<p><img src="https://ww2.sinaimg.cn/large/006tNbRwgw1f5ntanbwkbj31kw23ue7y.jpg" alt="空洞的睡房"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/bedroom.jpg" alt="空洞的睡房"></p>
 <h4 id="空洞的厨房">空洞的厨房</h4>
-<p><img src="https://ww1.sinaimg.cn/large/006tNbRwgw1f5ntadsxnvj31kw23ux4c.jpg" alt="空洞的厨房"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/kitchen.jpg" alt="空洞的厨房"></p>
 <h4 id="空洞的阳台">空洞的阳台</h4>
-<p><img src="https://ww3.sinaimg.cn/large/006tNbRwgw1f5ntaqatgsj31kw23ub29.jpg" alt="空洞的阳台"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/sunroom.jpg" alt="空洞的阳台"></p>
 <h3 id="购置刚需家具">购置刚需家具</h3>
 <p>距离之前租的房子大概还有半个月到期,购置刚需家具就成了午休时间的任务.<br>
 由于我已经有一张黑胡桃色的电脑桌,所以整体的家具都选用棕色/黑胡桃色吧.<br>
@@ -1277,24 +1277,24 @@ Lines        : 100% ( 11/11 )
 <p>五月下旬住进去之后一直没有买书柜和室内的晾衣架,直到前几天才送到,感觉现在就差个舒适的床垫就完美了~</p>
 <p>下面是上图时间:</p>
 <h4 id="大门过道就加了一个垫子">大门过道就加了一个垫子</h4>
-<p><img src="https://ww2.sinaimg.cn/large/006tNbRwgw1f5nze6dxhqj31kw23u7rf.jpg" alt="21:37:44.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/passing-route-updated.jpg" alt="21:37:44.jpg"></p>
 <h4 id="只有骨架的电脑桌">只有骨架的电脑桌</h4>
-<p><img src="https://ww2.sinaimg.cn/large/006tNbRwgw1f5nzfqeev8j31kw2t4hdt.jpg" alt="21:39:14.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/desktop.jpg.jpg" alt="21:39:14.jpg"></p>
 <h4 id="上百螺丝还要反过来装">上百螺丝还要反过来装</h4>
-<p><img src="https://ww2.sinaimg.cn/large/006tNbRwgw1f5nzstrui8j31kw23unoc.jpg" alt="21:51:48.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/desktop-installation.jpg" alt="21:51:48.jpg"></p>
 <h4 id="安装完毕-配上西昊-m18-p2415q2414h-强-无敌">安装完毕 配上西昊 M18 P2415Q+2414H 强 无敌</h4>
-<p><img src="https://ww4.sinaimg.cn/large/006tNbRwgw1f5nzxwv747j31kw16ok78.jpg" alt="21:56:42.jpg"></p>
+<p><img src="https://ww4.sinaimg.cn/large/p2415q-m18.jpg" alt="21:56:42.jpg"></p>
 <h4 id="原来的电脑桌变成了饭桌">原来的电脑桌变成了饭桌</h4>
-<p><img src="https://ww2.sinaimg.cn/large/006tNbRwgw1f5nzymbcpmj31kw16onej.jpg" alt="21:57:22.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/depracted-desktop.jpg" alt="21:57:22.jpg"></p>
 <h4 id="室内衣架和一个杂物柜">室内衣架和一个杂物柜</h4>
-<p><img src="https://ww3.sinaimg.cn/large/006tNbRwgw1f5nz6fvo2vj31kw23ue5w.jpg" alt="21:30:18.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/clothes.jpg" alt="21:30:18.jpg"></p>
 <h4 id="低到类似榻榻米的床与床头柜">低到类似榻榻米的床与床头柜</h4>
-<p><img src="https://ww2.sinaimg.cn/large/006tNbRwgw1f5nz4wdp7sj31kw16owvj.jpg" alt="21:28:49.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/bed.jpg" alt="21:28:49.jpg"></p>
 <h4 id="楼再高一点就是海景啦">楼再高一点就是海景啦</h4>
-<p><img src="https://ww4.sinaimg.cn/large/006tNbRwgw1f5o02np97tj31kw23unp4.jpg" alt="22:01:15.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/see-sea.jpg" alt="22:01:15.jpg"></p>
 <h2 id="憧憬">憧憬</h2>
-<p>配置齐全 感觉每天晚上专注 <s>学习</s> 的时间变长了. <code>wakatime</code>的 report <img src="https://ww1.sinaimg.cn/large/006tNbRwgw1f5o0br69xbj31kw0kmtc0.jpg" alt="22:10:03.jpg"></p>
-<p><img src="https://ww4.sinaimg.cn/large/006tNbRwgw1f5o0lgzik4j30q209adgk.jpg" alt="22:19:24.jpg"></p>
+<p>配置齐全 感觉每天晚上专注 <s>学习</s> 的时间变长了. <code>wakatime</code>的 report <img src="https://img.aquariuslt.com/posts/2016/07/wakatime.jpg" alt="22:10:03.jpg"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/07/wakatime-total.jpg" alt="22:19:24.jpg"></p>
 <p>希望在如此好的环境中,学习和工作效率会变得越来越高~</p>
 ]]></content>
     </entry>
@@ -2038,7 +2038,7 @@ $ sbin/start-yarn.sh
 6409 Jps
 </code></pre>
 <p>或者可以通过浏览器访问<a href="https://master:8088">https://master:8088</a> 或者<a href="https://master:50070">https://master:50070</a> 查看 Hadoop 服务状态.</p>
-<p><img src="https://img.aquariuslt.com/2016/04/nodes-of-the-cluster.png" alt="Nodes of the cluster"> <img src="https://img.alicdn.com/tfscom/TB16f8YMpXXXXbJXVXXXXXXXXXX.png" alt="Namenode information"></p>
+<p><img src="https://img.aquariuslt.com/2016/04/nodes-of-the-cluster.png" alt="Nodes of the cluster"> <img src="https://img.aquariuslt.com/2016/04/data-node-information.png" alt="Namenode information"></p>
 <p>P.S.关于<code>jps</code>命令. jps 位于 jdk 的 bin 目录下,其作用是显示当前系统的 java 进程情况,及其 id 号. jps 相当于 linux 进程工具 ps,但是不支持管道命令 grep jps 并不使用应用程序名来查找 JVM 实例.</p>
 <h2 id="trouble-shooting">Trouble Shooting</h2>
 <p>防跌坑指南. 记录了在 Hadoop 环境搭建过程中所遇到的坑</p>
@@ -2089,9 +2089,7 @@ $sidp hdfs namenode -format
 </ul>
 <h2 id="thought">Thought</h2>
 <p>从 Coding 的角度出发,<code>Node.js</code>作为服务器端语言的优势之一就是不需要编译,直接重启 node 进程即可. 而前端代码呢,在开发的时候,我们希望能够达到所见即所得的方式,即 html+样式的修改能够直接呈现在页面上. 在生产环境的时候,为了加快访问速度,对前端代码进行必要的打包,压缩,混淆等操作.</p>
-<p>作为单页应用的一部分,希望能够进行自动引入所需的 js 文件,不需要手动维护首页 html 里面的</p>
-<pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"after-respondent.md"</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"text/javascript"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
-</code></pre>
+<p>作为单页应用的一部分,希望能够进行自动引入所需的 js 文件,不需要手动维护首页 html 里面的直接饮用</p>
 <p>按照这个想法,理想中的前端开发顺序希望是这样:</p>
 <ul>
 <li>
@@ -2289,7 +2287,7 @@ $sidp hdfs namenode -format
 <h4 id="what-is-gulp">What is Gulp</h4>
 <p><a href="https://gulpjs.com/">Gulp 官方网站</a> Gulp.js 是一个自动化构建工具，开发者可以使用它在项目开发过程中自动执行常见任务。</p>
 <h4 id="how-to-use">How to Use</h4>
-<p>我使用 gulp 来干什么呢? 单从前端运行的过程来说.我使用 Gulp 的 Task 进行下面一个流程. <img src="https://img.alicdn.com/tfscom/TB1DX9QLVXXXXXNaXXXXXXXXXXX.png" alt=""></p>
+<p>我使用 gulp 来干什么呢? 单从前端运行的过程来说.我使用 Gulp 的 Task 进行下面一个流程. <img src="https://img.aquariuslt.com/posts/2016/03/build-flow.png" alt=""></p>
 <h3 id="build-flow">Build Flow</h3>
 <p>为了达到最终的目的:单页应用输出最终的一个页面.</p>
 <pre><code class="hljs html"><span class="hljs-meta">&lt;!DOCTYPE html&gt;</span>
@@ -2474,7 +2472,9 @@ ldd --version
 <p>我是在苹果推出<code>Retina</code>屏幕之后才开始关注<code>Macbook</code>系列的. 源于在大学中对字体的纠结.从<code>Windows</code>令人诟病的字体渲染方案,到使用<code>mactype</code>魔改本机的字体配置, 到最后还是觉得屏幕中展示的效果不够美观.几乎失去了打开 IDE 的想法. 再衍生到与<code>Linux</code>的羁绊,几乎把所有发行吧<code>Linux</code>都装了个遍,原生 UI 都丑哭了,虽然自由度大,环境好可是比<code>Windows</code>还丑. 那就更不能玩了..</p>
 <p>最后还是在大四,省吃俭用终于入手了第一台<code>Retina Macbook Pro 13'inch 2015</code>. 再也没有借口不去写代码了..</p>
 <p>入手 RMBP 之后的那段时间,好像正是 AFK 的那段时间. 真的就没主动打开过 WOW 了.</p>
-<p>正是由于有动力打开 IDE,在下班的时候把陆续毕业设计做完,顺利完成真.毕业设计. <img src="https://img.alicdn.com/tfscom/TB1ahn5LXXXXXa5XpXXXXXXXXXX.jpg" alt="开箱"> <img src="https://img.alicdn.com/tfscom/TB1DQz_LXXXXXcQXXXXXXXXXXXX.jpg" alt="RMBP"></p>
+<p>正是由于有动力打开 IDE,在下班的时候把陆续毕业设计做完,顺利完成真.毕业设计.</p>
+<p><img src="https://img.aquariuslt.com/posts/2016/01/unboxing-macbook.jpg" alt="开箱"></p>
+<p><img src="https://img.aquariuslt.com/posts/2016/01/rmbp.jpg" alt="RMBP"></p>
 <blockquote>
 <p>从此每天都背着电脑上班. 就算没机会拿出来,也感觉是编程灵感的来源. 讲真,我的编程能力有了质的飞跃</p>
 </blockquote>
@@ -2492,15 +2492,23 @@ ldd --version
 <p>加上学校比较弱鸡,大部分的毕业论文都比较辣鸡,就评了个优秀.</p>
 <h3 id="毕业照">毕业照</h3>
 <p>那么快就到了 6 月 27.传说中拍毕业照的日子.</p>
-<p>还是初中的死党过来帮我拍照. <img src="https://img.alicdn.com/tfscom/TB1zIzOLXXXXXcoXVXXXXXXXXXX.jpg" alt="大合照"> <img src="https://img.alicdn.com/tfscom/TB1mjPMLXXXXXcVXVXXXXXXXXXX.jpg" alt="...不敢放了"></p>
+<p>还是初中的死党过来帮我拍照.
+<img src="https://img.aquariuslt.com/posts/2016/01/graduaction.jpg" alt="大合照">
+<img src="https://img.aquariuslt.com/posts/2016/01/graduaction-more.jpg" alt="...不敢放了"></p>
 <h3 id="找房子">找房子</h3>
-<p>公司附近其实是有便宜的城中村的,但是没物管也没保安,财产得不到保证. 于是就找了中大那边的教师公寓,复式,够大,恰好家具也很不 low. <img src="https://img.alicdn.com/tfscom/TB1J827LXXXXXaTXpXXXXXXXXXX.png" alt=""> <img src="https://img.alicdn.com/tfscom/TB1OMYHLXXXXXaUaXXXXXXXXXXX.jpg" alt=""> <img src="https://img.alicdn.com/tfscom/TB1Glb2LXXXXXXgXFXXXXXXXXXX.jpg" alt=""> <img src="https://img.alicdn.com/tfscom/TB1d_YSLXXXXXaeXVXXXXXXXXXX.jpg" alt=""> <img src="https://img.alicdn.com/tfscom/TB11NzJLXXXXXcLXVXXXXXXXXXX.jpg" alt=""></p>
+<p>公司附近其实是有便宜的城中村的,但是没物管也没保安,财产得不到保证. 于是就找了中大那边的教师公寓,复式,够大,恰好家具也很不 low.
+<img src="https://img.aquariuslt.com/posts/2016/01/room-1.png" alt="">
+<img src="https://img.aquariuslt.com/posts/2016/01/room-2.jpg" alt="">
+<img src="https://img.aquariuslt.com/posts/2016/01/room-3.jpg" alt="">
+<img src="https://img.aquariuslt.com/posts/2016/01/room-4.jpg" alt="">
+<img src="https://img.aquariuslt.com/posts/2016/01/room-5.jpg" alt=""></p>
 <p>环境什么都好,就是上网慢还不给拉光纤. 一台 99 块的路由器要供 10+台终端上网,还只有 8M 的总带宽,自然不稳定.</p>
 <h3 id="ita">ITA</h3>
 <p>毕业之后耍了几天. 进入公司之后,是一段时间的入职培训. 他们把这个阶段叫做 ITA(IT Academy)</p>
 <p>正是这段日子,趁机把<code>Clean Code</code>,<code>Head First-Desgin Pattern</code>看完,把实习的时候不明不白的地方,逐条击破. 顺便阅读了下 Spring 的一些源码.</p>
 <p>不得不说<code>Clean Code</code>真的是一本看起来很爽的书. 看的过程中得到了与作者的很多共鸣,也给了科学的代码命名,结构编排方式.一发解决困扰依旧多年的变量,方法命名习惯. 再结合补完设计模式一书之后,以前很多程序结构上的问题也释然了. 能够独当一面 Hold 住项目的程度也大大提升了</p>
-<p>然后在 ITA 也遇到了很多新的小伙伴.来自武大,吉珠,北理珠和中国政法大学的研究生转行的大大. <img src="https://img.alicdn.com/tfscom/TB1yzvKLXXXXXXQaXXXXXXXXXXX.jpg" alt="ITA Team3 小分队"></p>
+<p>然后在 ITA 也遇到了很多新的小伙伴.来自武大,吉珠,北理珠和中国政法大学的研究生转行的大大.</p>
+<p><img src="https://img.aquariuslt.com/posts/2016/01/team-3-ita.jpg" alt="ITA Team3 小分队"></p>
 <h2 id="入手-idea-license">入手 IDEA License</h2>
 <p>自从使用了 Idea 之后,再也没法打开 Eclipse 了. 可是想起在实习的时候,遇到了问题,需要请教大大来帮忙 DEBUG,大大不会用 Eclipse,那我就只好再用 Eclipse 打开一次项目,太麻烦了.</p>
 <h3 id="研究-idea">研究 IDEA</h3>
@@ -2508,7 +2516,7 @@ ldd --version
 <h3 id="推广-idea">推广 IDEA</h3>
 <p>算上毕业之前接触的<code>Android Studio</code>部分,大概有一年半多的 Idea 使用经验,已经能够成为公司内部的 Idea 普法大使. 在我的安利下,目测已经有 16 位同事使用 Idea(包含了 4 位后来又反水回归 Eclipse 的)做 Java/MEAN 开发.</p>
 <p>毕业之前用的是注册机生成的 Idea 序列号. 毕业之后,适逢 Idea 15 版本更新,并且自己也已经有正式收入了. 决定正式购买 Idea License.</p>
-<p>为了加大推广 Idea 的力度,故申请了个微信公众号,定期推送 Idea 相关文章. <img src="https://img.alicdn.com/tfscom/TB1R9DOLXXXXXX5XVXXXXXXXXXX.jpg" alt="IDE Skill微信公众号:codingskills"></p>
+<p>为了加大推广 Idea 的力度,故申请了个微信公众号,定期推送 Idea 相关文章. <img src="https://img.aquariuslt.com/posts/2016/01/wechat-open-account.jpg" alt="IDE Skill微信公众号:codingskills"></p>
 <h2 id="新的圈子">新的圈子</h2>
 <h3 id="新同事">新同事</h3>
 <p>正式进入到工作岗位之后(卧槽这语气怎么感觉这么官腔,好像我不是一个 Programmer 一样),结识到了同部门的新同事和领导. 可能大都是年轻人,所以平时交流起来氛围都比较轻松领导貌似也厅看得起我,有几个 Item 都是关于现有项目的性能优化而不是 CRUD, 最近接手 HK 的 MEAN 相关项目也挺有挑战的,感觉恰好是以前学到的知识底蕴都有的发挥了.能够学以致用,再边做边学,全面提升技术栈强度.</p>

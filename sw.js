@@ -25,11 +25,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "api/v1/categories.json",
-    "revision": "447cee75683cb3eefd5cad154a6b502c"
+    "revision": "ef058b94e9a3b375cf20f89dca95e155"
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "c5ec6a77f698a4aadd6343690a265bea"
+    "revision": "94e756bdd8f2d3b643c163680dca5662"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -53,7 +53,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "4a7f84746fd044b24133068e99155367"
+    "revision": "458c4fe764dcdce872b61e0ea936650b"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -285,11 +285,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2019.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "c7993508384dd0c8590b412574f65302"
   },
   {
     "url": "api/v1/posts/2019/07.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "c7993508384dd0c8590b412574f65302"
   },
   {
     "url": "api/v1/posts/2019/07/07.json",
@@ -300,8 +300,16 @@ self.__precacheManifest = [
     "revision": "17e754285104bc409b45616256983aa9"
   },
   {
+    "url": "api/v1/posts/2019/07/23.json",
+    "revision": "3994ccb003db72d3e9894c75810928f6"
+  },
+  {
+    "url": "api/v1/posts/2019/07/23/travel-in-beijing.json",
+    "revision": "a011bd773e9dd4857e071524ff565fed"
+  },
+  {
     "url": "api/v1/tags.json",
-    "revision": "a6933f1d0f2e17a6ada670b58289a369"
+    "revision": "863573ec6d1c83003c85e7b398c9f4f2"
   },
   {
     "url": "api/v1/tags/Actions.json",
@@ -424,6 +432,10 @@ self.__precacheManifest = [
     "revision": "a33bf5c139c77e480c7cad3a1827d421"
   },
   {
+    "url": "api/v1/tags/Trips.json",
+    "revision": "3994ccb003db72d3e9894c75810928f6"
+  },
+  {
     "url": "api/v1/tags/Ubuntu.json",
     "revision": "33fbea9c2c62764892ae87a67551017f"
   },
@@ -441,7 +453,7 @@ self.__precacheManifest = [
   },
   {
     "url": "routes.json",
-    "revision": "a9ad0d5e826970f361aaafac65f472c9"
+    "revision": "718ee4fe415494fdc1516d6323618dbb"
   },
   {
     "url": "static/css/main.197c26ed891bde788193.css",

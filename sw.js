@@ -456,7 +456,7 @@ self.__precacheManifest = [
     "revision": "718ee4fe415494fdc1516d6323618dbb"
   },
   {
-    "url": "static/css/main.197c26ed891bde788193.css",
+    "url": "static/css/main.76d6c65c8b8b1d596e5d.css",
     "revision": "8efad7d7060b7162cc3ebdb94f967318"
   },
   {
@@ -464,8 +464,8 @@ self.__precacheManifest = [
     "revision": "8ceacd6286906a667c21221c5bd64a42"
   },
   {
-    "url": "static/js/main.197c26ed891bde788193.js",
-    "revision": "989e2b8ae9e4d40f17bc491c8fead446"
+    "url": "static/js/main.76d6c65c8b8b1d596e5d.js",
+    "revision": "974dbd600d8eb16caf8fe12984c9aab4"
   },
   {
     "url": "static/js/vendors.6932227f2fa22a845673.js",

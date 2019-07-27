@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "5d3125c3f7880fee8e3528aec354e147"
+    "revision": "cf0a664ac931976ff8c2a339cf40cde7"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -53,7 +53,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "1d546a6530e75dcef8c9892e1661cfb3"
+    "revision": "ac259aca8eb0b392708250865fd21f05"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -285,11 +285,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2019.json",
-    "revision": "13bcc5704b5f375fc5f1176b97699bf8"
+    "revision": "a5a53f3e4fc35be35cc365482627f818"
   },
   {
     "url": "api/v1/posts/2019/07.json",
-    "revision": "13bcc5704b5f375fc5f1176b97699bf8"
+    "revision": "a5a53f3e4fc35be35cc365482627f818"
   },
   {
     "url": "api/v1/posts/2019/07/07.json",
@@ -301,11 +301,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2019/07/23.json",
-    "revision": "134d0fc17f8b0c30b1309082f7f290fa"
+    "revision": "b10f69bfe7fa6e6b1edf6bddb1d06e97"
   },
   {
     "url": "api/v1/posts/2019/07/23/travel-in-beijing.json",
-    "revision": "de034aab84213b1e840abe7a7b0939f5"
+    "revision": "48cf848f2f55f9cb7e0b96cd5157a112"
   },
   {
     "url": "api/v1/tags.json",
@@ -433,7 +433,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Trips.json",
-    "revision": "134d0fc17f8b0c30b1309082f7f290fa"
+    "revision": "b10f69bfe7fa6e6b1edf6bddb1d06e97"
   },
   {
     "url": "api/v1/tags/Ubuntu.json",

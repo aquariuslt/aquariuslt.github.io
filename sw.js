@@ -456,20 +456,20 @@ self.__precacheManifest = [
     "revision": "718ee4fe415494fdc1516d6323618dbb"
   },
   {
-    "url": "static/css/main.76d6c65c8b8b1d596e5d.css",
+    "url": "static/css/main.5c599fd9e3fd78fa7871.css",
     "revision": "8efad7d7060b7162cc3ebdb94f967318"
   },
   {
-    "url": "static/css/vendors.6932227f2fa22a845673.css",
+    "url": "static/css/vendors.71ca00001278499bd3d6.css",
     "revision": "8ceacd6286906a667c21221c5bd64a42"
   },
   {
-    "url": "static/js/main.76d6c65c8b8b1d596e5d.js",
-    "revision": "974dbd600d8eb16caf8fe12984c9aab4"
+    "url": "static/js/main.5c599fd9e3fd78fa7871.js",
+    "revision": "eb5b1553b1fccb98c3e4705c0b3509e7"
   },
   {
-    "url": "static/js/vendors.6932227f2fa22a845673.js",
-    "revision": "44314364b4ee4dead44002743f94d9d7"
+    "url": "static/js/vendors.71ca00001278499bd3d6.js",
+    "revision": "b7b64ee33b148f031c4fafc44600bf7b"
   },
   {
     "url": "static/manifest/manifest.json",

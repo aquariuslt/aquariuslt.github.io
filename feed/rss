@@ -4,7 +4,7 @@
         <title>Aquariuslt Blog</title>
         <link>https://blog.aquariuslt.com</link>
         <description>Personal Blog | Coder | WoWer | On the way.</description>
-        <lastBuildDate>Sat, 10 Aug 2019 20:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2019 10:04:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
@@ -186,7 +186,7 @@
 <li>shell</li>
 </ul>
 <p><img src="https://img.aquariuslt.com/posts/2019/07/github-official-actions-repo.png" alt=""></p>
-<p>当然也有很多非官方维护的 Actions，可以通过发布到 Github Marketplace 被查找到，也可以把Actions 构建成 <code>docker image</code> + <code>[entrypoints.sh](http://entrypoints.sh)</code> 的形式， 在项目 Workflow 的配置文件中以docker image 路径进行引用。</p>
+<p>当然也有很多非官方维护的 Actions，可以通过发布到 Github Marketplace 被查找到，也可以把Actions 构建成 <code>docker image</code> + <code>entrypoints.sh</code> 的形式， 在项目 Workflow 的配置文件中以docker image 路径进行引用。</p>
 <h3 id="how-configuration-look-like">How configuration look like</h3>
 <p>如果有使用过 Travis-CI, CircleCI, Gitlab-CI 的经验，大概可以想起，对应的 CI 配置文件，大都通过 yml 作为基础语法，来描述整个 CI Pipeline 涉及的几个步骤。</p>
 <p>在 Github Web界面中，对一个Repository 的 Workflow 进行可视化的编辑时，如下图:</p>

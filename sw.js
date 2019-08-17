@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "cf0a664ac931976ff8c2a339cf40cde7"
+    "revision": "85aad370e4d6b3304ed1c71b8500e0f5"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -53,7 +53,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "ac259aca8eb0b392708250865fd21f05"
+    "revision": "d0fed852e4d008d2d26f05db6c28bccf"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -285,19 +285,19 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2019.json",
-    "revision": "a5a53f3e4fc35be35cc365482627f818"
+    "revision": "5fead507a2365c187ae067b6f663f8a2"
   },
   {
     "url": "api/v1/posts/2019/07.json",
-    "revision": "a5a53f3e4fc35be35cc365482627f818"
+    "revision": "5fead507a2365c187ae067b6f663f8a2"
   },
   {
     "url": "api/v1/posts/2019/07/07.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "90e438c4ba21187f6201439de6b3cf25"
   },
   {
     "url": "api/v1/posts/2019/07/07/github-actions-overview-and-practice.json",
-    "revision": "17e754285104bc409b45616256983aa9"
+    "revision": "cf7bd1662dd940f190e9baff49818999"
   },
   {
     "url": "api/v1/posts/2019/07/23.json",
@@ -313,7 +313,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Actions.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "90e438c4ba21187f6201439de6b3cf25"
   },
   {
     "url": "api/v1/tags/Angular.json",
@@ -333,7 +333,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/CI.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "90e438c4ba21187f6201439de6b3cf25"
   },
   {
     "url": "api/v1/tags/Diary.json",
@@ -341,7 +341,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Docker.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "90e438c4ba21187f6201439de6b3cf25"
   },
   {
     "url": "api/v1/tags/ExtJS.json",
@@ -349,7 +349,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Github.json",
-    "revision": "baa393657bdd97ad4c7afde0085c1719"
+    "revision": "441f51570bc0d949e1d66cfb58759e66"
   },
   {
     "url": "api/v1/tags/Google.json",
@@ -397,7 +397,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/NPM.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "90e438c4ba21187f6201439de6b3cf25"
   },
   {
     "url": "api/v1/tags/Oracle.json",
@@ -429,7 +429,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/TravisCI.json",
-    "revision": "a33bf5c139c77e480c7cad3a1827d421"
+    "revision": "90e438c4ba21187f6201439de6b3cf25"
   },
   {
     "url": "api/v1/tags/Trips.json",
@@ -456,20 +456,20 @@ self.__precacheManifest = [
     "revision": "718ee4fe415494fdc1516d6323618dbb"
   },
   {
-    "url": "static/css/main.be17d49f5963d88e642a.css",
-    "revision": "8efad7d7060b7162cc3ebdb94f967318"
+    "url": "static/css/main.cbbafdd3e2f0902d6a7c.css",
+    "revision": "660c3d5fe10ded0d5b42febe95ec8170"
   },
   {
-    "url": "static/css/vendors.e1722bf03242643b3a5c.css",
+    "url": "static/css/vendors.33e73ce062a6ccbfafcc.css",
     "revision": "8ceacd6286906a667c21221c5bd64a42"
   },
   {
-    "url": "static/js/main.be17d49f5963d88e642a.js",
-    "revision": "ab7d16aacd60f84ee6965bda5ddb652a"
+    "url": "static/js/main.cbbafdd3e2f0902d6a7c.js",
+    "revision": "e15d3be6ca9fbc8ded03aac2a4fabc4a"
   },
   {
-    "url": "static/js/vendors.e1722bf03242643b3a5c.js",
-    "revision": "5e08033eb935f912272b7ee498fbb4a5"
+    "url": "static/js/vendors.33e73ce062a6ccbfafcc.js",
+    "revision": "3bc287ddfe3f5238ec42cdedc82fc43f"
   },
   {
     "url": "static/manifest/manifest.json",

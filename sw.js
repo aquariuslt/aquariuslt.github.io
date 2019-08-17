@@ -45,11 +45,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/pages.json",
-    "revision": "a255665bdc1051b45d07f1a3fd8534a3"
+    "revision": "20222472e81aa6d4089733ec62a2db65"
   },
   {
     "url": "api/v1/pages/about.json",
-    "revision": "1bc13cfaa464ac140d38e25b54d6aac0"
+    "revision": "c288e85e6773b47ce8c4b9c6a7661716"
   },
   {
     "url": "api/v1/posts.json",

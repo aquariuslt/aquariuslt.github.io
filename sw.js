@@ -456,7 +456,7 @@ self.__precacheManifest = [
     "revision": "718ee4fe415494fdc1516d6323618dbb"
   },
   {
-    "url": "static/css/main.cbbafdd3e2f0902d6a7c.css",
+    "url": "static/css/main.3d718f7740c1fbddb2f5.css",
     "revision": "660c3d5fe10ded0d5b42febe95ec8170"
   },
   {
@@ -464,20 +464,200 @@ self.__precacheManifest = [
     "revision": "8ceacd6286906a667c21221c5bd64a42"
   },
   {
-    "url": "static/js/main.cbbafdd3e2f0902d6a7c.js",
-    "revision": "e15d3be6ca9fbc8ded03aac2a4fabc4a"
+    "url": "static/img/manifest.json",
+    "revision": "e87161a690dc254033cdfc4bfa159c2c"
+  },
+  {
+    "url": "static/img/yandex-browser-manifest.json",
+    "revision": "8644fb595f991c2bc5b2e45892e653b2"
+  },
+  {
+    "url": "static/js/main.3d718f7740c1fbddb2f5.js",
+    "revision": "7e22c3a2bcfcb600d9db08d2a7e40106"
   },
   {
     "url": "static/js/vendors.33e73ce062a6ccbfafcc.js",
     "revision": "3bc287ddfe3f5238ec42cdedc82fc43f"
   },
   {
-    "url": "static/manifest/manifest.json",
-    "revision": "c3eb252dfbcdaa0c4104ead9247e092e"
+    "url": "static/img/android-chrome-144x144.png",
+    "revision": "a741b7d9d9331e5fb6ab9bfd9e15c2fc"
+  },
+  {
+    "url": "static/img/android-chrome-192x192.png",
+    "revision": "2b8032df05a293b019626775f9102acf"
+  },
+  {
+    "url": "static/img/android-chrome-256x256.png",
+    "revision": "b6050a0c6c1abb3e7d4871f0c9220b17"
+  },
+  {
+    "url": "static/img/android-chrome-36x36.png",
+    "revision": "e27d1150bd95835eaa351b1269081019"
+  },
+  {
+    "url": "static/img/android-chrome-384x384.png",
+    "revision": "e5f26481df55f87fc6ded13c7e8d20df"
+  },
+  {
+    "url": "static/img/android-chrome-48x48.png",
+    "revision": "9b0222185af4779c85bb2e5284339cac"
+  },
+  {
+    "url": "static/img/android-chrome-512x512.png",
+    "revision": "05110ea664950767409bdb28f4ea79cf"
+  },
+  {
+    "url": "static/img/android-chrome-72x72.png",
+    "revision": "0441524c2cd7e9fd75a4665b2f7db3d0"
+  },
+  {
+    "url": "static/img/android-chrome-96x96.png",
+    "revision": "70200d22d8e6972bfefccada4080ab56"
+  },
+  {
+    "url": "static/img/apple-touch-icon-1024x1024.png",
+    "revision": "91df8cd8c16053bcf628930731a7ff64"
+  },
+  {
+    "url": "static/img/apple-touch-icon-114x114.png",
+    "revision": "9c7634cd0b5996e0d53faac6dca36071"
+  },
+  {
+    "url": "static/img/apple-touch-icon-120x120.png",
+    "revision": "4938b2ade9f0ec2837593237aaebb630"
+  },
+  {
+    "url": "static/img/apple-touch-icon-144x144.png",
+    "revision": "404db2140bd1908124be5b7161735f15"
+  },
+  {
+    "url": "static/img/apple-touch-icon-152x152.png",
+    "revision": "9cd493433095213d6484bcb9ad98630b"
+  },
+  {
+    "url": "static/img/apple-touch-icon-167x167.png",
+    "revision": "fc3d7d98a99337d8a685c0004b2b5ad4"
+  },
+  {
+    "url": "static/img/apple-touch-icon-180x180.png",
+    "revision": "95be3b5e6f3e2edc53fab70f7a013f07"
+  },
+  {
+    "url": "static/img/apple-touch-icon-57x57.png",
+    "revision": "159ff560d2d613449409d0b359aae649"
+  },
+  {
+    "url": "static/img/apple-touch-icon-60x60.png",
+    "revision": "b301d5b2728e91619ce0b848af3b235d"
+  },
+  {
+    "url": "static/img/apple-touch-icon-72x72.png",
+    "revision": "b36bd27ab72c8dfe56be5ecf79152873"
+  },
+  {
+    "url": "static/img/apple-touch-icon-76x76.png",
+    "revision": "99a3ab785065ea53bdb19ee1ca466424"
+  },
+  {
+    "url": "static/img/apple-touch-icon-precomposed.png",
+    "revision": "95be3b5e6f3e2edc53fab70f7a013f07"
+  },
+  {
+    "url": "static/img/apple-touch-icon.png",
+    "revision": "95be3b5e6f3e2edc53fab70f7a013f07"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-1182x2208.png",
+    "revision": "ee78fb1ccf1b7722b24d628dd6bb03d5"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-1242x2148.png",
+    "revision": "843771002fe6e4156908974fd5940c16"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-1496x2048.png",
+    "revision": "0b1e7701d6d0e535c7154a540374349a"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-1536x2008.png",
+    "revision": "11b810a3afe75560573b22d6423cf99c"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-320x460.png",
+    "revision": "9a2776a4d74fe24efdb3ca1c05d83af4"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-640x1096.png",
+    "revision": "9977ee6d28ec5a2fe78c47ecc3473f21"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-640x920.png",
+    "revision": "8adbf61fe028a959014fc7add5f41567"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-748x1024.png",
+    "revision": "bc62d785652db4745ea4c9b0a0d38ebc"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-750x1294.png",
+    "revision": "23211cc91b6f4d9f75f23a3aa4a42da1"
+  },
+  {
+    "url": "static/img/apple-touch-startup-image-768x1004.png",
+    "revision": "b4b5d4ecf9ca53b252356839798b6683"
+  },
+  {
+    "url": "static/img/coast-228x228.png",
+    "revision": "1fed520e9ea5ee84ff2f63fff137c757"
+  },
+  {
+    "url": "static/img/favicon-16x16.png",
+    "revision": "636d03ba1f238c93219aedd4175ce374"
+  },
+  {
+    "url": "static/img/favicon-32x32.png",
+    "revision": "05abdd389cc6fbfcb5985395afcf35e8"
+  },
+  {
+    "url": "static/img/firefox_app_128x128.png",
+    "revision": "dee314639062b231dac2f0b286172427"
+  },
+  {
+    "url": "static/img/firefox_app_512x512.png",
+    "revision": "f84a6e6d2cd4cc5063ae6424beddc7be"
+  },
+  {
+    "url": "static/img/firefox_app_60x60.png",
+    "revision": "7ece99e50a2e60a4d9333a8e6a7ade17"
+  },
+  {
+    "url": "static/img/mstile-144x144.png",
+    "revision": "a741b7d9d9331e5fb6ab9bfd9e15c2fc"
+  },
+  {
+    "url": "static/img/mstile-150x150.png",
+    "revision": "4fe58f866a9582176aa2c4c3eaba06e6"
+  },
+  {
+    "url": "static/img/mstile-310x150.png",
+    "revision": "a8d0c073d0c74323d18bab292e1c2fcf"
+  },
+  {
+    "url": "static/img/mstile-310x310.png",
+    "revision": "ac5299d7804862de304989e418063534"
+  },
+  {
+    "url": "static/img/mstile-70x70.png",
+    "revision": "9d9363d484cc1140dfe4e4ae6d8643bc"
+  },
+  {
+    "url": "static/img/yandex-browser-50x50.png",
+    "revision": "1374f1157bfb5ffb967d3165216b3a44"
   },
   {
     "url": "index.html",
-    "revision": "a558d7d607d60f39b071a2dd3558eea3"
+    "revision": "09815ec0ece0e00bf30d089e564ee0eb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

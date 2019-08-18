@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "85aad370e4d6b3304ed1c71b8500e0f5"
+    "revision": "b9c2c0fe6ffd03de879a0cf9cde96eb2"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -53,7 +53,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "d0fed852e4d008d2d26f05db6c28bccf"
+    "revision": "4b115ed9dc07700fbe00601bc5fe91ac"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -285,19 +285,19 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2019.json",
-    "revision": "5fead507a2365c187ae067b6f663f8a2"
+    "revision": "73c5e877f1770e338c4875e6fe012cef"
   },
   {
     "url": "api/v1/posts/2019/07.json",
-    "revision": "5fead507a2365c187ae067b6f663f8a2"
+    "revision": "73c5e877f1770e338c4875e6fe012cef"
   },
   {
     "url": "api/v1/posts/2019/07/07.json",
-    "revision": "90e438c4ba21187f6201439de6b3cf25"
+    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
   },
   {
     "url": "api/v1/posts/2019/07/07/github-actions-overview-and-practice.json",
-    "revision": "cf7bd1662dd940f190e9baff49818999"
+    "revision": "f089c218c219d64fdb9c88f7a3a3ae23"
   },
   {
     "url": "api/v1/posts/2019/07/23.json",
@@ -313,7 +313,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Actions.json",
-    "revision": "90e438c4ba21187f6201439de6b3cf25"
+    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
   },
   {
     "url": "api/v1/tags/Angular.json",
@@ -333,7 +333,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/CI.json",
-    "revision": "90e438c4ba21187f6201439de6b3cf25"
+    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
   },
   {
     "url": "api/v1/tags/Diary.json",
@@ -341,7 +341,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Docker.json",
-    "revision": "90e438c4ba21187f6201439de6b3cf25"
+    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
   },
   {
     "url": "api/v1/tags/ExtJS.json",
@@ -349,7 +349,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Github.json",
-    "revision": "441f51570bc0d949e1d66cfb58759e66"
+    "revision": "7dc9ef40ea06d8ad156501a69a297b80"
   },
   {
     "url": "api/v1/tags/Google.json",
@@ -397,7 +397,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/NPM.json",
-    "revision": "90e438c4ba21187f6201439de6b3cf25"
+    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
   },
   {
     "url": "api/v1/tags/Oracle.json",
@@ -429,7 +429,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/TravisCI.json",
-    "revision": "90e438c4ba21187f6201439de6b3cf25"
+    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
   },
   {
     "url": "api/v1/tags/Trips.json",

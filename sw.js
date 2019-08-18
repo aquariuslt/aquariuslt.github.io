@@ -25,11 +25,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "api/v1/categories.json",
-    "revision": "ef058b94e9a3b375cf20f89dca95e155"
+    "revision": "56c68d5a0d4bc1bf28385388151fdadc"
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "b9c2c0fe6ffd03de879a0cf9cde96eb2"
+    "revision": "feae1398cb19ca75eaf6c1b73d050027"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -53,7 +53,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "4b115ed9dc07700fbe00601bc5fe91ac"
+    "revision": "ea43451c3998c9ebfd29cd87f188b13c"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -285,7 +285,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2019.json",
-    "revision": "73c5e877f1770e338c4875e6fe012cef"
+    "revision": "ca9563818a0344dfca9cf43b5eaa9f12"
   },
   {
     "url": "api/v1/posts/2019/07.json",
@@ -308,12 +308,24 @@ self.__precacheManifest = [
     "revision": "48cf848f2f55f9cb7e0b96cd5157a112"
   },
   {
+    "url": "api/v1/posts/2019/08.json",
+    "revision": "626021ac6f4b08bbb4fb978ea2daa8b9"
+  },
+  {
+    "url": "api/v1/posts/2019/08/18.json",
+    "revision": "626021ac6f4b08bbb4fb978ea2daa8b9"
+  },
+  {
+    "url": "api/v1/posts/2019/08/18/github-actions-new-yaml-syntax.json",
+    "revision": "f3fb3fca5e4d1bece131289d5cbfbed5"
+  },
+  {
     "url": "api/v1/tags.json",
-    "revision": "863573ec6d1c83003c85e7b398c9f4f2"
+    "revision": "348721d761dbf46c867eb464afcf3cf3"
   },
   {
     "url": "api/v1/tags/Actions.json",
-    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
+    "revision": "f6b2c3aa538abb20cb1308b822f28460"
   },
   {
     "url": "api/v1/tags/Angular.json",
@@ -333,7 +345,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/CI.json",
-    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
+    "revision": "f6b2c3aa538abb20cb1308b822f28460"
   },
   {
     "url": "api/v1/tags/Diary.json",
@@ -341,7 +353,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Docker.json",
-    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
+    "revision": "f6b2c3aa538abb20cb1308b822f28460"
   },
   {
     "url": "api/v1/tags/ExtJS.json",
@@ -349,7 +361,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Github.json",
-    "revision": "7dc9ef40ea06d8ad156501a69a297b80"
+    "revision": "61d4ae99c5f40596c3197f8ce89e5997"
   },
   {
     "url": "api/v1/tags/Google.json",
@@ -397,7 +409,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/NPM.json",
-    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
+    "revision": "f6b2c3aa538abb20cb1308b822f28460"
   },
   {
     "url": "api/v1/tags/Oracle.json",
@@ -429,7 +441,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/TravisCI.json",
-    "revision": "341d6d1b00e9d6481ae60419c6bc3a37"
+    "revision": "f6b2c3aa538abb20cb1308b822f28460"
   },
   {
     "url": "api/v1/tags/Trips.json",
@@ -453,7 +465,7 @@ self.__precacheManifest = [
   },
   {
     "url": "routes.json",
-    "revision": "718ee4fe415494fdc1516d6323618dbb"
+    "revision": "fbffd99b5062c736ba663ec8f2d531dc"
   },
   {
     "url": "static/css/main.dd949bd281f6191abf3a.css",
@@ -657,7 +669,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "774b2b13c80cc269c9cf5955b665023c"
+    "revision": "05629571b29b0d6b4891fd76571b3824"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

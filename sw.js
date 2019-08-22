@@ -306,7 +306,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2019/07/23/travel-in-beijing.json",
-    "revision": "48cf848f2f55f9cb7e0b96cd5157a112"
+    "revision": "5dc9656d30ae33c95a895305d70a7fe7"
   },
   {
     "url": "api/v1/posts/2019/08.json",

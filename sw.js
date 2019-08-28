@@ -30,7 +30,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "feae1398cb19ca75eaf6c1b73d050027"
+    "revision": "cb86b985191b90ca60adc21b2d96ae89"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -42,7 +42,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Others.json",
-    "revision": "88bd30c3e0e7f6774579f0f7f1376c6c"
+    "revision": "83818007b7e1f5a6afc2e8137f4cf26f"
   },
   {
     "url": "api/v1/pages.json",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "ea43451c3998c9ebfd29cd87f188b13c"
+    "revision": "d4f43c5299c3393b14f1b78ae9c7d339"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -238,39 +238,39 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2018.json",
-    "revision": "f0d4221a1fdbf5041237453abc7f0070"
+    "revision": "10e129c6457220d2f632a01203d694df"
   },
   {
     "url": "api/v1/posts/2018/01.json",
-    "revision": "d9d42a88d05bca28afb0167452bcdf23"
+    "revision": "5fc549f33c8106df0f5bf7eb4813ca71"
   },
   {
     "url": "api/v1/posts/2018/01/01.json",
-    "revision": "d9d42a88d05bca28afb0167452bcdf23"
+    "revision": "5fc549f33c8106df0f5bf7eb4813ca71"
   },
   {
     "url": "api/v1/posts/2018/01/01/review-2017.json",
-    "revision": "1b065f2bcecd013eeb80a12bcee0f557"
+    "revision": "82286517d7cb43cc8f884a23ea1188a1"
   },
   {
     "url": "api/v1/posts/2018/03.json",
-    "revision": "230cd1154ff04477be83359b4da7d252"
+    "revision": "e19c9eef9fc78bf965bfa2fc3e7b025c"
   },
   {
     "url": "api/v1/posts/2018/03/03.json",
-    "revision": "1da79ea0305819c1e4d0866851b7fee0"
+    "revision": "2f01ebe933236717eddcdbf6252d0daa"
   },
   {
     "url": "api/v1/posts/2018/03/03/latest-update-on-blog-app.json",
-    "revision": "1cfda3b7172a0627d2d49ebfab93fb14"
+    "revision": "cf9646d5754edb0fdbd374ae7132a55e"
   },
   {
     "url": "api/v1/posts/2018/03/04.json",
-    "revision": "0057dac26e8d2093010989a8e12862cf"
+    "revision": "82b9ce5ac903e13f2783b50437795659"
   },
   {
     "url": "api/v1/posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution.json",
-    "revision": "6b393b00e10c32364695ea114ce75e62"
+    "revision": "26a26f7c2b818e0750b90fc4b4c2fd30"
   },
   {
     "url": "api/v1/posts/2018/04.json",
@@ -342,7 +342,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Blog.json",
-    "revision": "250d08fbbdcf7a104a3369a9014c99df"
+    "revision": "36ae6eca000bfcaf14c536c621a7e2de"
   },
   {
     "url": "api/v1/tags/CI.json",
@@ -350,7 +350,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Diary.json",
-    "revision": "6636029fab0da71ed7eca323d8f762e0"
+    "revision": "4a7de4aee8c2c86db281bf162673bd16"
   },
   {
     "url": "api/v1/tags/Docker.json",
@@ -358,11 +358,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/ExtJS.json",
-    "revision": "0057dac26e8d2093010989a8e12862cf"
+    "revision": "82b9ce5ac903e13f2783b50437795659"
   },
   {
     "url": "api/v1/tags/Github.json",
-    "revision": "61d4ae99c5f40596c3197f8ce89e5997"
+    "revision": "e5b778c063ac6afea00c65a00c441be3"
   },
   {
     "url": "api/v1/tags/Google.json",
@@ -370,7 +370,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Gulp.json",
-    "revision": "1da79ea0305819c1e4d0866851b7fee0"
+    "revision": "2f01ebe933236717eddcdbf6252d0daa"
   },
   {
     "url": "api/v1/tags/Hadoop.json",
@@ -382,23 +382,23 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Java.json",
-    "revision": "96ebd0aa1e81300ea0e5e8855404c768"
+    "revision": "a5e05d018a3d88f7becaed324027b5ca"
   },
   {
     "url": "api/v1/tags/JavaScript.json",
-    "revision": "6c996bf8a8df006c4e88b8d63094f2c2"
+    "revision": "53270c4deb99ff8f445b813e7aa7ae3e"
   },
   {
     "url": "api/v1/tags/JAWR.json",
-    "revision": "3a3236d4e964f040de2dac318920152e"
+    "revision": "665f5efbbe0f9907bfc69b58492df833"
   },
   {
     "url": "api/v1/tags/JSF.json",
-    "revision": "0057dac26e8d2093010989a8e12862cf"
+    "revision": "82b9ce5ac903e13f2783b50437795659"
   },
   {
     "url": "api/v1/tags/Karma.json",
-    "revision": "d4114c14ef2e6c0a8322bef4c044b2e3"
+    "revision": "851bd6f91baf98434634343a6c097633"
   },
   {
     "url": "api/v1/tags/Linux.json",
@@ -434,11 +434,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Spring.json",
-    "revision": "7ebb67cf02ec92c7c62005d1b64d13f7"
+    "revision": "09a67e97f466d03e52aaf003b4249371"
   },
   {
     "url": "api/v1/tags/SpringMVC.json",
-    "revision": "0057dac26e8d2093010989a8e12862cf"
+    "revision": "82b9ce5ac903e13f2783b50437795659"
   },
   {
     "url": "api/v1/tags/TravisCI.json",
@@ -458,11 +458,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Vue.json",
-    "revision": "3ac767eb86c71a501fee04a2951663f9"
+    "revision": "197a6e42c8004abfe5f87455035c8ec9"
   },
   {
     "url": "api/v1/tags/Webpack.json",
-    "revision": "230cd1154ff04477be83359b4da7d252"
+    "revision": "e19c9eef9fc78bf965bfa2fc3e7b025c"
   },
   {
     "url": "routes.json",

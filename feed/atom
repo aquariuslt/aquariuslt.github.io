@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aquariuslt.com</id>
     <title>Aquariuslt Blog</title>
-    <updated>2019-08-22T14:18:25.222Z</updated>
+    <updated>2019-08-28T03:49:32.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aquariuslt.com"/>
     <link rel="self" href="https://blog.aquariuslt.com//feed/atom"/>
@@ -1189,7 +1189,7 @@ jawr.js.bundle.i18n.mappings=messages:i18n.i18n(locale)
 <li>如果开启了 jawr 对应的国际化功能，我们应该如何在测试中生成这些全局的国际化函数</li>
 </ul>
 <p>为了解耦呢，这个<code>karma-jawr</code>的中间件提供了这样一个功能</p>
-<p>根据<code>jawr.properties</code>的位置，参考 jawr Java 的路径解释部分实现，生成了一个中间文件夹 <img src="https://img.aquariuslt.com/posts/karma-jawr-generated-index.jpg" alt="generated-indexes folder"> 配合 webpack 的<code>alias</code>功能，我们只要在单元测试代码里面使用类似这样的语法</p>
+<p>根据<code>jawr.properties</code>的位置，参考 jawr Java 的路径解释部分实现，生成了一个中间文件夹 <img src="https://img.aquariuslt.com/posts/2018/03/karma-jawr-generated-index.jpg" alt="generated-indexes folder"> 配合 webpack 的<code>alias</code>功能，我们只要在单元测试代码里面使用类似这样的语法</p>
 <pre><code class="hljs javascript"><span class="hljs-built_in">require</span>(<span class="hljs-string">'@/jsBundles/extJs.js'</span>);
 </code></pre>
 <p>便能够按需加载页面的资源文件执行，原本在 jsf facelet view 里面使用什么 tag 就知道在单元测试文件加载什么依赖。为了解决中间生成的国际化相关的全局函数，也是参考了 jawr Java 端读取 i18n 相关 properties 的实现，撸了一个输出结果一样的 i18n 的自动添加到每个 index.js 相关的文件列表的最前面，确保他们优先生效，不影响后面 webpack 的解析工作。</p>
@@ -1316,8 +1316,8 @@ Lines        : 100% ( 11/11 )
 <li><code>vue-material</code>也升级到了 v1.0-beta 版本，为新的 API 修改一轮代码</li>
 </ul>
 <h2 id="benchmark">Benchmark</h2>
-<p>目前首次页面加载总共需要 280KB 的流量。 <img src="https://img.aquariuslt.com/posts/blog-resource-transfer-time.png" alt="blog-resource-transfer-time"></p>
-<p><img src="https://img.aquariuslt.com/posts/benchmark-blog-website.png" alt="benchmark-blog-website"> 重新用 Chrome 的 Audits 工具做了一次测试(中间有根据提示的一些最佳实践准则进行优化) 之后，主要痛点是首次渲染页面时间比较长。</p>
+<p>目前首次页面加载总共需要 280KB 的流量。 <img src="https://img.aquariuslt.com/posts/2018/03/blog-resource-transfer-time.png" alt="blog-resource-transfer-time"></p>
+<p><img src="https://img.aquariuslt.com/posts/2018/03/benchmark-blog-website.png" alt="benchmark-blog-website"> 重新用 Chrome 的 Audits 工具做了一次测试(中间有根据提示的一些最佳实践准则进行优化) 之后，主要痛点是首次渲染页面时间比较长。</p>
 <h2 id="todo">TODO</h2>
 <ul>
 <li>重新思考 Markdown 转译工具部分代码的选型(当初选型用 marked 真是真是后悔，完全是照搬 perl 实现)</li>
@@ -1344,10 +1344,10 @@ Lines        : 100% ( 11/11 )
 <h2 id="devices">Devices</h2>
 <p>今年在消费电子上投入也是挺大的，毕竟没有其他刚需。</p>
 <h3 id="rmbp-15">RMBP 15</h3>
-<p><img src="https://img.aquariuslt.com/posts/macbook-pro.jpg" alt="Macbook Pro"> 出了之前的小 RMBP 入手了顶配+定制显卡的 15 寸新 RMBP。</p>
+<p><img src="https://img.aquariuslt.com/posts/2018/01/macbook-pro.jpg" alt="Macbook Pro"> 出了之前的小 RMBP 入手了顶配+定制显卡的 15 寸新 RMBP。</p>
 <p>感谢猴子聚聚的员工优惠，可惜下单的时候没注意写成了中文键盘。目前用起来一切完美，就是没出 32G 内存有点可惜。</p>
 <h3 id="sony-mdr-1000x">SONY MDR-1000x</h3>
-<p>6 月份入手第一款降噪耳机。 <img src="https://img.aquariuslt.com/posts/mdr-1000x.png" alt="MDR-1000X"></p>
+<p>6 月份入手第一款降噪耳机。 <img src="https://img.aquariuslt.com/posts/2018/01/mdr-1000x.png" alt="MDR-1000X"></p>
 <p>舒适程度降噪效果比之前的好太多了。目前评价挺高</p>
 <h3 id="ikbc-dc-108-wireless">IKBC DC 108 Wireless</h3>
 <p>年度最不值花钱消费之一。</p>

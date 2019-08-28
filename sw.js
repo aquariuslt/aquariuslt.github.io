@@ -30,7 +30,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/categories/Blog.json",
-    "revision": "cb86b985191b90ca60adc21b2d96ae89"
+    "revision": "003bc8d83b69a5be6f91f7fcdee10d9f"
   },
   {
     "url": "api/v1/categories/Debug.json",
@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts.json",
-    "revision": "d4f43c5299c3393b14f1b78ae9c7d339"
+    "revision": "0ffd3430e043172856c126cf496771c3"
   },
   {
     "url": "api/v1/posts/2015.json",
@@ -198,7 +198,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2017.json",
-    "revision": "1c2644b8ec6290d5be5733a065b942f8"
+    "revision": "b21dcd69d9a076ea09b716063b5460ea"
   },
   {
     "url": "api/v1/posts/2017/01.json",
@@ -214,15 +214,15 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/posts/2017/03.json",
-    "revision": "6edb84638a1cc05eae0f8802961ef696"
+    "revision": "5c8bd7fb5b10118e1094469b6d9e4a9f"
   },
   {
     "url": "api/v1/posts/2017/03/12.json",
-    "revision": "6edb84638a1cc05eae0f8802961ef696"
+    "revision": "5c8bd7fb5b10118e1094469b6d9e4a9f"
   },
   {
     "url": "api/v1/posts/2017/03/12/new-version-blog-migration.json",
-    "revision": "fb1ac5e0e34275c6aded1141a25fa987"
+    "revision": "2e6c25b30dc059fa23cbb15545d5bf2b"
   },
   {
     "url": "api/v1/posts/2017/05.json",
@@ -330,7 +330,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Angular.json",
-    "revision": "4d8700d9c2818eb5205955d729b45ed8"
+    "revision": "8673a06225747076899624d55890cbc7"
   },
   {
     "url": "api/v1/tags/AngularJS.json",
@@ -342,7 +342,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/v1/tags/Blog.json",
-    "revision": "36ae6eca000bfcaf14c536c621a7e2de"
+    "revision": "752f96481c8e0cbfbbb39ff4ab9d8e24"
   },
   {
     "url": "api/v1/tags/CI.json",

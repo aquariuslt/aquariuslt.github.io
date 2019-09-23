@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.aquariuslt.com</id>
     <title>Aquariuslt Blog</title>
-    <updated>2019-09-16T02:02:48.003Z</updated>
+    <updated>2019-09-23T15:40:12.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.aquariuslt.com"/>
     <link rel="self" href="https://blog.aquariuslt.com//feed/atom"/>
@@ -36,11 +36,10 @@
         <id>https://blog.aquariuslt.com/posts/2019/08/18/github-actions-new-yaml-syntax</id>
         <link href="https://blog.aquariuslt.com/posts/2019/08/18/github-actions-new-yaml-syntax"/>
         <updated>2019-08-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在之前一篇博文 [Github Actions: Overview and Practice](https://blog.aquariuslt.com/posts/2019/07/07/github-]]></summary>
+        <summary type="html"><![CDATA[在之前一篇博文里刚介绍完 Github Actions 配置的`HCL`语法不久，Github 官方就标记为 **deprecated** 了。原因是社区声音推崇他们使用新的 YAML 语法，这类的语]]></summary>
         <content type="html"><![CDATA[<h1 id="github-actions-new-yaml-syntax">Github Actions: New YAML Syntax</h1>
 <h2 id="background">Background</h2>
-<p>在之前一篇博文 <a href="https://blog.aquariuslt.com/posts/2019/07/07/github-actions-overview-and-practice/">Github Actions: Overview and Practice</a> 里
-刚介绍完 Github Actions 配置的<code>HCL</code>语法不久，Github 官方就标记为 <strong>deprecated</strong> 了。原因是社区声音推崇他们使用新的 YAML 语法，这类的语法配置与现有的其他
+<p>在之前一篇博文里刚介绍完 Github Actions 配置的<code>HCL</code>语法不久，Github 官方就标记为 <strong>deprecated</strong> 了。原因是社区声音推崇他们使用新的 YAML 语法，这类的语法配置与现有的其他
 CI 平台相对更加接近，更加容易举一反三写出合理的配置。</p>
 <blockquote>
 <p>The documentation at https://developer.github.com/actions and support for the HCL syntax in GitHub Actions

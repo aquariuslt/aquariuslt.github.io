@@ -340,11 +340,11 @@ self.__precacheManifest = [
   },
   {
     "url": "img/icons/android-chrome-192x192.png",
-    "revision": "ac45af8d1fc71fcfdd00f5d808463a7d"
+    "revision": "b3409523f31434ac67699e07f3b27634"
   },
   {
     "url": "img/icons/android-chrome-512x512.png",
-    "revision": "0ff1bc4d14e5c9abcacba7c600d97814"
+    "revision": "6f1e733b04d367ca7c9321846b422a2e"
   },
   {
     "url": "img/icons/apple-touch-icon-120x120.png",
@@ -352,11 +352,11 @@ self.__precacheManifest = [
   },
   {
     "url": "img/icons/apple-touch-icon-152x152.png",
-    "revision": "54e55af1799a2891b06209e2ad41b9dc"
+    "revision": "3e79e573b0522e513c93aee4b02bb8e0"
   },
   {
     "url": "img/icons/apple-touch-icon-180x180.png",
-    "revision": "caedb7c7e120dd08ec1cac9fe89b3581"
+    "revision": "31588024424fde4698f9de27373c93c7"
   },
   {
     "url": "img/icons/apple-touch-icon-60x60.png",
@@ -368,7 +368,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/icons/apple-touch-icon.png",
-    "revision": "caedb7c7e120dd08ec1cac9fe89b3581"
+    "revision": "31588024424fde4698f9de27373c93c7"
   },
   {
     "url": "img/icons/favicon-16x16.png",
@@ -384,15 +384,15 @@ self.__precacheManifest = [
   },
   {
     "url": "img/icons/mstile-150x150.png",
-    "revision": "749032a1bf43bbe7d6b5334712321b42"
+    "revision": "e2dfbc7649896961834803ffe3c8f03e"
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/cover.png",
-    "revision": "2d050b1e7b6985c32f8dad16c27ee7e3"
+    "revision": "0ad802aac5dbc6c911e7dacd607eab4c"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.png",
-    "revision": "224c4d7c52cc5be964f7b0e985053eab"
+    "revision": "f3dafc2c3cddeb004855418db7ed8048"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.png",
@@ -416,7 +416,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/cover.png",
-    "revision": "8f227fdf815cf04324d56f00bf4ba9bb"
+    "revision": "4f21f6106aaca6f7b3735a56f99562df"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.png",
@@ -424,19 +424,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/cover.png",
-    "revision": "790a448b5566df37170b68094ad6c9a7"
+    "revision": "79db171e54b7b0d777b2a999f2ab348c"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.png",
-    "revision": "a15d6827a9d37a2d2891ac668cf49913"
+    "revision": "91c5c48ad51d319407182fe8e0d96496"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.png",
-    "revision": "f590b9d258f9fa20e0b77049a2fbbda3"
+    "revision": "c9023678c8cb7510632ec8dd812cdf7d"
   },
   {
     "url": "posts/2016/01/01/review-2015/graduaction-more.png",
-    "revision": "80e7e46634e0c733750c4faf6a883cc6"
+    "revision": "f9de5f387772a2c940bf4af8133a4566"
   },
   {
     "url": "posts/2016/01/01/review-2015/room-1.png",
@@ -444,15 +444,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/wechat-open-account.png",
-    "revision": "5d1aafe121f5cfb815e0bdc81e5443eb"
+    "revision": "a274acfb49b2046ee726eb324a131d09"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/cover.png",
-    "revision": "a3a6ac6fb72769be9208690a8a98ba0a"
+    "revision": "f79763cb7c626a768a3a20f0bccaf426"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.png",
-    "revision": "9850af5911003d35d264cb28dfbb6ac9"
+    "revision": "36754efa92f1712ce37d9c06341abc09"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.png",
@@ -464,11 +464,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/cover.png",
-    "revision": "d0442c66c08d4692b2f69e745d766b03"
+    "revision": "64a6a394daf36687333d854668936f8b"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.png",
-    "revision": "6ae51e24f6ac244dd6ed5c87fc6de083"
+    "revision": "e8d9e49319b0fd80ba4772fc7254baa4"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/data-node-information.png",
@@ -480,11 +480,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/cover.png",
-    "revision": "7e24b7fa66b740062dc31846343f4daf"
+    "revision": "3eeabb26eede8ab444669591299f2841"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.png",
-    "revision": "28efcf5bae090a4ba5344aaf8e1b38e5"
+    "revision": "9a10e23f4226ef23e7d9fa440dd098c4"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.png",
@@ -496,23 +496,23 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/cover.png",
-    "revision": "68f47e1971b7abd9a9b734bbb66fa264"
+    "revision": "efc394cbdda3cf5edbca188d32a58eaf"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/room-architecture.png",
-    "revision": "64daf15e9177b63ef099607aa42f0109"
+    "revision": "e6b8adf40a42b6fd2a4dafcf624f6fcf"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/wakatime-total.png",
-    "revision": "56c37a6158911824dae64aef0c3a4f62"
+    "revision": "9e406965c671bede9fe7b494f644b978"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/wakatime.png",
-    "revision": "ed5501270d74c47e1edc7118d65f1ded"
+    "revision": "a0ae249731e266ea91306e8b53413286"
   },
   {
     "url": "posts/2017/01/01/review-2016/cover.png",
-    "revision": "555332086281833014aebb4419786d31"
+    "revision": "a309ddb3de9bf7b2d9015f93edb45749"
   },
   {
     "url": "posts/2017/01/01/review-2016/hardware-info.jpg",
@@ -524,7 +524,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/cover.png",
-    "revision": "136d964c7f50945297de074997a2fa84"
+    "revision": "3f79d7c0c465c7ee33e5556bfed955d0"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/desktop-version-shortcut.png",
@@ -540,11 +540,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/cover.png",
-    "revision": "d6e54846655d4f10dbff3d53bf6877ec"
+    "revision": "23d480ef607c2336c94c2ef2daa9d8a9"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.png",
-    "revision": "3a9266ef5f7e297baf195218b0e8fcee"
+    "revision": "b32990fe8cc7f3ccc938aba259769ad3"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.jpg",
@@ -564,11 +564,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/cover.png",
-    "revision": "e15c03f9fbae6b37498771a2e0472f87"
+    "revision": "eaaf4ffb4e25f6de13ad0b5cbfae6a56"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.png",
-    "revision": "de9169db66b5eb8ad69c03db2c86f914"
+    "revision": "916389240ebf911ba44fc26eadc53994"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.jpg",
@@ -576,11 +576,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/cover.png",
-    "revision": "56d5732fe174052782d9cd19f4c15a81"
+    "revision": "137d10ba625a75e43f326c7b3b999fb4"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.png",
-    "revision": "c3bd34215250d9b8b995abf88e62f2bd"
+    "revision": "37da7ea4b7fe57b71ebbde53fb3b8857"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/github-actions.png",
@@ -588,15 +588,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/github-official-actions-repo.png",
-    "revision": "d7a86fbca3310f3a778800d64e1a109f"
+    "revision": "f5797772cb3a0059803487001bfc401e"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.png",
-    "revision": "32c05979809a80854e60e5c2c0fdc53a"
+    "revision": "b48419465d27a10d403a172db47aa95a"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-ci-overview.png",
-    "revision": "1e907d4047efe5993c81d10f3447f088"
+    "revision": "5f8a82b21e6324442b3dff187f7504ce"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-editor-example.png",

@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://blog.aquariuslt.com/sitemap.xml
-Host: blog.aquariuslt.com
+Disallow:

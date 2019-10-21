@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/categories/blog.json",
-    "revision": "4dd7bd63b718aa484ebbe6ff32a051e1"
+    "revision": "ac714b032a901c577307ccfc6d4713c4"
   },
   {
     "url": "api/categories/debug.json",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/home.json",
-    "revision": "e7da8e4f4044fc39fa36d6c327649ab5"
+    "revision": "94497088f8ee47cc42e3dd9e26bc5ab9"
   },
   {
     "url": "api/navigation.json",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts.json",
-    "revision": "f72240ce754bb7a45f66e3c1b0f7e227"
+    "revision": "92d9f218684d0ba3e6fa2302a0f0c44a"
   },
   {
     "url": "api/posts/2015/10/25/apache-shiro-spring-integration.json",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2017/01/01/review-2016.json",
-    "revision": "ffabba0af9e171716529e98c66f6b3f4"
+    "revision": "85c16a82aefcd82905a69b234bf1c1b5"
   },
   {
     "url": "api/posts/2017/03/12/new-version-blog-migration.json",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2018/01/01/review-2017.json",
-    "revision": "1c94cb77061a0f8edfe44c0b1754f9a7"
+    "revision": "84d9d46fd9718e894f0929716e8b2b9a"
   },
   {
     "url": "api/posts/2018/03/03/latest-update-on-blog-app.json",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution.json",
-    "revision": "f2620f5646c44871555b2f935acadaf3"
+    "revision": "92ef82b79e2a01d010cae64ebad5cd0e"
   },
   {
     "url": "api/posts/2018/04/01/karma-jawr-development-note.json",
@@ -144,7 +144,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2019/07/23/travel-in-beijing.json",
-    "revision": "8170e3726c13cb77f1c3ea1cd346c0f6"
+    "revision": "93d19efc62a7118ef620657281957be0"
   },
   {
     "url": "api/posts/2019/08/18/github-actions-new-yaml-syntax.json",
@@ -280,7 +280,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/tags/trips.json",
-    "revision": "7fb2b8e34fb3b0517e344a3b5d63b6b7"
+    "revision": "95b4546e391a5097798fe2726c8f0f04"
   },
   {
     "url": "api/tags/ubuntu.json",
@@ -315,28 +315,28 @@ self.__precacheManifest = [
     "revision": "ecfcf9cd4415cfc2736aa1003a998b34"
   },
   {
-    "url": "js/about.158152b6.js",
-    "revision": "c91941d918a2fb91d44108f263157a56"
+    "url": "js/about.c7f39767.js",
+    "revision": "f1e0f1b35a16eada7fbc8087c8c15886"
   },
   {
-    "url": "js/app.0c48bb8f.js",
-    "revision": "184590066add411d3b8e6aef28c89f66"
+    "url": "js/app.13ac62a3.js",
+    "revision": "8d375a588345c8ce806001872d6d6704"
   },
   {
     "url": "js/chunk-vendors.948d257a.js",
     "revision": "39a00e30d6621676b7fdbf779624a769"
   },
   {
-    "url": "js/detail.ec7111e4.js",
-    "revision": "d852bd55473f390e97219e587648edd0"
+    "url": "js/detail.0ea8bb28.js",
+    "revision": "a8de54b5a6aa65bbe6aff9d1c831af7e"
   },
   {
     "url": "manifest.json",
     "revision": "e6efd2eaa0b5f132d53584845fc5a6e7"
   },
   {
-    "url": "precache-manifest.f854ab00482b373232971e258da575ad.js",
-    "revision": "f854ab00482b373232971e258da575ad"
+    "url": "precache-manifest.20391748fb262afff5597a7a14afa897.js",
+    "revision": "20391748fb262afff5597a7a14afa897"
   },
   {
     "url": "img/icons/android-chrome-192x192.png",
@@ -515,8 +515,8 @@ self.__precacheManifest = [
     "revision": "a309ddb3de9bf7b2d9015f93edb45749"
   },
   {
-    "url": "posts/2017/01/01/review-2016/hardware-info.jpg",
-    "revision": "1d643c95c2186e67fc36083e0b0e2be0"
+    "url": "posts/2017/01/01/review-2016/hardware-info.png",
+    "revision": "ce0661fdbef1da614cef1e0bc87d8e77"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.png",
@@ -547,10 +547,6 @@ self.__precacheManifest = [
     "revision": "b32990fe8cc7f3ccc938aba259769ad3"
   },
   {
-    "url": "posts/2018/01/01/review-2017/macbook-pro.jpg",
-    "revision": "5837cc98d311b50118ea53ae92b3126d"
-  },
-  {
     "url": "posts/2018/01/01/review-2017/mdr-1000x.png",
     "revision": "8fae7b3fd1e6b8c0523ba173027c7615"
   },
@@ -571,8 +567,8 @@ self.__precacheManifest = [
     "revision": "916389240ebf911ba44fc26eadc53994"
   },
   {
-    "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.jpg",
-    "revision": "1599e1de1cdd8c5b2ca6bb55f1c864d1"
+    "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.png",
+    "revision": "2dd731a0505c173b44d2040b5079b973"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/cover.png",
@@ -611,24 +607,8 @@ self.__precacheManifest = [
     "revision": "c76233b84b68da3d106f8bc7752a2710"
   },
   {
-    "url": "posts/2019/07/23/travel-in-beijing/great-wall-02.jpg",
-    "revision": "f4c9f982a60583281c4949d3f0b6d519"
-  },
-  {
-    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-01.jpg",
-    "revision": "b5bc80c50836ded4e6070639735c592c"
-  },
-  {
-    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-04.jpg",
-    "revision": "008d2cdbb17853535a367adcf5743d5c"
-  },
-  {
-    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-05.jpg",
-    "revision": "75dea813d4c64628d102c03bbc148618"
-  },
-  {
-    "url": "posts/2019/07/23/travel-in-beijing/pku-untitled-lake.jpg",
-    "revision": "51abf75f9304d037eb0c18d6b75cf532"
+    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-01.png",
+    "revision": "9dc6fa284d6496a167ac91cc1a79720b"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/water-m3.png",
@@ -640,7 +620,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.png",
-    "revision": "059fe3bfec635ff15f251e5f407ffa51"
+    "revision": "b46179103b1b56e7517e21e5587037d7"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/select-sample-workflow-for-npm.png",
@@ -664,7 +644,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0df76dcfa8d8b1da05d89fb93a8a18e0"
+    "revision": "17b2dfa9e74d52aaf3a9fcc646b792c0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

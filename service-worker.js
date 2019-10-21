@@ -516,7 +516,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/hardware-info.png",
-    "revision": "ce0661fdbef1da614cef1e0bc87d8e77"
+    "revision": "e6062669c4f3a7784983936e34c7f5e9"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.png",
@@ -568,7 +568,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.png",
-    "revision": "2dd731a0505c173b44d2040b5079b973"
+    "revision": "0c3e981a9f1b1634ecd7006b4c81de54"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/cover.png",
@@ -608,7 +608,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/palace-museum-01.png",
-    "revision": "9dc6fa284d6496a167ac91cc1a79720b"
+    "revision": "9feaae09dcdc1d2e8035b0d2b6d96721"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/water-m3.png",

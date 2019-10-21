@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.f196d9fa.css"
   },
   {
-    "revision": "e42fcd75bf02c784f912",
-    "url": "/css/app.2d6b9bb1.css"
+    "revision": "c865417a4675ff0b078a",
+    "url": "/css/app.4df1cf9a.css"
   },
   {
     "revision": "db19cf9b8a41d67f0505",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/materialdesignicons-webfont.e971abae.eot"
   },
   {
-    "revision": "59242b577fdcbee32eaed438dca30369",
+    "revision": "1fdfedf2598e3f8239898ac3d05ff6e7",
     "url": "/index.html"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.e47c9de7.js"
   },
   {
-    "revision": "e42fcd75bf02c784f912",
-    "url": "/js/app.9da2d38d.js"
+    "revision": "c865417a4675ff0b078a",
+    "url": "/js/app.0ed5dcc5.js"
   },
   {
     "revision": "db19cf9b8a41d67f0505",
@@ -56,11 +56,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "c114f614e9940e39eb392a91a7537868",
-    "url": "/register-service-worker.js"
-  },
-  {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/service-worker.js"
   }
 ]);

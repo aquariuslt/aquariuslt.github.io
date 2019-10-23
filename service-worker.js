@@ -303,7 +303,7 @@ self.__precacheManifest = [
     "revision": "59d671d1c0bd29f1d16e9428d7b2bd74"
   },
   {
-    "url": "css/app.04d20f47.css",
+    "url": "css/app.4df1cf9a.css",
     "revision": "f3a365ba235ce37a05007150d39b7a17"
   },
   {
@@ -315,28 +315,28 @@ self.__precacheManifest = [
     "revision": "ecfcf9cd4415cfc2736aa1003a998b34"
   },
   {
-    "url": "js/about.b23e9ea6.js",
-    "revision": "419a9fb41d36213d180013c8d0c9caaf"
+    "url": "js/about.cc67dd3e.js",
+    "revision": "24f0769109d399c3257a37c50dbed27e"
   },
   {
-    "url": "js/app.54187fdb.js",
-    "revision": "8e8a005b2fa9108c30a79e58ddc93928"
+    "url": "js/app.f53f5df7.js",
+    "revision": "612c76c023871c14423d294f81cf0886"
   },
   {
-    "url": "js/chunk-vendors.bfcb72a3.js",
-    "revision": "2253d69921e336c6a68a07008dfe30d9"
+    "url": "js/chunk-vendors.d167db0b.js",
+    "revision": "38e74e4b69b1ac664cf8ee14f328b19b"
   },
   {
-    "url": "js/detail.a9d1fcc5.js",
-    "revision": "9c28a51293dcf148e0f5dcfd7ad0dfe8"
+    "url": "js/detail.70a48377.js",
+    "revision": "ef2b3a54c80325af15f246cb7d1c8df8"
   },
   {
     "url": "manifest.json",
     "revision": "e6efd2eaa0b5f132d53584845fc5a6e7"
   },
   {
-    "url": "precache-manifest.7504f714b910a40814c3270666097466.js",
-    "revision": "7504f714b910a40814c3270666097466"
+    "url": "precache-manifest.fd25890386f605612e5af961876ca8dd.js",
+    "revision": "fd25890386f605612e5af961876ca8dd"
   },
   {
     "url": "img/icons/android-chrome-192x192.png",
@@ -468,7 +468,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/team-3-ita.png",
-    "revision": "b81266fa35bec7a97b9692d27c876130"
+    "revision": "364dc76efe9757e9875a5f137d1a1711"
   },
   {
     "url": "posts/2016/01/01/review-2015/unboxing-macbook.png",
@@ -532,7 +532,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/bedroom.png",
-    "revision": "50994181cf4126d117c09a7b13f42391"
+    "revision": "8c2b929a10844e5aa3f480fcd904acf2"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/clothes.png",
@@ -540,7 +540,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/cover.png",
-    "revision": "828087b8b2858755d1302fb132b68a0c"
+    "revision": "bb44bca680967ae3b8bef4bc2f25707f"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/depracted-desktop.png",
@@ -548,7 +548,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/desktop-installation.png",
-    "revision": "98b1f3a928cc17e2ae87047cd0aa476b"
+    "revision": "4b44c85c276fc06f72e1d5dafebe92fe"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/desktop.png",
@@ -568,7 +568,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/passing-route.png",
-    "revision": "9830785fd8a2a38a69d7a8128a70c930"
+    "revision": "c6243476ddbfee3f6d7eb11fe5e25a17"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/room-architecture.png",
@@ -580,7 +580,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/sunroom.png",
-    "revision": "d736c31ff589081df5fc03098a55368b"
+    "revision": "6a20de46807c1e2655c846c241a154e4"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/wakatime-total.png",
@@ -596,7 +596,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/hardware-info.png",
-    "revision": "50f5a1ce697b734618185d9a482851fc"
+    "revision": "05ce4ffc74f591f0e4a64eabefe6737e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.png",
@@ -616,7 +616,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/shortcut.png",
-    "revision": "dccfa6bd43c3735ec1d1bf65e182942e"
+    "revision": "ee6a7f122a95a9b356bf434179d10485"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/cover.png",
@@ -632,7 +632,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/mdr-1000x.png",
-    "revision": "5bea63e317e87b5400d5620dc58af324"
+    "revision": "60130fc05c1bc43bb422f5d1ee730916"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/benchmark-blog-website.png",
@@ -656,7 +656,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/cover.png",
-    "revision": "1c7aaf78302d0af6e0502d49f8ce82fe"
+    "revision": "ede4253dce2a541f04076f85d1458730"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.png",
@@ -772,7 +772,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6bae020dbc518feb4ec18e74d5062c41"
+    "revision": "b836f409a790c84093f3dfb34b6eb543"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

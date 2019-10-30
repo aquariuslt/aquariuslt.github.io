@@ -315,28 +315,28 @@ self.__precacheManifest = [
     "revision": "ecfcf9cd4415cfc2736aa1003a998b34"
   },
   {
-    "url": "js/about.523c72d5.js",
-    "revision": "af9dd2748640954288513422588cdad1"
+    "url": "js/about.dc172a01.js",
+    "revision": "416463f2f15bd8eb484792724287a55c"
   },
   {
-    "url": "js/app.eff8a5d6.js",
-    "revision": "717e49d601374f5253a98cc0b1bab8a9"
+    "url": "js/app.31484f47.js",
+    "revision": "ea961aab5791a6e7e1cc2d1ddff0e73b"
   },
   {
-    "url": "js/chunk-vendors.d167db0b.js",
-    "revision": "38e74e4b69b1ac664cf8ee14f328b19b"
+    "url": "js/chunk-vendors.6db92837.js",
+    "revision": "dd10326c285dae391b8f0a2a96447bba"
   },
   {
-    "url": "js/detail.241ec94b.js",
-    "revision": "b8987c6b07146e6a34e264c7d3e85f7f"
+    "url": "js/detail.4828c11d.js",
+    "revision": "9fc7f33c5d3eec336a3c0a01fde46f90"
   },
   {
     "url": "manifest.json",
     "revision": "e6efd2eaa0b5f132d53584845fc5a6e7"
   },
   {
-    "url": "precache-manifest.f4d09cc8430682b2c341344f9147f494.js",
-    "revision": "f4d09cc8430682b2c341344f9147f494"
+    "url": "precache-manifest.ec2d72330a0f887f32e0f5c46d99c0c7.js",
+    "revision": "ec2d72330a0f887f32e0f5c46d99c0c7"
   },
   {
     "url": "img/icons/android-chrome-192x192.png",
@@ -772,7 +772,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0346613b8360b9236350f66b6ad06711"
+    "revision": "350272744405cb6b243d321697142b73"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

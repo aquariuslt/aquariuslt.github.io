@@ -64,7 +64,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2015/11/10/beanutils-vs-reflection.json",
-    "revision": "d7ec633c3f303a76b42f95ed1d8e9783"
+    "revision": "379e14980a4aae56986df8c996c7510c"
   },
   {
     "url": "api/posts/2015/12/13/ubuntu-mean-development-environment-setup.json",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2019/07/07/github-actions-overview-and-practice.json",
-    "revision": "e501c44ff30a68508d4ae33801e5cd0a"
+    "revision": "df9903689d77b22ed5170943f10aa90f"
   },
   {
     "url": "api/posts/2019/07/23/travel-in-beijing.json",
@@ -148,7 +148,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2019/08/18/github-actions-new-yaml-syntax.json",
-    "revision": "a37a0f3e7c733717784d56aa9bfb6a73"
+    "revision": "170baf0d308876496dbd96a32f0f9c6d"
   },
   {
     "url": "api/profile.json",
@@ -307,36 +307,36 @@ self.__precacheManifest = [
     "revision": "f3a365ba235ce37a05007150d39b7a17"
   },
   {
-    "url": "css/chunk-vendors.9bb7e852.css",
-    "revision": "219ab343d21fec76c0526b933c340c38"
+    "url": "css/chunk-vendors.c7457377.css",
+    "revision": "962c7b7b013acd1146d0b020761126e2"
   },
   {
     "url": "css/detail.550d548d.css",
     "revision": "ecfcf9cd4415cfc2736aa1003a998b34"
   },
   {
-    "url": "js/about.4a9bcd9b.js",
-    "revision": "3e53e1f0ec10b8588aec528d2ad50737"
+    "url": "js/about.0c790d27.js",
+    "revision": "95ea226699798cfa264e0bd5418f9a9f"
   },
   {
-    "url": "js/app.35f821a8.js",
-    "revision": "2bf60c3b88157a4117991989af8af211"
+    "url": "js/app.765b35a7.js",
+    "revision": "486b2c915d86c7a40760e0f565f27b7c"
   },
   {
     "url": "js/chunk-vendors.6db92837.js",
     "revision": "dd10326c285dae391b8f0a2a96447bba"
   },
   {
-    "url": "js/detail.6420c1aa.js",
-    "revision": "a084db7fa5e7aa535c64da0d3efd27af"
+    "url": "js/detail.31c13955.js",
+    "revision": "8759ae7900fd51fb4c57806680dcd2f6"
   },
   {
     "url": "manifest.json",
     "revision": "e6efd2eaa0b5f132d53584845fc5a6e7"
   },
   {
-    "url": "precache-manifest.0c51b242c9b4bd78f6b532dd3b52288a.js",
-    "revision": "0c51b242c9b4bd78f6b532dd3b52288a"
+    "url": "precache-manifest.28599369bbcbd18333f0fc24130aa20a.js",
+    "revision": "28599369bbcbd18333f0fc24130aa20a"
   },
   {
     "url": "img/icons/android-chrome-192x192.png",
@@ -772,7 +772,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6e911a81a5a3368ef0b1becac1735736"
+    "revision": "1dfc0608b1262f9bf100c31ea7a1ca7a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

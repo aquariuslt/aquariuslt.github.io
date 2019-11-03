@@ -1,1 +1,1284 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>️</title><meta name="viewport" content="minimum-scale=1,initial-scale=1,width=device-width,shrink-to-fit=no"><script async="" src="https://www.google-analytics.com/analytics.js"></script><link rel="shortcut icon" href="/favicon.ico"><link href="/static/css/1.8117726a6a1a2a1956cd.css" rel="stylesheet"><link href="/static/css/main.78edc3999dc2a43acbfa.css" rel="stylesheet"></head><body><div id="app"></div><script type="text/javascript" src="/static/js/vendor.8117726a6a1a2a1956cd.js"></script><script type="text/javascript" src="/static/js/main.78edc3999dc2a43acbfa.js"></script></body></html>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Github Actions: Overview and Practice | Aquariuslt Blog</title><meta name="viewport" content="minimum-scale=1,initial-scale=1,width=device-width,shrink-to-fit=no"><script async="" src="https://www.google-analytics.com/analytics.js"></script><link rel="shortcut icon" href="/favicon.ico"><link href="/static/css/1.ab4c04b17b8ef5efc834.css" rel="stylesheet"><link href="/static/css/main.5750d05a29b70efcb960.css" rel="stylesheet"><style data-jss="" data-meta="MuiPaper">
+.MuiPaper-root {
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+</style><style data-jss="" data-meta="MuiTouchRipple">
+.MuiTouchRipple-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  position: absolute;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.MuiTouchRipple-ripple {
+  opacity: 0;
+  position: absolute;
+}
+.MuiTouchRipple-rippleVisible {
+  opacity: 0.3;
+  animation: MuiTouchRipple-keyframes-enter 550ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform: scale(1);
+}
+.MuiTouchRipple-ripplePulsate {
+  animation-duration: 200ms;
+}
+.MuiTouchRipple-child {
+  width: 100%;
+  height: 100%;
+  display: block;
+  opacity: 1;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.MuiTouchRipple-childLeaving {
+  opacity: 0;
+  animation: MuiTouchRipple-keyframes-exit 550ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.MuiTouchRipple-childPulsate {
+  top: 0;
+  left: 0;
+  position: absolute;
+  animation: MuiTouchRipple-keyframes-pulsate 2500ms cubic-bezier(0.4, 0, 0.2, 1) 200ms infinite;
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-enter {
+  0% {
+    opacity: 0.1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-exit {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-pulsate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.92);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style><style data-jss="" data-meta="MuiButtonBase">
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+</style><style data-jss="" data-meta="MuiTypography">
+.MuiTypography-root {
+  margin: 0;
+}
+.MuiTypography-body2 {
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+}
+.MuiTypography-body1 {
+  font-size: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+}
+.MuiTypography-caption {
+  font-size: 0.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+}
+.MuiTypography-button {
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+}
+.MuiTypography-h1 {
+  font-size: 6rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.01562em;
+}
+.MuiTypography-h2 {
+  font-size: 3.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.00833em;
+}
+.MuiTypography-h3 {
+  font-size: 3rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.04;
+  letter-spacing: 0em;
+}
+.MuiTypography-h4 {
+  font-size: 2.125rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.17;
+  letter-spacing: 0.00735em;
+}
+.MuiTypography-h5 {
+  font-size: 1.5rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.33;
+  letter-spacing: 0em;
+}
+.MuiTypography-h6 {
+  font-size: 1.25rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: 0.0075em;
+}
+.MuiTypography-subtitle1 {
+  font-size: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.00938em;
+}
+.MuiTypography-subtitle2 {
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.57;
+  letter-spacing: 0.00714em;
+}
+.MuiTypography-overline {
+  font-size: 0.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 2.66;
+  letter-spacing: 0.08333em;
+  text-transform: uppercase;
+}
+.MuiTypography-srOnly {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+.MuiTypography-alignLeft {
+  text-align: left;
+}
+.MuiTypography-alignCenter {
+  text-align: center;
+}
+.MuiTypography-alignRight {
+  text-align: right;
+}
+.MuiTypography-alignJustify {
+  text-align: justify;
+}
+.MuiTypography-noWrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.MuiTypography-gutterBottom {
+  margin-bottom: 0.35em;
+}
+.MuiTypography-paragraph {
+  margin-bottom: 16px;
+}
+.MuiTypography-colorInherit {
+  color: inherit;
+}
+.MuiTypography-colorPrimary {
+  color: #FAFAFA;
+}
+.MuiTypography-colorSecondary {
+  color: #f50057;
+}
+.MuiTypography-colorTextPrimary {
+  color: rgba(0, 0, 0, 0.87);
+}
+.MuiTypography-colorTextSecondary {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiTypography-colorError {
+  color: #f44336;
+}
+.MuiTypography-displayInline {
+  display: inline;
+}
+.MuiTypography-displayBlock {
+  display: block;
+}
+</style><style data-jss="" data-meta="MuiLink">
+.MuiLink-underlineNone {
+  text-decoration: none;
+}
+.MuiLink-underlineHover {
+  text-decoration: none;
+}
+.MuiLink-underlineHover:hover {
+  text-decoration: underline;
+}
+.MuiLink-underlineAlways {
+  text-decoration: underline;
+}
+.MuiLink-button {
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiLink-button::-moz-focus-inner {
+  border-style: none;
+}
+.MuiLink-button.Mui-focusVisible {
+  outline: auto;
+}
+</style><style data-jss="" data-meta="MuiSvgIcon">
+.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #FAFAFA;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f50057;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+</style><style data-jss="" data-meta="PrivateBreadcrumbSeparator">
+.jss161 {
+  display: flex;
+  margin-left: 8px;
+  user-select: none;
+  margin-right: 8px;
+}
+</style><style data-jss="" data-meta="MuiBreadcrumbs">
+.MuiBreadcrumbs-ol {
+  margin: 0;
+  display: flex;
+  padding: 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.MuiBreadcrumbs-li {
+  list-style: none;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.jss144 {
+  width: 100%;
+  flex-wrap: wrap;
+  max-width: 800px;
+  justify-content: center;
+}
+.jss145 {
+  padding: 8px 16px;
+}
+@media (max-width:959.95px) {
+  .jss145 {
+    padding: 8px;
+  }
+}
+</style><style data-jss="" data-meta="MuiContainer">
+.MuiContainer-root {
+  width: 100%;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+@media (min-width:600px) {
+  .MuiContainer-root {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-root {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+@media (min-width:600px) {
+  .MuiContainer-fixed {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-fixed {
+    max-width: 960px;
+  }
+}
+@media (min-width:1280px) {
+  .MuiContainer-fixed {
+    max-width: 1280px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-fixed {
+    max-width: 1920px;
+  }
+}
+@media (min-width:0px) {
+  .MuiContainer-maxWidthXs {
+    max-width: 444px;
+  }
+}
+@media (min-width:600px) {
+  .MuiContainer-maxWidthSm {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-maxWidthMd {
+    max-width: 960px;
+  }
+}
+@media (min-width:1280px) {
+  .MuiContainer-maxWidthLg {
+    max-width: 1280px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-maxWidthXl {
+    max-width: 1920px;
+  }
+}
+</style><style data-jss="" data-meta="MuiCssBaseline">
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: bolder;
+}
+body {
+  color: rgba(0, 0, 0, 0.87);
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  background-color: #fafafa;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fafafa;
+}
+</style><style data-jss="" data-meta="MuiAppBar">
+.MuiAppBar-root {
+  width: 100%;
+  display: flex;
+  z-index: 1100;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.MuiAppBar-positionFixed {
+  top: 0;
+  left: auto;
+  right: 0;
+  position: fixed;
+}
+.MuiAppBar-positionAbsolute {
+  top: 0;
+  left: auto;
+  right: 0;
+  position: absolute;
+}
+.MuiAppBar-positionSticky {
+  top: 0;
+  left: auto;
+  right: 0;
+  position: sticky;
+}
+.MuiAppBar-positionStatic {
+  position: static;
+  transform: translateZ(0);
+}
+.MuiAppBar-positionRelative {
+  position: relative;
+}
+.MuiAppBar-colorDefault {
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #f5f5f5;
+}
+.MuiAppBar-colorPrimary {
+  color: #000000;
+  background-color: #FAFAFA;
+}
+.MuiAppBar-colorSecondary {
+  color: #fff;
+  background-color: #f50057;
+}
+</style><style data-jss="" data-meta="MuiToolbar">
+.MuiToolbar-root {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.MuiToolbar-gutters {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+.MuiToolbar-regular {
+  min-height: 56px;
+}
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+.MuiToolbar-dense {
+  min-height: 48px;
+}
+</style><style data-jss="" data-meta="MuiIconButton">
+.MuiIconButton-root {
+  flex: 0 0 auto;
+  color: rgba(0, 0, 0, 0.54);
+  padding: 12px;
+  overflow: visible;
+  font-size: 1.5rem;
+  text-align: center;
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  border-radius: 50%;
+}
+.MuiIconButton-root:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+.MuiIconButton-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+  background-color: transparent;
+}
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-edgeStart {
+  margin-left: -12px;
+}
+.MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+  margin-left: -3px;
+}
+.MuiIconButton-edgeEnd {
+  margin-right: -12px;
+}
+.MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+  margin-right: -3px;
+}
+.MuiIconButton-colorInherit {
+  color: inherit;
+}
+.MuiIconButton-colorPrimary {
+  color: #FAFAFA;
+}
+.MuiIconButton-colorPrimary:hover {
+  background-color: rgba(250, 250, 250, 0.08);
+}
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-colorSecondary {
+  color: #f50057;
+}
+.MuiIconButton-colorSecondary:hover {
+  background-color: rgba(245, 0, 87, 0.08);
+}
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+.MuiIconButton-sizeSmall {
+  padding: 3px;
+  font-size: 1.125rem;
+}
+.MuiIconButton-label {
+  width: 100%;
+  display: flex;
+  align-items: inherit;
+  justify-content: inherit;
+}
+</style><style data-jss="" data-meta="MuiDrawer">
+.MuiDrawer-docked {
+  flex: 0 0 auto;
+}
+.MuiDrawer-paper {
+  top: 0;
+  flex: 1 0 auto;
+  height: 100%;
+  display: flex;
+  outline: 0;
+  z-index: 1200;
+  position: fixed;
+  overflow-y: auto;
+  flex-direction: column;
+  -webkit-overflow-scrolling: touch;
+}
+.MuiDrawer-paperAnchorLeft {
+  left: 0;
+  right: auto;
+}
+.MuiDrawer-paperAnchorRight {
+  left: auto;
+  right: 0;
+}
+.MuiDrawer-paperAnchorTop {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: auto;
+  height: auto;
+  max-height: 100%;
+}
+.MuiDrawer-paperAnchorBottom {
+  top: auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  max-height: 100%;
+}
+.MuiDrawer-paperAnchorDockedLeft {
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiDrawer-paperAnchorDockedTop {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiDrawer-paperAnchorDockedRight {
+  border-left: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiDrawer-paperAnchorDockedBottom {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+</style><style data-jss="" data-meta="MuiDivider">
+.MuiDivider-root {
+  border: none;
+  height: 1px;
+  margin: 0;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.MuiDivider-absolute {
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+}
+.MuiDivider-inset {
+  margin-left: 72px;
+}
+.MuiDivider-light {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+.MuiDivider-middle {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.MuiDivider-vertical {
+  width: 1px;
+  height: 100%;
+}
+</style><style data-jss="" data-meta="MuiList">
+.MuiList-root {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  list-style: none;
+}
+.MuiList-padding {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.MuiList-subheader {
+  padding-top: 0;
+}
+</style><style data-jss="" data-meta="MuiListItem">
+.MuiListItem-root {
+  width: 100%;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+  align-items: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.MuiListItem-root.Mui-focusVisible {
+  background-color: rgba(0, 0, 0, 0.14);
+}
+.MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+  background-color: rgba(0, 0, 0, 0.14);
+}
+.MuiListItem-root.Mui-disabled {
+  opacity: 0.5;
+}
+.MuiListItem-container {
+  position: relative;
+}
+.MuiListItem-dense {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.MuiListItem-alignItemsFlexStart {
+  align-items: flex-start;
+}
+.MuiListItem-divider {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  background-clip: padding-box;
+}
+.MuiListItem-gutters {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.MuiListItem-button {
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiListItem-button:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.08);
+}
+@media (hover: none) {
+  .MuiListItem-button:hover {
+    background-color: transparent;
+  }
+}
+.MuiListItem-secondaryAction {
+  padding-right: 48px;
+}
+</style><style data-jss="" data-meta="MuiListItemText">
+.MuiListItemText-root {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.MuiListItemText-multiline {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+.MuiListItemText-inset {
+  padding-left: 56px;
+}
+</style><style data-jss="" data-meta="MuiListItemIcon">
+.MuiListItemIcon-root {
+  color: rgba(0, 0, 0, 0.54);
+  display: inline-flex;
+  min-width: 56px;
+  flex-shrink: 0;
+}
+.MuiListItemIcon-alignItemsFlexStart {
+  margin-top: 8px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.jss1 {
+  display: flex;
+}
+.jss2 {
+  transition: margin 195ms cubic-bezier(0.4, 0, 0.6, 1) 0ms,width 195ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+}
+.jss3 {
+  width: calc(100% - 240px);
+  transition: margin 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms,width 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+  margin-left: 240px;
+}
+.jss4 {
+  margin-right: 16px;
+}
+.jss5 {
+  display: none;
+}
+.jss6 {
+  width: 240px;
+  flex-shrink: 0;
+}
+.jss7 {
+  width: 240px;
+}
+.jss8 {
+  display: flex;
+  padding: 0px 8px;
+  min-height: 56px;
+  align-items: center;
+  justify-content: flex-end;
+}
+@media (min-width:0px) and (orientation: landscape) {
+  .jss8 {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .jss8 {
+    min-height: 64px;
+  }
+}
+.jss9 {
+  flex-grow: 1;
+  max-width: 100%;
+  min-height: 100vh;
+  transition: margin 195ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+  margin-left: -240px;
+  background-color: #fff;
+}
+.jss10 {
+  max-width: 100%;
+  transition: margin 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+  margin-left: 0;
+  background-color: #fff;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.jss150 {
+  width: 100%;
+  margin: 0;
+  padding: 0px 16px;
+  max-width: 800px;
+}
+@media (max-width:959.95px) {
+  .jss150 {
+    padding: 8px;
+  }
+}
+</style><style data-jss="" data-meta="makeStyles">
+.jss151 {
+  order: 2;
+  width: 240px;
+  display: none;
+  padding: 8px;
+  position: fixed;
+  overflow-x: hidden;
+  overflow-y: auto;
+  flex-shrink: 0;
+  overflow-wrap: break-word;
+  list-style-type: none;
+}
+@media (min-width:960px) {
+  .jss151 {
+    display: block;
+  }
+}
+.jss152 {
+  margin-top: 16px;
+  padding-left: 12px;
+}
+.jss153 {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.jss154 {
+  padding: 4px 0px 4px 8px;
+  font-size: 13px;
+  box-sizing: content-box;
+  border-left: 4px solid transparent;
+}
+.jss154:hover {
+  cursor: pointer;
+  border-left: 4px solid #eeeeee;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.jss134 {
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  padding-top: 8px;
+  justify-content: space-around;
+  background-color: #fff;
+}
+@media (max-width:959.95px) {
+  .jss134 {
+    padding: 8px;
+  }
+}
+.jss135 {
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  background-color: #fff;
+}
+@media (min-width:960px) {
+  .jss135 {
+    width: 240px;
+  }
+}
+.jss136 {
+  margin: 0;
+  padding: 0;
+}
+@media (max-width:959.95px) {
+  .jss136 {
+    display: flex;
+    overflow: hidden;
+    flex-wrap: wrap;
+  }
+}
+</style><meta name="google-site-verification" content="s3PYm0fCo0ImPqqXoPLiUb_bFdlYODKw54VGSkcFgyE" data-react-helmet="true"><meta name="google-analytics" content="UA-68904127-1" data-react-helmet="true"><meta name="og:site_name" content="Aquariuslt Blog" data-react-helmet="true"><meta name="og:type" content="website" data-react-helmet="true"><meta name="og:title" content="Github Actions: Overview and Practice" data-react-helmet="true"><meta name="og:description" content="Github Actions 自从开放 beta 以来，感觉一直没有掀起什么大浪。但是他的在 CI 平台插件方面的概念其实是符合一直以来的方向的: Docker Image as Plugins我在二月份开始已经申请到了 Github Actions Beta 的体验许可，为了体验 Github Actions 的功能，以及跟目前其他开源项目所用的持续集成平台进行简单的对比，下面将以一个 通过 Gtihub Action 发布 npm package 的过程作为初步体验，讲讲我对 Github Actions 在 CI 方面的认识。
+" data-react-helmet="true"><meta name="og:image" content="./github-actions.png" data-react-helmet="true"><meta name="og:type" content="article" data-react-helmet="true"><script type="application/ld+json" data-react-helmet="true">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://blog.aquariuslt.com","name":"Home","position":1},{"@type":"ListItem","item":"https://blog.aquariuslt.com/posts","name":"Posts","position":2},{"@type":"ListItem","item":"https://blog.aquariuslt.com/posts/2019/07/07/github-actions-overview-and-practice","name":"Github Actions: Overview and Practice","position":3}]}</script></head><body><div id="app"><div class="jss1"><header class="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionFixed jss2 MuiAppBar-colorPrimary mui-fixed"><div class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"><button class="MuiButtonBase-root MuiIconButton-root jss4 MuiIconButton-colorInherit MuiIconButton-edgeStart" tabindex="0" type="button" aria-label="open drawer"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></svg></span><span class="MuiTouchRipple-root"></span></button><h6 class="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap">Aquariuslt Blog</h6></div></header><div class="MuiDrawer-root MuiDrawer-docked jss6"><div class="MuiPaper-root MuiPaper-elevation0 MuiDrawer-paper jss7 MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft" style="visibility: hidden; transform: translateX(-240px);"><div class="jss8"><button class="MuiButtonBase-root MuiIconButton-root" tabindex="0" type="button"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path></svg></span><span class="MuiTouchRipple-root"></span></button></div><hr class="MuiDivider-root"><ul class="MuiList-root MuiList-padding"><a class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button" tabindex="0" role="button" aria-disabled="false" href="/"><div class="MuiListItemIcon-root"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"></path></svg></div><div class="MuiListItemText-root"><span class="MuiTypography-root MuiListItemText-primary MuiTypography-body1">Home</span></div><span class="MuiTouchRipple-root"></span></a><a class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button" tabindex="0" role="button" aria-disabled="false" href="/categories"><div class="MuiListItemIcon-root"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M12 2l-5.5 9h11z"></path><circle cx="17.5" cy="17.5" r="4.5"></circle><path d="M3 13.5h8v8H3z"></path></svg></div><div class="MuiListItemText-root"><span class="MuiTypography-root MuiListItemText-primary MuiTypography-body1">Categories</span></div><span class="MuiTouchRipple-root"></span></a><a class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button" tabindex="0" role="button" aria-disabled="false" href="/tags"><div class="MuiListItemIcon-root"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2z"></path></svg></div><div class="MuiListItemText-root"><span class="MuiTypography-root MuiListItemText-primary MuiTypography-body1">Tags</span></div><span class="MuiTouchRipple-root"></span></a></ul></div></div><main class="jss9"><div class="jss8"></div><div class="MuiContainer-root jss134 MuiContainer-maxWidthLg"><div class="jss136"><div class="jss144"><div class="MuiPaper-root MuiPaper-elevation0 jss145 MuiPaper-rounded"><nav class="MuiTypography-root MuiBreadcrumbs-root MuiTypography-body1 MuiTypography-colorTextSecondary" aria-label="breadcrumb"><ol class="MuiBreadcrumbs-ol"><li class="MuiBreadcrumbs-li"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit" href="https://blog.aquariuslt.com">Home</a></li><li aria-hidden="true" class="jss161 MuiBreadcrumbs-separator"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></li><li class="MuiBreadcrumbs-li"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit" href="https://blog.aquariuslt.com/posts">Posts</a></li><li aria-hidden="true" class="jss161 MuiBreadcrumbs-separator"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></li><li class="MuiBreadcrumbs-li"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorInherit" href="https://blog.aquariuslt.com/posts/2019/07/07/github-actions-overview-and-practice">Github Actions: Overview and Practice</a></li></ol></nav></div></div><div class="jss150 markdown-body"><div class="MuiTypography-root markdown-body MuiTypography-body1"><h1 id="github-actions-overview-and-practice">Github Actions: Overview and Practice</h1>
+<h2 id="background">Background</h2>
+<p>Github Actions 自从开放 beta 以来，感觉一直没有掀起什么大浪。但是他的在 CI 平台插件方面的概念其实是符合一直以来的方向的: <code>Docker Image as Plugins</code></p>
+<p>我在二月份开始已经申请到了 Github Actions Beta 的体验许可，为了体验 Github Actions 的功能，以及跟目前其他开源项目所用的持续集成平台进行简单的对比，下面将以一个 通过 Gtihub Action 发布 npm package 的过程作为初步体验，讲讲我对 Github Actions 在 CI 方面的认识。</p>
+<h2 id="before-reading">Before Reading</h2>
+<p>再开始阅读之前，准备了一些截图，简要的从表现上了解下 Github Actions 的一些功能</p>
+<ul>
+<li>What is Github Actions</li>
+<li>How workflow configuration look like</li>
+<li>How workflow runtime look like</li>
+</ul>
+<h3 id="what-is-github-actions">What is Github Actions</h3>
+<p>Github 官方介绍，简要的将就是 Github 官方提供的 CI 平台，其最大的特点便是插件化形式来进行 CI Stages 的组装。</p>
+<blockquote>
+<p>GitHub Actions allow you to implement custom logic without having to create an app to perform the task you need. You can combine GitHub Actions to create workflows using an action defined in your repository, a public repository on GitHub, or a published Docker container image. GitHub Actions are customizable and can use the GitHub API and any publicly available third-party APIs to interact with a repository. For example, an action can publish npm modules, send SMS alerts when urgent issues are created, or deploy production ready code. You can discover, create, and share your GitHub Actions with the GitHub community.</p>
+</blockquote>
+<p>先是官方带头在平台基础上创建了一些通用性比较高的、对标其他同类平台的一些主打功能，以一个封装好的 <code>Actions</code> 概念暴露出来，然后每个 Repository 便可使用这些官方预设的 <code>Actions</code> 来组装自己的 <code>Workflow</code> 。</p>
+<p>官方 Actions 集合 <a href="https://github.com/actions">https://github.com/actions</a> 里找到官方维护的 actions. 常见的一些 actions 有:</p>
+<ul>
+<li>npm</li>
+<li>docker</li>
+<li>shell</li>
+</ul>
+<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/github-official-actions-repo.png" alt=""></p>
+<p>当然也有很多非官方维护的 Actions，可以通过发布到 Github Marketplace 被查找到，也可以把 Actions 构建成 <code>docker image</code> + <code>entrypoints.sh</code> 的形式， 在项目 Workflow 的配置文件中以 docker image 路径进行引用。</p>
+<h3 id="how-configuration-look-like">How configuration look like</h3>
+<p>如果有使用过 Travis-CI, CircleCI, Gitlab-CI 的经验，大概可以想起，对应的 CI 配置文件，大都通过 yml 作为基础语法，来描述整个 CI Pipeline 涉及的几个步骤。</p>
+<p>在 Github Web 界面中，对一个 Repository 的 Workflow 进行可视化的编辑时，如下图:</p>
+<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-editor-example.png" alt=""></p>
+<p>实际上他背后也是一个配置文件，用这个配置文件来描述 workflow 的触发条件，步骤，以及每个步骤执行时的参数... 只不过 Github 官方提供了基于这个配置文件的在线可视化编辑，使得编辑过程比较容易直观。</p>
+<p>关于配置文件的语法、编写形式，下面会以样例提及。</p>
+<h3 id="how-workflow-runtime-look-like">How workflow runtime look like</h3>
+<p>在 Github 界面上查看单个项目的 Workflow 下图这样子:</p>
+<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-example.png" alt=""></p>
+<p>这个 Workflow 比较直观的表示了一个基本的 <code>构建-发布</code> 流程:</p>
+<ol>
+<li>在 Github 收到 <code>push</code> 事件的时候，触发该 workflow</li>
+<li>首先同时执行 <code>dockerlint</code> 和 <code>shelllint</code> 步骤</li>
+<li>以上两步都通过后，根据项目的 dockerfile 构建 docker 镜像</li>
+<li>对 docker 镜像进行多次打 Tag (latest, timestamp)，同时判断是否需要进行发布(判断当前分支是否 master 分支)</li>
+<li>使用 secrets 进行 docker login 步骤</li>
+<li>调用 docker publish 对刚才打过 tag 的镜像 发布到官方的 docker registry 中去</li>
+</ol>
+<p>这样一看，对 Github Actions 和 Workflow 的界面表现形式有了一个模糊的了解。基于其他 CI 平台的使用经验，大概可以想象自己目前的 CI Pipeline 转移到 Github Actions 上，表现出来会是怎样一个形式。</p>
+<h2 id="example-project">Example Project</h2>
+<p>现在介绍用来做样例的项目。</p>
+<p>这是一个 npm package，已经发布到 npm 上。</p>
+<p>npm 地址: <a href="https://www.npmjs.com/package/jest-properties-loader">https://www.npmjs.com/package/jest-properties-loader</a></p>
+<p>github 地址: <a href="https://github.com/aquariuslt/jest-properties-loader">https://github.com/aquariuslt/jest-properties-loader</a></p>
+<p>现在我们来了解下:</p>
+<ul>
+<li>项目目录结构</li>
+<li>本地发布前、发布时，一般要做什么步骤</li>
+</ul>
+<p>接着在下一章介绍，如果通过 Travis-CI 或者 CircleCI 进行 持续构建和自动触发发布，一般的思路和实现方式。</p>
+<p>最后再简介如何通过 Github Actions 实现同样的功能。</p>
+<h3 id="project-overview">Project Overview</h3>
+<p>这个 npm package 的作用，主要是为 jest 提供一个 <code>.properties</code> 文件的 json 格式转换。</p>
+<p>不过其实我们不需要了解他的作用，仅仅把他当做一个普通的 public npm package 吧。</p>
+<p>项目的文件结构如下:</p>
+<pre><code>├── LICENSE
+├── README.md
+├── lib
+│&nbsp;&nbsp; └── index.js
+├── package.json
+├── test
+│&nbsp;&nbsp; ├── __fixtures__
+│&nbsp;&nbsp; │&nbsp;&nbsp; └── sample.properties
+│&nbsp;&nbsp; └── loader.test.js
+└── yarn.lock
+</code></pre>
+<h3 id="manual-release-flow">Manual Release Flow</h3>
+<p><strong>Running Tests</strong></p>
+<p>当我们准备发布一个新版本时，先通过测试</p>
+<pre><code class="hljs bash">yarn <span class="hljs-built_in">test</span>
+</code></pre>
+<p><strong>Build Distribution (Optional)</strong></p>
+<p>如果项目需要构建，则需要有类似 <code>build</code> 的一步。</p>
+<p>不过这个项目，我直接以可直接运行的 commonjs 的语法进行编写，所以省去了这一步。</p>
+<p>Update Version</p>
+<p>发布前，我们需要更新仓库版本号，遵循 <code>semantic versioning</code> 的原则，进行代码版本号更新。</p>
+<pre><code class="hljs bash">yarn version
+</code></pre>
+<p>Login NPM</p>
+<p>现在一切就绪，我们准备进行 npm package 发布。</p>
+<p>一种方式是通过 <code>npm login</code> 命令 进行发布, 然后输入 npm 用户名和密码</p>
+<pre><code class="hljs bash">npm login
+</code></pre>
+<p>当然也有另外一种 npm 推荐的方式，那边是使用使用 NPM 的 <a href="https://docs.npmjs.com/about-authentication-tokens">Auth Token</a> 进行验证。</p>
+<p>参考链接中的步骤创建好一个 Auth Token 后，将其释放在 <code>.npmrc</code> 文件内</p>
+<pre><code class="hljs bash"><span class="hljs-built_in">export</span> NPM_TOKEN=<span class="hljs-string">"00000000-0000-0000-0000-000000000000"</span>
+<span class="hljs-built_in">echo</span> <span class="hljs-string">"//registry.npmjs.org/:_authToken=<span class="hljs-variable">${NPM_TOKEN}</span>"</span> &gt;&gt; .npmrc
+</code></pre>
+<p>参考文章: <a href="https://blog.npmjs.org/post/118393368555/deploying-with-npm-private-modules">https://blog.npmjs.org/post/118393368555/deploying-with-npm-private-modules</a></p>
+<p><strong>NPM Publish</strong></p>
+<pre><code class="hljs bash">npm publish
+</code></pre>
+<p>至此，我们便手动的将一个 npm package 的新版本发布到 npm registry 了。</p>
+<h2 id="existing-ci-cd-flow">Existing CI CD Flow</h2>
+<p>现在我们看看如果是 Travis CI 进行自动构建 npm 包发布是怎么做呢</p>
+<p>Travis CI 的 Example 样例如下:</p>
+<pre><code class="hljs yaml"><span class="hljs-attr">language:</span> <span class="hljs-string">node_js</span>
+<span class="hljs-attr">node_js:</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">'10'</span>
+
+<span class="hljs-attr">script:</span> <span class="hljs-string">npm</span> <span class="hljs-string">test</span>
+
+<span class="hljs-comment"># Submit Coverage Status to coveralls.io</span>
+<span class="hljs-attr">after_script:</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">cat</span> <span class="hljs-string">./test/coverage/lcov.info</span> <span class="hljs-string">|</span> <span class="hljs-string">./node_modules/.bin/coveralls</span>
+
+<span class="hljs-attr">deploy:</span>
+  <span class="hljs-attr">provider:</span> <span class="hljs-string">npm</span>
+  <span class="hljs-attr">email:</span> <span class="hljs-string">$NPM_AUTH_EMAIL</span>
+  <span class="hljs-attr">api_key:</span> <span class="hljs-string">$NPM_AUTH_TOKEN</span>
+  <span class="hljs-attr">on:</span>
+    <span class="hljs-attr">tags:</span> <span class="hljs-literal">true</span>
+    <span class="hljs-attr">branch:</span> <span class="hljs-string">release</span>
+</code></pre>
+<p>具体点讲，这份配置文件关于自动发布 npm package 的过程便是</p>
+<ol>
+<li>触发条件: 当触发 travis-ci 的 webhooks 是 <code>tags</code> 而且 分支名为 <code>release</code> 时，触发此 deploy 操作。</li>
+<li>使用 travis-ci 提供的 <a href="https://docs.travis-ci.com/user/deployment/npm/">https://docs.travis-ci.com/user/deployment/npm/</a> <code>npm release provider</code> 配合 github secret <code>$NPM_AUTH_TOKEN</code> 进行发布。( token 为上一部分介绍的 npm token)</li>
+</ol>
+<p>配置过程相当简洁，唯一一点是 npm publish 过程并不透明，我们无法知道 travis ci 的具体实现。</p>
+<h2 id="introducing-github-actions-solution">Introducing Github Actions Solution</h2>
+<p>现在开始介绍我如何使用 Github Actions 构建一个 workflow，来进行 npm package 的发布。</p>
+<p>下面介绍理想中的思路，然后拆分开来讲讲我是如何实现的。</p>
+<h3 id="release-flow-design-based-on-github-actions">Release flow design based on Github Actions</h3>
+<p>在理想的设计里，基本遵循两部分操作:</p>
+<ol>
+<li>每次提交代码 (<code>push event</code>)，触发基本的 build &amp; test pipeline</li>
+<li>每次准备发布新版本的时候，通过 <code>yarn version</code> 给即将发布的 npm package 版本迭代版本号，此操作不仅会更新 <code>package.json</code> 中的版本，还会给这个更新版本的 commit 自动打上一个 tag</li>
+<li>需要发布的时候，在 Repository 的 Github 主页中，从新版本中的 tag 创建一个新的 release。这个 <code>release event</code> 会触发 release pipeline，执行发布新版本的操作。</li>
+</ol>
+<h3 id="create-a-workflow-file">Create a workflow file</h3>
+<p>按照 Github Actions 的约定，我们需要在 Repository 根目录的 <code>.github</code> 目录下，创建一个 <code>main.workflow</code> 文件。Github 将会以 <code>.github/main.workflow</code> 作为 workflow 的入口配置文件。</p>
+<p><code>.workflow</code> 文件是 Github Workflow 的文件名后缀，其语法为 <code>hcl</code> 。</p>
+<blockquote>
+<p>2019 年 8 月初, github actions 官方宣布 actions 配置语法会从 HCL 改变为 yaml, 因此这篇文章的 HCL 部分其实在 9 月 30 日之后便失效。后面会更新一篇文章，简述新的 yaml 语法 See <a href="https://help.github.com/en/articles/migrating-github-actions-from-hcl-syntax-to-yaml-syntax">Migrating Github Actions from HCL syntax to YAML syntax</a></p>
+</blockquote>
+<p>hcl 全称 <strong>HashiCorp Configuration Language</strong>，其具体的语法规则比较容易明白，实际上可以快速的以 <code>json</code>, <code>yml</code> 的概念去理解他。</p>
+<p>Tips: 如果平时使用 IntelliJ IDEA 进行开发，那么可以通过给 <code>.workflow</code> 添加语法支持，将其识别为 <code>HCL</code> 语法，即可获得高亮与格式化</p>
+<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-syntax-highlight.png" alt=""></p>
+<p>为了实现基本操作中的第一部分: 每次提交代码时，触发基本的 build &amp; test pipeline</p>
+<p>我在 <code>main.workflow</code> 中声明 <code>build &amp; test</code> 的 pipeline。</p>
+<p>这里为了方便，我使用了 <code>workflow/ci</code> 作为他的简称。</p>
+<pre><code class="hljs hcl">workflow "workflow/ci" {
+  on = "push"
+  resolves = ["test"]
+}
+
+action "install" {
+  uses = "actions/npm@master"
+  runs = "yarn"
+}
+
+action "test" {
+  uses = "actions/npm@master"
+  needs = ["install"]
+  runs = "yarn"
+  args = "test"
+}
+</code></pre>
+<p>以上代码块，声明了一个 <code>workflow</code> 和两个 <code>actions</code> 。</p>
+<p>以 workflow 作为入口，actions 里的 <code>resolves</code> 和 <code>needs</code> 作为依赖指向，可以生成有向无环图来描述这个构建流程。</p>
+<p>其实际可以理解为：</p>
+<ol>
+<li>当触发了 github repository 的 push event 的时候，执行该名为 <code>workflow/ci</code> 的 workflow</li>
+<li><code>workflow/ci</code> 实际上只要执行名为 <code>test</code> 的 action，所以会从整个配置文件里，查找 action = <code>test</code> 的 action 并执行。</li>
+<li>当准备执行 <code>test</code> actions 之前，检查他的 <code>needs</code> 部分，哦原来执行 <code>test</code> 之前，还要先执行一个 <code>install</code> 的 action。那么现在需要按顺序执行 <code>install</code> <code>test</code> 这两个 actions</li>
+</ol>
+<p>我们开始看 <code>install</code>.</p>
+<p><code>install</code> 的内容，便是执行 <code>yarn</code> 这个命令，来安装依赖，那么这个 <code>uses</code> 何解?</p>
+<p><code>uses</code> 实际指向了一个 github actions 的名字，现在名为 <code>actions/npm@master</code> ，那么他会从 <code>[https://github.com/actions/npm](https://github.com/actions/npm)</code> 的 master 分支下，查找 <code>Dockerfile</code> ，构建出一个 docker 镜像，并且使用该 docker 镜像，执行 <code>runs</code> 和 <code>args</code> 下的命令操作，对工作目录(workspace)进行更变。</p>
+<p>说白了，这就是在一个有 <code>npm</code> 环境下执行 <code>yarn</code> 的一个操作，来安装依赖。</p>
+<p>至于如何理解 Github Actions 本身的基础运作，可能需要单独开启一篇进行讲解。</p>
+<p>现在再看 <code>test</code></p>
+<p>说白了，就是在已安装了 node 依赖的工作目录下，执行 <code>yarn test</code> 命令</p>
+<p>所以每当触发 Github 的 push event 之后，我们可以在 Github Actions 流程里看到 <code>workflow/ci</code> 的执行。</p>
+<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-ci-overview.png" alt=""></p>
+<h3 id="add-publish-workflow">Add Publish workflow</h3>
+<p>现在我们来添加一个名为 <code>release</code> 的 workflow。在 <code>main.workflow</code> 下追加如下内容:</p>
+<pre><code class="hljs hcl">workflow "release" {
+  on = "release"
+  resolves = ["npm:release"]
+}
+
+action "filter:release" {
+  uses = "actions/bin/filter@master"
+  args = "action created*"
+}
+
+
+action "npm:release" {
+  needs = "filter:release"
+  uses = "actions/npm@master"
+  secrets = ["NPM_AUTH_TOKEN"]
+  args = "publish"
+}
+</code></pre>
+<p>里面的内容大概如下:</p>
+<ol>
+<li>当收到 github 的 release event 时，触发此操作。(通常是在 Repository 主页的 Release 一栏，创建或更新 新版本 release 时触发的 event)</li>
+<li>在执行真正的 npm publish 操作之前，先使用一个名为 <code>filter: release</code> 的 action，判断是否真正的需要执行 publish。</li>
+<li>我们使用 github 官方的提供的 <code>actions/npm</code> ， npm 环境，传入一个 <code>NPM_AUTH_TOKEN</code> 的环境变量，然后执行 <code>npm publish</code> 命令进行发布。</li>
+</ol>
+<p>现在，我们在 github release 页面创建一个新 release 时</p>
+<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/create-release.png" alt=""></p>
+<p>将会触发 <code>npm:release</code> workflow：</p>
+<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.png" alt=""></p>
+<p>接着可以看到如下 detail log， 详见 <a href="https://github.com/aquariuslt/jest-properties-loader/runs/163050939">https://github.com/aquariuslt/jest-properties-loader/runs/163050939</a></p>
+<pre><code>Successfully built fbc21be41b97
+Successfully tagged gcr.io/gct-12-lnx0cl9uvvzo-abntpgke1w/484654f7adf6911ca799c01d40b80af4456b46c3418f33934c643ccc7f245f38/8a5edab282632443219e051e4ade2d1d5bbc671c781051bf1437897cbdfea0f1:fc613b4dfd6736a7bd268c8a0e74ed0d1c04a959f59dd74ef2874983fd443fc9
+Already have image (with digest): gcr.io/github-actions-images/action-runner:latest
+npm notice
+npm notice package: jest-properties-loader@1.0.3
+npm notice === Tarball Contents ===
+npm notice 764B  package.json
+npm notice 1.1kB LICENSE
+npm notice 325B  README.md
+npm notice 531B  .github/main.workflow
+npm notice 200B  lib/index.js
+npm notice 15B   test/__fixtures__/sample.properties
+npm notice 547B  test/loader.test.js
+npm notice === Tarball Details ===
+npm notice name:          jest-properties-loader
+npm notice version:       1.0.3
+npm notice package size:  2.0 kB
+npm notice unpacked size: 3.4 kB
+npm notice shasum:        dc929c7b12c0bf8e57f100f8cfb95be26fe9464e
+npm notice integrity:     sha512-dhmq60thri/8x[...]HG4ITr5zZ8fIw==
+npm notice total files:   7
++ jest-properties-loader@1.0.3
+npm notice
+
+### SUCCEEDED npm:release 14:18:26Z (16.054s)
+</code></pre>
+<p>至此，新版本的 <code>jest-properties-loader</code> 已发发布到 npm 中。</p>
+<p><strong>为什么第二步中，我需要做这样一个 filter 呢?</strong></p>
+<p>答: 因为按照 Github 的 event 列表，在 web 页面上创建一个新 release，会同时触发两个 release 事件: <code>release: created</code> 和 <code>release: published</code> 。当这两个 release 事件都触发这个 workflow 的时候，一旦其中一个 <code>npm publish</code> 命令成功发布新版本的包之后， 另外一个在执行发布操作时，就会返回一个 <strong>版本已存在</strong> 的错误，导致整个 commit status 是失败的。</p>
+<p>所以我通过 github 官方的 <code>bin/filter</code> action 来进行触发事件的过滤，保证同一次界面上的 <code>release</code> 操作只会执行一次 <code>npm publish</code> .</p>
+<p><strong>为什么在使用 <code>actions/npm</code> 时，传递一个 $NPM_AUTH_TOKEN secret 变量即可进行发布?</strong></p>
+<p>看上去跟之前提及的 "创建好一个 Auth Token 后，将其释放在 <code>.npmrc</code> 文件内" 似乎不太一样?</p>
+<p>这是因为 <code>actions/npm</code> 的 entrypoint.sh 文件，就是做了这样一部环境变量的判断。约定为 <code>$NPM_AUTH_TOKEN</code> 时，便将其写入到 <code>.npmrc</code> 文件中。</p>
+<p><a href="http://entrypoints.sh">entrypoints.sh</a> 文件大致如下，详见 <a href="https://github.com/actions/npm/blob/master/entrypoint.sh">https://github.com/actions/npm/blob/master/entrypoint.sh</a></p>
+<pre><code class="hljs bash"><span class="hljs-meta">#!/bin/sh
+</span>
+<span class="hljs-built_in">set</span> -e
+
+<span class="hljs-keyword">if</span> [ -n <span class="hljs-string">"<span class="hljs-variable">$NPM_AUTH_TOKEN</span>"</span> ]; <span class="hljs-keyword">then</span>
+  <span class="hljs-comment"># Respect NPM_CONFIG_USERCONFIG if it is provided, default to $HOME/.npmrc</span>
+  NPM_CONFIG_USERCONFIG=<span class="hljs-string">"<span class="hljs-variable">${NPM_CONFIG_USERCONFIG-"$HOME/.npmrc"}</span>"</span>
+  NPM_REGISTRY_URL=<span class="hljs-string">"<span class="hljs-variable">${NPM_REGISTRY_URL-registry.npmjs.org}</span>"</span>
+  NPM_STRICT_SSL=<span class="hljs-string">"<span class="hljs-variable">${NPM_STRICT_SSL-true}</span>"</span>
+  NPM_REGISTRY_SCHEME=<span class="hljs-string">"https"</span>
+  <span class="hljs-keyword">if</span> ! <span class="hljs-variable">$NPM_STRICT_SSL</span>
+  <span class="hljs-keyword">then</span>
+    NPM_REGISTRY_SCHEME=<span class="hljs-string">"http"</span>
+  <span class="hljs-keyword">fi</span>
+
+  <span class="hljs-comment"># Allow registry.npmjs.org to be overridden with an environment variable</span>
+  <span class="hljs-built_in">printf</span> <span class="hljs-string">"//%s/:_authToken=%s\\nregistry=%s\\nstrict-ssl=%s"</span> <span class="hljs-string">"<span class="hljs-variable">$NPM_REGISTRY_URL</span>"</span> <span class="hljs-string">"<span class="hljs-variable">$NPM_AUTH_TOKEN</span>"</span> <span class="hljs-string">"<span class="hljs-variable">${NPM_REGISTRY_SCHEME}</span>://<span class="hljs-variable">$NPM_REGISTRY_URL</span>"</span> <span class="hljs-string">"<span class="hljs-variable">${NPM_STRICT_SSL}</span>"</span> &gt; <span class="hljs-string">"<span class="hljs-variable">$NPM_CONFIG_USERCONFIG</span>"</span>
+
+  chmod 0600 <span class="hljs-string">"<span class="hljs-variable">$NPM_CONFIG_USERCONFIG</span>"</span>
+<span class="hljs-keyword">fi</span>
+
+sh -c <span class="hljs-string">"npm $*"</span>
+</code></pre>
+<h2 id="finally">Finally</h2>
+<p>最后总结，通过本次 Github Actions 的实践，大致了解了:</p>
+<ul>
+<li>Github Actions 的基本概念</li>
+<li>Workflow 的基本组成，配置概念及其运行表象</li>
+<li>Travis CI Pipeline 对应的 Github Actions</li>
+<li>如何通过 Github Actions 自动发布 NPM Package</li>
+</ul>
+<h2 id="references">References</h2>
+<ul>
+<li>Github Actions Official Document - <a href="https://developer.github.com/actions/">https://developer.github.com/actions/</a></li>
+<li>Github Actions Marketplace - <a href="https://github.com/marketplace">https://github.com/marketplace</a></li>
+<li>Creating a workflow with github actions - <a href="https://help.github.com/en/articles/creating-a-workflow-with-github-actions">https://help.github.com/en/articles/creating-a-workflow-with-github-actions</a></li>
+</ul>
+<h2 id="further-reading">Further Reading</h2>
+<ul>
+<li>Automate your NPM publish with GitHub Actions - <a href="https://medium.com/faun/automate-your-npm-publish-with-github-actions-dfe8059645dd">https://medium.com/faun/automate-your-npm-publish-with-github-actions-dfe8059645dd</a></li>
+<li>HCL (HashiCorp Configuration Language) - <a href="https://github.com/hashicorp/hcl">https://github.com/hashicorp/hcl</a></li>
+</ul>
+</div></div></div><div class="jss135"><nav class="jss151"><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 8px;">Github Actions: Overview and Practice</li><ul class="MuiTypography-root jss153 MuiTypography-body1"><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">Background</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">Before Reading</li><ul class="MuiTypography-root jss153 MuiTypography-body1"><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">What is Github Actions</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">How configuration look like</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">How workflow runtime look like</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">Example Project</li><ul class="MuiTypography-root jss153 MuiTypography-body1"><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">Project Overview</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">Manual Release Flow</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">Existing CI CD Flow</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">Introducing Github Actions Solution</li><ul class="MuiTypography-root jss153 MuiTypography-body1"><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">Release flow design based on Github Actions</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">Create a workflow file</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 24px;">Add Publish workflow</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">Finally</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">References</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul><li class="MuiTypography-root jss154 MuiTypography-body1" style="padding-left: 16px;">Further Reading</li><ul class="MuiTypography-root jss153 MuiTypography-body1"></ul></ul></nav></div></div></main></div></div><script type="text/javascript" src="/static/js/vendor.ab4c04b17b8ef5efc834.js"></script><script type="text/javascript" src="/static/js/main.5750d05a29b70efcb960.js"></script></body></html>

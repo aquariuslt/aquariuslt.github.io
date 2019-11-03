@@ -28,27 +28,27 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "api/categories.json",
-    "revision": "12c13a0571fe1f7bdaeecfd790b628c6"
+    "revision": "2cbe8ceaea3bb01faf19b094b8732666"
   },
   {
     "url": "api/categories/blog.json",
-    "revision": "7822800e2e2c75847c33e142f34f2cc7"
+    "revision": "e355e9f4e0ae2e1ef3490eceaa8982bd"
   },
   {
     "url": "api/categories/debug.json",
-    "revision": "ca67f6314fbc88a718f11400fd54f694"
+    "revision": "2bdc9d1b8c5ca04289502c3178322187"
   },
   {
     "url": "api/categories/note.json",
-    "revision": "0870ec0bb77edb9b222d45fa9bf6343f"
+    "revision": "29c9707cd9fb235e2edbcea6af72d1bf"
   },
   {
     "url": "api/categories/others.json",
-    "revision": "6085e6cb7a421a8f608f046b16f1e2cf"
+    "revision": "f757e1c0e5efa68657f8cc1700077eff"
   },
   {
     "url": "api/home.json",
-    "revision": "9178d58eac836dcab06620a7f30d3860"
+    "revision": "b074b3d08390aca76ddb26af7a5ee1d0"
   },
   {
     "url": "api/navigation.json",
@@ -56,99 +56,99 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts.json",
-    "revision": "2a442929b59fde76fab71cce4b5e2a26"
+    "revision": "f009bee84b6e98427e41803b45b88f4b"
   },
   {
     "url": "api/posts/2015/10/25/apache-shiro-spring-integration.json",
-    "revision": "32a29d794044570132f5cde6d85951b1"
+    "revision": "4ff8df278257ac6b41989faaa668efab"
   },
   {
     "url": "api/posts/2015/11/10/beanutils-vs-reflection.json",
-    "revision": "379e14980a4aae56986df8c996c7510c"
+    "revision": "89fa416a969b2e50c26be301795ff3c8"
   },
   {
     "url": "api/posts/2015/12/13/ubuntu-mean-development-environment-setup.json",
-    "revision": "8d031f5a327a11d344a2a0a8544be179"
+    "revision": "6c9f8f8a2286b9a4865b9754c51424cd"
   },
   {
     "url": "api/posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file.json",
-    "revision": "cfcf1ddfc6010ae035a8f9e87219c1a2"
+    "revision": "8eb0f11775934314f69511a2a9900bbe"
   },
   {
     "url": "api/posts/2015/12/27/site-upgrade-plan.json",
-    "revision": "a0d7cc05bae126626f3660ff9e991f1b"
+    "revision": "1c41ceccc2cd899a53d0df0c77104202"
   },
   {
     "url": "api/posts/2016/01/01/review-2015.json",
-    "revision": "af3a4d80384b862a2c0ba45e831690df"
+    "revision": "7e5b91193b190b8be60f5eb364015c4d"
   },
   {
     "url": "api/posts/2016/01/11/nodejs-oracledb-install-on-rhel-6.json",
-    "revision": "e2f0beec0e5e3506716990c33e962c46"
+    "revision": "f752819d19ef1130a6f227196f9a7fd6"
   },
   {
     "url": "api/posts/2016/01/12/nodejs-oracledb-ora-21561-solution.json",
-    "revision": "4fba37ac5d9c7feb40ad7ba9b102e922"
+    "revision": "8712b29c29076a9231b212b53613855b"
   },
   {
     "url": "api/posts/2016/03/06/site-code-structure.json",
-    "revision": "a3b668e145393015a2f281a099bb7899"
+    "revision": "70cac4edbad8f28c446c366fa7f13553"
   },
   {
     "url": "api/posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide.json",
-    "revision": "36f28caf46f8fec96a3dfb3f83489465"
+    "revision": "a6b62e52167d029ccd1b9ae6f935d4df"
   },
   {
     "url": "api/posts/2016/04/10/google-codejam-2016-qualification-round.json",
-    "revision": "aeb21a5788198baaeb60c81cebb533d8"
+    "revision": "47f5825433512ccc7bf99c917807681e"
   },
   {
     "url": "api/posts/2016/04/30/angular-ui-performance-tuning-experience.json",
-    "revision": "dfdcce8dfeba7fe788dfdc12a017d7e2"
+    "revision": "0d28604b448268de95086c6b668d1337"
   },
   {
     "url": "api/posts/2016/07/05/move-to-new-apartment.json",
-    "revision": "ac0bd82b9fa0ae3129222e0280cf3094"
+    "revision": "034650be36009459a1b0d525045778fa"
   },
   {
     "url": "api/posts/2017/01/01/review-2016.json",
-    "revision": "a759daf5adca2a496eeb1e8a63c4f15a"
+    "revision": "3e51ed63aeee85a315a6d9a64a2abd40"
   },
   {
     "url": "api/posts/2017/03/12/new-version-blog-migration.json",
-    "revision": "4d3d5e7fa20acd9fceb8c2a363ce2746"
+    "revision": "91247c57e16f273029e4981468405dba"
   },
   {
     "url": "api/posts/2017/05/05/vue-version-for-blog-app.json",
-    "revision": "da22a190988a7bd6d3cc4b3e048bc7f4"
+    "revision": "8b432fa168e01ee1a9aab9d928dfa4dd"
   },
   {
     "url": "api/posts/2018/01/01/review-2017.json",
-    "revision": "2eecb204ff7d9e394adb00a5244a97a1"
+    "revision": "8b1f2313649b91c6fe8ac5d9468aec4c"
   },
   {
     "url": "api/posts/2018/03/03/latest-update-on-blog-app.json",
-    "revision": "aa5400990e37e9a002d4e215f6f2940d"
+    "revision": "390afc16bfba9f99f9c0a2355f4abc0b"
   },
   {
     "url": "api/posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution.json",
-    "revision": "c792a04faf200e2718b356947fdb644c"
+    "revision": "52327b6f0baaf737a54f3594fc11b097"
   },
   {
     "url": "api/posts/2018/04/01/karma-jawr-development-note.json",
-    "revision": "8dd1594ff231d7ce3dffb30b6ce030bf"
+    "revision": "614e5e4b5cb489dc145420c52df25ad9"
   },
   {
     "url": "api/posts/2019/07/07/github-actions-overview-and-practice.json",
-    "revision": "df9903689d77b22ed5170943f10aa90f"
+    "revision": "e59039c682b12f498c753138f4d0b44a"
   },
   {
     "url": "api/posts/2019/07/23/travel-in-beijing.json",
-    "revision": "210ab470bec0034d822812bc3a1d62cb"
+    "revision": "7e6d06eb5119f1fc4df6e641fc9f83ed"
   },
   {
     "url": "api/posts/2019/08/18/github-actions-new-yaml-syntax.json",
-    "revision": "170baf0d308876496dbd96a32f0f9c6d"
+    "revision": "f92e278c08707d6f8df39cdd8ebea133"
   },
   {
     "url": "api/profile.json",
@@ -156,235 +156,163 @@ self.__precacheManifest = [
   },
   {
     "url": "api/tags.json",
-    "revision": "0eac93fd2df59c3e1adb23cfad1a195b"
+    "revision": "717b4c0cfde5933345652784ef2d8661"
   },
   {
     "url": "api/tags/actions.json",
-    "revision": "8554f328587b478a2aaea031350b99a7"
+    "revision": "342f56d282cc3faccca424959bc6e81d"
   },
   {
     "url": "api/tags/angular.json",
-    "revision": "ad3f5eec9a0cedde6e32ec339eee9393"
+    "revision": "603c30514b06c1a84f9b1fe02ac33d25"
   },
   {
     "url": "api/tags/angularjs.json",
-    "revision": "5af93c8a49cf01edce300bf43d54528a"
+    "revision": "0e29e0293205d476b410a4444aa0b0c7"
   },
   {
     "url": "api/tags/apache.json",
-    "revision": "de62665c9ad8e5bb8a4adecf046a9ddf"
+    "revision": "b32656d3204dd7f47631e00fa5f4763e"
   },
   {
     "url": "api/tags/blog.json",
-    "revision": "b019383c8c2936922e1de81433b99112"
+    "revision": "ed2830176278cbcabbc8c805efadf511"
   },
   {
     "url": "api/tags/ci.json",
-    "revision": "407020d87a6dcc11cf9b340c550564ae"
+    "revision": "080386f111afc49e19e15ee919da8d19"
   },
   {
     "url": "api/tags/diary.json",
-    "revision": "a4213230999b3613d216a12f16c416f9"
+    "revision": "9fc04339d005b941dca08bc9b527bf95"
   },
   {
     "url": "api/tags/docker.json",
-    "revision": "20b5abbd04a74dd593b2874f61830d5c"
+    "revision": "df13f8c17540e460c290e089cb42a280"
   },
   {
     "url": "api/tags/extjs.json",
-    "revision": "d325451065add715a88bede43498a49d"
+    "revision": "72df1dc3eb1a2a334a6cbb2dc19231b5"
   },
   {
     "url": "api/tags/github.json",
-    "revision": "5005eeda6b75c8e8e008319a8df04c1b"
+    "revision": "940556883fb6afe472310995585e8f18"
   },
   {
     "url": "api/tags/google.json",
-    "revision": "942d75e257950347c7cfce558ea26df5"
+    "revision": "2818186d6af0ea10fb5f4f9474c3eb82"
   },
   {
     "url": "api/tags/gulp.json",
-    "revision": "ca613f7a4ef2fdc9fb6db40dcf707387"
+    "revision": "56314a01e2d088a90f22ee8fa323f147"
   },
   {
     "url": "api/tags/hadoop.json",
-    "revision": "fbbabc00d1432125083bf26fc1a7c936"
+    "revision": "dc8f4c3c0966195bc476ac521a9d2c54"
   },
   {
     "url": "api/tags/intellij-idea.json",
-    "revision": "4cd8f574a808d8d1a9d7d773aa00ce08"
+    "revision": "0abfb2a5ddac46ad859c1c33e43448a0"
   },
   {
     "url": "api/tags/java.json",
-    "revision": "682a3e12d65b1068b53e5b0a078305df"
+    "revision": "4a9f3e4f32d61f65f938caa7460785fe"
   },
   {
     "url": "api/tags/javascript.json",
-    "revision": "a32be3bdd24e9801edabc7b002f9fe4a"
+    "revision": "bc7ea9e6240cbbf649d1bb25fb1e8386"
   },
   {
     "url": "api/tags/jawr.json",
-    "revision": "dd6dc82fcb5203d31f76b0b50072be61"
+    "revision": "024650550096b2610056aadaff3c040e"
   },
   {
     "url": "api/tags/jsf.json",
-    "revision": "4cf71dc9bf5464f29187bb91525931b7"
+    "revision": "4529905efc695ad1844422ad4d01bf02"
   },
   {
     "url": "api/tags/karma.json",
-    "revision": "dc1f37fb6b059dcbbeedff8b74142390"
+    "revision": "8537d098bdf1af296c13d28456185de9"
   },
   {
     "url": "api/tags/linux.json",
-    "revision": "45a0733bfbb5dde94044097c5af79051"
+    "revision": "9e7b4fefa6b9e639f8a19cb5c3574f7f"
   },
   {
     "url": "api/tags/node.json",
-    "revision": "6c11ca1086cd4889e5b21716d3568d80"
+    "revision": "915ec6cf72687d9029c6bbff3e8a3836"
   },
   {
     "url": "api/tags/npm.json",
-    "revision": "fa0efe9e211e07a9bac434c6569853b3"
+    "revision": "5cb8c2d69776f36c729480695f1db39f"
   },
   {
     "url": "api/tags/oracle.json",
-    "revision": "7a2a26230abe8bafce29fabcf3415524"
+    "revision": "2331c96a2c702b36afd220f3709b51e0"
   },
   {
     "url": "api/tags/pwa.json",
-    "revision": "6643bd0fd61090f2f328c3bd0ff6ee2e"
+    "revision": "c94dbe6c29ab618065921c37fa896986"
   },
   {
     "url": "api/tags/security.json",
-    "revision": "2871984a7bca49c2c343774903961b45"
+    "revision": "8b157d34dc5f45356d99065067d078a2"
   },
   {
     "url": "api/tags/shiro.json",
-    "revision": "37df9b2792b2347d9a7afc424243e072"
+    "revision": "073191dfb4a4137d893bdf4891f228e2"
   },
   {
     "url": "api/tags/site.json",
-    "revision": "e0ce45cc0fcb84b7d9612aa037c30421"
+    "revision": "318e455f256f18ef670a263e664679ba"
   },
   {
     "url": "api/tags/spring.json",
-    "revision": "ade4af83534e580550a1e16d6122bf0b"
+    "revision": "a1143c7ecb3553abc42a8ea6f8f8e46f"
   },
   {
     "url": "api/tags/springmvc.json",
-    "revision": "fe1a1fa7457b5305f782c7f2693ebbbf"
+    "revision": "1777e4e9fabfbe5a3dc403e023d08577"
   },
   {
     "url": "api/tags/travisci.json",
-    "revision": "146404585faa5eb3c3ddd93606cf46dc"
+    "revision": "9796bb0cd01a6bc34b89a6debe6e6f40"
   },
   {
     "url": "api/tags/trips.json",
-    "revision": "2932fc8f73428ef9fa44785c26c81c83"
+    "revision": "1fcfc8c94a66dbd72a728426073eb721"
   },
   {
     "url": "api/tags/ubuntu.json",
-    "revision": "eed943f275dd07ebb180f1ff34497555"
+    "revision": "d39e69df03654dc60a5e69503d8fa0f9"
   },
   {
     "url": "api/tags/vps.json",
-    "revision": "f161d9a26c5bc91046f203f1fe0ad046"
+    "revision": "8c0d91c277eef7fc615614c7a35401e0"
   },
   {
     "url": "api/tags/vue.json",
-    "revision": "3af92a8b9500a611f72111609e627b31"
+    "revision": "fe64d599cd234ca37d625ff72d78e852"
   },
   {
     "url": "api/tags/webpack.json",
-    "revision": "672ee6b70eea489fbe3ddbb561b49bdb"
+    "revision": "c14484870fa823b12e0df176385068e1"
   },
   {
-    "url": "css/about.f196d9fa.css",
-    "revision": "59d671d1c0bd29f1d16e9428d7b2bd74"
+    "url": "static/css/1.8117726a6a1a2a1956cd.css",
+    "revision": "8ceacd6286906a667c21221c5bd64a42"
   },
   {
-    "url": "css/app.4df1cf9a.css",
-    "revision": "f3a365ba235ce37a05007150d39b7a17"
+    "url": "static/css/main.78edc3999dc2a43acbfa.css",
+    "revision": "1c88b0307f7fb4f0cdce3ca0c6617faf"
   },
   {
-    "url": "css/chunk-vendors.c7457377.css",
-    "revision": "962c7b7b013acd1146d0b020761126e2"
+    "url": "static/js/main.78edc3999dc2a43acbfa.js",
+    "revision": "0657f222cda6b6ddc7b71840dc62d5d9"
   },
   {
-    "url": "css/detail.550d548d.css",
-    "revision": "ecfcf9cd4415cfc2736aa1003a998b34"
-  },
-  {
-    "url": "js/about.0c790d27.js",
-    "revision": "95ea226699798cfa264e0bd5418f9a9f"
-  },
-  {
-    "url": "js/app.765b35a7.js",
-    "revision": "486b2c915d86c7a40760e0f565f27b7c"
-  },
-  {
-    "url": "js/chunk-vendors.6db92837.js",
-    "revision": "dd10326c285dae391b8f0a2a96447bba"
-  },
-  {
-    "url": "js/detail.31c13955.js",
-    "revision": "8759ae7900fd51fb4c57806680dcd2f6"
-  },
-  {
-    "url": "manifest.json",
-    "revision": "e6efd2eaa0b5f132d53584845fc5a6e7"
-  },
-  {
-    "url": "precache-manifest.28599369bbcbd18333f0fc24130aa20a.js",
-    "revision": "28599369bbcbd18333f0fc24130aa20a"
-  },
-  {
-    "url": "img/icons/android-chrome-192x192.png",
-    "revision": "b3409523f31434ac67699e07f3b27634"
-  },
-  {
-    "url": "img/icons/android-chrome-512x512.png",
-    "revision": "6f1e733b04d367ca7c9321846b422a2e"
-  },
-  {
-    "url": "img/icons/apple-touch-icon-120x120.png",
-    "revision": "42de0ffe5cc5624b9950b59f9f2a0e2c"
-  },
-  {
-    "url": "img/icons/apple-touch-icon-152x152.png",
-    "revision": "3e79e573b0522e513c93aee4b02bb8e0"
-  },
-  {
-    "url": "img/icons/apple-touch-icon-180x180.png",
-    "revision": "31588024424fde4698f9de27373c93c7"
-  },
-  {
-    "url": "img/icons/apple-touch-icon-60x60.png",
-    "revision": "9a2b5c0f19de617685b7b5b42464e7db"
-  },
-  {
-    "url": "img/icons/apple-touch-icon-76x76.png",
-    "revision": "af28d69d59284dd202aa55e57227b11b"
-  },
-  {
-    "url": "img/icons/apple-touch-icon.png",
-    "revision": "31588024424fde4698f9de27373c93c7"
-  },
-  {
-    "url": "img/icons/favicon-16x16.png",
-    "revision": "4bb1a55479d61843b89a2fdafa7849b3"
-  },
-  {
-    "url": "img/icons/favicon-32x32.png",
-    "revision": "98b614336d9a12cb3f7bedb001da6fca"
-  },
-  {
-    "url": "img/icons/msapplication-icon-144x144.png",
-    "revision": "b89032a4a5a1879f30ba05a13947f26f"
-  },
-  {
-    "url": "img/icons/mstile-150x150.png",
-    "revision": "e2dfbc7649896961834803ffe3c8f03e"
+    "url": "static/js/vendor.8117726a6a1a2a1956cd.js",
+    "revision": "8b0a071778a1e9e6998b706d51e1c904"
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/cover.png",
@@ -755,24 +683,104 @@ self.__precacheManifest = [
     "revision": "ad0df58b3619051a7ea4ee5713a77a6a"
   },
   {
-    "url": "fonts/materialdesignicons-webfont.043774d1.woff",
-    "revision": "043774d1de6da96b11c8ade1a61c60cb"
+    "url": "static/fonts/roboto-latin-100.woff",
+    "revision": "5cb7edfceb233100075dc9a1e12e8da3"
   },
   {
-    "url": "fonts/materialdesignicons-webfont.27cb2cf1.woff2",
-    "revision": "27cb2cf143cf204f7cfc210089fd10e8"
+    "url": "static/fonts/roboto-latin-100.woff2",
+    "revision": "7370c3679472e9560965ff48a4399d0b"
   },
   {
-    "url": "fonts/materialdesignicons-webfont.9bfeb985.ttf",
-    "revision": "9bfeb985a91e5545d78b906676d8e6fb"
+    "url": "static/fonts/roboto-latin-100italic.woff",
+    "revision": "f9e8e590b4e0f1ff83469bb2a55b8488"
   },
   {
-    "url": "fonts/materialdesignicons-webfont.e971abae.eot",
-    "revision": "e971abae304374a81d9f7cea55039de8"
+    "url": "static/fonts/roboto-latin-100italic.woff2",
+    "revision": "f8b1df51ba843179fa1cc9b53d58127a"
+  },
+  {
+    "url": "static/fonts/roboto-latin-300.woff",
+    "revision": "b00849e00f4c2331cddd8ffb44a6720b"
+  },
+  {
+    "url": "static/fonts/roboto-latin-300.woff2",
+    "revision": "ef7c6637c68f269a882e73bcb57a7f6a"
+  },
+  {
+    "url": "static/fonts/roboto-latin-300italic.woff",
+    "revision": "4df32891a5f2f98a363314f595482e08"
+  },
+  {
+    "url": "static/fonts/roboto-latin-300italic.woff2",
+    "revision": "14286f3ba79c6627433572dfa925202e"
+  },
+  {
+    "url": "static/fonts/roboto-latin-400.woff",
+    "revision": "60fa3c0614b8fb2f394fa29944c21540"
+  },
+  {
+    "url": "static/fonts/roboto-latin-400.woff2",
+    "revision": "479970ffb74f2117317f9d24d9e317fe"
+  },
+  {
+    "url": "static/fonts/roboto-latin-400italic.woff",
+    "revision": "fe65b8335ee19dd944289f9ed3178c78"
+  },
+  {
+    "url": "static/fonts/roboto-latin-400italic.woff2",
+    "revision": "51521a2a8da71e50d871ac6fd2187e87"
+  },
+  {
+    "url": "static/fonts/roboto-latin-500.woff",
+    "revision": "87284894879f5b1c229cb49c8ff6decc"
+  },
+  {
+    "url": "static/fonts/roboto-latin-500.woff2",
+    "revision": "020c97dc8e0463259c2f9df929bb0c69"
+  },
+  {
+    "url": "static/fonts/roboto-latin-500italic.woff",
+    "revision": "288ad9c6e8b43cf02443a1f499bdf67e"
+  },
+  {
+    "url": "static/fonts/roboto-latin-500italic.woff2",
+    "revision": "db4a2a231f52e497c0191e8966b0ee58"
+  },
+  {
+    "url": "static/fonts/roboto-latin-700.woff",
+    "revision": "adcde98f1d584de52060ad7b16373da3"
+  },
+  {
+    "url": "static/fonts/roboto-latin-700.woff2",
+    "revision": "2735a3a69b509faf3577afd25bdf552e"
+  },
+  {
+    "url": "static/fonts/roboto-latin-700italic.woff",
+    "revision": "81f57861ed4ac74741f5671e1dff2fd9"
+  },
+  {
+    "url": "static/fonts/roboto-latin-700italic.woff2",
+    "revision": "da0e717829e033a69dec97f1e155ae42"
+  },
+  {
+    "url": "static/fonts/roboto-latin-900.woff",
+    "revision": "bb1e4dc6333675d11ada2e857e7f95d7"
+  },
+  {
+    "url": "static/fonts/roboto-latin-900.woff2",
+    "revision": "9b3766ef4a402ad3fdeef7501a456512"
+  },
+  {
+    "url": "static/fonts/roboto-latin-900italic.woff",
+    "revision": "28f9151055c950874d2c6803a39b425b"
+  },
+  {
+    "url": "static/fonts/roboto-latin-900italic.woff2",
+    "revision": "ebf6d1640ccddb99fb49f73c052c55a8"
   },
   {
     "url": "index.html",
-    "revision": "1dfc0608b1262f9bf100c31ea7a1ca7a"
+    "revision": "e34fd34ebf405e5e31e1567db9025bcf"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

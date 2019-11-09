@@ -990,95 +990,95 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "7b72baa788efdafc0e20bffb797b300e"
+    "revision": "1f71ddcb2ab1e86c03c80a98e9e3a1d0"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "896589149f2e57740e64f850d12ca18f"
+    "revision": "10f74a3754281ffc4ab35ce758c635b6"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "8b5bdd235e89e83f94af12371cc6c61c"
+    "revision": "dc2154db7359a935ca2279016cfdd954"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "bd46d260a6b71c70bbce4b80893a618a"
+    "revision": "dfcb56f32ccabfa15f595fe273914654"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "5b727b427b74efe7ead55fcc2cd81603"
+    "revision": "8fc4d1164cf96c86d6192467a980499d"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "7342399c7bcc709d6eff031d13c111fd"
+    "revision": "600c7950258c17c6d9afedbcb8cb4997"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "b862580e9d4f5145fe76496770e00064"
+    "revision": "19300ae1739215405d015a4e00c6b7ef"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "48ac4c882a5a449b6a7d5fe8a1394a0c"
+    "revision": "8a5551ae4ea3e92cc20450d97dbc0ca5"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "265a960fc83611e75c24ad2933de3b5f"
+    "revision": "605b92a40a4698dc03bae99555379e6d"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "6484f3cf5b4a9b4a4835161f090bec19"
+    "revision": "ecf920f45560115553e55eaf505fe3d0"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "26f4a48a2b9b2a996ebb34e50a57c3b0"
+    "revision": "2262f88ea155013533e2622e66f7626d"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "5c17f48879d94347ae7f688c0b80a9c3"
+    "revision": "12342e7c6e4e295d99452b4262965f2a"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "e7f97b17f7926c7f3033dc5030dc3a96"
+    "revision": "386aea4bd3199917d120ff6a553a1eba"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "b3b2a9608e6d3f2fe81e79458bbf1b77"
+    "revision": "2c6412f9d15c150d67bd00d23820492e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "b90ae75cd7a679735ec2f79c34350051"
+    "revision": "a80394a6f3e9598d14ffc4cc0a3adc2f"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "7ac2f5b36541899d5df702fe1ee573a3"
+    "revision": "7bb78a4b6a83b32b0cf1ca76eeeb9edb"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "48da4893b03ab23c57b906a9dc034613"
+    "revision": "4d23d2b5a5815f5b4741fe9751e621de"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "01fe91d25114cb6ff1d2500871807ff6"
+    "revision": "9e54f37829850c223879660f23a358b7"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "a815c58100394125e5e9cf20e6fcef61"
+    "revision": "19c62db428847dfac0590a0a8dc05d93"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "41f9b577dbee848323410782da997bca"
+    "revision": "d751c661eb0383dfd03e44f1055b0b8f"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "0a3b1c4037547d1a31a4e4efe1bb59f2"
+    "revision": "ad8eb84b0852b97461b48bdd1fa999f7"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "99bb46eab93d4669f3c4de7bfde7c972"
+    "revision": "205c4302ca40dee7910d3103042979d6"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "a0ab20d352c454cdc1f4f827c15b8843"
+    "revision": "18e36d5c7007185b033252019a665828"
   },
   {
     "url": "posts/index.html",
@@ -1178,7 +1178,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/oracle/index.html",
-    "revision": "c6388a0f46ff88fd0b9345dca06f0b0f"
+    "revision": "b46adcd2dc74a26eb33183d380eab543"
   },
   {
     "url": "tags/pwa/index.html",

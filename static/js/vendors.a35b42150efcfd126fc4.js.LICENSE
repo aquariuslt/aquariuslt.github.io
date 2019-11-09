@@ -27,10 +27,6 @@ object-assign
 @license MIT
 */
 
-/*! lozad.js - v1.14.0 - 2019-10-19
-* https://github.com/ApoorvSaxena/lozad.js
-* Copyright (c) 2019 Apoorv Saxena; Licensed MIT */
-
 /** @license React v16.11.0
  * react.production.min.js
  *
@@ -73,5 +69,9 @@ object-assign
  * @author   Feross Aboukhadijeh <https://feross.org>
  * @license  MIT
  */
+
+/*! lozad.js - v1.14.0 - 2019-10-19
+* https://github.com/ApoorvSaxena/lozad.js
+* Copyright (c) 2019 Apoorv Saxena; Licensed MIT */
 
 /*! smooth-scroll v16.1.0 | (c) 2019 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/smooth-scroll */

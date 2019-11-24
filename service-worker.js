@@ -334,7 +334,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "9a950ebfa7eb5ac0e026b9e7bc4e74d9"
+    "revision": "64564a314110810af5bc19de99123b9b"
   },
   {
     "url": "static/js/detail.a40ce6547a940a59c5ff.js",
@@ -1030,11 +1030,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "93b98c2c5c032c6cf1d527cb614f80aa"
+    "revision": "2ae99eb247d8037f52c2a565056c05b0"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "158450fb4b5443d288793c6220e22830"
+    "revision": "57313f58e6aa1ff6f005e65aff0cad4a"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
@@ -1050,7 +1050,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "bfa7d543e5841638b7bf8d4869795f3d"
+    "revision": "a1c9171cce58b9761aceec727ee2115f"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1074,11 +1074,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "eca85eb9a8edf6d2a2f79538453f14fd"
+    "revision": "30749b60f12cd10ec43d12d1d026e8a0"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "bf6201d95f0382d909488e4a493f696d"
+    "revision": "51311ff821b388ea18e9ec835b06c255"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
@@ -1086,35 +1086,35 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "c689da0c60d52c2a9c06f33304128f5f"
+    "revision": "a4f05dadeb0f233cfb55c4643cb4933d"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "03c8aa9518a225ad773bc77b2b077f04"
+    "revision": "8f4ca123f3104a88e2cad94037234a4c"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "50bb232651bd3bd3f8b40952221c9709"
+    "revision": "bcf518e862039c1a8bce4c78a69369b3"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "2433da146e27592c230cd8500185e51b"
+    "revision": "57112ca4d4c097ea7e1bbd0a7e66e0cf"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "57a83a1eb330a65dac8c55c2689dd0b8"
+    "revision": "1f8f861e6da5dcd6a08e2343127e0134"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "f5750495437e76ea3bc4f8462256ad06"
+    "revision": "55bb5d354d718ce2e31d3612eddf2c70"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "8e8c32394a8497e9014b5c5a874dd8ea"
+    "revision": "e302c5fd75d5fb12d7459298ce123ea0"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "0c952f4143e23b1ffe687da639d7c5ff"
+    "revision": "d75b33b5c2b6de109a6376729247749c"
   },
   {
     "url": "posts/index.html",

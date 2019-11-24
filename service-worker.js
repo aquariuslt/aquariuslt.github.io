@@ -334,7 +334,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "64564a314110810af5bc19de99123b9b"
+    "revision": "9ac681a0c1fe7055146247ed19d80fea"
   },
   {
     "url": "static/js/detail.e1990c6effc3984127e0.js",
@@ -1018,7 +1018,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a290876fa0f23b7dd712d11257d23499"
+    "revision": "e9e77f636a17ec3f177dccb0c49ebf35"
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
@@ -1026,27 +1026,27 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "7276374c04b35e7c46417558afe74ee5"
+    "revision": "f2ddeb8a093bfe632b1fb7a003c0af80"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "e1690ffb75d01bb635f8b995b48a3f83"
+    "revision": "a1ae660a0bd1c542f65ad7f1349edab2"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "ea6c84ceb0f79b04a0a29e54082b0c63"
+    "revision": "a638ac37d08810f524f4dc218b343618"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "98b960816be579bba1362aa713e574c4"
+    "revision": "00137fa4785beb75ca8c1743583a09a0"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "e659248ee009c97701de45f50880cfc1"
+    "revision": "4d3d997de7fa7cf19e3ed260d46c0054"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "76c0ee2cc59beb00ed7f78e66a2cca96"
+    "revision": "939693bc27dac37f340e09069ec58c39"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
@@ -1114,7 +1114,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "dd3262b4b6ca1b69fcf2cd86ee6f9d7d"
+    "revision": "8c2798bf355da0c6926dd70fa2bfa5ae"
   },
   {
     "url": "posts/index.html",

@@ -1022,11 +1022,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "172c81080b4f4d7598f28cf7934c93ad"
+    "revision": "441b6d6eb67748f9da4a0ba3ac086451"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "31c18805c0b56eb7c45e9484a452170d"
+    "revision": "7464e0247d8878f2a371dcfe8ea467de"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1034,15 +1034,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "57313f58e6aa1ff6f005e65aff0cad4a"
+    "revision": "158450fb4b5443d288793c6220e22830"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "17356258c20fd9bb79ced4340cb5736c"
+    "revision": "5d80566b578be5910c358a9d909734c3"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "f71703365542862a289fea933f6e69e3"
+    "revision": "1602a53f7464e704978ad0c28f6c9a2e"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
@@ -1050,7 +1050,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "a1c9171cce58b9761aceec727ee2115f"
+    "revision": "bfa7d543e5841638b7bf8d4869795f3d"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1062,7 +1062,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "f446ac88cbf3cb3835fee73f15c4dafc"
+    "revision": "bcc0a755a276ae2388ce4483f73e66e7"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
@@ -1070,15 +1070,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "1e7697bf1ae5a9ae10f2f76f6938a4ac"
+    "revision": "878cb276715345a0c65a4aae69f8583c"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "30749b60f12cd10ec43d12d1d026e8a0"
+    "revision": "6bbb98bf111613d9682166a154f925e9"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "51311ff821b388ea18e9ec835b06c255"
+    "revision": "d0ca61e728323f019f6f26acb54db2f5"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",

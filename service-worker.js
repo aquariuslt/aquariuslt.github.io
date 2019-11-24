@@ -150,7 +150,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2019/11/14/monorepo-practice-in-typescript-projects.json",
-    "revision": "3d03be9999748816277d93c0b0e994de"
+    "revision": "fc025c3b67ccfca5a3d502f48f490a25"
   },
   {
     "url": "api/profile.json",
@@ -1022,11 +1022,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "441b6d6eb67748f9da4a0ba3ac086451"
+    "revision": "172c81080b4f4d7598f28cf7934c93ad"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "7464e0247d8878f2a371dcfe8ea467de"
+    "revision": "31c18805c0b56eb7c45e9484a452170d"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1034,15 +1034,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "57313f58e6aa1ff6f005e65aff0cad4a"
+    "revision": "158450fb4b5443d288793c6220e22830"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "72b064a7d84eda45de5cfcc16b148028"
+    "revision": "17356258c20fd9bb79ced4340cb5736c"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "1602a53f7464e704978ad0c28f6c9a2e"
+    "revision": "f71703365542862a289fea933f6e69e3"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
@@ -1062,7 +1062,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "bcc0a755a276ae2388ce4483f73e66e7"
+    "revision": "f446ac88cbf3cb3835fee73f15c4dafc"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
@@ -1070,51 +1070,51 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "878cb276715345a0c65a4aae69f8583c"
+    "revision": "1e7697bf1ae5a9ae10f2f76f6938a4ac"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "6bbb98bf111613d9682166a154f925e9"
+    "revision": "eca85eb9a8edf6d2a2f79538453f14fd"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "51311ff821b388ea18e9ec835b06c255"
+    "revision": "bf6201d95f0382d909488e4a493f696d"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "ff6000c767103fb0c2b8bd25a6270989"
+    "revision": "99eb5c84083801b0236f1e4c4d69bb70"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "a4f05dadeb0f233cfb55c4643cb4933d"
+    "revision": "c689da0c60d52c2a9c06f33304128f5f"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "8f4ca123f3104a88e2cad94037234a4c"
+    "revision": "03c8aa9518a225ad773bc77b2b077f04"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "bcf518e862039c1a8bce4c78a69369b3"
+    "revision": "50bb232651bd3bd3f8b40952221c9709"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "57112ca4d4c097ea7e1bbd0a7e66e0cf"
+    "revision": "2433da146e27592c230cd8500185e51b"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "1f8f861e6da5dcd6a08e2343127e0134"
+    "revision": "57a83a1eb330a65dac8c55c2689dd0b8"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "55bb5d354d718ce2e31d3612eddf2c70"
+    "revision": "f5750495437e76ea3bc4f8462256ad06"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "e302c5fd75d5fb12d7459298ce123ea0"
+    "revision": "8e8c32394a8497e9014b5c5a874dd8ea"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "919f350ac6fe13629418846bbfa95cc4"
+    "revision": "0c952f4143e23b1ffe687da639d7c5ff"
   },
   {
     "url": "posts/index.html",

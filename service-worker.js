@@ -338,7 +338,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "9ac681a0c1fe7055146247ed19d80fea"
+    "revision": "4402121a4ee8ee00dab12d1abfc7f7f3"
   },
   {
     "url": "static/js/detail.1ec67ee1d62f4972731e.js",
@@ -354,7 +354,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/about.png",
-    "revision": "21ff17489ea134002e8662de0d1110c1"
+    "revision": "630026ceb9ed8d111831a9abec7b7598"
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/cover.png",
@@ -1038,15 +1038,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "f1a1637975a52d25826aaa04db3e4c30"
+    "revision": "fe01119d948a276470d22fb11e4d7864"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "cfab31dcc0cdc6a54ce4c0af655f5624"
+    "revision": "233cabd216741b86440f46b0bd0bc0e0"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "5b3bdcd629a085366de9e91ae9278f48"
+    "revision": "10e349c2f59cfd6533a74a074ad0fec1"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
@@ -1062,11 +1062,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "1a38048b6b51805651d564d35a0186fa"
+    "revision": "6a9dcecd4602720ab6c2070cddbeaa0a"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "779decba6413cd222ddda2d47701b342"
+    "revision": "1f75251d0050a823bef614fe4b4d877a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
@@ -1074,11 +1074,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "0f20f01ab81ce48e5618429c8b98d0f4"
+    "revision": "597ce672404dd8626115096aafd9fa18"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "2c353b2c3d4da892a8f6679b331a9898"
+    "revision": "14665e5b471c6fb78933b08a1957086c"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
@@ -1094,27 +1094,27 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "491ece6f8e8b4e26ec5493d7e5ee17b4"
+    "revision": "026965130b1d8c00acaf56013a3c095a"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "aa223f18d7dfeb111dc5d0b7ea26c383"
+    "revision": "bd4afb4a737868287c9d0182d467da51"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "d7b65e249da938f7012e3d5460742ab7"
+    "revision": "08119dc4bacddf4d246815fc17a9f087"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "dc836f1147c2b9474b3f53f6683704de"
+    "revision": "a846c7dbc1f5f37706d07245b99f5aeb"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "4eb2c98bb17d961b3a57e966cf0d7c48"
+    "revision": "8072c30c52caeae6166f4dc39f341716"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "1c90f0ab15fd4ac34df5bacf641e6529"
+    "revision": "ea7ea572a03a93315272cb65602b1300"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
@@ -1126,7 +1126,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "988d4c36ed223a19a4c8798883e19d22"
+    "revision": "d7837fc2b62710ab2a5287ca50b88523"
   },
   {
     "url": "posts/index.html",
@@ -1146,7 +1146,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/apache/index.html",
-    "revision": "93fe38c15a9e76d5e710c96f224c45d3"
+    "revision": "eaec6abf6d122c2ec363430495f823f8"
   },
   {
     "url": "tags/blog/index.html",
@@ -1246,7 +1246,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/security/index.html",
-    "revision": "9ac161f2cbfc89af9b20e9b1146c0032"
+    "revision": "4045d6ce284579d2c90d24ea09747d2d"
   },
   {
     "url": "tags/shiro/index.html",

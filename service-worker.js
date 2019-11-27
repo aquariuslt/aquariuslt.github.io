@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/pages/about.json",
-    "revision": "4e2c551935595527d0cc28af92eb7f3f"
+    "revision": "767db23807af6cc8976292777bbd63bf"
   },
   {
     "url": "api/posts.json",
@@ -338,7 +338,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "a105e5f7fcb60bcfbefe220a0ebe684b"
+    "revision": "df3828735e68431c9516aa1ff63d3caa"
   },
   {
     "url": "static/js/detail.ec42f4acaa58fa87bfa0.js",
@@ -1026,23 +1026,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "efb71563a20cbad0824eada616fac750"
+    "revision": "e8fd044364bcfcbbc30e540c1e554c8f"
   },
   {
     "url": "pages/about/index.html",
-    "revision": "1e71cd8eb3a05d91f806a278c21910e3"
+    "revision": "c20c37347f295b88424cbf42a0ed84c5"
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "f3017593f49df0ce8154bd898cc7a55b"
+    "revision": "6e9a0382a61238e9552711b8e80f1c3c"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "999a24cfd13409cfd8cb9dfbd494fa72"
+    "revision": "ff49cc5c9386d2ac5b228b11a8bb9cde"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "9f7e5ac98f0021cc8ed9ee178e548651"
+    "revision": "b8ca83e3de877f1baa47c9ca9013c66f"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
@@ -1050,7 +1050,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "47d8e9e568df6d059b91e398fe2a6861"
+    "revision": "48fa9ff4be58e26ed3265251e1ec2fd8"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
@@ -1066,19 +1066,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "96c5d16378a3858ab4c20f2fc3f365b5"
+    "revision": "092e6c080ad130b7f1ed4724e4e33447"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "afa05046bc0202469c2e9c1840db55e9"
+    "revision": "a874febbc7445347ddb538db30f98f44"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "144929307a1100c984eb707830c5df4f"
+    "revision": "83eba67994d13607a6a2eef29723f2f5"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "9f962aec91da67b8ed51e3fa0edafdd6"
+    "revision": "4646543d09f633297bd0421445c83d5f"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
@@ -1086,19 +1086,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "fb9d5a1882088f4b85085b92222f7604"
+    "revision": "078d3577b39ee34b9661892dc13546ee"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "91a544f013a4f998de78167ed6b519fa"
+    "revision": "09efbbed8cb0836b75b4f148a7f46b13"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "c306158cadda41cda17d5a85aadd52af"
+    "revision": "acffaa1c7b86fda1c8e356d918ee7fc9"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "ab45a52aea199f02eef400223961e2e3"
+    "revision": "1b98b94bec80af91bc5c5f6e9f2393a2"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
@@ -1106,7 +1106,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "c90fd64ced7654460b9dca08f6749a81"
+    "revision": "8da42f345718f578d87cc93b5d3c2c97"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
@@ -1118,15 +1118,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "0f15d08bfe4ab0649847e1b1546d3c54"
+    "revision": "f68e0aa35a2a573451bbd3431476e486"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "a3024a998dc47fb2a20e3c9b1e83b17f"
+    "revision": "0d9a76225674c5d395f4bfb9905a8e64"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "6b44d78160358355a603980368b37da3"
+    "revision": "ba496a7ae16436675189142131e0f727"
   },
   {
     "url": "posts/index.html",

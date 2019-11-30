@@ -1038,7 +1038,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "803247cdc2d1369b59aed192da9030b5"
+    "revision": "c580a8d8846c837bc32834643e405d07"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1050,11 +1050,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "1de0277be5cd1fc0d6a87c9c210d4d08"
+    "revision": "87cf0c4212e7d585308d63210e008a36"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "be4164b3869ed619fac7cee2117ff0d1"
+    "revision": "ccc8ccef2dc4033a0908914e2e449138"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
@@ -1062,71 +1062,71 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "d0e7d73d2166b8d00fd508dbb95d764f"
+    "revision": "d92c7cb1bf3d5c43c094e55aeb14ed99"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "0c75806af6c935e0b4020625e7507c13"
+    "revision": "76417dd54a8305bd5de8610e6cb02a80"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "e7b981c605cda1e5faeb79fd5cd559ae"
+    "revision": "f95faa1b39b5b0b1f328bbec89e0cdcd"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "626c842c8bcf6cb80a2b0ddf9eb8dedf"
+    "revision": "83d1099cc601966efebb64f6d95108c7"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "889d6552536feae3cd7a679b507ff44f"
+    "revision": "1ac60c45b34e491dfeb599e43ec1ba7c"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "23c2bd427e3b383d5716997c911828af"
+    "revision": "6af97f4d53fd9cbafc3a188206517970"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "873d046c85ebe3d7ea66ee41c27e16c7"
+    "revision": "92610a6f77284513a9e15acec9a858ef"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "78b348402f96e4fc7967c688800fcee8"
+    "revision": "e8b3f568dffd0b804a7d45c5e560a6c0"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "bd6bad040e77e2e3624a0f61209ba234"
+    "revision": "8ba6b4257a3a801520ce4ed81df06121"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "508e19fae28ac361e331a5f72922653a"
+    "revision": "f0e4319426f525cb03c068a35aca49ba"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "4729ae876d6a7bc1ac22e842919253da"
+    "revision": "7b45623d06e2e3e6aaefbb10a513888f"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "e57e753fb6f6b35ad83a425e73cdb0a2"
+    "revision": "ea5a7ddda8fbf86a6730837821e40c99"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "9dadf532a2edbc895f5969821ad786ae"
+    "revision": "9a03aeff611a86f13cbe1e7647bf9e9c"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "d32a1e5f2507b0eff210a0d616262d81"
+    "revision": "bcd431c075e7c355afa901af9642e796"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "c517a5a73422ad4c21e9011452c4a421"
+    "revision": "0bf9ff09efab3ee6bfb1c225605e7334"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "11d020aed2555bc630470f1918acb186"
+    "revision": "b4fd22131333ace6d18fee4774e4dc33"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "7675f6186760a6226e5f04a40e0b669b"
+    "revision": "e8d3ce623c6c19a080337a62cf045142"
   },
   {
     "url": "posts/index.html",
@@ -1198,7 +1198,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/javascript/index.html",
-    "revision": "818197c5126edf577e66626919308f91"
+    "revision": "439fb4ab5bee6fa63f21b2562510e8cb"
   },
   {
     "url": "tags/jawr/index.html",
@@ -1294,5 +1294,3 @@ self.__precacheManifest = [
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
-
-workbox.googleAnalytics.initialize({});

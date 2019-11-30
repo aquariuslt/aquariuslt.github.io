@@ -338,7 +338,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "6500c56264cc12428b279c9985986031"
+    "revision": "35baf94d6db32703173933bc534045db"
   },
   {
     "url": "static/js/detail.37bf0573ba60d9d78354.js",
@@ -1030,15 +1030,15 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "918571a0ff23e0ca768173b472bc0837"
+    "revision": "fac9254c91b601eb9d2adf703f4fc25e"
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "0ff6c5e02b6f95590943ee5e8a9a6a45"
+    "revision": "990736494c4f1823ee687166f7a8cc95"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "c580a8d8846c837bc32834643e405d07"
+    "revision": "eeb03e34b425eba4a4ad3835c8aa0a60"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1058,7 +1058,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "13a145572e86c75e2b77272cee2e29e5"
+    "revision": "7352bebb8e47e1d3c9e5f0d6b3d99a98"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
@@ -1066,7 +1066,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "76417dd54a8305bd5de8610e6cb02a80"
+    "revision": "0c75806af6c935e0b4020625e7507c13"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
@@ -1074,15 +1074,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "83d1099cc601966efebb64f6d95108c7"
+    "revision": "626c842c8bcf6cb80a2b0ddf9eb8dedf"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "1ac60c45b34e491dfeb599e43ec1ba7c"
+    "revision": "2ab1c3d6e1a3592df404d1b08d875065"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "6af97f4d53fd9cbafc3a188206517970"
+    "revision": "23c2bd427e3b383d5716997c911828af"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
@@ -1090,23 +1090,23 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "e8b3f568dffd0b804a7d45c5e560a6c0"
+    "revision": "78b348402f96e4fc7967c688800fcee8"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "8ba6b4257a3a801520ce4ed81df06121"
+    "revision": "bd6bad040e77e2e3624a0f61209ba234"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "f0e4319426f525cb03c068a35aca49ba"
+    "revision": "508e19fae28ac361e331a5f72922653a"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "7b45623d06e2e3e6aaefbb10a513888f"
+    "revision": "4729ae876d6a7bc1ac22e842919253da"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "ea5a7ddda8fbf86a6730837821e40c99"
+    "revision": "e57e753fb6f6b35ad83a425e73cdb0a2"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
@@ -1118,11 +1118,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "0bf9ff09efab3ee6bfb1c225605e7334"
+    "revision": "e1b26684a40c5f49cb3ee3e149443e97"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "b4fd22131333ace6d18fee4774e4dc33"
+    "revision": "d16e380d758d2752a90216daa6535bdb"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
@@ -1198,7 +1198,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/javascript/index.html",
-    "revision": "439fb4ab5bee6fa63f21b2562510e8cb"
+    "revision": "818197c5126edf577e66626919308f91"
   },
   {
     "url": "tags/jawr/index.html",

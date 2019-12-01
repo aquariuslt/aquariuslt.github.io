@@ -357,376 +357,752 @@ self.__precacheManifest = [
     "revision": "630026ceb9ed8d111831a9abec7b7598"
   },
   {
+    "url": "pages/about/about.webp",
+    "revision": "8a71687641734b285456a1f67362af80"
+  },
+  {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/cover.png",
     "revision": "bf96451082f84eefae26e7ee2ee84e48"
+  },
+  {
+    "url": "posts/2015/10/25/apache-shiro-spring-integration/cover.webp",
+    "revision": "f7899b4ddf1f5ae1d53df8f4b00d1089"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.png",
     "revision": "1ad05d1227b446e6fdc3fb8ebd863124"
   },
   {
+    "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
+    "revision": "27d279d60cf8f2f3f3c5ef160228a7e2"
+  },
+  {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.png",
     "revision": "e5a7a31204dc6e1a398819bd3bd2e59a"
+  },
+  {
+    "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
+    "revision": "de249effaf0897b3d42b2dcd003f7e90"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/add-app-launch-icon.png",
     "revision": "23238d2e7346c56b609fc2d8d4fa89c7"
   },
   {
+    "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/add-app-launch-icon.webp",
+    "revision": "7ec3862f288fdaa3d8dcf67eb87358c3"
+  },
+  {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/add-oracle-cli-global-env-var.png",
     "revision": "2904e14888a44eead4a2a1834a9e4e0d"
+  },
+  {
+    "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/add-oracle-cli-global-env-var.webp",
+    "revision": "973711f94005d774cb8b66934f64d021"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/check-run-configuration.png",
     "revision": "1d63ae98241e35e54fe36fa18676da5e"
   },
   {
+    "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/check-run-configuration.webp",
+    "revision": "541e18fac27c3a6d3f92845da936634d"
+  },
+  {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/config-jdk-path.png",
     "revision": "13db4713983d944a24edf08893fbc6d4"
+  },
+  {
+    "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/config-jdk-path.webp",
+    "revision": "c5ee1a17abc3b9f70127ad3605d91cb5"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/cover.png",
     "revision": "7cbf2bf363a998b21c4cf36a05a19505"
   },
   {
+    "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/cover.webp",
+    "revision": "82b11d8da0d24e605f641b00fc17e1f4"
+  },
+  {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.png",
     "revision": "31062ddeb12438bf11668119673946c5"
+  },
+  {
+    "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
+    "revision": "e99152e447936ba8ba4266c923d10206"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/cover.png",
     "revision": "d19e7bdb9aea105381eafdef3c1c2b5d"
   },
   {
+    "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/cover.webp",
+    "revision": "42c0728306c074aa92934b455a33c6f8"
+  },
+  {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.png",
     "revision": "b3649900dad61b35224f6d1544881a94"
+  },
+  {
+    "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
+    "revision": "bc8df919c42129d27e82cf802a76e5db"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.png",
     "revision": "bbdf9fbbe2d51ca8dba0c0fb24af3fab"
   },
   {
+    "url": "posts/2016/01/01/review-2015/cover.webp",
+    "revision": "a9baf6ab46fc8631bfa2fa1d7a2ac950"
+  },
+  {
     "url": "posts/2016/01/01/review-2015/graduaction-more.png",
     "revision": "728960bf52745d3b86f6b681e7f7b9e4"
+  },
+  {
+    "url": "posts/2016/01/01/review-2015/graduaction-more.webp",
+    "revision": "20a4ab3727e3fd86aec06d3608602bcf"
   },
   {
     "url": "posts/2016/01/01/review-2015/graduaction.png",
     "revision": "4901e49d66a89fa8a097fa4ba5165274"
   },
   {
+    "url": "posts/2016/01/01/review-2015/graduaction.webp",
+    "revision": "308f0ce3c55a48b8994b77e6aaec720d"
+  },
+  {
     "url": "posts/2016/01/01/review-2015/rmbp.png",
     "revision": "129fdfa276f32c12ae05f10e1458c03e"
+  },
+  {
+    "url": "posts/2016/01/01/review-2015/rmbp.webp",
+    "revision": "a058add589ab8b9135a4b382b82508e8"
   },
   {
     "url": "posts/2016/01/01/review-2015/room-1.png",
     "revision": "77f78b3390432f02fac4ad87272bb4a1"
   },
   {
+    "url": "posts/2016/01/01/review-2015/room-1.webp",
+    "revision": "4b56f7ab6fb3d673bbbfc06f14478c17"
+  },
+  {
     "url": "posts/2016/01/01/review-2015/room-2.png",
     "revision": "0d5bd29de4a8459550301dcd43e96def"
+  },
+  {
+    "url": "posts/2016/01/01/review-2015/room-2.webp",
+    "revision": "5bf3975e2cbaae85d6c745766fb97988"
   },
   {
     "url": "posts/2016/01/01/review-2015/room-3.png",
     "revision": "49043056816b212043afb6d13e13b750"
   },
   {
+    "url": "posts/2016/01/01/review-2015/room-3.webp",
+    "revision": "ce315bcc2cd784faa7f11fc21fa07c0b"
+  },
+  {
     "url": "posts/2016/01/01/review-2015/room-4.png",
     "revision": "eeb78a4e9a4cada843280a263dd9bde0"
+  },
+  {
+    "url": "posts/2016/01/01/review-2015/room-4.webp",
+    "revision": "3a0c89c40828478d826ac0e70b0ea584"
   },
   {
     "url": "posts/2016/01/01/review-2015/room-5.png",
     "revision": "8f85e43cf1714fcded2a0ae9984b4817"
   },
   {
+    "url": "posts/2016/01/01/review-2015/room-5.webp",
+    "revision": "d354413a6b4efce07c7d3559ef2fcbcd"
+  },
+  {
     "url": "posts/2016/01/01/review-2015/team-3-ita.png",
     "revision": "364dc76efe9757e9875a5f137d1a1711"
+  },
+  {
+    "url": "posts/2016/01/01/review-2015/team-3-ita.webp",
+    "revision": "64d4667e214e87e10f975ad638da909f"
   },
   {
     "url": "posts/2016/01/01/review-2015/unboxing-macbook.png",
     "revision": "1ad90af955c0ca80d82f45b6c80d0562"
   },
   {
+    "url": "posts/2016/01/01/review-2015/unboxing-macbook.webp",
+    "revision": "121806d45048a0f04cd13f145cd3d2a2"
+  },
+  {
     "url": "posts/2016/01/01/review-2015/wechat-open-account.png",
     "revision": "fe16414175af2109c6fc46711b927974"
+  },
+  {
+    "url": "posts/2016/01/01/review-2015/wechat-open-account.webp",
+    "revision": "978970425c26004ee8743bd1c9b0ce2b"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/cover.png",
     "revision": "521c74f19c2f1e26bd34dd9278004ed2"
   },
   {
+    "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/cover.webp",
+    "revision": "c72cc5ad291f7ce4495f7c93c4b0cb93"
+  },
+  {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.png",
     "revision": "a10a3bd4c2f73b12e6045c6c3b5ee63e"
+  },
+  {
+    "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
+    "revision": "37910666b2efdaf400b00d2061f4c41a"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.png",
     "revision": "b23c28809605d5c2cf34410437fd7473"
   },
   {
+    "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
+    "revision": "f03889a93d4c73dab419d04d81565d31"
+  },
+  {
     "url": "posts/2016/03/06/site-code-structure/build-flow.png",
     "revision": "7cb44f64853eccb168d3c8f2b1d242b8"
+  },
+  {
+    "url": "posts/2016/03/06/site-code-structure/build-flow.webp",
+    "revision": "ffbfdff8b8c2d81585449e1eb8bcc15f"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/cover.png",
     "revision": "adecd92b5e0f665ed8231933ea7060c6"
   },
   {
+    "url": "posts/2016/03/06/site-code-structure/cover.webp",
+    "revision": "bc6a909f7309631a6b03aecd82c17467"
+  },
+  {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.png",
     "revision": "b79c26628da4713bda986420d55040fd"
+  },
+  {
+    "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
+    "revision": "05618758af7e7de5158210b13e1b6977"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/data-node-information.png",
     "revision": "b2809f573fd029429c8f3bba1ad2c9c6"
   },
   {
+    "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/data-node-information.webp",
+    "revision": "591c0a0b385748771caa712abb9ff618"
+  },
+  {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.png",
     "revision": "2fbd1bf471e0f7a1310fffeca3cbc5b4"
+  },
+  {
+    "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
+    "revision": "95426cb7d06416d7470401045fdb7e43"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/cover.png",
     "revision": "6f979cfb503916ca33e667d8eb1d5c9d"
   },
   {
+    "url": "posts/2016/04/10/google-codejam-2016-qualification-round/cover.webp",
+    "revision": "4be1e4140b27f7f5a0898f0ce3f1d501"
+  },
+  {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.png",
     "revision": "eaf190f29c780d274bd438e4dd66ef61"
+  },
+  {
+    "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
+    "revision": "82c34fe6dc24d269af222c5886cb5557"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.png",
     "revision": "b34f317f5464f578cc6067d317afe22a"
   },
   {
+    "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
+    "revision": "70e3a03015686c5d3d9d517b2b1ed007"
+  },
+  {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/performance.png",
     "revision": "943a204a96f8e82ed4829c4b4b36bc8e"
+  },
+  {
+    "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/performance.webp",
+    "revision": "4c957a7c5807674b1b25b15e007d7881"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/bed.png",
     "revision": "ecafc71143263a54ce6fe060916cfab9"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/bed.webp",
+    "revision": "e7720cf9a75db38e575a7aebdda8cbb8"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/bedroom.png",
     "revision": "8c2b929a10844e5aa3f480fcd904acf2"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/bedroom.webp",
+    "revision": "e5ee0679cb0e23122cc9c0246332629f"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/clothes.png",
     "revision": "82dfd6b0817462d05f66a63041bbe37a"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/clothes.webp",
+    "revision": "88bc8f3b4253e34a3f231c9ad1d950fc"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/cover.png",
     "revision": "bb44bca680967ae3b8bef4bc2f25707f"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/cover.webp",
+    "revision": "67063e4930321488a04e57dfba0bc4b9"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/depracted-desktop.png",
     "revision": "93f840a7599c54cc84d37d191baefe98"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/depracted-desktop.webp",
+    "revision": "bda9b7c400a8ce2c2ce4e8f8b759659f"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/desktop-installation.png",
     "revision": "4b44c85c276fc06f72e1d5dafebe92fe"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/desktop-installation.webp",
+    "revision": "85081ecbd048ffddb6c4848fc698d52d"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/desktop.png",
     "revision": "75c4b1a2583a9612b6d2a3f060e6741c"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/desktop.webp",
+    "revision": "a4b28cb611ffae746279252c69738ee5"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.png",
     "revision": "d568cc8ac8245e00cb3a44921690e4e6"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
+    "revision": "245ef36deea7090514346a72bcfab388"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/meeting-room.png",
     "revision": "41b1b21ec99509c4483066da718b7983"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/meeting-room.webp",
+    "revision": "4e6a24c1f3ac768d3f063a3fcd73c856"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/passing-route-updated.png",
     "revision": "8a9ec5e123a9b089947bf66d03078e9d"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/passing-route-updated.webp",
+    "revision": "a3b62b7d4661ff5dbbdb8f9cd83a588e"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/passing-route.png",
     "revision": "c6243476ddbfee3f6d7eb11fe5e25a17"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/passing-route.webp",
+    "revision": "4e8363e87ff0ef8c282623b8052676c4"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/room-architecture.png",
     "revision": "4cdf75bf21b165951ef08beb49322ab4"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/room-architecture.webp",
+    "revision": "69c7a26d870bb2310a5e2b95ea860e19"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/see-sea.png",
     "revision": "6d70f828f3632f2103915a061cb8937f"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/see-sea.webp",
+    "revision": "d02c98376456067aed5299114ae6f526"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/sunroom.png",
     "revision": "6a20de46807c1e2655c846c241a154e4"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/sunroom.webp",
+    "revision": "8edba420019da44429ef1ef066e1921b"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/wakatime-total.png",
     "revision": "07eb5f69cb253d00b0bcbce28976fd58"
   },
   {
+    "url": "posts/2016/07/05/move-to-new-apartment/wakatime-total.webp",
+    "revision": "52a63e4b1e37c041cb6ed2bf85449039"
+  },
+  {
     "url": "posts/2016/07/05/move-to-new-apartment/wakatime.png",
     "revision": "8039bffe0a0256979291b0f3bfa67aef"
+  },
+  {
+    "url": "posts/2016/07/05/move-to-new-apartment/wakatime.webp",
+    "revision": "9d08ab6cf95c67c8e5497a5333cd00ca"
   },
   {
     "url": "posts/2017/01/01/review-2016/cover.png",
     "revision": "28d40a65984188a82a0bc43558a7038e"
   },
   {
+    "url": "posts/2017/01/01/review-2016/cover.webp",
+    "revision": "19aca6f9dc888644bc76d441da0c86f3"
+  },
+  {
     "url": "posts/2017/01/01/review-2016/hardware-info.png",
     "revision": "05ce4ffc74f591f0e4a64eabefe6737e"
+  },
+  {
+    "url": "posts/2017/01/01/review-2016/hardware-info.webp",
+    "revision": "17f4be951155dfbd2fa663f44c7fd16d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.png",
     "revision": "6bd2faa31fea5101681b237692b137c0"
   },
   {
+    "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
+    "revision": "c933f777cbdb5dc55fa06adff69f69cb"
+  },
+  {
     "url": "posts/2017/03/12/new-version-blog-migration/cover.png",
     "revision": "c1f8a0ded6ef16859b54d4b46d324388"
+  },
+  {
+    "url": "posts/2017/03/12/new-version-blog-migration/cover.webp",
+    "revision": "9de8be83abd1952fb112c73079c55711"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/desktop-version-shortcut.png",
     "revision": "d2eb0401b07ce25850e9afcde28e0d06"
   },
   {
+    "url": "posts/2017/03/12/new-version-blog-migration/desktop-version-shortcut.webp",
+    "revision": "e2475c73b6be148ba060e15a9b4ccb81"
+  },
+  {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.png",
     "revision": "e51633959aabffd0d61f1323c17e26c4"
+  },
+  {
+    "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
+    "revision": "4071e85ed69390fcb79dd56bd0d13dfd"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/shortcut.png",
     "revision": "ee6a7f122a95a9b356bf434179d10485"
   },
   {
+    "url": "posts/2017/03/12/new-version-blog-migration/shortcut.webp",
+    "revision": "dd28ed39982e50b21c57d1f2ba00b155"
+  },
+  {
     "url": "posts/2017/05/05/vue-version-for-blog-app/cover.png",
     "revision": "afe765a423b8ebac24fcaa8bbe959385"
+  },
+  {
+    "url": "posts/2017/05/05/vue-version-for-blog-app/cover.webp",
+    "revision": "9cec7f77f285e0b345657fff32cdf189"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.png",
     "revision": "704e5ccac667e591d333756b4037191a"
   },
   {
+    "url": "posts/2018/01/01/review-2017/cover.webp",
+    "revision": "192a5a50789e7bb15de8469aad1e7047"
+  },
+  {
     "url": "posts/2018/01/01/review-2017/macbook-pro.png",
     "revision": "bb4509d155d9d5765f0128a8be8eeb6f"
+  },
+  {
+    "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
+    "revision": "d7ab2a9e891594c3aff55bfd3c7290dc"
   },
   {
     "url": "posts/2018/01/01/review-2017/mdr-1000x.png",
     "revision": "60130fc05c1bc43bb422f5d1ee730916"
   },
   {
+    "url": "posts/2018/01/01/review-2017/mdr-1000x.webp",
+    "revision": "0a1f5a3eaf461a951e8d4ce2bba90ca4"
+  },
+  {
     "url": "posts/2018/03/03/latest-update-on-blog-app/benchmark-blog-website.png",
     "revision": "06465a91d135ae1cc8b7e684d0e75cfc"
+  },
+  {
+    "url": "posts/2018/03/03/latest-update-on-blog-app/benchmark-blog-website.webp",
+    "revision": "309fc307b2f984c40b02ecbef70dd5e2"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/blog-resource-transfer-time.png",
     "revision": "e314a8a59b49cd1b5ae66e4064bb9344"
   },
   {
+    "url": "posts/2018/03/03/latest-update-on-blog-app/blog-resource-transfer-time.webp",
+    "revision": "a6d7dc00ab41be0f1a6e87f4211715af"
+  },
+  {
     "url": "posts/2018/03/03/latest-update-on-blog-app/cover.png",
     "revision": "43dd75bc6d7d71bf40582e567ca34d42"
+  },
+  {
+    "url": "posts/2018/03/03/latest-update-on-blog-app/cover.webp",
+    "revision": "1e76915b3466a58bb7242ed79cdbf228"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.png",
     "revision": "6d331f21efd7ad6dfa7a584ed3c4d3f2"
   },
   {
+    "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
+    "revision": "c1566bac5de28dc40a0c1506a1107ce7"
+  },
+  {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.png",
     "revision": "15c325c2b509b5771375fd17d7cbbce9"
+  },
+  {
+    "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
+    "revision": "ffe4011649708c90baed2f4b7e7aa21e"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/cover.png",
     "revision": "a58210d9a6b47fb694fe04b8cbbe312a"
   },
   {
+    "url": "posts/2018/04/01/karma-jawr-development-note/cover.webp",
+    "revision": "ea9f7743b2cd84574cd22ed25942b149"
+  },
+  {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.png",
     "revision": "a31aa7e5e3eed42d25422c828b0f76b4"
+  },
+  {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
+    "revision": "79cabe1ec1e52c944c79da0c2b6e6a47"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/github-actions.png",
     "revision": "57c065dcc456873fb4b679e42eba0495"
   },
   {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/github-actions.webp",
+    "revision": "0cc8fb75d850e328ce1bdb9baba80e0b"
+  },
+  {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/github-official-actions-repo.png",
     "revision": "9c6586057b46232199b096558fe54f06"
+  },
+  {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/github-official-actions-repo.webp",
+    "revision": "477605f82400f608545e3c8d08a3d807"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.png",
     "revision": "5824c20beadbe9cdd32e5018232dce33"
   },
   {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
+    "revision": "118070ef6ecb23b333188f5055a29b95"
+  },
+  {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-ci-overview.png",
     "revision": "13fdd8e7c2c2c70882bbe8421bae0525"
+  },
+  {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-ci-overview.webp",
+    "revision": "593501b6abebdb69a419e8202e963d2d"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-editor-example.png",
     "revision": "752eba3537312d54d6e4d8d3477e2df5"
   },
   {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-editor-example.webp",
+    "revision": "1813366eaa17f6e019c1006fd30a61d8"
+  },
+  {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-example.png",
     "revision": "88b11a11cb40a1fe0b886ebb585abd55"
+  },
+  {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-example.webp",
+    "revision": "e9c3eaef7f939a77ddad6284f3d86807"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-syntax-highlight.png",
     "revision": "2e373fece1c8043329fa614febf8b5e9"
   },
   {
+    "url": "posts/2019/07/07/github-actions-overview-and-practice/workflow-syntax-highlight.webp",
+    "revision": "b845cce847a78b18ca5c6e35b9a0dc21"
+  },
+  {
     "url": "posts/2019/07/23/travel-in-beijing/bird-nest-show.png",
     "revision": "f9618cb46aa1723b3b80f3b174e79f56"
+  },
+  {
+    "url": "posts/2019/07/23/travel-in-beijing/bird-nest-show.webp",
+    "revision": "f8d0b4f6652d1451235ccf1e5a852b8b"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/bird-nest.png",
     "revision": "b7133799f9dd8a63a902b87c3995f7ce"
   },
   {
+    "url": "posts/2019/07/23/travel-in-beijing/bird-nest.webp",
+    "revision": "96d1bcec2c67015d8cd5116b4c6a4d6e"
+  },
+  {
     "url": "posts/2019/07/23/travel-in-beijing/great-wall-01.png",
     "revision": "adb0ae824da742473c0f2033e6f00ecb"
+  },
+  {
+    "url": "posts/2019/07/23/travel-in-beijing/great-wall-01.webp",
+    "revision": "2c2ea1bfa858164937034796b48e4745"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/great-wall-02.png",
     "revision": "4b7a9084843e76909c32d57aa243a502"
   },
   {
+    "url": "posts/2019/07/23/travel-in-beijing/great-wall-02.webp",
+    "revision": "3e063515d4998f7f4d98bb6efe6a475d"
+  },
+  {
     "url": "posts/2019/07/23/travel-in-beijing/great-wall-03.png",
     "revision": "015b81210929f3a1b197877115c7bf7a"
+  },
+  {
+    "url": "posts/2019/07/23/travel-in-beijing/great-wall-03.webp",
+    "revision": "61b7b4e82b27d3423b93647afcc90dc0"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.png",
     "revision": "afc4329118048573fb01812a2f5d61b9"
   },
   {
+    "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
+    "revision": "a6ba99941ffbe026a09b995e45fca9ad"
+  },
+  {
     "url": "posts/2019/07/23/travel-in-beijing/palace-museum-01.png",
     "revision": "6c0734ee3229249adcafb500257cb7d1"
+  },
+  {
+    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-01.webp",
+    "revision": "b7b9516065fc6dab7fee4bddba9bb804"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/palace-museum-02.png",
     "revision": "8cd6615c70a506d2af0fb6be36c39d5d"
   },
   {
+    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-02.webp",
+    "revision": "ca598dbd702bd95c0465a3333329b486"
+  },
+  {
     "url": "posts/2019/07/23/travel-in-beijing/palace-museum-03.png",
     "revision": "cc8ee643d3e8fac1967950f8a6a87899"
+  },
+  {
+    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-03.webp",
+    "revision": "480f7329129edcb1bdfd34d7f183f23a"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/palace-museum-04.png",
     "revision": "8185a188a530fbbdc4d825d08bc8b862"
   },
   {
+    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-04.webp",
+    "revision": "cbd7e6af14b45b002a4a3d9a33dd708e"
+  },
+  {
     "url": "posts/2019/07/23/travel-in-beijing/palace-museum-05.png",
     "revision": "24b0c92caed88f3a7d38fed2f3d1ad82"
+  },
+  {
+    "url": "posts/2019/07/23/travel-in-beijing/palace-museum-05.webp",
+    "revision": "4abbdb640e39e46c3a2520654fa79946"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/pku-untitled-lake.png",
     "revision": "2e02e242aeff1319b2e9e208f93f2fe9"
   },
   {
+    "url": "posts/2019/07/23/travel-in-beijing/pku-untitled-lake.webp",
+    "revision": "5d7406532a4b5af864ce8c3a706a9bbf"
+  },
+  {
     "url": "posts/2019/07/23/travel-in-beijing/water-m3.png",
     "revision": "2d1b87575cdb798406a8c00be94fac7a"
+  },
+  {
+    "url": "posts/2019/07/23/travel-in-beijing/water-m3.webp",
+    "revision": "489c7da2b7814ff8a691b1447b69235a"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/build-log-highlight-support.png",
     "revision": "319248b963ccff9351786ba6752cde06"
   },
   {
+    "url": "posts/2019/08/18/github-actions-new-yaml-syntax/build-log-highlight-support.webp",
+    "revision": "51c049e803384d402986160009af2d93"
+  },
+  {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.png",
     "revision": "e0a8656ec13e06f6b039ac6e13b743d2"
+  },
+  {
+    "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
+    "revision": "0d85ce989bedf5ed9d5010f1eb97064b"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/select-sample-workflow-for-npm.png",
     "revision": "ad0df58b3619051a7ea4ee5713a77a6a"
   },
   {
+    "url": "posts/2019/08/18/github-actions-new-yaml-syntax/select-sample-workflow-for-npm.webp",
+    "revision": "08647ee4856f25ff6467ad7a1f6471cd"
+  },
+  {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/cover.png",
     "revision": "0190666a7dc832afd1d7d47aa9461e84"
+  },
+  {
+    "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/cover.webp",
+    "revision": "5972a2b30409ff8ea98aefd658f679f6"
   },
   {
     "url": "static/img/android-chrome-144x144.png",
@@ -1026,7 +1402,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "640886d9ec6ca935ed5c31b876e26c5c"
+    "revision": "c536533cd1cb0f492174ad7c14df1fe6"
   },
   {
     "url": "pages/about/index.html",
@@ -1034,11 +1410,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "cc4d061d4681e80ae1fe691b9e0dcf8a"
+    "revision": "4aa58f7a35cee0456b1cd5aedc2e6ae6"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "377f9e0f38ff549843718024f9b1becc"
+    "revision": "e1d8fdb1c93673d539fd4311b2d819a7"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1046,19 +1422,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "3be3a2e1c4caaf81118cb5dc9589a549"
+    "revision": "5955da82fa81a20527e08fdda5a4eca8"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "844f51dac52f45563b86dca030231038"
+    "revision": "401909f845d234f5e24e59d5c84466c3"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "6e64c8235a30fd0b01128d3641fe5810"
+    "revision": "3a275013badea075eca3500f6a365baa"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "6ab945758bfc0bdfbd9ec8bc9e36086e"
+    "revision": "e0a97a2f8af0bb3e2eaec7cd721d6b49"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
@@ -1066,7 +1442,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "6c05e05ae90099768039269521cf6c4a"
+    "revision": "c8104d219354b3c21e300ab2baca291f"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
@@ -1074,7 +1450,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "53a107ca21864cea1401372d070a97af"
+    "revision": "702f77c866371906e0c7627436c14bac"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
@@ -1082,7 +1458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "d907495d8035c71abe8162d84fa973a5"
+    "revision": "359767ac72311589eb850cf7e034de59"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
@@ -1110,7 +1486,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "7348047ec190cdfc559d7c7acdcf6e37"
+    "revision": "426bd1bcb4bba730312159df62f6c8aa"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -1126,7 +1502,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "3d05af7a67ff60e8ba13374d5c785a42"
+    "revision": "8346e4b8bcf35fa09faaae756596d03d"
   },
   {
     "url": "posts/index.html",

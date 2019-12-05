@@ -54,7 +54,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/pages/about.json",
-    "revision": "945a19515cdabb94987b827473629c0b"
+    "revision": "b728f798f3d249258acc37058b0697c5"
   },
   {
     "url": "api/posts.json",
@@ -1406,19 +1406,19 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "8a7c4a878fc44a7461d56a65bde9728d"
+    "revision": "6609f541afb35b8c83efc6087dd9e133"
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "30bdde44637768466d520dc3ab515de7"
+    "revision": "877e6ef0136f9e0f21b542c22d9537a2"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "d94f9030e70014a404f1a409f4f79adc"
+    "revision": "837cdd1a8d64dba0d019f7d3a3503cfa"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "b0781998d7b876742bda6a5b2531ce70"
+    "revision": "7a34c530920210a22003c232b2fca093"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
@@ -1426,7 +1426,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "f4152fa96d433de6c97188a6f11078c1"
+    "revision": "f4515015df8fc653cc6b5e348db12d6c"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
@@ -1466,7 +1466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3885b77f037239fd5dd9ff0d85c91e06"
+    "revision": "848b9295a0a7390e7e7cbebd7ecbe071"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
@@ -1474,19 +1474,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "5bc972753a452dd2ffae38b8044ae09f"
+    "revision": "6ba6a378401ad84443d71bce88c8a630"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "3fdad450840eceb0b7b631048746852e"
+    "revision": "4a1ab0b80cb227b669f6dd9506db6c6a"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "6a5450ca526ac75ad3e09747b9c1a888"
+    "revision": "716838ca0f37f42e84131ab26c2ae0b8"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "608f11c32d9caff41205ab737692a895"
+    "revision": "0a7a6b9eae113ae72315202b0a46a971"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -1522,7 +1522,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/apache/index.html",
-    "revision": "dced030a0e3cbb6f4eca03ef893ac8b8"
+    "revision": "b39788d783e735ad3bf9d1695082b0b9"
   },
   {
     "url": "tags/blog/index.html",
@@ -1570,11 +1570,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/java/index.html",
-    "revision": "3da0cbd29b988976e1f205a2ee15367d"
+    "revision": "31bf23bae9cfd0038ae3ab69ff14a2c2"
   },
   {
     "url": "tags/javascript/index.html",
-    "revision": "3c5df5cb5b1d26f77e5cf1b18b24edf6"
+    "revision": "d0200f4db61a2925d430a4a762e164b2"
   },
   {
     "url": "tags/jawr/index.html",
@@ -1606,7 +1606,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/node/index.html",
-    "revision": "67dba4bbaa75b8f2c9a3d49ad4065f24"
+    "revision": "8922b872f26b6d782987f7f3f60133bc"
   },
   {
     "url": "tags/npm/index.html",
@@ -1614,7 +1614,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/oracle/index.html",
-    "revision": "607b7e7eb9c4e964e14fa8c7677352d0"
+    "revision": "426bb062b09180ef21717709902cc699"
   },
   {
     "url": "tags/pwa/index.html",
@@ -1638,7 +1638,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/springmvc/index.html",
-    "revision": "ec825bec1112453be8d5b63891b38865"
+    "revision": "5537ec2ffec58fbf95c2c919bd22ba55"
   },
   {
     "url": "tags/travisci/index.html",

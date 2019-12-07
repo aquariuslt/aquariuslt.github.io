@@ -338,7 +338,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "50bb617a85a9153c91a71d160f905864"
+    "revision": "200ce0b36eb795b1799bce18c4a61d50"
   },
   {
     "url": "static/js/detail.f48ca148b08071af014f.js",
@@ -1410,7 +1410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "b2158ce3f98ae23b451f3d0432176fa6"
+    "revision": "d365d8b7b8aed6df8389918c4902fd8c"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
@@ -1426,47 +1426,47 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "281cc13f716dc7fcd69070891ca62c6f"
+    "revision": "ca10e6dae38d02a7b830b4cb75ccb5f1"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "cda07653ae9aff73eb82e5d42f45b051"
+    "revision": "d08c8fa922be7a4013eb18b809323ce9"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "b876444975765e4f849f1109b6fefb71"
+    "revision": "4f64c15756bce205cc26de410efdd75b"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "13ae3d1ee5cd05b6fb81f69bb0b958a5"
+    "revision": "8ff6bdf1092bb46e3732b8427f71e589"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "5c496865a7aac93dc91be5c3b8edc166"
+    "revision": "cc8c003325f74f4df94e27c221c4b2b7"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "f1df7b8bba3a5708a2eed56135b20a3d"
+    "revision": "c450842edc4989387fb187e367306d05"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "0cdd5cc868613b7028c083700ed93ca4"
+    "revision": "750c8c2002251a098b5392da98d24f08"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "63c44e9cbc111c6a27e5177a24aa310f"
+    "revision": "b15413c64958cba2ae45ed0d890962e8"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "f748cf213589236fe0c5cddd97ae1e0c"
+    "revision": "768b37b660d47371e2668b3f52c74646"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "fa6957181394643b17df38116d5fa237"
+    "revision": "22643f91500dcfc32e5d90e1e1ff3fa4"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "5b9bbad1091fd93576f41e09287cf4c6"
+    "revision": "cd944a65f10337ea211a8d39bccf1631"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
@@ -1474,19 +1474,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "71d40501a87acd300f209c3ade9f36ef"
+    "revision": "f65b6b685e3bb454deb32d963b581c81"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "06897dd211263dacca62008139d11b0c"
+    "revision": "8040ccc7cd20a95d2b1ef36d69f2e65f"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "97a802cb8f59e9b83819916ad4cdb17c"
+    "revision": "67d0ae0b58d20dc197baa2e9e53e3b38"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "23456a0db7bfaa6e06b95f8d18b1b167"
+    "revision": "24448551dc4899b25ddbc5479ed200b8"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -1494,15 +1494,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "be3285fee1aae0f51b69f4262f4566d0"
+    "revision": "639eb14a949c816cf364af8b93a37ff4"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "323798b26256d7de16d4f82a80c2c2ca"
+    "revision": "9ba836faa1f13bb05d8f4eec6da86b68"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "097debe68b674eabf88e6bf59301d2c4"
+    "revision": "d3f27e0137510dd1ca7510c0c2cf4306"
   },
   {
     "url": "posts/index.html",
@@ -1526,7 +1526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/blog/index.html",
-    "revision": "7e20cfc3b1dde1a7aa88c90a88776374"
+    "revision": "af852a0bd7440f4fac9ab7fbba39ef1f"
   },
   {
     "url": "tags/ci/index.html",
@@ -1606,7 +1606,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/node/index.html",
-    "revision": "969ec8dfcbf1cf522df3b54675b26ac9"
+    "revision": "f6dd8e34c234caa12974aaa168fa947e"
   },
   {
     "url": "tags/npm/index.html",

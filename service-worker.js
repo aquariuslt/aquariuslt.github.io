@@ -1406,7 +1406,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/debug/index.html",
-    "revision": "8fa36e9b62212b5ab0b5508b8e94e223"
+    "revision": "1bc72e6f9a4e0e46ba5c4c49d9170d34"
   },
   {
     "url": "categories/index.html",
@@ -1430,7 +1430,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "a2febe744e8816047322b1da3235195d"
+    "revision": "93f3512756791af24e03dd9d91936457"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
@@ -1438,11 +1438,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "4f511aebca42f7554bba754881218c54"
+    "revision": "85ea05eb86754a6b0216ac612284f168"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "fab21bea00dd740c9157fa4e29fddd42"
+    "revision": "c3797b7040eaa31e37db13e8c2fafda0"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
@@ -1450,11 +1450,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "4af51279ea8176bad638a1a12a989a2d"
+    "revision": "0adac6701de495661b25916c334708b2"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "54ff471263e9577045238b2b20604ca7"
+    "revision": "01b321f9459742b53f40e28663267c9b"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
@@ -1466,15 +1466,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "53c753566a795903d929bd7abf58bc73"
+    "revision": "e0e424e172eeaf266a3d819864d7942b"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "63fe14dce243843dab72173885ecbe01"
+    "revision": "e1356ff724e5820be2a8b0f55cd160fb"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "5136ace82d62d417b84afe1b44daa713"
+    "revision": "43f969330fcb229db7e3576d734801cd"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
@@ -1490,11 +1490,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "e6070d5a1758c46fae3a502432ccbe2a"
+    "revision": "ba7da6eac085bf468a42a4fb681e4cac"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "5fa6977907442849edab15eebc2a80a1"
+    "revision": "384f01902ac1ab0d9c67388c917a9c21"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
@@ -1502,15 +1502,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "d60c0ab2e42d55af430fe42d809a103e"
+    "revision": "652d7826b5e9e130f7ca5a0f647262f7"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "cf665765cf144f0b1188d5645d8a3133"
+    "revision": "49c87d633e06b0928278c9eb12aa2e6b"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "affda16757a6d185ca6fea9242d3b24c"
+    "revision": "2d08448df30f0321af673b3e18ae05e4"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
@@ -1518,11 +1518,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "e96a3c1db8510b215b6f12f46fe53ee8"
+    "revision": "7ed2b869c18dfb6f74886b968b7ff75e"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "2efb174e9f55f77dc4cdb516fe21f49b"
+    "revision": "23f3c8210fbbd0f35e9e32efbd27fda1"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
@@ -1530,7 +1530,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "864dea36fd0579b6107362d0d42e14ef"
+    "revision": "56ea930919fff273f5c8bb8b0dd5c24c"
   },
   {
     "url": "tags/actions/index.html",

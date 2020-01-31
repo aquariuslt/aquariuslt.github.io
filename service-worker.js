@@ -1422,7 +1422,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "da37055e49c27b5d0b30c120daecb374"
+    "revision": "d6d30b7ad560ddc0c885e4b898343e8c"
   },
   {
     "url": "pages/about/index.html",
@@ -1430,7 +1430,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "a2febe744e8816047322b1da3235195d"
+    "revision": "93f3512756791af24e03dd9d91936457"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
@@ -1446,7 +1446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "b68ccbc29907721a5b92604e74da79a5"
+    "revision": "a476d27b2d4b7ca1a00cdf1b6b4eef56"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
@@ -1454,7 +1454,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "01b321f9459742b53f40e28663267c9b"
+    "revision": "c204713b500452d8bca91457923dc2ed"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
@@ -1462,23 +1462,23 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "847f1ba4891d2ece3e7a28b1d39bbf1d"
+    "revision": "a8ddefc886e37422d4a9866a3c240180"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "e0e424e172eeaf266a3d819864d7942b"
+    "revision": "2f48a5c6f8ce89b3296f767ad84a8366"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "97a60f872fc6eed3f44455c5d9390339"
+    "revision": "63fe14dce243843dab72173885ecbe01"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "193157477c14dcad6c4a44ff748949b4"
+    "revision": "5136ace82d62d417b84afe1b44daa713"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "dad0db73463b07ce9efcf0eab8d99a5c"
+    "revision": "dcd35c1bdcac481149e86ba6d880d9d8"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
@@ -1486,7 +1486,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "1518dfe93978cbc7d5b424bf55d83ecb"
+    "revision": "c682f50710a2f4be908d03df365d9d54"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
@@ -1494,7 +1494,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "384f01902ac1ab0d9c67388c917a9c21"
+    "revision": "5fa6977907442849edab15eebc2a80a1"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
@@ -1502,15 +1502,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "652d7826b5e9e130f7ca5a0f647262f7"
+    "revision": "0561792904cd5d026954ad3657608ac7"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "cf665765cf144f0b1188d5645d8a3133"
+    "revision": "49c87d633e06b0928278c9eb12aa2e6b"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "ffe1e3bb995a21e638532c39a01aea66"
+    "revision": "2d08448df30f0321af673b3e18ae05e4"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
@@ -1522,11 +1522,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "91830e3a4ac5bcf1c71d75ac5af8de1d"
+    "revision": "2efb174e9f55f77dc4cdb516fe21f49b"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "12f6c4ebfb65d146055ee5dc3570c00f"
+    "revision": "c34f9c789e8052ec3eecadbd9cbbf4f8"
   },
   {
     "url": "posts/index.html",
@@ -1558,7 +1558,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/diary/index.html",
-    "revision": "2aebe5054b12209143b743115577037a"
+    "revision": "b330fc6faaba5bb694e5fd3dfbc02eb4"
   },
   {
     "url": "tags/docker/index.html",

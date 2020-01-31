@@ -1430,7 +1430,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "93f3512756791af24e03dd9d91936457"
+    "revision": "a2febe744e8816047322b1da3235195d"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
@@ -1438,11 +1438,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "85ea05eb86754a6b0216ac612284f168"
+    "revision": "4f511aebca42f7554bba754881218c54"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "c3797b7040eaa31e37db13e8c2fafda0"
+    "revision": "fab21bea00dd740c9157fa4e29fddd42"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
@@ -1450,15 +1450,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "0adac6701de495661b25916c334708b2"
+    "revision": "4af51279ea8176bad638a1a12a989a2d"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "c204713b500452d8bca91457923dc2ed"
+    "revision": "54ff471263e9577045238b2b20604ca7"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "a10400df745616f1a368faaec21103c4"
+    "revision": "dc1addb3c2c1a2b2709efe7b5b720a2c"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1466,7 +1466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "2f48a5c6f8ce89b3296f767ad84a8366"
+    "revision": "53c753566a795903d929bd7abf58bc73"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
@@ -1490,7 +1490,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "ba7da6eac085bf468a42a4fb681e4cac"
+    "revision": "e6070d5a1758c46fae3a502432ccbe2a"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
@@ -1498,19 +1498,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "bcd463d8e36f22ea3b90fb06975e0be2"
+    "revision": "f7ceab9e1ea4adfe164372fd7fe7ec0f"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "0561792904cd5d026954ad3657608ac7"
+    "revision": "d60c0ab2e42d55af430fe42d809a103e"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "49c87d633e06b0928278c9eb12aa2e6b"
+    "revision": "cf665765cf144f0b1188d5645d8a3133"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "2d08448df30f0321af673b3e18ae05e4"
+    "revision": "affda16757a6d185ca6fea9242d3b24c"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
@@ -1518,7 +1518,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "7ed2b869c18dfb6f74886b968b7ff75e"
+    "revision": "e96a3c1db8510b215b6f12f46fe53ee8"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
@@ -1558,7 +1558,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/diary/index.html",
-    "revision": "b330fc6faaba5bb694e5fd3dfbc02eb4"
+    "revision": "2aebe5054b12209143b743115577037a"
   },
   {
     "url": "tags/docker/index.html",

@@ -158,7 +158,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts/2020/01/28/review-2019.json",
-    "revision": "9edbac88963b7bc25563ba9890638bea"
+    "revision": "8692fbaef3a718044f0db7b4efd0c189"
   },
   {
     "url": "api/profile.json",
@@ -1406,7 +1406,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/debug/index.html",
-    "revision": "1bc72e6f9a4e0e46ba5c4c49d9170d34"
+    "revision": "8fa36e9b62212b5ab0b5508b8e94e223"
   },
   {
     "url": "categories/index.html",
@@ -1430,11 +1430,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "93f3512756791af24e03dd9d91936457"
+    "revision": "a2febe744e8816047322b1da3235195d"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "635b507aae9f3b4fc79ab10abf244adc"
+    "revision": "7784556b40469237315e9c40365e1b1e"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1458,15 +1458,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "dc1addb3c2c1a2b2709efe7b5b720a2c"
+    "revision": "a10400df745616f1a368faaec21103c4"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "a8ddefc886e37422d4a9866a3c240180"
+    "revision": "847f1ba4891d2ece3e7a28b1d39bbf1d"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "e0e424e172eeaf266a3d819864d7942b"
+    "revision": "2f48a5c6f8ce89b3296f767ad84a8366"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
@@ -1474,7 +1474,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "43f969330fcb229db7e3576d734801cd"
+    "revision": "193157477c14dcad6c4a44ff748949b4"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
@@ -1482,15 +1482,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "1faaf4ff58037a586304c80587df1e94"
+    "revision": "8ef5c1fa539b6b588924548650859c18"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "c682f50710a2f4be908d03df365d9d54"
+    "revision": "1e3968a624c57523ea9d58301639924e"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "ba7da6eac085bf468a42a4fb681e4cac"
+    "revision": "e6070d5a1758c46fae3a502432ccbe2a"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
@@ -1498,15 +1498,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "f7ceab9e1ea4adfe164372fd7fe7ec0f"
+    "revision": "bcd463d8e36f22ea3b90fb06975e0be2"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "652d7826b5e9e130f7ca5a0f647262f7"
+    "revision": "0561792904cd5d026954ad3657608ac7"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "49c87d633e06b0928278c9eb12aa2e6b"
+    "revision": "a90f646f26f4213cde7eca2160025f7e"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -1514,23 +1514,23 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "d392903de96fd2b1acb23ba3e6cabdc0"
+    "revision": "1db8d4367b63595a21fb2b6791a4885e"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "7ed2b869c18dfb6f74886b968b7ff75e"
+    "revision": "e96a3c1db8510b215b6f12f46fe53ee8"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "23f3c8210fbbd0f35e9e32efbd27fda1"
+    "revision": "2efb174e9f55f77dc4cdb516fe21f49b"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "c34f9c789e8052ec3eecadbd9cbbf4f8"
+    "revision": "efdbebbca17895cac27b52c129378eaf"
   },
   {
     "url": "posts/index.html",
-    "revision": "56ea930919fff273f5c8bb8b0dd5c24c"
+    "revision": "864dea36fd0579b6107362d0d42e14ef"
   },
   {
     "url": "tags/actions/index.html",

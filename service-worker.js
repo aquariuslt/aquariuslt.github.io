@@ -374,7 +374,7 @@ self.__precacheManifest = [
   },
   {
     "url": "favicon.png",
-    "revision": "85e4aec7f51704350e2e00081be991cf"
+    "revision": "453b2e882e5aac7c38dbae534ec38d1e"
   },
   {
     "url": "pages/about/about.png",
@@ -1274,7 +1274,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/apple-touch-startup-image-1125x2436.png",
-    "revision": "9a5db482de95c12b46990ae90b12bafd"
+    "revision": "bdd3ae3a2058a9a1b972450c211c82b3"
   },
   {
     "url": "static/img/apple-touch-startup-image-1136x640.png",
@@ -1282,11 +1282,11 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/apple-touch-startup-image-1242x2208.png",
-    "revision": "f77100dbea265e785ea8275f898f5be0"
+    "revision": "59173645249d57cdacc1b991706b627b"
   },
   {
     "url": "static/img/apple-touch-startup-image-1242x2688.png",
-    "revision": "137d98d3567e9eb43e5082a323370b78"
+    "revision": "f941e591099565d8d02b322ea6e67076"
   },
   {
     "url": "static/img/apple-touch-startup-image-1334x750.png",
@@ -1294,19 +1294,19 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/apple-touch-startup-image-1536x2048.png",
-    "revision": "b735d14562873f76ac08b9a48e8386cc"
+    "revision": "d74b52d110fdde47182d169f67bc1cba"
   },
   {
     "url": "static/img/apple-touch-startup-image-1620x2160.png",
-    "revision": "5fc00113c2002a972b277b1de206c504"
+    "revision": "20c09feb3723e5b104109bd5afdf1f33"
   },
   {
     "url": "static/img/apple-touch-startup-image-1668x2224.png",
-    "revision": "14ca17f9bf868e8ccd420a058f37f6e6"
+    "revision": "6c3c423a05cc222d1ba3d22969cceb87"
   },
   {
     "url": "static/img/apple-touch-startup-image-1668x2388.png",
-    "revision": "da7aebfedba2c09b1697028fe1cc48bb"
+    "revision": "789f4ad97d45a2b237b87fc198220c16"
   },
   {
     "url": "static/img/apple-touch-startup-image-1792x828.png",
@@ -1314,39 +1314,39 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/apple-touch-startup-image-2048x1536.png",
-    "revision": "2183ce3b3bea517bbed4839b7576bb70"
+    "revision": "04374824b8b0d1e08633b59919fc9d97"
   },
   {
     "url": "static/img/apple-touch-startup-image-2048x2732.png",
-    "revision": "bd675ab7b8da6ad6e090d4fe46d71006"
+    "revision": "1fd2fe4710d03cbc528e39792df8c467"
   },
   {
     "url": "static/img/apple-touch-startup-image-2160x1620.png",
-    "revision": "e0b1e912ee9d356959b0d7183691c94b"
+    "revision": "65e21e679e16bf9bd1a75a8a738cf183"
   },
   {
     "url": "static/img/apple-touch-startup-image-2208x1242.png",
-    "revision": "c1cc7512b374135ca187ab1c36942864"
+    "revision": "03f9ef8e6bc5000a45bb6c83131d161d"
   },
   {
     "url": "static/img/apple-touch-startup-image-2224x1668.png",
-    "revision": "46947a36a190282552eec02bd73d069e"
+    "revision": "68cb28c5ec8ec4f1f9b9473cd9fc0c64"
   },
   {
     "url": "static/img/apple-touch-startup-image-2388x1668.png",
-    "revision": "79d67f8ca267a42a45aa975b23cf5d21"
+    "revision": "04a3eae31434be8908499aa516669f82"
   },
   {
     "url": "static/img/apple-touch-startup-image-2436x1125.png",
-    "revision": "eed57a3eaf095163ea6269ee50d78752"
+    "revision": "7b6a86e1569cd98a6bd12abaa956fc61"
   },
   {
     "url": "static/img/apple-touch-startup-image-2688x1242.png",
-    "revision": "311e27aa6f4c75488b4fa98048957216"
+    "revision": "61e9897594f9ebe62657fb0f832a6216"
   },
   {
     "url": "static/img/apple-touch-startup-image-2732x2048.png",
-    "revision": "03371255276941f1af203eeec250a0af"
+    "revision": "0fc8bbcd10e6c1aebd0e859f537988d6"
   },
   {
     "url": "static/img/apple-touch-startup-image-640x1136.png",
@@ -1546,7 +1546,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "bacc71039f0767ab5c0cdd27e7cc03ad"
+    "revision": "754de38ed1775e7ef6757b9e9afbb420"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
@@ -1558,11 +1558,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "25cca897d89c0ff82732d2529fa0d752"
+    "revision": "3e2ada5252333de1542cb339c94fd85c"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "a08637c719a74070fa89ac726745093a"
+    "revision": "13d401ad4016a469c2766f7e29321220"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
@@ -1570,19 +1570,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "7d1bd08cc8b400965b361f33d8810111"
+    "revision": "8ae7a5859a74fc8ff39ecfbe05f021b1"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "0593f2c413f0c34817b5a22f4df06b9b"
+    "revision": "590e99371ab754680b9d48527871fd25"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "0fe01a597992431a402d397a02e2a3c5"
+    "revision": "5e8c04bbb86a8d5d693a82ee6ffe9192"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "d772332922b729983facc70acde338aa"
+    "revision": "d7495b66a1b2792ed7fe7fa9edba1ce9"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
@@ -1590,67 +1590,67 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "debe3d9da559002469f9c3e7a5ac0028"
+    "revision": "002d3e62604783f146f6a93c2a5d9a8b"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "8316be5a9a0d4eed1f7eec170d68027a"
+    "revision": "e49cc7bacd6ce6c3a25567a56edbec22"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "c785e18ddc73fe4db63725051f0580f5"
+    "revision": "45b589a6f5b2427e01fbaf2410989c6f"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "e14909727ad756ed4e0ec128c6427ddf"
+    "revision": "8212c5058aa8c2c608a3e9caf6e7fa5d"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "22123a72881eaa70767dfa9b80c90a54"
+    "revision": "387d258e1e530208859ff9bb709bed3d"
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "53b1a6ea6357e35470ead6af968a4661"
+    "revision": "50e0de899e40af6c1abb47a089a284d9"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "d92d8da4392c7b039651aeb3221a8f44"
+    "revision": "d04adba2f3d347cd70f7c7ef0530f82b"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "c60b073b8617bc002a68b068507f0a41"
+    "revision": "af3350c7421954ecd9e2b7b20de50fef"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "e1a2062ea667f24c4c3afb8eead662a0"
+    "revision": "96259d973ddb6713632291c21baf5765"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "37949de1767eb07aa4b410c3b421cb37"
+    "revision": "6349da78c4bb902b39c917ba7f34cc08"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "004d77ff58d45437b5c24856b8aca937"
+    "revision": "e1a405d9dc88c04605490c313578e455"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "bf516eaab0673e0bc8aada120e207954"
+    "revision": "94d94f1966feced747eb6e57c0515b65"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "ddd1edc73e0d0be1dd34779d6424aa92"
+    "revision": "0b4c96feccd94cff2f47cbbdd9764dea"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "d4ef513f3d0abb6b91e80f62f949ce93"
+    "revision": "ee519151e2f38874405fab181728859c"
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "5db622da607f90a94e3c1489ccb9f7d5"
+    "revision": "2d2bab7140ccfbf350ae1051b93a7861"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "2d4e0d4ea19738161288e7b6315dbbc4"
+    "revision": "33671668f0c1f89102109f7396935f60"
   },
   {
     "url": "posts/index.html",
@@ -1674,7 +1674,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/blog/index.html",
-    "revision": "f4fd4a01ed4e2a1942ef32c640313b25"
+    "revision": "483b788ca5de991758e7f01868fda5a8"
   },
   {
     "url": "tags/ci/index.html",

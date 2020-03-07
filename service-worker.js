@@ -1546,7 +1546,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "754de38ed1775e7ef6757b9e9afbb420"
+    "revision": "bacc71039f0767ab5c0cdd27e7cc03ad"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
@@ -1554,7 +1554,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "ea80a1f210e4f343a6e86dae565a53b2"
+    "revision": "0718a6d88a48460b761bf880d2ca908a"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
@@ -1578,15 +1578,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "5e8c04bbb86a8d5d693a82ee6ffe9192"
+    "revision": "0fe01a597992431a402d397a02e2a3c5"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "d7495b66a1b2792ed7fe7fa9edba1ce9"
+    "revision": "d772332922b729983facc70acde338aa"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "5385f297a16217e8177d2b09be872ca6"
+    "revision": "6b4ce425db011d210a3084e6579add46"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
@@ -1594,7 +1594,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "e49cc7bacd6ce6c3a25567a56edbec22"
+    "revision": "8316be5a9a0d4eed1f7eec170d68027a"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
@@ -1646,15 +1646,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "ec0b747c9e5b8dfbc0276ead7fa0702c"
+    "revision": "5db622da607f90a94e3c1489ccb9f7d5"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "9ab806e96c7aea5e11b5b4a2ec6379e3"
+    "revision": "2d4e0d4ea19738161288e7b6315dbbc4"
   },
   {
     "url": "posts/index.html",
-    "revision": "abaf024ca541f10eae1d68e39b237626"
+    "revision": "aa8b89c8d3bf47b640a80d2f3e086d52"
   },
   {
     "url": "tags/actions/index.html",
@@ -1674,7 +1674,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/blog/index.html",
-    "revision": "483b788ca5de991758e7f01868fda5a8"
+    "revision": "f4fd4a01ed4e2a1942ef32c640313b25"
   },
   {
     "url": "tags/ci/index.html",

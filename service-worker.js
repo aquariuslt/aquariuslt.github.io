@@ -1546,11 +1546,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "bacc71039f0767ab5c0cdd27e7cc03ad"
+    "revision": "754de38ed1775e7ef6757b9e9afbb420"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "d83c83c11519e1f659c356b63a1712c4"
+    "revision": "87a5af77a46963228aa48b57781367cb"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1558,23 +1558,23 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "3e2ada5252333de1542cb339c94fd85c"
+    "revision": "25cca897d89c0ff82732d2529fa0d752"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "13d401ad4016a469c2766f7e29321220"
+    "revision": "a08637c719a74070fa89ac726745093a"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "4613aead851558bd4983b2c4bc2ba38b"
+    "revision": "d7811799b10c0b1578dbf26dc7445abe"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "8ae7a5859a74fc8ff39ecfbe05f021b1"
+    "revision": "7d1bd08cc8b400965b361f33d8810111"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "590e99371ab754680b9d48527871fd25"
+    "revision": "0593f2c413f0c34817b5a22f4df06b9b"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1582,15 +1582,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "d772332922b729983facc70acde338aa"
+    "revision": "d7495b66a1b2792ed7fe7fa9edba1ce9"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "6b4ce425db011d210a3084e6579add46"
+    "revision": "5385f297a16217e8177d2b09be872ca6"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "002d3e62604783f146f6a93c2a5d9a8b"
+    "revision": "debe3d9da559002469f9c3e7a5ac0028"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
@@ -1646,15 +1646,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "5db622da607f90a94e3c1489ccb9f7d5"
+    "revision": "ec0b747c9e5b8dfbc0276ead7fa0702c"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "2d4e0d4ea19738161288e7b6315dbbc4"
+    "revision": "9ab806e96c7aea5e11b5b4a2ec6379e3"
   },
   {
     "url": "posts/index.html",
-    "revision": "aa8b89c8d3bf47b640a80d2f3e086d52"
+    "revision": "abaf024ca541f10eae1d68e39b237626"
   },
   {
     "url": "tags/actions/index.html",
@@ -1662,7 +1662,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/angular/index.html",
-    "revision": "78e06d6732d260e6cba510aaf2487e42"
+    "revision": "ada9f75461b3db4a57f30b7a219194c0"
   },
   {
     "url": "tags/angularjs/index.html",

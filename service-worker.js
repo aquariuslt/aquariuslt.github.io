@@ -358,7 +358,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "c68a4c7f302ea192779172db568a27ba"
+    "revision": "ea68276a420288e8ccb552fba720400e"
   },
   {
     "url": "static/js/detail.b145bdf8916d95eebe70.js",
@@ -1546,11 +1546,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "bacc71039f0767ab5c0cdd27e7cc03ad"
+    "revision": "754de38ed1775e7ef6757b9e9afbb420"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "87a5af77a46963228aa48b57781367cb"
+    "revision": "d83c83c11519e1f659c356b63a1712c4"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1562,7 +1562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "13d401ad4016a469c2766f7e29321220"
+    "revision": "a08637c719a74070fa89ac726745093a"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
@@ -1574,7 +1574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "590e99371ab754680b9d48527871fd25"
+    "revision": "0593f2c413f0c34817b5a22f4df06b9b"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1582,7 +1582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "d7495b66a1b2792ed7fe7fa9edba1ce9"
+    "revision": "d772332922b729983facc70acde338aa"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
@@ -1590,7 +1590,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "debe3d9da559002469f9c3e7a5ac0028"
+    "revision": "002d3e62604783f146f6a93c2a5d9a8b"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
@@ -1598,7 +1598,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "45b589a6f5b2427e01fbaf2410989c6f"
+    "revision": "c785e18ddc73fe4db63725051f0580f5"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
@@ -1610,7 +1610,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "50e0de899e40af6c1abb47a089a284d9"
+    "revision": "53b1a6ea6357e35470ead6af968a4661"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
@@ -1638,7 +1638,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "ddd1edc73e0d0be1dd34779d6424aa92"
+    "revision": "76290c11eb9a990f9011850ca1b5d143"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
@@ -1646,7 +1646,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "5db622da607f90a94e3c1489ccb9f7d5"
+    "revision": "ec0b747c9e5b8dfbc0276ead7fa0702c"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -1678,7 +1678,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "71d9eafe834564f5ba352fa2316a6c9a"
+    "revision": "9b5663fa86c0f124e11a5c4c5828e9c7"
   },
   {
     "url": "tags/diary/index.html",
@@ -1694,7 +1694,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "d63b9c2b667c57a8cd660392626ca65c"
+    "revision": "95a76a966111c82f6d76f52f604ce391"
   },
   {
     "url": "tags/google/index.html",
@@ -1746,7 +1746,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/linux/index.html",
-    "revision": "451193ec6b4101224ae0bc0fd3aca0a3"
+    "revision": "bda110672b88a21fa4f7a54ffeaf9edb"
   },
   {
     "url": "tags/monorepo/index.html",

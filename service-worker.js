@@ -358,7 +358,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "aac1bfd115abe9cfd5dc067d02fd96b8"
+    "revision": "20507793b44dd3fd3bcc0d440b17d435"
   },
   {
     "url": "static/js/detail.b145bdf8916d95eebe70.js",
@@ -1534,7 +1534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "80565e8c48d40d624bfa8c5dce4140bf"
+    "revision": "768f4e5a348da81cde67d03fd6321822"
   },
   {
     "url": "pages/about/index.html",
@@ -1554,7 +1554,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "fe8335a015eddd0af626411a000a92c6"
+    "revision": "bbcec37777398920811c3a576cf4fa4c"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
@@ -1570,11 +1570,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "108f7436554dde671bfb3a7ddf3ee77b"
+    "revision": "073f727fbaa706cb827622d6356a1a7e"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "6f7cd28f61929aa6cd640d1744d740b8"
+    "revision": "1756bb851e605d60fdf04bd0bad7e01f"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1582,7 +1582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "dd59fad25e1fa33209240bfa7431a3da"
+    "revision": "0b52c29b6aee4f7708a25ecfec4c58e7"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
@@ -1614,7 +1614,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "8d68200f6dfbedc20fd1d352e9ab1a3e"
+    "revision": "07693b068b493203095268f556f2cb75"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
@@ -1634,7 +1634,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "80ea29d0b1244c87da3782b1a84e7851"
+    "revision": "9259060d1a76ae011002663db60a5a4a"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
@@ -1642,11 +1642,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "49203b633aa8b066caa6b47f222e0659"
+    "revision": "4d57e037e52f6339380ea7208f2103f2"
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "9341fee584ab14aadf6307694ca44e83"
+    "revision": "4bbd43b1799e7768d4c1216589070877"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -1694,7 +1694,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "76e56d39a451550137eb9090736ce580"
+    "revision": "f63a47877aee646d900c87d5a152cc2c"
   },
   {
     "url": "tags/google/index.html",

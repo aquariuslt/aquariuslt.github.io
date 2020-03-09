@@ -1534,7 +1534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "768f4e5a348da81cde67d03fd6321822"
+    "revision": "80565e8c48d40d624bfa8c5dce4140bf"
   },
   {
     "url": "pages/about/index.html",
@@ -1546,7 +1546,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "13526111821b6f6522f6038e696278be"
+    "revision": "dedc43ed4fb18f119490a579aedf3e14"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
@@ -1558,7 +1558,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "3f53bda5dab6a27afb392ec4daa0eb40"
+    "revision": "923247ced2b8b1654a8847426630a1ba"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
@@ -1566,7 +1566,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "ff5f4cfda8649a61cabb773fa6a18c08"
+    "revision": "e9e0461e160c64a9f7fc80877583b06b"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
@@ -1574,11 +1574,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "1756bb851e605d60fdf04bd0bad7e01f"
+    "revision": "6f7cd28f61929aa6cd640d1744d740b8"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "c0e2b16e9e1b06716d2333ac8bf77ada"
+    "revision": "93275a5bab527d7083aeab3f7b1c8510"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
@@ -1590,7 +1590,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "2e47cbdad70fd9578e95e0bc3cdfba87"
+    "revision": "57f3c10c9d733f54e0a266cf9c700762"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
@@ -1674,7 +1674,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/blog/index.html",
-    "revision": "8819645adec8c7b6e01016e58f8e325c"
+    "revision": "d936c45cfd1c51e6261c10a1c454736f"
   },
   {
     "url": "tags/ci/index.html",
@@ -1694,7 +1694,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "f63a47877aee646d900c87d5a152cc2c"
+    "revision": "76e56d39a451550137eb9090736ce580"
   },
   {
     "url": "tags/google/index.html",

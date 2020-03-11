@@ -1550,7 +1550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "b20928beaea6c260f5dbdd84c4522bed"
+    "revision": "13ddea37d5cf09c272ae64b990a4ddd0"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
@@ -1558,7 +1558,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "923247ced2b8b1654a8847426630a1ba"
+    "revision": "3f53bda5dab6a27afb392ec4daa0eb40"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
@@ -1574,7 +1574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "1756bb851e605d60fdf04bd0bad7e01f"
+    "revision": "6f7cd28f61929aa6cd640d1744d740b8"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1602,7 +1602,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "092c3219721c8757c0e2d8938b44e985"
+    "revision": "e188b61863cb10a41ea2c3a476d740c5"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
@@ -1614,7 +1614,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "07693b068b493203095268f556f2cb75"
+    "revision": "8d68200f6dfbedc20fd1d352e9ab1a3e"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
@@ -1634,7 +1634,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "9259060d1a76ae011002663db60a5a4a"
+    "revision": "80ea29d0b1244c87da3782b1a84e7851"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
@@ -1646,7 +1646,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "4bbd43b1799e7768d4c1216589070877"
+    "revision": "9341fee584ab14aadf6307694ca44e83"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",

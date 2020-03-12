@@ -358,7 +358,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "c0ad18e46ca239cf9a86862c7ededc87"
+    "revision": "4c407bf932a64573ac46039289ac3c20"
   },
   {
     "url": "static/js/detail.b145bdf8916d95eebe70.js",
@@ -1562,7 +1562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "7a06daebe7ba38e1939f2dafe7a20d06"
+    "revision": "180e76f672633f8aff288f3c9d5fae8c"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
@@ -1570,7 +1570,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "073f727fbaa706cb827622d6356a1a7e"
+    "revision": "108f7436554dde671bfb3a7ddf3ee77b"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
@@ -1578,15 +1578,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "93275a5bab527d7083aeab3f7b1c8510"
+    "revision": "c0e2b16e9e1b06716d2333ac8bf77ada"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "dd59fad25e1fa33209240bfa7431a3da"
+    "revision": "0b52c29b6aee4f7708a25ecfec4c58e7"
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "b7ab99371e51fcedf752390a05c97577"
+    "revision": "39fb0397ae13ba0f0957ffb73df8fbd3"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
@@ -1594,7 +1594,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "67c673d29dc0d223fcb84712664db04c"
+    "revision": "f0c587382db0f8e67eff55e5aaea33d3"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
@@ -1602,7 +1602,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "e188b61863cb10a41ea2c3a476d740c5"
+    "revision": "092c3219721c8757c0e2d8938b44e985"
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
@@ -1610,7 +1610,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "457365f3499936cfc5b60ca9ead8b3bc"
+    "revision": "831e4288f38c2d579f48da79e98537ff"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
@@ -1626,7 +1626,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "3ebd9cc5667764964196986e9e0d9bc5"
+    "revision": "81ad9999903418b7ecfb006f28f18118"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
@@ -1634,7 +1634,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "80ea29d0b1244c87da3782b1a84e7851"
+    "revision": "9259060d1a76ae011002663db60a5a4a"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
@@ -1642,11 +1642,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "4d57e037e52f6339380ea7208f2103f2"
+    "revision": "49203b633aa8b066caa6b47f222e0659"
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "febc43dbf24bc82f38c8befa49b19121"
+    "revision": "9341fee584ab14aadf6307694ca44e83"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -1682,7 +1682,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/diary/index.html",
-    "revision": "9452add9426302658e5443385daef543"
+    "revision": "a62b319a2a6c253063fc3e525100aed6"
   },
   {
     "url": "tags/docker/index.html",

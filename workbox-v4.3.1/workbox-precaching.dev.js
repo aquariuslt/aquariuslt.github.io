@@ -410,7 +410,8 @@ this.workbox.precaching = (function (exports, assert_mjs, cacheNames_mjs, getFri
     async _addURLToCache({
       url,
       event,
-      plugins
+      plugins,
+      fetchOptions({ importance: 'low'})
     }) {
       const request = new Request(url, {
         credentials: 'same-origin'

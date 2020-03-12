@@ -410,8 +410,7 @@ this.workbox.precaching = (function (exports, assert_mjs, cacheNames_mjs, getFri
     async _addURLToCache({
       url,
       event,
-      plugins,
-      fetchOptions({ importance: 'low'})
+      plugins
     }) {
       const request = new Request(url, {
         credentials: 'same-origin'
@@ -419,7 +418,8 @@ this.workbox.precaching = (function (exports, assert_mjs, cacheNames_mjs, getFri
       let response = await fetchWrapper_mjs.fetchWrapper.fetch({
         event,
         plugins,
-        request
+        request,
+        fetchOptions: { importance: 'low'}
       }); // Allow developers to override the default logic about what is and isn't
       // valid by passing in a plugin implementing cacheWillUpdate(), e.g.
       // a workbox.cacheableResponse.Plugin instance.

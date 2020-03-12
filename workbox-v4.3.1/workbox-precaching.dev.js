@@ -419,7 +419,9 @@ this.workbox.precaching = (function (exports, assert_mjs, cacheNames_mjs, getFri
         event,
         plugins,
         request,
-        fetchOptions: { importance: 'low'}
+        fetchOptions: {
+          importance: 'low'
+        }
       }); // Allow developers to override the default logic about what is and isn't
       // valid by passing in a plugin implementing cacheWillUpdate(), e.g.
       // a workbox.cacheableResponse.Plugin instance.
@@ -976,13 +978,13 @@ this.workbox.precaching = (function (exports, assert_mjs, cacheNames_mjs, getFri
     assert_mjs.assert.isSWEnv('workbox-precaching');
   }
 
+  exports.PrecacheController = PrecacheController;
   exports.addPlugins = addPlugins;
   exports.addRoute = addRoute;
   exports.cleanupOutdatedCaches = cleanupOutdatedCaches;
   exports.getCacheKeyForURL = getCacheKeyForURL$1;
   exports.precache = precache;
   exports.precacheAndRoute = precacheAndRoute;
-  exports.PrecacheController = PrecacheController;
 
   return exports;
 

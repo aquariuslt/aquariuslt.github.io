@@ -358,7 +358,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "b3d9b299bd5e85a2f7d113e264539b83"
+    "revision": "3044c1656b0db8833756604a059bd1a8"
   },
   {
     "url": "static/js/detail.eb8af859e0544926c632.js",
@@ -1534,7 +1534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a33b570d9dd6af5e357c8dbe1c98cfb7"
+    "revision": "f157d41522ff321f91067d1013e11a7c"
   },
   {
     "url": "pages/about/index.html",
@@ -1638,7 +1638,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "de2459db17ed3f7224561a5613bd7bbe"
+    "revision": "268ff0e77f2911b9c1e63ab4a42ebb53"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
@@ -1678,7 +1678,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "4678b7670286de1a55dfff5f9de042fd"
+    "revision": "9bf16c5aae62a1adbc67393f33fe696b"
   },
   {
     "url": "tags/diary/index.html",
@@ -1690,7 +1690,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/extjs/index.html",
-    "revision": "37f146690de3b5e0a8e7f9d872b6cb12"
+    "revision": "9ca7df2b8acdae8523cf9a00f3e1b8ca"
   },
   {
     "url": "tags/github/index.html",
@@ -1698,7 +1698,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/google/index.html",
-    "revision": "bd6c3e9043bf3d094d7d464ac1f60d94"
+    "revision": "1acc5316d1bc26a2e7e9c17172b37a09"
   },
   {
     "url": "tags/gulp/index.html",

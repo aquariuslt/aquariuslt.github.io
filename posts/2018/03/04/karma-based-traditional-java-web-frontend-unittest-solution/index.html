@@ -1696,7 +1696,7 @@ jawr.js.bundle.i18n.mappings=messages:i18n.i18n(locale)
 <li>如果开启了 jawr 对应的国际化功能，我们应该如何在测试中生成这些全局的国际化函数</li>
 </ul>
 <p>为了解耦呢，这个<code>karma-jawr</code>的中间件提供了这样一个功能</p>
-<p>根据<code>jawr.properties</code>的位置，参考 jawr Java 的路径解释部分实现，生成了一个中间文件夹 <img src="/posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.png" alt="generated-indexes folder"> 配合 webpack 的<code>alias</code>功能，我们只要在单元测试代码里面使用类似这样的语法</p>
+<p>根据<code>jawr.properties</code>的位置，参考 jawr Java 的路径解释部分实现，生成了一个中间文件夹 <img src="/posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.png" alt="generated-indexes folder" loading="lazy"> 配合 webpack 的<code>alias</code>功能，我们只要在单元测试代码里面使用类似这样的语法</p>
 <pre class="hljs"><code><span class="hljs-built_in">require</span>(<span class="hljs-string">'@/jsBundles/extJs.js'</span>);
 </code></pre>
 <p>便能够按需加载页面的资源文件执行，原本在 jsf facelet view 里面使用什么 tag 就知道在单元测试文件加载什么依赖。为了解决中间生成的国际化相关的全局函数，也是参考了 jawr Java 端读取 i18n 相关 properties 的实现，撸了一个输出结果一样的 i18n 的自动添加到每个 index.js 相关的文件列表的最前面，确保他们优先生效，不影响后面 webpack 的解析工作。</p>

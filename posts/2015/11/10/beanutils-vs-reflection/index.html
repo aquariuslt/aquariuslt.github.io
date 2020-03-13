@@ -1369,7 +1369,7 @@ body::backdrop {
 </blockquote>
 <h4 id="通过-jprofiler-分析方法执行时间">通过 JProfiler 分析方法执行时间</h4>
 <p>通过 JProfiler 插件启动 weblogic 服务器实例之后,JProfiler 的 GUI 界面将会启动,并成功监听到对应的实例进程. 实例成功启动之后,下面会有一个 CPU Time 的标签页,选中并点击<code>record</code>. 触发任意次目标方法,即可看到所有方法的执行时间</p>
-<p><img src="/posts/2015/11/10/beanutils-vs-reflection/method-executing-time.png" alt="方法执行时间"></p>
+<p><img src="/posts/2015/11/10/beanutils-vs-reflection/method-executing-time.png" alt="方法执行时间" loading="lazy"></p>
 <h3 id="正文性能优化部分">正文:性能优化部分</h3>
 <p>言归正传,在看到性能分析记录的时候,一个叫做 <code>ReflectionUtil.convertObjectWithSameFields()</code> 的方法,方法体如下</p>
 <pre class="hljs"><code><span class="hljs-comment">/**

@@ -1465,7 +1465,7 @@ You'll be able to stop and start Redis using the script named
 <p>接着用<code>n</code>去安装所需版本的<code>node.js</code></p>
 <pre class="hljs"><code>$n v4.2.3
 </code></pre>
-<p>重启电脑之后在查看<code>node</code>和<code>npm</code>版本,应该如下图 <img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.png" alt="更新Node.js"></p>
+<p>重启电脑之后在查看<code>node</code>和<code>npm</code>版本,应该如下图 <img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.png" alt="更新Node.js" loading="lazy"></p>
 <h2 id="linux-下-node-oracledb-的配置">Linux 下 Node-OracleDB 的配置</h2>
 <p>Linux 下搭建好 node-oracledb 也是相当操蛋. 大概需要做下面几个工作:</p>
 <ul>
@@ -1492,7 +1492,7 @@ export OCI_INC_DIR=/OPT/oracle/instantclient
 export ORACLE_HOME=$OCI_LIB_DIR
 export LD_LIBRARY_PATH=/opt/oracle/instantclient:$LD_LIBRARY_PATH
 </code></pre>
-<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/add-oracle-cli-global-env-var.png" alt="添加Oracle Client 相关全局环境变量"></p>
+<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/add-oracle-cli-global-env-var.png" alt="添加Oracle Client 相关全局环境变量" loading="lazy"></p>
 <p>此时执行命令安装 <code>oracledb</code> 大概应该不会出问题了</p>
 <blockquote>
 <p>其实还有个小问题,<code>oracledb</code>得必须是 1.3.0 以上的版本..不然爆的错我也无法入手解决</p>
@@ -1524,7 +1524,7 @@ export PATH=$PATH:$JAVA_HOME/bin
 <p>保存后,查看 java 版本</p>
 <pre class="hljs"><code>$java -version
 </code></pre>
-<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/config-jdk-path.png" alt="配置JDK路径"></p>
+<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/config-jdk-path.png" alt="配置JDK路径" loading="lazy"></p>
 <h3 id="配置-idea-在-ubuntu-中的启动图标">配置 Idea 在 Ubuntu 中的启动图标</h3>
 <p>默认情况下,通过 Idea 目录下的<code>/bin/idea.sh</code>即可启动 IdeaUI 但是为了能够显示 Ubuntu 的 docker 里面(左边那条任务栏,不知道叫什么东西,叫 docker 吧)</p>
 <p>需要在<code>/usr/share/applications</code>下新建一个<code>intellij-idea.desktop</code> 加个配置文件</p>
@@ -1540,11 +1540,11 @@ Exec=/home/dev/Applications/IntellijIdea15/bin/idea.sh
 Terminal=false
 Categories=Development;IDE;Java;
 </code></pre>
-<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/add-app-launch-icon.png" alt="添加Ubuntu Applications启动图标"></p>
+<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/add-app-launch-icon.png" alt="添加Ubuntu Applications启动图标" loading="lazy"></p>
 <h3 id="idea-在-ubuntu-下一些特殊的配置">Idea 在 Ubuntu 下一些特殊的配置</h3>
 <blockquote>
 <p>虽然都是类 Unix 系统,Idea 跟 Mac 在一些读取环境变量时候的做法不大一样. 本质上其实还是我对他认识不够深,还找不到原因..以后找到会更新 Liux 下在<code>run configuration</code>里面添加新的<code>Node.js</code>脚本或者<code>shell</code>脚本的时候,有一些不一样的地方就是通过 Ubuntu 桌面启动 Idea,会读不到用户级别的环境变量. 所以有一在配置一些的脚本的时候,需要确保运行时的环境变量,查看方法</p>
 </blockquote>
 <p>在<code>Run Configurations</code>-&gt;<code>Environment Variables</code>-&gt;<code>Include Parents Variables</code>-&gt;<code>Show</code> 查看所有环境变量. 如果没有,烦请自己加上,为求能达到与 Terminal 运行同样的结果.</p>
-<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/check-run-configuration.png" alt="查看Run Configurations全局变量"></p>
+<p><img src="/posts/2015/12/13/ubuntu-mean-development-environment-setup/check-run-configuration.png" alt="查看Run Configurations全局变量" loading="lazy"></p>
 </div><div class="jss169"></div><a role="button" class="MuiChip-root jss201 MuiChip-clickable" tabindex="0" href="/tags/ubuntu"><span class="MuiChip-label">Ubuntu</span></a><a role="button" class="MuiChip-root jss201 MuiChip-clickable" tabindex="0" href="/tags/linux"><span class="MuiChip-label">Linux</span></a><a role="button" class="MuiChip-root jss201 MuiChip-clickable" tabindex="0" href="/tags/intellij-idea"><span class="MuiChip-label">IntelliJ IDEA</span></a><div id="disqus_thread"></div></div></div><div class="jss150"><nav class="jss170"><ol class="jss173"><li class="MuiTypography-root jss172 MuiTypography-body1" style="padding-left: 8px;">Contents</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 16px;">Background</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 16px;">Linux 下 Redis 的安装与配置</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">下载</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">安装</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">以服务运行</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 16px;">Ubuntu 下 Node.js 与 MongoDB 的安装与配置</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">更新 Ubuntu 的包管理器</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">通过包管理器安装 Node.js</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 16px;">Linux 下 Node-OracleDB 的配置</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">下载 OracleInstantClient for Linux</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">设置环境变量</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 16px;">Ubuntu 下 IntelliJ IDEA 的配置</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">安装 JDK</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">配置 Idea 在 Ubuntu 中的启动图标</li><li class="MuiTypography-root jss174 MuiTypography-body1" style="padding-left: 24px;">Idea 在 Ubuntu 下一些特殊的配置</li></ol></nav></div></div></main><div role="presentation" class="jss11" style="transform: scale(0); visibility: hidden;"><button class="MuiButtonBase-root MuiFab-root MuiFab-sizeSmall MuiFab-primary" tabindex="0" type="button" aria-label="scroll back to top"><span class="MuiFab-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg></span><span class="MuiTouchRipple-root"></span></button></div></div></div><script src="/static/js/vendors.7ea6cf4fdfece9a7f459.js"></script><script src="/static/js/main.f0d79c1b677fb068d5f6.js"></script></body></html>

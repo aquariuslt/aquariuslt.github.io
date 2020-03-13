@@ -1550,31 +1550,31 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "86e7266c792a08b59255ff03b1572353"
+    "revision": "4f6cff008d1882646541a78c2833520a"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "c2bd013570273051602bff47d0aa651b"
+    "revision": "39dbf8dc4ea5925df164395ed563989f"
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "8dc5d26cc3adc4f27532c6dfba286c73"
+    "revision": "3c78db39f77690c8d3374b824805574a"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "1f8ba553a818fd0bf889eabd0c04e563"
+    "revision": "bb5166bf83f8d5162d45ed6861621d4f"
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "8576be9e57abec9265a10eb4fe8c6b2a"
+    "revision": "ba424063df8a2926c14ec188b5911ff4"
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "5654480d9bfd1e42ba79fd3d4c21a267"
+    "revision": "1a6a54833e834216731ba9a2a71086d0"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "644a7236feb57204b698d26a55977e89"
+    "revision": "eb6cb5c7fad3cd1dae1164d536411a6e"
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
@@ -1586,15 +1586,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "f80d81af1a63fb3102ec956610307462"
+    "revision": "5eacfad651e49e3a9a2dafacb5f6bf9c"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "44cfaf2e6a6ae27cb27bc81d1a5ed12a"
+    "revision": "a3e294a25c9b645c153d504d959331e6"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "da1ffb6cdec393de136949c5a809df4d"
+    "revision": "96529a9a49fac0b6a2abb3717edc1f08"
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
@@ -1610,7 +1610,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "e4d96d400c559a95f137ac7cb5221c00"
+    "revision": "b7187958a7791f35d2adb6c9317cb8db"
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
@@ -1618,11 +1618,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "4019b7b48d1d248aeeb3f649395c4d6b"
+    "revision": "7eab3e9a569e552e686af657d003b775"
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "791c772284717573da7c2d35bba22c38"
+    "revision": "32689369ef557072ae85fcc82f0ac073"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -1630,7 +1630,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "d0f4d4355ba425d45d8d9e86a2e42906"
+    "revision": "6114eb08579e78230004df3a18836353"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
@@ -1642,7 +1642,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "7f6a92ae9b5184c84837a16fcf591d5b"
+    "revision": "a56e147c28d37c16831319b39a7bb396"
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
@@ -1650,7 +1650,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "0bb6e7c7de14df2aef6fb3d9ffda4b23"
+    "revision": "432126361038ac2aca7f8a931f3e44b9"
   },
   {
     "url": "posts/index.html",
@@ -1746,7 +1746,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/linux/index.html",
-    "revision": "42eaa56a2ecdb97ae3b71fcb77bd4c33"
+    "revision": "ce2f4bcdf327b39e745196df46392669"
   },
   {
     "url": "tags/monorepo/index.html",
@@ -1794,7 +1794,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/travisci/index.html",
-    "revision": "c26eee9f919d8d4836046b44cf435687"
+    "revision": "5deb0e423b98c3437549b3e6fcf58d63"
   },
   {
     "url": "tags/trips/index.html",

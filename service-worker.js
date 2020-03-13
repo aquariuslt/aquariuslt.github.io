@@ -1534,7 +1534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f157d41522ff321f91067d1013e11a7c"
+    "revision": "a33b570d9dd6af5e357c8dbe1c98cfb7"
   },
   {
     "url": "pages/about/index.html",
@@ -1622,7 +1622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "32689369ef557072ae85fcc82f0ac073"
+    "revision": "6cec842a8a0c81a0647d2f6a8e65dd27"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -1634,15 +1634,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "9bdf8d3b8eae02a7c05d0095d6fd9997"
+    "revision": "7c652201089d837fe0b9bc328e13bed5"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "268ff0e77f2911b9c1e63ab4a42ebb53"
+    "revision": "afd91bc2083f105fba5d8053c0dbca33"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "e69c5342c7f30bff622f3174a2f6adf3"
+    "revision": "d04813d53dce657fa7a9b8c77d8e5b06"
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
@@ -1650,11 +1650,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "d2ca085974fea8ee6ec5f5fcc9bf3c20"
+    "revision": "f3048b75f587e9d9a069104134d6d0e1"
   },
   {
     "url": "posts/index.html",
-    "revision": "478b9a805ecd50ecd62fe4d1f46de3a8"
+    "revision": "55b242d7fd1e0374be4f2b0ce536796b"
   },
   {
     "url": "tags/actions/index.html",
@@ -1678,7 +1678,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "9bf16c5aae62a1adbc67393f33fe696b"
+    "revision": "4678b7670286de1a55dfff5f9de042fd"
   },
   {
     "url": "tags/diary/index.html",
@@ -1690,7 +1690,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/extjs/index.html",
-    "revision": "9ca7df2b8acdae8523cf9a00f3e1b8ca"
+    "revision": "37f146690de3b5e0a8e7f9d872b6cb12"
   },
   {
     "url": "tags/github/index.html",
@@ -1698,7 +1698,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/google/index.html",
-    "revision": "1acc5316d1bc26a2e7e9c17172b37a09"
+    "revision": "bd6c3e9043bf3d094d7d464ac1f60d94"
   },
   {
     "url": "tags/gulp/index.html",
@@ -1718,7 +1718,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/java/index.html",
-    "revision": "fe769f09f9a61bb09b17b5f16d34903c"
+    "revision": "c8499175f0c102ce4b014063d21524d7"
   },
   {
     "url": "tags/javascript/index.html",

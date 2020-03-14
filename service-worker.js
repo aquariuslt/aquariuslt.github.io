@@ -346,7 +346,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "659d98c68a18984c335188bce536a606"
+    "revision": "c813cc9b523d74ced8190d3b318dfa62"
   },
   {
     "url": "categories/debug/index.html",
@@ -390,7 +390,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "3b3756eb7c2d65fb4df02076ff6a73ed"
+    "revision": "6119795097d2500f53274f7adca793a9"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "e4b3bb174d8756d37780920a514a5487"
+    "revision": "87e4460fb4510ec923924b3964737efb"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -462,7 +462,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "068c597dba090335e98021972f16aaec"
+    "revision": "3be9b097013ea5dd480675323fe7aa6e"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "1db35f27fe46e67bf26cb7332a2bf30c"
+    "revision": "94fa640596d945a6a1dcd2d92ded82cf"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -690,7 +690,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "7803fc71ae3222e4d24944bed58741e5"
+    "revision": "f29e8b991cb3c6d2f249754cc917bf99"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -834,7 +834,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "7003f6d80c4099f074c5822f5fa899fa"
+    "revision": "4bba15c428043f227982248bcf437a45"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -858,7 +858,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "4a2d93e51d4d5a10eb58cfc1c384f439"
+    "revision": "519dc8370b2ba4ad3c9a850ea1526026"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "cc0dadf8fce0b22aa081faf1e575c814"
+    "revision": "e5d3be0bf1bfdad1f62e789159ccef99"
   },
   {
     "url": "static/css/detail.b0d74b8cfbac73bf9403.css",
@@ -1006,7 +1006,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "179c516ab1f59205f975ca69be618a32"
+    "revision": "53ae1e8edd2b61d8979cda6afc09259c"
   },
   {
     "url": "static/js/detail.b0d74b8cfbac73bf9403.js",
@@ -1046,7 +1046,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/diary/index.html",
-    "revision": "3b39061983832b14e5375dfe36e310cc"
+    "revision": "d5917bab1cc5d4d612ec5a30f5ed5540"
   },
   {
     "url": "tags/docker/index.html",
@@ -1094,7 +1094,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/jest/index.html",
-    "revision": "a23bd450c5d76063f7d88ee64c8dc068"
+    "revision": "4effa163e859b47bb2aa467695dafa14"
   },
   {
     "url": "tags/jsf/index.html",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/node/index.html",
-    "revision": "b83c51ae3d8e72074329c8266991f2de"
+    "revision": "41c2b9f8681d52c1b495a4a9a6e52d9d"
   },
   {
     "url": "tags/npm/index.html",

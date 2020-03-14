@@ -1534,7 +1534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a33b570d9dd6af5e357c8dbe1c98cfb7"
+    "revision": "f157d41522ff321f91067d1013e11a7c"
   },
   {
     "url": "pages/about/index.html",
@@ -1622,7 +1622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "6cec842a8a0c81a0647d2f6a8e65dd27"
+    "revision": "32689369ef557072ae85fcc82f0ac073"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
@@ -1634,15 +1634,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "7c652201089d837fe0b9bc328e13bed5"
+    "revision": "9bdf8d3b8eae02a7c05d0095d6fd9997"
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "afd91bc2083f105fba5d8053c0dbca33"
+    "revision": "de2459db17ed3f7224561a5613bd7bbe"
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "d04813d53dce657fa7a9b8c77d8e5b06"
+    "revision": "e69c5342c7f30bff622f3174a2f6adf3"
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
@@ -1650,11 +1650,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "f3048b75f587e9d9a069104134d6d0e1"
+    "revision": "d2ca085974fea8ee6ec5f5fcc9bf3c20"
   },
   {
     "url": "posts/index.html",
-    "revision": "55b242d7fd1e0374be4f2b0ce536796b"
+    "revision": "478b9a805ecd50ecd62fe4d1f46de3a8"
   },
   {
     "url": "tags/actions/index.html",
@@ -1678,7 +1678,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "4678b7670286de1a55dfff5f9de042fd"
+    "revision": "9bf16c5aae62a1adbc67393f33fe696b"
   },
   {
     "url": "tags/diary/index.html",
@@ -1718,7 +1718,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/java/index.html",
-    "revision": "c8499175f0c102ce4b014063d21524d7"
+    "revision": "fe769f09f9a61bb09b17b5f16d34903c"
   },
   {
     "url": "tags/javascript/index.html",
@@ -1754,7 +1754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/node/index.html",
-    "revision": "bed7326465cf0799ba4f962743ae2112"
+    "revision": "ad9c2f673923d6d7d02437932eb0961d"
   },
   {
     "url": "tags/npm/index.html",

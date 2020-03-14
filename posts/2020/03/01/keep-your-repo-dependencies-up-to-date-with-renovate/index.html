@@ -1435,7 +1435,12 @@ body::backdrop {
 <p>这个 Pull Request 的标题叫做 **Configure Renovate，**中间附带了一个文件更变，便是他会在项目的更目录下添加 <code>renovate</code> 的配置文件，名为 <code>renovate.json</code> 。</p>
 <p>这个配置文件描述了一些 renovate 管理此仓库依赖的相关选项，默认生成的 <code>config:base</code> 已经能够满足日常需要。</p>
 <p>如果开发者很不爽在项目根目录增添这样一个 json 配置文件，可以按照他们官方配置发现的目录查找顺序，移入到 <code>.github</code> 目录下。(具体查找规则，官方有较为详细的说明文档)</p>
-<p><img src="/posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-setup-pull-request.png" alt="revonate-setup-pull-request" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./revonate-setup-pull-request.webp" data-srcset="./revonate-setup-pull-request.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-setup-pull-request.png" data-src="./revonate-setup-pull-request.png" loading="lazy">
+        </picture>
+    </p>
 <h3 id="3-pin-dependencies">3. Pin Dependencies</h3>
 <p>合入第二点的 PR 后，不久变会收到第二个初始化类型的 PR: Pin Dependencies。</p>
 <p>顾名思义，这里的意思是锁定目前的依赖版本，且为以后持续接受依赖更新做准备。</p>
@@ -1476,7 +1481,12 @@ body::backdrop {
 <p>如: <a href="https://github.com/aquariuslt/blog/pull/38">https://github.com/aquariuslt/blog/pull/38</a></p>
 <p>标题为: chore(deps): update dependency @types/node to v13.7.7 #38</p>
 <p>对于 circleci，也提供了的 CI 环境下的 docker-image 版本监控</p>
-<p><img src="/posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.png" alt="circle-ci-docker-image-support" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./revonate-circleci-docker-image-support.webp" data-srcset="./revonate-circleci-docker-image-support.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.png" data-src="./revonate-circleci-docker-image-support.png" loading="lazy">
+        </picture>
+    </p>
 <h2 id="结论与思考">结论与思考</h2>
 <h3 id="结论">结论</h3>
 <p>renovate 是我目前遇到的最能满足监控依赖更新的一项服务，满足了我在 Github 上的 node 项目监控依赖更新的迫切需求。</p>

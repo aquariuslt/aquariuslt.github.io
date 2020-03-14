@@ -1249,7 +1249,7 @@ body::backdrop {
   color: #f50057;
 }
 </style><style data-jss="" data-meta="makeStyles">
-.jss183 {
+.jss202 {
   margin: 8px 4px;
 }
 </style><style data-jss="" data-meta="makeStyles">
@@ -1379,7 +1379,12 @@ body::backdrop {
 <h3 id="pluginsangularjs-batarang">Plugins:AngularJS Batarang</h3>
 <p>利用 Angular 官方开发的 Chrome 插件<code>AngularJS Batarang</code>来监控页面性能.<br>
 <a href="https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk">Angular Batarang</a><br>
-<img src="/posts/2016/04/30/angular-ui-performance-tuning-experience/performance.png" alt="运行截图" loading="lazy"></p>
+
+        <picture>
+          <source srcset="./performance.webp" data-srcset="./performance.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2016/04/30/angular-ui-performance-tuning-experience/performance.png" data-src="./performance.png" loading="lazy">
+        </picture>
+    </p>
 <p>通过<code>Angular Batarang</code>,我们可以轻易的统计在页面的<code>watcher</code>数量,<code>$scope</code>中变量的数量. 还有平均一段时间内<code>angular</code>执行<code>$digest</code>的数量.</p>
 <p>对于代码不熟悉的项目前端,查找分析性能瓶颈的时候,可以通过通过该插件进行二分对于,快速定位出瓶颈处. 当然,如果在对 angular 比较熟悉,在开发的过程中也遵循了常见的性能优化约定,该插件的监控作用就不大. 最后还是只能通过其他手段细化性能瓶颈定位粒度.</p>
 <p>经过本人测试,对于大部分使用 Angular 的页面都支持良好.(可惜不支持 CommonJS 打包成的我的主站的分析)</p>
@@ -1387,7 +1392,12 @@ body::backdrop {
 <p>在常见的 CRUD 系统中,我们经常会遇到很多数据展示的区域,但是这些数据一旦渲染好,一般不需要强刷新. 比如页面标题,菜单选项等不需要实时更新的情况.所以这时候可以通过<code>Once Binding</code>,即一次绑定,渲染一次即可,不必监控该表达式.</p>
 <p>之前遇到的情况是,我们的页面 header 会有一个通知栏,展开会通知那些已经显示的列表.<br>
 单条通知样子类似于微博的这种:<br>
-<img src="/posts/2016/04/30/angular-ui-performance-tuning-experience/notification.png" alt="通知栏" loading="lazy"> 在没优化之前,通知部分的伪代码如下:</p>
+
+        <picture>
+          <source srcset="./notification.webp" data-srcset="./notification.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2016/04/30/angular-ui-performance-tuning-experience/notification.png" data-src="./notification.png" loading="lazy">
+        </picture>
+     在没优化之前,通知部分的伪代码如下:</p>
 <pre class="hljs"><code><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"notification"</span>&gt;</span>
   <span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">ng-repeat</span>=<span class="hljs-string">"notification in vm.displayNotifications"</span>&gt;</span>
@@ -1498,4 +1508,4 @@ body::backdrop {
 而频繁触发查询,实际上页面性能也会相当不好. 这里有一个小 tips 就是为一些实时查询性不是很高的输入区域添加 ng-model-options,增加 angular 检查数据 update 的时间间隔, 相当于可以等用户把想要的搜索关键词输入完毕之后,再执行 js 代码的查询工作.</p>
 <h2 id="summary">Summary</h2>
 <p>本次结合了一些实际工作中使用 angular 遇到的性能问题的解决方案,当然也有遇到一些与原生 js,socket.io 相关的性能问题. 由于 tag 不同,不混淆在一起说了.</p>
-</div><div class="jss169"></div><div class="jss170"><img src="https://views.show/svg?key=angular-ui-performance-tuning-experience&amp;x=0%25&amp;y=10%25" alt="views show"></div><a role="button" class="MuiChip-root jss183 MuiChip-clickable" tabindex="0" href="/tags/angular"><span class="MuiChip-label">Angular</span></a><a role="button" class="MuiChip-root jss183 MuiChip-clickable" tabindex="0" href="/tags/javascript"><span class="MuiChip-label">JavaScript</span></a><div id="disqus_thread"></div></div></div><div class="jss150"><nav class="jss171"><ol class="jss174"><li class="MuiTypography-root jss173 MuiTypography-body1" style="padding-left: 8px;">Contents</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">Background</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">References</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">Solutions</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Plugins:AngularJS Batarang</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Once Binding</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Use variable instead function expression</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Chain Filter</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Using ng-model-option delay update</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">Summary</li></ol></nav></div></div></main><div role="presentation" class="jss11" style="transform: scale(0); visibility: hidden;"><button class="MuiButtonBase-root MuiFab-root MuiFab-sizeSmall MuiFab-primary" tabindex="0" type="button" aria-label="scroll back to top"><span class="MuiFab-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg></span><span class="MuiTouchRipple-root"></span></button></div></div></div><script src="/static/js/vendors.151ebee03c958363edb9.js"></script><script src="/static/js/main.fcdbebdb6d7f08aa9128.js"></script></body></html>
+</div><div class="jss169"></div><div class="jss170"><img src="https://views.show/svg?key=angular-ui-performance-tuning-experience&amp;x=0%25&amp;y=10%25" alt="views show"></div><a role="button" class="MuiChip-root jss202 MuiChip-clickable" tabindex="0" href="/tags/angular"><span class="MuiChip-label">Angular</span></a><a role="button" class="MuiChip-root jss202 MuiChip-clickable" tabindex="0" href="/tags/javascript"><span class="MuiChip-label">JavaScript</span></a><div id="disqus_thread"></div></div></div><div class="jss150"><nav class="jss171"><ol class="jss174"><li class="MuiTypography-root jss173 MuiTypography-body1" style="padding-left: 8px;">Contents</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">Background</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">References</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">Solutions</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Plugins:AngularJS Batarang</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Once Binding</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Use variable instead function expression</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Chain Filter</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 24px;">Using ng-model-option delay update</li><li class="MuiTypography-root jss175 MuiTypography-body1" style="padding-left: 16px;">Summary</li></ol></nav></div></div></main><div role="presentation" class="jss11" style="transform: scale(0); visibility: hidden;"><button class="MuiButtonBase-root MuiFab-root MuiFab-sizeSmall MuiFab-primary" tabindex="0" type="button" aria-label="scroll back to top"><span class="MuiFab-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg></span><span class="MuiTouchRipple-root"></span></button></div></div></div><script src="/static/js/vendors.151ebee03c958363edb9.js"></script><script src="/static/js/main.fcdbebdb6d7f08aa9128.js"></script></body></html>

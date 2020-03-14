@@ -1379,7 +1379,12 @@ body::backdrop {
 <li>元数据支持方面，多了很多可选的选项，可以在 YAML 配置里编写很多类似注释级别的 <code>metadata</code></li>
 <li>通过模板语法支持 <code>matrix build</code></li>
 </ul>
-<p><img src="/posts/2019/08/18/github-actions-new-yaml-syntax/build-log-highlight-support.png" alt="Build Log Highlight" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./build-log-highlight-support.webp" data-srcset="./build-log-highlight-support.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/08/18/github-actions-new-yaml-syntax/build-log-highlight-support.png" data-src="./build-log-highlight-support.png" loading="lazy">
+        </picture>
+    </p>
 <h2 id="migrations">Migrations</h2>
 <p>下面这里是我个人对 <code>jest-properties-loader</code> 在使用 TypeScript 重写后的的迁移过程。</p>
 <h3 id="step-0-migration-solution">Step 0: Migration Solution</h3>
@@ -1392,7 +1397,12 @@ body::backdrop {
 </ol>
 <h3 id="step-1-copy-official-node-ci-example">Step 1: Copy Official Node-CI Example</h3>
 <p>在确立了流程后，我们可以从任意 Repo 的 <code>Actions</code> 标签页，选择一些对应语言/平台的 <code>example workflow</code> 进行魔改。</p>
-<p><img src="/posts/2019/08/18/github-actions-new-yaml-syntax/select-sample-workflow-for-npm.png" alt="Select NPM Example Workflow" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./select-sample-workflow-for-npm.webp" data-srcset="./select-sample-workflow-for-npm.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/08/18/github-actions-new-yaml-syntax/select-sample-workflow-for-npm.png" data-src="./select-sample-workflow-for-npm.png" loading="lazy">
+        </picture>
+    </p>
 <p>把官方的 <code>Node-CI</code> 直接应用到项目本身，也完全 OK。自此，我们第一步，通过 CI 平台执行<code>yarn test</code>,<code>yarn build</code>的功能就完成了。</p>
 <pre class="hljs"><code><span class="hljs-attr">name:</span> <span class="hljs-string">Node</span> <span class="hljs-string">CI</span>
 

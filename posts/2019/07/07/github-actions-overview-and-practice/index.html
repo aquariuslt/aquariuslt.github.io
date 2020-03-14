@@ -1383,17 +1383,32 @@ body::backdrop {
 <li>docker</li>
 <li>shell</li>
 </ul>
-<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/github-official-actions-repo.png" alt="" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./github-official-actions-repo.webp" data-srcset="./github-official-actions-repo.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/07/07/github-actions-overview-and-practice/github-official-actions-repo.png" data-src="./github-official-actions-repo.png" loading="lazy">
+        </picture>
+    </p>
 <p>当然也有很多非官方维护的 Actions，可以通过发布到 Github Marketplace 被查找到，也可以把 Actions 构建成 <code>docker image</code> + <code>entrypoints.sh</code> 的形式， 在项目 Workflow 的配置文件中以 docker image 路径进行引用。</p>
 <h3 id="how-configuration-look-like">How configuration look like</h3>
 <p>如果有使用过 Travis-CI, CircleCI, Gitlab-CI 的经验，大概可以想起，对应的 CI 配置文件，大都通过 yml 作为基础语法，来描述整个 CI Pipeline 涉及的几个步骤。</p>
 <p>在 Github Web 界面中，对一个 Repository 的 Workflow 进行可视化的编辑时，如下图:</p>
-<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-editor-example.png" alt="" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./workflow-editor-example.webp" data-srcset="./workflow-editor-example.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-editor-example.png" data-src="./workflow-editor-example.png" loading="lazy">
+        </picture>
+    </p>
 <p>实际上他背后也是一个配置文件，用这个配置文件来描述 workflow 的触发条件，步骤，以及每个步骤执行时的参数... 只不过 Github 官方提供了基于这个配置文件的在线可视化编辑，使得编辑过程比较容易直观。</p>
 <p>关于配置文件的语法、编写形式，下面会以样例提及。</p>
 <h3 id="how-workflow-runtime-look-like">How workflow runtime look like</h3>
 <p>在 Github 界面上查看单个项目的 Workflow 下图这样子:</p>
-<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-example.png" alt="" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./workflow-example.webp" data-srcset="./workflow-example.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-example.png" data-src="./workflow-example.png" loading="lazy">
+        </picture>
+    </p>
 <p>这个 Workflow 比较直观的表示了一个基本的 <code>构建-发布</code> 流程:</p>
 <ol>
 <li>在 Github 收到 <code>push</code> 事件的时候，触发该 workflow</li>
@@ -1503,7 +1518,12 @@ body::backdrop {
 </blockquote>
 <p>hcl 全称 <strong>HashiCorp Configuration Language</strong>，其具体的语法规则比较容易明白，实际上可以快速的以 <code>json</code>, <code>yml</code> 的概念去理解他。</p>
 <p>Tips: 如果平时使用 IntelliJ IDEA 进行开发，那么可以通过给 <code>.workflow</code> 添加语法支持，将其识别为 <code>HCL</code> 语法，即可获得高亮与格式化</p>
-<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-syntax-highlight.png" alt="" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./workflow-syntax-highlight.webp" data-srcset="./workflow-syntax-highlight.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-syntax-highlight.png" data-src="./workflow-syntax-highlight.png" loading="lazy">
+        </picture>
+    </p>
 <p>为了实现基本操作中的第一部分: 每次提交代码时，触发基本的 build &amp; test pipeline</p>
 <p>我在 <code>main.workflow</code> 中声明 <code>build &amp; test</code> 的 pipeline。</p>
 <p>这里为了方便，我使用了 <code>workflow/ci</code> 作为他的简称。</p>
@@ -1540,7 +1560,12 @@ action "test" {
 <p>现在再看 <code>test</code></p>
 <p>说白了，就是在已安装了 node 依赖的工作目录下，执行 <code>yarn test</code> 命令</p>
 <p>所以每当触发 Github 的 push event 之后，我们可以在 Github Actions 流程里看到 <code>workflow/ci</code> 的执行。</p>
-<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-ci-overview.png" alt="" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./workflow-ci-overview.webp" data-srcset="./workflow-ci-overview.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/07/07/github-actions-overview-and-practice/workflow-ci-overview.png" data-src="./workflow-ci-overview.png" loading="lazy">
+        </picture>
+    </p>
 <h3 id="add-publish-workflow">Add Publish workflow</h3>
 <p>现在我们来添加一个名为 <code>release</code> 的 workflow。在 <code>main.workflow</code> 下追加如下内容:</p>
 <pre class="hljs"><code>workflow "release" {
@@ -1568,9 +1593,19 @@ action "npm:release" {
 <li>我们使用 github 官方的提供的 <code>actions/npm</code> ， npm 环境，传入一个 <code>NPM_AUTH_TOKEN</code> 的环境变量，然后执行 <code>npm publish</code> 命令进行发布。</li>
 </ol>
 <p>现在，我们在 github release 页面创建一个新 release 时</p>
-<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/create-release.png" alt="" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./create-release.webp" data-srcset="./create-release.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/07/07/github-actions-overview-and-practice/create-release.png" data-src="./create-release.png" loading="lazy">
+        </picture>
+    </p>
 <p>将会触发 <code>npm:release</code> workflow：</p>
-<p><img src="/posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.png" alt="" loading="lazy"></p>
+<p>
+        <picture>
+          <source srcset="./trigger-release-workflow.webp" data-srcset="./trigger-release-workflow.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.png" data-src="./trigger-release-workflow.png" loading="lazy">
+        </picture>
+    </p>
 <p>接着可以看到如下 detail log， 详见 <a href="https://github.com/aquariuslt/jest-properties-loader/runs/163050939">https://github.com/aquariuslt/jest-properties-loader/runs/163050939</a></p>
 <pre class="hljs"><code>Successfully built fbc21be41b97
 Successfully tagged gcr.io/gct-12-lnx0cl9uvvzo-abntpgke1w/484654f7adf6911ca799c01d40b80af4456b46c3418f33934c643ccc7f245f38/8a5edab282632443219e051e4ade2d1d5bbc671c781051bf1437897cbdfea0f1:fc613b4dfd6736a7bd268c8a0e74ed0d1c04a959f59dd74ef2874983fd443fc9

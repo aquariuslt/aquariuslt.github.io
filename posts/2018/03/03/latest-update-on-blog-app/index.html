@@ -1411,8 +1411,18 @@ body::backdrop {
 <li><code>vue-material</code>也升级到了 v1.0-beta 版本，为新的 API 修改一轮代码</li>
 </ul>
 <h2 id="benchmark">Benchmark</h2>
-<p>目前首次页面加载总共需要 280KB 的流量。 <img src="/posts/2018/03/03/latest-update-on-blog-app/blog-resource-transfer-time.png" alt="blog-resource-transfer-time" loading="lazy"></p>
-<p><img src="/posts/2018/03/03/latest-update-on-blog-app/benchmark-blog-website.png" alt="benchmark-blog-website" loading="lazy"> 重新用 Chrome 的 Audits 工具做了一次测试(中间有根据提示的一些最佳实践准则进行优化) 之后，主要痛点是首次渲染页面时间比较长。</p>
+<p>目前首次页面加载总共需要 280KB 的流量。 
+        <picture>
+          <source srcset="./blog-resource-transfer-time.webp" data-srcset="./blog-resource-transfer-time.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2018/03/03/latest-update-on-blog-app/blog-resource-transfer-time.png" data-src="./blog-resource-transfer-time.png" loading="lazy">
+        </picture>
+    </p>
+<p>
+        <picture>
+          <source srcset="./benchmark-blog-website.webp" data-srcset="./benchmark-blog-website.webp" type="image/webp" data-was-processed="false">
+          <img alt="" class="lazy" src="/posts/2018/03/03/latest-update-on-blog-app/benchmark-blog-website.png" data-src="./benchmark-blog-website.png" loading="lazy">
+        </picture>
+     重新用 Chrome 的 Audits 工具做了一次测试(中间有根据提示的一些最佳实践准则进行优化) 之后，主要痛点是首次渲染页面时间比较长。</p>
 <h2 id="todo">TODO</h2>
 <ul>
 <li>重新思考 Markdown 转译工具部分代码的选型(当初选型用 marked 真是真是后悔，完全是照搬 perl 实现)</li>

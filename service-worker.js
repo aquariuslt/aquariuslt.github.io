@@ -30,11 +30,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/categories.json",
-    "revision": "ab3e5c6c136874c731371ca854887168"
+    "revision": "5997f2d4611337ee042d2ad1bd0ec5bb"
   },
   {
     "url": "api/categories/blog.json",
-    "revision": "01aae2bfd21db342a0ade88b12ad089c"
+    "revision": "526d7482d23723253eeb7db76be21460"
   },
   {
     "url": "api/categories/debug.json",
@@ -50,7 +50,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/home.json",
-    "revision": "c1ddc4f8d2e915db28387e271e0e0e51"
+    "revision": "cecb34c2455a7df95052720060dd5c78"
   },
   {
     "url": "api/navigation.json",
@@ -66,7 +66,7 @@ self.__precacheManifest = [
   },
   {
     "url": "api/posts.json",
-    "revision": "abb9c4d9ba75a753a9d21a8ffd9c278a"
+    "revision": "69af21c750bf89badb0bc8f20e86d283"
   },
   {
     "url": "api/posts/2015/10/25/apache-shiro-spring-integration.json",
@@ -177,12 +177,16 @@ self.__precacheManifest = [
     "revision": "872b19a4505c555eec10d8ee6462a388"
   },
   {
+    "url": "api/posts/2020/03/15/dot-ignore-management-for-npm-package.json",
+    "revision": "5233d15253c5d6b72df788ccffee2b0c"
+  },
+  {
     "url": "api/profile.json",
     "revision": "a5d932d01e2bea6bc56e379b0937c9b7"
   },
   {
     "url": "api/tags.json",
-    "revision": "b3eba89ed14a22c4cdc21ac898ec7d65"
+    "revision": "4ab1b2fbfdad9681899f224a635fe386"
   },
   {
     "url": "api/tags/actions.json",
@@ -219,6 +223,10 @@ self.__precacheManifest = [
   {
     "url": "api/tags/extjs.json",
     "revision": "0554403a63a5ce0e91d8c023de275ba2"
+  },
+  {
+    "url": "api/tags/git.json",
+    "revision": "8749b6b4677f74024f1b71f9efd77f59"
   },
   {
     "url": "api/tags/github.json",
@@ -278,11 +286,11 @@ self.__precacheManifest = [
   },
   {
     "url": "api/tags/node.json",
-    "revision": "5af9be6628440f5330593c25d7893421"
+    "revision": "04f39cf10ef738c6e74fdab4269b3150"
   },
   {
     "url": "api/tags/npm.json",
-    "revision": "946d218c6042c9fba6ec5bbe27305057"
+    "revision": "a5c2738eeedd3852b72f8a8c0556b259"
   },
   {
     "url": "api/tags/oracle.json",
@@ -346,7 +354,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "c813cc9b523d74ced8190d3b318dfa62"
+    "revision": "c630175f8cd397073fdc8003a82f160e"
   },
   {
     "url": "categories/debug/index.html",
@@ -354,7 +362,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "3e1e6dc19765bf5e0ad4926b7ef6e3c6"
+    "revision": "478e620c5be0918afcfed1c1500b64c5"
   },
   {
     "url": "categories/note/index.html",
@@ -366,7 +374,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d5e7bc0af488c81bc8eae23ca21b0764"
+    "revision": "96c420f9b4bb34b5e4d12dc5e3e64e02"
   },
   {
     "url": "pages/about/about.webp",
@@ -390,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "6119795097d2500f53274f7adca793a9"
+    "revision": "3b3756eb7c2d65fb4df02076ff6a73ed"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -398,7 +406,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "87e4460fb4510ec923924b3964737efb"
+    "revision": "e4b3bb174d8756d37780920a514a5487"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -554,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "890e2ab2df6321fcb3d760c7e8701243"
+    "revision": "8e5687bb44604c4c6f2bd3ec2e20c8f0"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -690,7 +698,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "f29e8b991cb3c6d2f249754cc917bf99"
+    "revision": "7803fc71ae3222e4d24944bed58741e5"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -722,7 +730,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "56380a537430cd7ff17cbdf63a91dd39"
+    "revision": "2984aaf2e82ef4e417dd97c871623886"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -794,7 +802,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "130e5b2ffc3a3888431b3044e010fb39"
+    "revision": "f2c4bfaa43fa35bca37ac03847164055"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -834,7 +842,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "4bba15c428043f227982248bcf437a45"
+    "revision": "7a45e56c36fb6cb8489cea4c3f8f3a26"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,11 +878,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "4ed35ad8604abd11ddff3ac392028e6e"
+    "revision": "0a2108f42e5b12369e497ff95a6c53ec"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "4d2f4de9a993c3bfdeeb2a0295aaad04"
+    "revision": "13c53f9823b59e27a9c52649dab74034"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -889,8 +897,16 @@ self.__precacheManifest = [
     "revision": "7727e6936b150ed77fea4325249f2664"
   },
   {
+    "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/gitignore.webp",
+    "revision": "8cce1457913d6147e504374fa9835652"
+  },
+  {
+    "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
+    "revision": "08b8e7b2e89a0c9e561c4dabcdd7419c"
+  },
+  {
     "url": "posts/index.html",
-    "revision": "e5d3be0bf1bfdad1f62e789159ccef99"
+    "revision": "4f92c202dc4629461512058cee8b1053"
   },
   {
     "url": "static/css/detail.b0d74b8cfbac73bf9403.css",
@@ -1006,7 +1022,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "53ae1e8edd2b61d8979cda6afc09259c"
+    "revision": "6608c45f197de5a790a4c2718122adc4"
   },
   {
     "url": "static/js/detail.b0d74b8cfbac73bf9403.js",
@@ -1057,6 +1073,10 @@ self.__precacheManifest = [
     "revision": "7061e2a823750d90df86df822354a236"
   },
   {
+    "url": "tags/git/index.html",
+    "revision": "71daa3123f7ecb885b691c083bdf4a41"
+  },
+  {
     "url": "tags/github/index.html",
     "revision": "25f534ab5aa4021f807edd552f5d1c9f"
   },
@@ -1074,7 +1094,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/index.html",
-    "revision": "1d9d11188189dd99c98c5455fedda13f"
+    "revision": "4bb0dcf839bf7c92456a32d5652022aa"
   },
   {
     "url": "tags/intellij-idea/index.html",
@@ -1094,7 +1114,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/jest/index.html",
-    "revision": "4effa163e859b47bb2aa467695dafa14"
+    "revision": "a23bd450c5d76063f7d88ee64c8dc068"
   },
   {
     "url": "tags/jsf/index.html",
@@ -1102,7 +1122,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/karma/index.html",
-    "revision": "8d028cc957e2e5f967ea0f6fd2110d45"
+    "revision": "7e256c5b87c6003ad4231f21bfe6f59c"
   },
   {
     "url": "tags/lerna/index.html",
@@ -1118,11 +1138,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/node/index.html",
-    "revision": "41c2b9f8681d52c1b495a4a9a6e52d9d"
+    "revision": "a6acb2a1b661d851b01c4b1b77a6aa48"
   },
   {
     "url": "tags/npm/index.html",
-    "revision": "3048ef2e8632f945c0890d9dbba0a4bc"
+    "revision": "a13de29b7d2beff1d3912482db1652be"
   },
   {
     "url": "tags/oracle/index.html",

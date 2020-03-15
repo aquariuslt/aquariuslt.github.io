@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "f1d15b527ccaecf1aa3a142aa1ae4e1a"
+    "revision": "6d06763475fcf0792388d00c6d6a349c"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -570,7 +570,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "4993ef7e03d15e0c69b282d352068982"
+    "revision": "d91248af0189295b2e4c68cbdc7cd580"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -690,7 +690,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "407c1b171e823a8c6bdf75fe3d5e57ed"
+    "revision": "c70e23eaa59eeffb156a1a2ce01911c8"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -698,7 +698,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "85b5a003833d7117cc705a461f46503c"
+    "revision": "a4ffe3893c918fbb091cc232d780d035"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -858,7 +858,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "05a92c0870e91266512bac222dbcc65e"
+    "revision": "3463a3cda24598b070eb4b906627bdab"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -866,7 +866,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "00060d861c4ec75895a56b4eab4dbd26"
+    "revision": "3f420e59b2bf078b04b48ca6760fec58"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -902,7 +902,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "97c7792623d2a4a74af54ccf0a5f2c95"
+    "revision": "0d0fef5aa0e5e37967e56bb57bc79467"
   },
   {
     "url": "posts/index.html",
@@ -1022,7 +1022,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "6608c45f197de5a790a4c2718122adc4"
+    "revision": "37123cce8cc6eac24a968e99927dcc1d"
   },
   {
     "url": "static/js/detail.4f94a8315f4dac8c0424.js",
@@ -1042,7 +1042,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/angular/index.html",
-    "revision": "d0bfe504927767e2103b8e449c25b30d"
+    "revision": "98b9849db3b51d05435ef41c98bb0b17"
   },
   {
     "url": "tags/angularjs/index.html",
@@ -1062,7 +1062,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/diary/index.html",
-    "revision": "7c1284a93153deaa02620f495f5d7033"
+    "revision": "8f90141c4c8dfa899f278bbbaebdb13e"
   },
   {
     "url": "tags/docker/index.html",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/git/index.html",
-    "revision": "00441ecc108ef3608c9aa23548d61c29"
+    "revision": "09872bc1b65f04e18428fede0a32de76"
   },
   {
     "url": "tags/github/index.html",
@@ -1098,7 +1098,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/intellij-idea/index.html",
-    "revision": "cc80ba8894d753a9745b6b5150ad0487"
+    "revision": "54e970f61b847ac7b4b1575629959345"
   },
   {
     "url": "tags/java/index.html",
@@ -1162,7 +1162,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/shiro/index.html",
-    "revision": "d3c1d0ad6bfe9aba018d5cf34a657ab7"
+    "revision": "9e3d80d3e0ca3de17f744eb501c4abf3"
   },
   {
     "url": "tags/site/index.html",
@@ -1190,7 +1190,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ubuntu/index.html",
-    "revision": "f642d2cc9fbfdb0785d9de9f674c600c"
+    "revision": "8c702e8a4efe7795686a60e44ae3c5e3"
   },
   {
     "url": "tags/vps/index.html",

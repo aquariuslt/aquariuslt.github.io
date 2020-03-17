@@ -354,7 +354,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "336f9c25723227265e7a4e2fa474333d"
+    "revision": "0b02cdd3a9729c9679f0700edc7cddf8"
   },
   {
     "url": "categories/debug/index.html",
@@ -386,7 +386,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "0f0714053ce11eac9ac4b325d2387c7b"
+    "revision": "03a6f7e210c5eb671103f12c56fae7b9"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -406,7 +406,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "a360bafa2a14dc6fa41f39a9baae084f"
+    "revision": "74fe3f3313250b0aea548cb2618deada"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -434,7 +434,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "c579ac6f8ddcb3411b8ebbe800f7ec3a"
+    "revision": "2bf0f1bb8ec2b48cba9a039ec0f20f8c"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -454,7 +454,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "a1d07441fdd7957f3a6ed9e1a884177d"
+    "revision": "6051e7599382edded90de0cd0409e9ab"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -470,7 +470,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "ed8841873f908131bd8508371584b20b"
+    "revision": "3a10259ea19f8d4d6b13ed5e07471af6"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -522,7 +522,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "602e7a1b96bb0ee8664038546d44a795"
+    "revision": "08d87c39768fad51c834e5a333da8b56"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "96803c37d88f4be4a5c6a186078ae53b"
+    "revision": "82684dc918ce3f98942e31e173647c7f"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -698,7 +698,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "8f3b4f4cf6e8498f22efa3b26f443ace"
+    "revision": "b21ccd0f337506390cfe9d095214c1a7"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -730,7 +730,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "bee5d92f9e8f3b05330262ae730795d7"
+    "revision": "eeda904060ab875da70cb8e4ba6b67bb"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "f8357f6a96290c600604f29ca5f5494b"
+    "revision": "dbe33b58ce94e054552ebfda4391fb84"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -1022,7 +1022,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "e8c40d9670026074075787cf9871f765"
+    "revision": "289c1fa70f1bd4d1070b6d50ea33b2aa"
   },
   {
     "url": "static/js/detail.e4358503dda4383ccb68.js",
@@ -1078,11 +1078,11 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "8d54334284bb38d0c909d6d835174521"
+    "revision": "7c01946eb002a8b5112526d647e9a0b2"
   },
   {
     "url": "tags/google/index.html",
-    "revision": "b851b2bf3a510631a634e1beea9fd4c8"
+    "revision": "e753f5d9418fd08a8456ecd1ed1cce98"
   },
   {
     "url": "tags/gulp/index.html",
@@ -1122,7 +1122,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/karma/index.html",
-    "revision": "523bd4962c70c8c991a33fa7d2d88c4b"
+    "revision": "7b62db128ba68d6e315b8720a3ab21ac"
   },
   {
     "url": "tags/lerna/index.html",

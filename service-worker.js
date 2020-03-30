@@ -382,7 +382,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8f83a12cd9096c7fefd7a337fcb00f5f"
+    "revision": "818dadf28e1fe8fd2ec5b81ce45ed9a0"
   },
   {
     "url": "pages/about/about.webp",
@@ -414,7 +414,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "3c3271e2b3e04ead82cd86777a9c36bb"
+    "revision": "4cad33002cdf15b85a8de091d4841eb5"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -1062,7 +1062,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "696ce64ef4520a72da21dbe756a52e08"
+    "revision": "092f9c882371ef251a29f5702177a9e9"
   },
   {
     "url": "static/js/detail.5db018e2e0d7d5e4b89a.js",
@@ -1122,7 +1122,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "f43a3422860c5c8875596a6d08fc337c"
+    "revision": "c7a07513c8d73fea86e3ea17686aa387"
   },
   {
     "url": "tags/google/index.html",
@@ -1146,7 +1146,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/java/index.html",
-    "revision": "8e281638b7cdceb7c26d67239a993b90"
+    "revision": "7c14cab348d15b02f5a61d58861dc109"
   },
   {
     "url": "tags/javascript/index.html",

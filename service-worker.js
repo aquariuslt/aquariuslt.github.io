@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "eb97358bb0a1cae9f3b3e137e25b23e7"
+    "revision": "7aedbf9a1a665c9c49aee61ff58af41d"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "47859afb23679fefb14b9c5947de563f"
+    "revision": "cf5a12f9124104f80ebe180ae4c1eac3"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "b27a5a2b8ccad8c3b2f828600d5f7d1d"
+    "revision": "f632aa75365d6597844fd5208d07ca39"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "96f2bd66b2f750e5f4c30566b09ae012"
+    "revision": "bee250b14a98924ac12198ab1a76c539"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "ac5f114eb9e8dc82f6f633fd190e1256"
+    "revision": "6890f87047a7105a6f52686a87cc2d48"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "7c186992be11f17ed933ac07629da065"
+    "revision": "368b0f37651ca1ecacaa0bdb8a079d47"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "f3f961c663028be23bea04b46db85971"
+    "revision": "c88b747310ad75583a934b22388db192"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -1122,7 +1122,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/diary/index.html",
-    "revision": "9f2bf269fb5f946660fd6b9c55c3d591"
+    "revision": "5e32421148b6ec4031e8ee5b9b585b0e"
   },
   {
     "url": "tags/docker/index.html",
@@ -1198,7 +1198,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/node/index.html",
-    "revision": "5191626db9bf9d2ed90a18c2e5761950"
+    "revision": "e28d9c92682d4314f7375056e36aa2ea"
   },
   {
     "url": "tags/npm/index.html",

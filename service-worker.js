@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "a68d4b829c7e349d76050905a182d327"
+    "revision": "07b32cf0bb750c24bdb0c19b36a8ebff"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "aaa26962d3a64cb244ec1e93ad63a33e"
+    "revision": "a216e6b43e1b897a3aa0cefd9d6959e3"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "996302ae07e2a8f7a6b2de0a147114b7"
+    "revision": "5886548349fb818e927d1ddc8fbcf159"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "24f06c6a46c9fc3f68965371babe4bd9"
+    "revision": "7b4ab0de9dbed01001794625108ee8bf"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "a28d18f380153544672e79c2969b9080"
+    "revision": "48a4cb59408d0732161a01848565544d"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "292411a2f2f1b27cdb4c5ad52e82fc71"
+    "revision": "b06f00b0a569b9a82fbc931ac1e94192"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "d4fb23aed4b1a2be593621aee4434621"
+    "revision": "46d5e245093322a10ec2f9169e57e797"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "2ecca03e0b8d0ffa7cb50405ad6f2e93"
+    "revision": "f3c99085d14e00e818c20134170b4772"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1198,7 +1198,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/node/index.html",
-    "revision": "2a51ce3f45f032697fd1490d42e6b394"
+    "revision": "22187a862ca46b48b3f3b89491bded94"
   },
   {
     "url": "tags/npm/index.html",

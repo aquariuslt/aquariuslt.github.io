@@ -1385,10 +1385,10 @@ body::backdrop {
 <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">convertObjectToObjectWithSameFields</span><span class="hljs-params">(Object target, Object source)</span> </span>{
     List&lt;Field&gt; detailFields = <span class="hljs-keyword">new</span> ArrayList&lt;Field&gt;();
     List&lt;Field&gt; oFields = <span class="hljs-keyword">new</span> ArrayList&lt;Field&gt;();
-    <span class="hljs-keyword">for</span> (Class&lt;?&gt; clas = target.getClass(); clas != Object<span class="hljs-class">.<span class="hljs-keyword">class</span></span>; clas = clas.getSuperclass()) {
+    <span class="hljs-keyword">for</span> (Class&lt;?&gt; clas = target.getClass(); clas != Object.class; clas = clas.getSuperclass()) {
         detailFields.addAll(Arrays.asList(clas.getDeclaredFields()));
     }
-    <span class="hljs-keyword">for</span> (Class&lt;?&gt; clas = source.getClass(); clas != Object<span class="hljs-class">.<span class="hljs-keyword">class</span></span>; clas = clas.getSuperclass()) {
+    <span class="hljs-keyword">for</span> (Class&lt;?&gt; clas = source.getClass(); clas != Object.class; clas = clas.getSuperclass()) {
         oFields.addAll(Arrays.asList(clas.getDeclaredFields()));
     }
     <span class="hljs-keyword">for</span> (Field dField : detailFields) {

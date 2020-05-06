@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "a965e226b326382f42a1bcc13781b900"
+    "revision": "836fca83f533eb74522d57d6b7ce9b57"
   },
   {
     "url": "pages/projects/index.html",
@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "5d5479112a30b2eb8e802acb84336286"
+    "revision": "1c31081363ecf483818dbbc78cc94d35"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "86f4f397064b2601308b0e47a3a2c54b"
+    "revision": "28dc421f86b418b4e86e8297b73db6d2"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "8aaed570b7fb5ccb5b0317037bb8b375"
+    "revision": "a199c6159b38d68ee5acdf3429ec521c"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "b31431eedb4ded6bd2544815bf8e693a"
+    "revision": "19ac42f96f1e780ee75540f168fcd2a4"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "d405e06a180e52ec5cc1a053fa451ac1"
+    "revision": "54f006a7c5e441232e93cea6dc8f0cd7"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "4f8f86bd8c6bcda2dcaf9905eeb24762"
+    "revision": "5d5d86a91d86c47b7c282516e5c9fcfa"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "3012048a09aaeb250e601eceae55f291"
+    "revision": "0319eb6b34c7b4a33418e368f7101cf3"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "6f802728daa1795df45b98e915bde212"
+    "revision": "3d6914bbcd4ac3f56469c6d7e3c5071c"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "7239e552d98735f21bbca56abf9ba3cb"
+    "revision": "0c26ee1b85a328ee52581dc14e1622b4"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "e823c5b57e5cb9991d0c9b606c21efd3"
+    "revision": "c961dd768ac577a01944613edf0c0583"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "93bf61b04f52f9e274982ba53e2509fe"
+    "revision": "437dcb65d9b9b1e9c2a19548da007e0f"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "527cd328ce574030d25573b81448c783"
+    "revision": "123f431c8ed9f2cf78e3e0c32a0d0486"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "a5e70943269694c37ad4dcdd2aa5623c"
+    "revision": "3a59028e2b839b639b73f145e1bde17c"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "756bcbeaad25e0e9e015af327f48ad05"
+    "revision": "d3944a4dc3a147b496e04960e26b0348"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "fbe5c56321e92b9cc9c6b21870800efa"
+    "revision": "9b8415b84bfca18b6306bc926874a62b"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "30b49c5a6b91f9196c7d89dde0175394"
+    "revision": "9bc09f9def6a7048a63dca0aefa999d5"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "dc6d0c005f48c9fa1fe1fdd82a1dc2cb"
+    "revision": "121e6ea233b46badeeb188238f8e9243"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "bab8643ba27ce0c5da2744b3e80a75c4"
+    "revision": "02641c1a2c460e39d2f648f530863ab1"
   },
   {
     "url": "tags/google/index.html",

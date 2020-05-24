@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "7a4a735fe12446a1f26470dc02c0b8e3"
+    "revision": "b7becb3e9087cde2393b82bf3f958fb9"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "199629960003ce6aa4e2832d7b93a999"
+    "revision": "ec5a68046e23957aca9da970866305fc"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "3fbe6412fe8bd6d79001e681a9815b74"
+    "revision": "fc11f7fbdc6c8f913bd056261f3c56e4"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "5cf1958f7345de2260efb2f372981780"
+    "revision": "b7de8c8345c5258c7ac83f8ffae50394"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "7adc00a87bf8c8cea3093b7799dc5769"
+    "revision": "7d3581354f174bf6912f11ca93f55117"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "96542d276e6d198aea27b0a3f461dc84"
+    "revision": "9173e7a803b536834366a86084b5be76"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "4873e1be40868802b0b31aeb0ad6a139"
+    "revision": "18e1ccbf0f54449d8333c7295485314c"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "b6b65911e4103430ab6a69782be2ef2a"
+    "revision": "2b0b030f1a1b7038065c54280cf97c27"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "4dcf72431bc688850e25db152a71c94b"
+    "revision": "a4b9c45144b6809068c415154b31ff9c"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "19f9832101d67b3362b8e6934efd69b3"
+    "revision": "97441d723410fac923a44d358ee69d7e"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "39114a2384828fb5ce7e8198f1fbd6fa"
+    "revision": "045d740c8ba3de5f476bd38a140d5472"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "5784e989ef2f95645be75e0ece7b6544"
+    "revision": "257a860447a66c8aa88a1ba5f296ebf6"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "e355bef8b5776e0b92d6e9513ac4ebd6"
+    "revision": "32ccd6c73ecba72ec386b3d84d1095ce"
   },
   {
     "url": "static/css/detail.ef17f79594051c627ba9.css",

@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "7ac8fd14cb6f608a389254fb5d33c550"
+    "revision": "465239d3ab26ca16dfee625faf960abc"
   },
   {
     "url": "pages/projects/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "0d1adaa4e1ab0fceb560b47603cd4741"
+    "revision": "8aec6b0899fcd55d80f4d9372e7bcc73"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "63603e23d3114879d790e1146820449a"
+    "revision": "8c9cbd18b4af764421d9122f99ff3237"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "d709d71782ffe04bdaf0f75f3d3a68d4"
+    "revision": "4552e2c41b71b0ce6999e6b537f1ca22"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "ef12c9bc2e58c99ec3084a5ea1ab4d14"
+    "revision": "338fc863944e31dcea4350a99d5818e9"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "4873e1be40868802b0b31aeb0ad6a139"
+    "revision": "18e1ccbf0f54449d8333c7295485314c"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "570f9022892b83f22438f115c2f7f3b0"
+    "revision": "5533317d92d35f7a251056a4eaf79d87"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "c4395c758e94650455c483f9c767607b"
+    "revision": "2b0b030f1a1b7038065c54280cf97c27"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "d29c335498f0e688c64354060c53603e"
+    "revision": "d6283b60f332ca5b0662f426a0cd40cd"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "4dcf72431bc688850e25db152a71c94b"
+    "revision": "453769e302103b682eb72b843f27d3e3"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "9ecb342742e1726252f84d6795c373e0"
+    "revision": "f7b453e9556c0690d602736a9949e452"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "3f3bbbcd75a766c2650fedb3f9af8d70"
+    "revision": "1ad5401f437833831969aa66951421b1"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "032926756dbf787a762511571e96fd90"
+    "revision": "7cfd6f730eb907ecd0eb78613529bcd7"
   },
   {
     "url": "static/js/detail.ef17f79594051c627ba9.js",

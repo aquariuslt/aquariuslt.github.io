@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "7ac8fd14cb6f608a389254fb5d33c550"
+    "revision": "465239d3ab26ca16dfee625faf960abc"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "b7becb3e9087cde2393b82bf3f958fb9"
+    "revision": "7a4a735fe12446a1f26470dc02c0b8e3"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "0d1adaa4e1ab0fceb560b47603cd4741"
+    "revision": "8aec6b0899fcd55d80f4d9372e7bcc73"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "e7c558a7593fbbd1c7d3fcaba4beb74a"
+    "revision": "ce995bf2f677831dde85ed6fcd8059aa"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "4aab0e6b8407219a49b512106efc33ac"
+    "revision": "6b858e8d59e71f1616feace2d64a6d79"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "ddda9a1d616acbc14dbc7f3c11870e32"
+    "revision": "10c1c17aba5342fe089f42933a24d632"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "985117a13af1388afff7f4e41874c253"
+    "revision": "de6792073c58a3372db5da06ab5b0f39"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "b61127795c306ed488feefdc2cd52e2a"
+    "revision": "5dcb868c0bdf217a2d96c7069a186ee3"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "ef12c9bc2e58c99ec3084a5ea1ab4d14"
+    "revision": "338fc863944e31dcea4350a99d5818e9"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "93769ead4ffe27f4a61758e0b189b0a5"
+    "revision": "570f9022892b83f22438f115c2f7f3b0"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "6dde8212d9480ba0b743c79e54c3f1bd"
+    "revision": "4dcf72431bc688850e25db152a71c94b"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "9ecb342742e1726252f84d6795c373e0"
+    "revision": "f7b453e9556c0690d602736a9949e452"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "f3c6fed7336505b4d7ee6329a0debf38"
+    "revision": "045d740c8ba3de5f476bd38a140d5472"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "51b26a0c05afe06fb1ef7d23d7aec7a6"
+    "revision": "a1e3fa0c59331c9fc49fe12bb9b45758"
   },
   {
     "url": "posts/index.html",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "5cb9ee11a280def67f6dca9d48669de6"
+    "revision": "2c3bdedab1c4c038b4ecf5dad365b40e"
   },
   {
     "url": "static/js/detail.ef17f79594051c627ba9.js",

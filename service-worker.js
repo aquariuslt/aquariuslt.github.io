@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "2ba202277595a731a2daadba60ce58e6"
+    "revision": "8e7d9f496fe95847fbf1d740a9a448fb"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "c98fa8a5d6f6b44203f8a554ae862594"
+    "revision": "9a9831e2c2c1a79c693beee755aeda73"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "7f02d66897da3a54e7f5baa582ccf06a"
+    "revision": "6037d156149b3e7e8b2c901c10baf2b5"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "1b9c508c94ddbbb3b6cec84f152b54af"
+    "revision": "826fcac786daaa06cf9e85786d5a815b"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "bfc8e08af8d5440d9f9736b9acf42279"
+    "revision": "95b030aa8d037df75ecf2a94bc87ed23"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "dc82b43353088ab1f5af9052736a7769"
+    "revision": "f183103b3d5356cd76a23068666e2a9f"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "c82e4f5c268a60c404e13abb948230f9"
+    "revision": "67f9ae40353b39b9e89b7b57b0308d9a"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "36d116d64c6b0c4df306cacc478af128"
+    "revision": "1bc27bd413841d57cab22f2393027ab4"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "02cf94d0abf4188f046b933dac492a78"
+    "revision": "81c216fb93962a845634abcce6b9a673"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "d3cf05dca21edd39bd817db305382496"
+    "revision": "fc260b0da77d8ea37a0a190f0d605053"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "f588a704cc6254c1157161f0979953fd"
+    "revision": "c249772376c474c76f9c90388e8d1ea9"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "6d537e60ab1ec0bfb5ae44d7e7aff6fc"
+    "revision": "0fbe592f2856b59409b5b827601459ec"
   },
   {
     "url": "posts/index.html",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "548957e473d0a20d99468acb8fa4a1aa"
+    "revision": "b433a2804e78f1fe368a13392387c2e8"
   },
   {
     "url": "static/js/detail.46d8fa4807de39e07047.js",

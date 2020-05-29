@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "65de3270345deeb5368ae66e735e5b80"
+    "revision": "15c4c3b0b67630d4f9b8571f7a13793b"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "2a40e56be62687c8e0456def48118896"
+    "revision": "fd554abb9b6c3ed5425a6a4de6d638a4"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "44500092018c93f3605f1e86ef93b9b4"
+    "revision": "2302efd6b8a7f403104c796a7c0e1cc0"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "f421c601fbd3cd428049fe3d89032405"
+    "revision": "f2777f086ce51ff21e9b9bfd64391618"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "09cf6da33d6101b9920d977296850a7f"
+    "revision": "ec52ae6cf7d33a00df133a8b0e21c1ab"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "d4bdbc42b1963e44755a86c2fa9798be"
+    "revision": "e79a683d50df18cf54bca79a7f214f04"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "0fbe592f2856b59409b5b827601459ec"
+    "revision": "d3055963e21dec50aebef180796caad1"
   },
   {
     "url": "posts/index.html",

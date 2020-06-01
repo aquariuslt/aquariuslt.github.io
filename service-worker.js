@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "dab34185fd1a1205e2ffacc8c4bad195"
+    "revision": "8d124028ed98f46368813723ec533bce"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "3547af9bef1834c6f96c4eb864dec181"
+    "revision": "a83debafc940aabf5d51b6a7d8486a8c"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "d15ae80f108ae0175a07d04d982bbaf7"
+    "revision": "d9167e858f5ac10cd162fa505b92d430"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "f7eeb55414896eebe1c9b9285a90a4d3"
+    "revision": "79d0bb2e46b391c6e46309c0ef120346"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "1beac991c6b4fed1c0f3da65d0981ee7"
+    "revision": "c7d101139e66391d0ef8fd953ad2366c"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "3e38ec9027cdce4bc5383140add8b029"
+    "revision": "d6b8fe4759322a7bb398f5c5c056da9b"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "3230233cc024aa41894be726974bc2cd"
+    "revision": "d7a0560c367416f43d56e8ca5ae960c8"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "566cfc11a228523246eb7977e34d3274"
+    "revision": "a47bb15ac22ac970a8386ab86e3c0582"
   },
   {
     "url": "static/js/detail.c787cb0f69253f022126.js",

@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "b60e5ea637c9ffac6df43789028cd5b7"
+    "revision": "3842a6f7609366ea5820bf3a43773907"
   },
   {
     "url": "pages/projects/index.html",
@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "f3a8deafdbd5e35724ae25c23b762531"
+    "revision": "d31bdfde3f8fe5b990f7a491a96a8161"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "f2bb7f66aea03386f58846909de6fe3e"
+    "revision": "c8769976a2af7aae83eff9f578849ab3"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "a63910ad329cece17f868c3c4a7d6504"
+    "revision": "cb627de57274f6a0584a2db7130538ad"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "ae33e732eb6641fda647cf085f264279"
+    "revision": "fc3ddb3d4fbbf5b5f8829633e62de120"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "566fc754e3efa33162cb2582c6e1d78d"
+    "revision": "81400532ae796d961c615f2a7189b3d4"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "20682f9f454b4485a324bf0deb6b832b"
+    "revision": "d9460ba124934a59395799bc1e578ba5"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "92c1fbe2b7987773ad80e830242abce7"
+    "revision": "bb44a73db0f0604667528af83d28b39e"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3ec8a82b161320a58b4b5132009a986e"
+    "revision": "01042d3d053258b94c894f6aefec91c7"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "e2a6bad14f9b7d55f448509e8290598f"
+    "revision": "2b71daaf272765145fc1ffd551a2eabb"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "50098c84fff049f1fba9ecaa9c4aa145"
+    "revision": "84d410c47626713473568be97c46092f"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "1ab5103280c27e227fb726192ba8fe6c"
+    "revision": "7badce4782028d92851f70ae022b53c0"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "e048053710244ef056cf98eb54d9c8cb"
+    "revision": "c14bb3cdc6d5dd6093d689712f775c60"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",

@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "1330f8e599a3f3dc66a1809419669441"
+    "revision": "d525ecc6f4a2a4e9f188afb3bb188b21"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "e9210af56c088c9c1b324fdd78033a1b"
+    "revision": "6dcd753a7c091bea82c8ad20a64c24e6"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "5e1567ea72cb1846ca5dac804a944d46"
+    "revision": "4b326b17fb2884bc3dc5a0a52e850ab2"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "c33dfe0b9e171668d79b7d56b84655c7"
+    "revision": "fd68966f16d90e0a85083620a2882809"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "3c908c74d9690d9c3927fc23385d74b4"
+    "revision": "e0a0a6567f22d491f81290caa0e8cd8a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "3384c3eddd60a4e03dce6eb3e5420370"
+    "revision": "6104ff99153cc1595afe4542e1c5bafe"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "ab6d5218a083596f4887d16925504d1e"
+    "revision": "3669439a31d84b765aff01695853f200"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "2f74d009bcdba5292e3626a24959d339"
+    "revision": "63db3ce3d4f4f970e97ff78af8d91520"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "9fe1742bcde68ade7a0747d9b75682b9"
+    "revision": "ca6ff7f38538c872544b774e24beb3e3"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "f033dba4cefeaa65148988b1da39b868"
+    "revision": "6b8bee0dab1def4b08acb2c28c5e69a0"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "3ea2dfaac0f93af94a2e4f840bf9a9c8"
+    "revision": "a8a08c7cc655c9822dd53f1b9888aacb"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "6fde9ed0c2d736c9cc38caced0b1db9e"
+    "revision": "47eb685cd1c0cea462aff4878d6536c0"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "6cf6d84d016399068079af6c3a15db3f"
+    "revision": "2711d6eb5aec852af47890e91e773565"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "ab307170a98a7b0f6d66f477087cb78a"
+    "revision": "ae057d9856a5b787c70d9ea3a13a9c8d"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "66f088ff3b6844694adb46edb0557fc7"
+    "revision": "010d62911f97ac57d007dfe69d36d322"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "938ae861d2b6ea042282a0053a39a46d"
+    "revision": "6cb4404dc752c428c5bf47620389d15a"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "0829573731dc93cd710906721f7af4df"
+    "revision": "14b80473cc553521068769a1f259eeb9"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "41e6b3503109a9ec15645b7ea2c95388"
+    "revision": "90a7d0d35f8131d20b266240cd0a19cb"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "145023ec0fceb3c292edfe69335742a6"
+    "revision": "0e89f954f7ba27b3a1bb717113d095d7"
   },
   {
     "url": "static/css/detail.52c37a12955c0f644a9b.css",

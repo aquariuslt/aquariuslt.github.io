@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "4820ce6c8a4d8ceb9b9fc89605cce741"
+    "revision": "03298beede6b32aaf10e70c8c762769b"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "1330f8e599a3f3dc66a1809419669441"
+    "revision": "68cf8454d0c7a5186cae6e0ce9e489d7"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "687bb049a86d10f2e2efea7668a479ac"
+    "revision": "b0cc41e29bf41282acc4dbac73518d07"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "fd68966f16d90e0a85083620a2882809"
+    "revision": "c33dfe0b9e171668d79b7d56b84655c7"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "3c908c74d9690d9c3927fc23385d74b4"
+    "revision": "75a226cd4f6409eaff2a816bb163ba0a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "2b7a1b34bf38c4bff098fb60e052ace6"
+    "revision": "ca067ce4c58973657409c2ada410e5cb"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "1a558ff5f26604f34d1c51f312403532"
+    "revision": "0829573731dc93cd710906721f7af4df"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "41e6b3503109a9ec15645b7ea2c95388"
+    "revision": "90a7d0d35f8131d20b266240cd0a19cb"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "0114cb7e87afcc6faa9155da32e92e01"
+    "revision": "6d1502fcb71d0885d7b0dc67b5d41fbd"
   },
   {
     "url": "posts/index.html",

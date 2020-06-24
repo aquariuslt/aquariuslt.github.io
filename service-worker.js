@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "955432ff087ad447972f6fbdbb38cc1c"
+    "revision": "06911d1a7a8ea7693729452cc48b3e22"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "44bb7514e1b43316bb6237d8fe9a2407"
+    "revision": "72175815d50b9b7ed3b48a300640158a"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "34baf3bea1b11c8a3559aa619cd73e97"
+    "revision": "c9e49dff0614ed93f46190436aed46bd"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "c5b647b3bfcfc3263c6f7ee3384487a1"
+    "revision": "e8ccc931cd2bc6fa9137e9f4e9ca8784"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "ab6d5218a083596f4887d16925504d1e"
+    "revision": "3669439a31d84b765aff01695853f200"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "704e633171e17d6bab49329b75324f58"
+    "revision": "4c79b9bf35b73ef358a0c22f45aa62cc"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "90a7d0d35f8131d20b266240cd0a19cb"
+    "revision": "41e6b3503109a9ec15645b7ea2c95388"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "0114cb7e87afcc6faa9155da32e92e01"
+    "revision": "6d1502fcb71d0885d7b0dc67b5d41fbd"
   },
   {
     "url": "posts/index.html",

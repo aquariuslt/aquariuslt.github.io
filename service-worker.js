@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "2393788116a056fe9c08b445a430ac2b"
+    "revision": "00eb29441170da2bdc8ac64effdd28e8"
   },
   {
     "url": "categories/debug/index.html",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "24f40e2cc95751541f4b99cc25ddbafb"
+    "revision": "cb5879741648e4021bee0cf2e875d7ad"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "ecd56c08f4a0c8a46f048ac927aa90dc"
+    "revision": "f8837069462a26cde1afb720d9ed64ac"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "2c09d565e826db0a6828ab4835aa2133"
+    "revision": "9783ca27484e69b9b43f94ef54c482bd"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "f03c05ed133a75c3d73d089b19fab022"
+    "revision": "0df6dc08829d5d7d5c320bbd56dabec1"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "974e6dcc7c40f4d8f061d230833e10a8"
+    "revision": "e6e50974eedc60e310f2e61f675f15be"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "0dc2a00354ef17a47209c0d5c23ad3b5"
+    "revision": "185bc5b2faf691f7ca4f63362dea78ee"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "7243365fa74a72040dc6aaeb3b3d960b"
+    "revision": "94429a46962f7e2ca43ae713856ab854"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "ae31dbc7b6580e0dc8781c6068ce3d22"
+    "revision": "c6bd92236d476455307335c69b7038fd"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "905f769e9ce9ad0550a79d17f0327390"
+    "revision": "81b394249a6765d1ae5826611e9e689f"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -958,11 +958,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "60663a36edc63511cd2d0f1773a3bcd1"
+    "revision": "610e8d46d587d3eca5ef17708210f546"
   },
   {
     "url": "posts/index.html",
-    "revision": "351875f50a4231bd33f28358fe7a0b1c"
+    "revision": "322e5f8ac6724d748400aabd323ba18e"
   },
   {
     "url": "static/css/detail.7c84e906a7e96492b06c.css",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "d36e1a4ca00ebdfc6cb90b7e7fdbb305"
+    "revision": "97146227c3ddf14a076bb81de764aea9"
   },
   {
     "url": "static/js/detail.7c84e906a7e96492b06c.js",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "0372a6fbefa79715d364a27a21a5cfda"
+    "revision": "e2921733fa0e89df54cca8b4f552dcb5"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "92cf7c08bda5b6dd05508fdeddb5f6fb"
+    "revision": "ff3972e211f732586734674c5f230c7f"
   },
   {
     "url": "tags/google/index.html",

@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "dbc273e95bd9c9fd280168c1c9696bd9"
+    "revision": "3743771ef8310d254b3f87a45914820a"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "4bb969a37db16bc4c89dd8573e05ee15"
+    "revision": "2ecb3037292abcab5beaa109ea2e0e82"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "29592cb4baa76d1e98aec974d1361d64"
+    "revision": "50c6bbf121ff3fbaa394952227c37789"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "5aa37dc8d52c3f7ccb6206b5fa0eea95"
+    "revision": "ce612c40c39281ac4bb4851ba1615399"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "1c3054efb9b4c0c8e97b48f057608159"
+    "revision": "717521e5e8dc2d6ed0cdc988fdbd9d71"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "3a42d0ad4df4685a34ef98cf75b68c25"
+    "revision": "97c5f190236116f1061ddb8d1f4d0668"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "f1635fe8b1e7ca4daf59189499fe71eb"
+    "revision": "1d79217c6518659ea7abcb6f993db081"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "1adc8c29afbbb597820e21c0dabbbfea"
+    "revision": "711f9260a4631295582fddaefc1a9d8e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "2dd12ab56746d79ff733b3e8cfb4f697"
+    "revision": "c145d0e668df216e915c571ed16b6865"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "3ba0abaa8ee6df0be5c0fe5fd0e7321e"
+    "revision": "67fd9d7af0032445a28d9bc12010fd62"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "79cda76ac8a3adeb8836d98b72ec81e7"
+    "revision": "bdd2d0a6959d2e4f53a9c84ca15d2b6f"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "22b1461310e436cf8cb5cc015868ec47"
+    "revision": "6464d2d70f28ac705528ff1569bc99d7"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "85eb3aea06b4963719aa249a619824cd"
+    "revision": "419c3df092bd97f28e4ed5c0a9d0d8e5"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "eb6f13e323da0d70128902011862ca6e"
+    "revision": "a97926e1e0fa262fad19e054626227b1"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "1bdd806feb9e6752009961c2feedc7de"
+    "revision": "9ca14e4fb96eb404273896675bad55db"
   },
   {
     "url": "tags/google/index.html",

@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "4cefe952391569aac6c516ba50d13841"
+    "revision": "50d21d9695477c9740169b956cfcbf2c"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "4bb969a37db16bc4c89dd8573e05ee15"
+    "revision": "2ecb3037292abcab5beaa109ea2e0e82"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "1c3054efb9b4c0c8e97b48f057608159"
+    "revision": "717521e5e8dc2d6ed0cdc988fdbd9d71"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "e8eb42fab46dd166cf658ce0041ea281"
+    "revision": "600fb66697b8261499d573326c863df3"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "f1635fe8b1e7ca4daf59189499fe71eb"
+    "revision": "1d79217c6518659ea7abcb6f993db081"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "aee1cce0b533c6ad33170b7189aa1da5"
+    "revision": "aebacbc345e9743660d4c7b9be048788"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "3ba0abaa8ee6df0be5c0fe5fd0e7321e"
+    "revision": "67fd9d7af0032445a28d9bc12010fd62"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "d715a4ed6e4c1944efd7b572d9cd40d9"
+    "revision": "af9760d6e5cdcd7c90bf7226bab80fc6"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "f559eca4d4786f5fff1c48b93eb9e740"
+    "revision": "0ee84fa465542e61dd84c96b7b14f9d6"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "419c3df092bd97f28e4ed5c0a9d0d8e5"
+    "revision": "85eb3aea06b4963719aa249a619824cd"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "16bd9cc2c55908c2a1063bff1db82f20"
+    "revision": "5eb828f38c78b4c2c616c6e9c98fbe75"
   },
   {
     "url": "posts/index.html",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "ca3d59b34b7935bb4a54ec2b22fd1bf2"
+    "revision": "3c41b1a5c6b9e3800f949ee14716a7ac"
   },
   {
     "url": "static/js/detail.7c84e906a7e96492b06c.js",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "9ca14e4fb96eb404273896675bad55db"
+    "revision": "1bdd806feb9e6752009961c2feedc7de"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "ca6ae2776a431e5c9d4d45f4c3ec9aa8"
+    "revision": "4ed4d71dc7c506cc6608a792f7145693"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

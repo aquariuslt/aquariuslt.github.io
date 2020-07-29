@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "1834b94003ce602a93fb73ea245918b6"
+    "revision": "66a4bed1684f99f4d94fa28829c9e896"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "14e775d94466b3d0a7f30537d587f15f"
+    "revision": "db0aca4af81af8aec5dab2d42bb62c9e"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "b96e43b0d3e455bcbf77abf9169ba871"
+    "revision": "a76c1f6139671e46013175b5aa4e31ae"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "82ad8d7fe1c358feabfb7c94e5ead50b"
+    "revision": "99b5080aeb40e6550e46ac61241bc741"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "9923fcbbe47c7d2bd0c03409dc5f1fb7"
+    "revision": "11ec8e9de04078ca9a3ebbb875ed7d05"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "18042fc48b8420809ca8a98708a70ff1"
+    "revision": "e72f5aa4b74184f07b95f895785c5350"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "be40ad2ae11562fa7d118fbe70e3fc82"
+    "revision": "17bed396eb7cdc8ea66f55b1ebbb756c"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "57ecc3053f790d1cbba22cc6964450b4"
+    "revision": "79fb3ebcdb49989c7237b43924773a16"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "e5830861c7bc81abb7d455f77abf5273"
+    "revision": "965995ace9bcf1f12ab3a3cdcb88703e"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "94759d829ce3392e477c2d58aa6d7354"
+    "revision": "7fb4a38059cfedafdf6d8547f36ea534"
   },
   {
     "url": "static/css/detail.dd7e30536e2606bf895a.css",

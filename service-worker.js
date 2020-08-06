@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "80bbf30727a771413f289c92487e9027"
+    "revision": "7f49ae112938683f28e69d4b19e447de"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "a37008e291674e87f50fa5f68630caf0"
+    "revision": "91d3d0bf79a8883022a6df21f9c22c66"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "fd6c6e60b26353eda29ca44a33b28aae"
+    "revision": "3b59077cdfb4fe3716d00eebce5ce0af"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "cc328195687b0bec341e573611578b5e"
+    "revision": "c34c8fb54669b1ef1412d071e54fe112"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "c651761c1b3a8df5f6f266c5f8ba8f51"
+    "revision": "bfaa073b200bf004852f851b111e9510"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "58104f7dce9bdae484781da6e77df30e"
+    "revision": "d19339de02490223a2353c05a65966ac"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "d88d58dd911abee4bf5d9d7df3a09a25"
+    "revision": "9dc2779f07ae31e8bec71fdb015cc81d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "7e88a0c3166c41ae25ce027172c8dfac"
+    "revision": "55cf0f64e401070f1bc8b11d0d7fa5f0"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "8e1a0b1517ab4852a7a40ecfe2c371d4"
+    "revision": "4fd3af9418bcc13f988bd341d722797c"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "67fe91145ef32c61c3d3b4d3e9c09243"
+    "revision": "e422f7f5d7a6f70e26095eb5712ca65a"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "937f94ce2db83e2801fa7247fd26cb99"
+    "revision": "166a84ab9faf5166b458967829469f46"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "afe5b5a836123edf1f6f8be279cc2124"
+    "revision": "37a00d37d474b6036d5e160f2a85dfce"
   },
   {
     "url": "static/css/detail.908bcb686ed9ff74ddaa.css",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "389aa5753b703a609e84c62daf073467"
+    "revision": "1ea29b3ad9ebc76564bd7072f8b87629"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "247b85ce0b80b85079997bc648ef2f87"
+    "revision": "f5485e7c9446bfef71581004dea03ba1"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

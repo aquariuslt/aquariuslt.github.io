@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "13de028656b16c79a96196a9f456ef40"
+    "revision": "2d4349abc2b0227d1c101657a010ee80"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "88dcdb4b93b3e3b4f05671aa369f6509"
+    "revision": "ff52cb2da7d6c1ac92ad92de22d8d10c"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "1854cd41370bce57006ecf250ab1586e"
+    "revision": "84e2ae0f06e9817fbdf0d14d903cd49e"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "9a0cccf78e7a40312f63e7d7344b2cd1"
+    "revision": "149fd08378ccc29586925c594c8fa3f8"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "55b8761439f620d64cb7de18e394e943"
+    "revision": "1fc984a24b9ec3683ddd9b826f70ebf6"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "f45784d8b63ec4ac3384ce955fec1698"
+    "revision": "0b4e19c84e01dcba24376caa49259404"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "9f4cf2565b1fdc474d41f9f9a97b193b"
+    "revision": "307f38ecf4213511af16abde67b4211c"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "8a1d5416bea6cf473f003e534fdb440d"
+    "revision": "a3387c9ca70d64b47867bb75279728fc"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "be1558d67d596938c5ece0663bcc4e4d"
+    "revision": "b3e163a98d274ce151c4a3acf292e698"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "74869a1d7d23516146c243723a445e7f"
+    "revision": "0db5df17c64fa35640a47eb4cd91318a"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3ed91007bc0ff4e7349405c187748d13"
+    "revision": "d3b585f6e3b4cee088a4ad551c59c730"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "ee491805df3763a77677a14531bdebe7"
+    "revision": "531264cde11faf8b21d1df31e140e1f8"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "03ed37064831bd4935febb44cb0b3193"
+    "revision": "a37126e5f5cf8a82709147aaef64a64b"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "9889c3af98be59af676c1c8d66e8c387"
+    "revision": "b713bf23375c96fca196f05d44898dc8"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "3c2599718f4d3f4581dcef908ce95ba9"
+    "revision": "404592482c4b9305aae00706510f7e3a"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "7fef1b37fdd9d915b761384c1bf423ef"
+    "revision": "9281553e9603e357bd847c6a45e25ced"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "86ba50fe67eef16de54aa4a4ca99e63f"
+    "revision": "c643867169c9b81d291e93d0069b4a26"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "9458ca161e25189186ed8ff94f0f1f55"
+    "revision": "d5176a443566261fd73a7ae2160e2b52"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "06de38dadfb01ae8358e60de35cc27c1"
+    "revision": "54e37f67ee19c5f6cdb613a3afa22e12"
   },
   {
     "url": "posts/index.html",

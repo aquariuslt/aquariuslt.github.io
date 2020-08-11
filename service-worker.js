@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "6eb4e33d827a9d6a90e6cbe6905af842"
+    "revision": "00240457885c823c1e5c1b5cfd0351ab"
   },
   {
     "url": "pages/projects/index.html",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "c829540f17d51e206fe92283e82f1d15"
+    "revision": "10807a8bd727eda454a97307e891fd83"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "149fd08378ccc29586925c594c8fa3f8"
+    "revision": "9a0cccf78e7a40312f63e7d7344b2cd1"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "1fc984a24b9ec3683ddd9b826f70ebf6"
+    "revision": "b98047a3feb1123677654209ed40233e"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "0b4e19c84e01dcba24376caa49259404"
+    "revision": "46e29c80048b5c3e420739d4b05d0ab6"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "efc84f13aac0cb1cca01bb9bdd205878"
+    "revision": "6fc0424dfa11ab8f70db61330fc71601"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "b3e163a98d274ce151c4a3acf292e698"
+    "revision": "51c426af4e1f86bbf25ed5bbbdf69158"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "0db5df17c64fa35640a47eb4cd91318a"
+    "revision": "44a540b7f2f467ba8d0983100268e50c"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "531264cde11faf8b21d1df31e140e1f8"
+    "revision": "ee491805df3763a77677a14531bdebe7"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "85eda6c87c876b4d3414fd89d3ea6e45"
+    "revision": "495299d61fd328b3db316741d683a41a"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "b713bf23375c96fca196f05d44898dc8"
+    "revision": "55301078d0e7ac5a57d682ec257b5f2c"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "5baeb47f41b81d997c7b195d9152c040"
+    "revision": "4be0c4cee8bdbe9952e70e7bd349dfdf"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "c643867169c9b81d291e93d0069b4a26"
+    "revision": "6a01d6f56867071585978683d84e32b1"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "112231787d99ebd0c183c47248629e3c"
+    "revision": "473e7e03873a503848101a3e751a584d"
   },
   {
     "url": "tags/google/index.html",

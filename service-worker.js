@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "5cc5c043d68b093f10a8c5aa6c71e44c"
+    "revision": "a20865a7a04cd899e058e23c055a2235"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "b13d7d5266d3ff00658242255b9668c0"
+    "revision": "73eef367f8b7b0462c43465c2978bd5f"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "729c6b4196c6e965298cf37e518629a5"
+    "revision": "dd5acb58ea5a3f2c71294fd12f3359ee"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "9b4458ca169d1ec3431e256a245479a1"
+    "revision": "cdfe1c71354d73f8cd4ead6822496379"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "3c27cc75663e00e8f62eedaf1bba0334"
+    "revision": "310b869540b4a5a4aadf55bc27055e36"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "c9c942ad811335cc99248f90b08e8901"
+    "revision": "a7eadfc3cd02d540b8ad063498ad92cf"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "3bdfe6fb37ffdc6e24a41fc6c460769c"
+    "revision": "45518ae0c6ced2e09bb77124d85a79d2"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "4c8115514189a93b972ee4cbecf2569a"
+    "revision": "beec54810c16c700bb0a9d0bfc59253e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "501fd8cd7896b70a16ba861790efad6d"
+    "revision": "e4d9369a747e28dfbcda664c2e7e5bc3"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "5dec041d6850f07d122809739685e959"
+    "revision": "4e5d4aaff503710714dceb7d85238fc8"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "60d3d1a91feda0f76248cb9453beba44"
+    "revision": "e190383722cc72755edc4b45b8f1a8c2"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "b8fe6acd0a6ffb8d8829261fe9c4bc4c"
+    "revision": "af823eb7dbacd78a1e53f1e02eff4edb"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "7aff3974e607d828bd14e4ab76e3b6db"
+    "revision": "ad8d4816575d1d5cb877618213164b10"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -958,11 +958,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "e1c5a4a70f122dbe4effe2940623944d"
+    "revision": "47c99d6333f2e3ccf103be1d786ddad3"
   },
   {
     "url": "posts/index.html",
-    "revision": "0a5e90e9ab8a1641844264121fa846d9"
+    "revision": "681ab90e62cbd77d56fe3b903443fb1e"
   },
   {
     "url": "static/css/detail.d5a6cd78ce981486920e.css",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "773bff8d85ab72d8242ec348cfc17fab"
+    "revision": "6687eb2da047341c3b12d3a38ea30db0"
   },
   {
     "url": "tags/google/index.html",

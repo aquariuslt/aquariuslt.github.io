@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "be3765defe54de30d19ff5f78dac19f5"
+    "revision": "527d5edc884a1a6013c7a124b8d206a6"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "32c66742d1f902638438fdea4302af23"
+    "revision": "1cabe570664dbdc765e7f2027995e629"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "d34e572435fb1b53e94e68f5fee11200"
+    "revision": "1d9c7b614e54deebc30a7c5824a216be"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "4a3f73062e4b628927e8157a442b3162"
+    "revision": "c9d0aeed092119eda89aa50905ed789e"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "ad8d4816575d1d5cb877618213164b10"
+    "revision": "7aff3974e607d828bd14e4ab76e3b6db"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "daa8b8aafb6df293ed04ed31b32c1c81"
+    "revision": "8ba4c386bd86ebcf07610b55a6980157"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,11 +958,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "e1c5a4a70f122dbe4effe2940623944d"
+    "revision": "29e7fd17c0e30d7b1bc163f9db078f80"
   },
   {
     "url": "posts/index.html",
-    "revision": "0a5e90e9ab8a1641844264121fa846d9"
+    "revision": "681ab90e62cbd77d56fe3b903443fb1e"
   },
   {
     "url": "static/css/detail.d5a6cd78ce981486920e.css",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "c75c2f69409adab86b58ece2e5aa8801"
+    "revision": "5632db7090956843e0f9a8a330be63a8"
   },
   {
     "url": "tags/diary/index.html",

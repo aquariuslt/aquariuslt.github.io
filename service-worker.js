@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "3c279ed5b350eb8ed148a325e7b82a37"
+    "revision": "f080356075de5dd9b10bdef604516425"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "207cd8dea4ceca474db4ad3a1394c276"
+    "revision": "70a15857b3b55a59a2c814827900347a"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "e653cf1a477c36b15ed6ec72c9a3b6c8"
+    "revision": "6a28e3d8008af98a5d152e3f00a242fa"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "825ade7daa3d5937ea545b5e8f43178d"
+    "revision": "cd4684612f9132473f0f4bd0339731ac"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "d71cbda637af08d429e5f228da785cf2"
+    "revision": "4672676c31f670d0aacb20901773f222"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "8fc01ba75751b2d8f44286db10d47844"
+    "revision": "aacdbd6e75a0094ff0f8958bc266992b"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "e087e5fe193a4129897d9f6f6684ce47"
+    "revision": "5c4a803054c1bdaf8c6b1ec1a46ab49d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "0da33b13a5c8a6447b8e97e9b6695538"
+    "revision": "cc7ad874d9c5fa270bc5731e191fbfb5"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "2039dac0ccca044627ef2bbaa752fcb8"
+    "revision": "62c5105a5f9b30b0dee0f533e3546580"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "a610070444e13e030bfee9dc31551aa7"
+    "revision": "d7f8a74930b8fe1873699462267f23d5"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "f479e0f6fd9f61bcc8de02352057edad"
+    "revision": "5c202c8b40e492d10b335e1e68f036c4"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "0157982679baa562c09071adf1103871"
+    "revision": "08c9c6753f23b05cfbb9f0b7e36b72bd"
   },
   {
     "url": "tags/google/index.html",

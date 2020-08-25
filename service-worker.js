@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "ffb1c5329ed2e85a634461e8d2a190f8"
+    "revision": "f984febe27002fd3881caf20c74192bc"
   },
   {
     "url": "pages/projects/index.html",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "82384f2ddcba18264759a19a8010988d"
+    "revision": "b718b31293b9f60066aa1e1ff8315b70"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "e653cf1a477c36b15ed6ec72c9a3b6c8"
+    "revision": "f2a9bb9feb07994642956f92257ba9b1"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "d7079866c8a8d3f86fe674983ae56989"
+    "revision": "fcc70111a39e8dcf7635ba2f7bcc4470"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "aacdbd6e75a0094ff0f8958bc266992b"
+    "revision": "8fc01ba75751b2d8f44286db10d47844"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "5c4a803054c1bdaf8c6b1ec1a46ab49d"
+    "revision": "e087e5fe193a4129897d9f6f6684ce47"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3b48f78ba1c6d316a1b7a3150e37c47c"
+    "revision": "f0d5bb891925934dffa28058a6fec7d6"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "62c5105a5f9b30b0dee0f533e3546580"
+    "revision": "2039dac0ccca044627ef2bbaa752fcb8"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "2c014a5e75e0f3518afd260f8db223df"
+    "revision": "caf492b42d218560df454bcba8d32b0d"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "b5061ccb31cdf7feefc341f138aa1b49"
+    "revision": "889798750a1b9c42bb0779c67baac578"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "8f072d67760578e3fc266235bf00cf85"
+    "revision": "b38cd18bc7ee8202b0a8e3649945bef0"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "6b7152a24bd0fbd1e7818aea1a31fe34"
+    "revision": "0dad0d596ce450ff2b3baa11ff809c6b"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "7128744d6b8cf5036a0afc242b10d44e"
+    "revision": "a610070444e13e030bfee9dc31551aa7"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "e0ac29858c394e2bb04bf2b5e9c7ad34"
+    "revision": "bfcbc1f090b5399c53aac1a7874c4173"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "d493540e157194d1b3561c05ea090a78"
+    "revision": "b9b6cce8b869ba9170365a9793c723ca"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "0157982679baa562c09071adf1103871"
+    "revision": "08c9c6753f23b05cfbb9f0b7e36b72bd"
   },
   {
     "url": "tags/google/index.html",

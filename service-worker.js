@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "a7d2310f9ce8c50a25d6cd6a7accc225"
+    "revision": "5705455b5f7fb07b85b31b2be843bba1"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "f1ed15633dc0d5eb358c3f9ff5f7a003"
+    "revision": "86d4367a2d9ba33e89ee41f428002276"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "e47eb14863d5419c67f0274ad7838a94"
+    "revision": "58a506ea88558e959ff05628bf7571bd"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "600f5f83ec89426a909bc2e8c3ce27a7"
+    "revision": "4dc1047b9f4d3f3945bc4191ac757e8a"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "fdb52746b6e7d15f8025acd94ff47343"
+    "revision": "402fb91cf58f183f7cd7311adc2af4d9"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "2b23deabc4cf80d15f0c8ddfef084a8d"
+    "revision": "37013afa376128dd0a165e34a7a88b7d"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "9d52f1ccc92253c7a9e004ab3829c314"
+    "revision": "0aac02afb174e25f0eee2b8e5c92d61e"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "f3a2e1d9afccd0a0d7e9be9f81eff203"
+    "revision": "03352041884633887b93059a8ce90784"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "428f29d1da3bef39a13b6e7533e6d68c"
+    "revision": "ddd0afd6a46b4ef6e21a682ad84b9e2f"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "444b559836b15632030f0cda393206ed"
+    "revision": "7deaf2c4f539840f0c8b79de52c0d397"
   },
   {
     "url": "tags/google/index.html",

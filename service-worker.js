@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "6d7a2cb8982027627a7c921148c41d2d"
+    "revision": "8dc3865d4975d381ea43ea4f139367bc"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "0aac02afb174e25f0eee2b8e5c92d61e"
+    "revision": "9d52f1ccc92253c7a9e004ab3829c314"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "2f6b57f173908aa6e375fa460a256256"
+    "revision": "16a4e0afb1534907f6f77f673ea8ed00"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "03352041884633887b93059a8ce90784"
+    "revision": "f3a2e1d9afccd0a0d7e9be9f81eff203"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "0335e01fc8ef7624dbec139247da7d54"
+    "revision": "68ccdf8c54b1a9ebaeddfc7882891707"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "7deaf2c4f539840f0c8b79de52c0d397"
+    "revision": "444b559836b15632030f0cda393206ed"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "4c14a34e73b1fdbf0811c8e2e00829f9"
+    "revision": "503af69eeba3e1148cceaa31146e5305"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

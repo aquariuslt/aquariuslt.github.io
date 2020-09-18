@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "9410e7dba25371eb54cecba2be0649e4"
+    "revision": "5234e0127135de25968bb8b11ad70b7f"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "eca4419c818cfc64e7b891c05f777c6b"
+    "revision": "18736ec7e1e090a6539d4e32479151fb"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "9a919ec5a93f4b416b0d5ce4d997d167"
+    "revision": "f6edacf178ed44ad92465ebc08cfdf7d"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "b78d909c0a33952a20d14b120f6df491"
+    "revision": "0c33b7c6203c9783949aa89bdc934be1"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "ae35a65035e6f2a24f9d9f41e68d4eab"
+    "revision": "ec347a96188b8519435d31d42b51e3ed"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "fc408767653925b05862735e67214770"
+    "revision": "aaa8576f7919950a07d5c960041af46e"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "c3e86adfa43b17bfaf0d5771a9cff2f4"
+    "revision": "149ccd3143299823d4cb4b1793647020"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "cfcd7cb88c230b91f37ca95f1e919110"
+    "revision": "f5ddd2798090a23607d4ecc721734515"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "02acda6fdd8c46b898b738f4ce8ebc15"
+    "revision": "1a61b95946a01c9150a8be876be25f5f"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "6545361e68b96592415700c27df664a9"
+    "revision": "28defc3cb7157f2887edfd4c2c9e46e9"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "1f7a48050cca553f7511ce31bf432792"
+    "revision": "8ad72b953380c78ca79f2bbcc0831eff"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "4b64892e41ae3aeb14d5233fbea3d51d"
+    "revision": "cae526a457d94af1ab35bda17c8e95a6"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "1bf87cb58dbd86e11673d94288311dc9"
+    "revision": "4e8541bfae35530180197eece6ea8c18"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "2feec589acd3468fa69e64090c0ee6d7"
+    "revision": "2ae29b6fd0fb4eafd94969985c53f340"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "f8410c5a69b150e7233bce0b47fb9cf4"
+    "revision": "9fece59d4d05a29f642e4dc1e2b3e928"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "4406c2601dc5ea713b3228bc88ca6c97"
+    "revision": "6615c083da29095f7082d0d079d61699"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "cda0216da728bfa081f6fef2c9f5e0e2"
+    "revision": "47812e905953c9f441d95c70d5d18283"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "75cd6b6d7afbc023ff14cb3fc23ec474"
+    "revision": "0d4bddd61c020a3e557e91edf3726727"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "da716a1b6f3b8dd12042303a4682eb1a"
+    "revision": "7118aa7221d6d6f4559036410bbcd0a8"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "8fadae95556aabe900e7f79205c2494b"
+    "revision": "5192bfa074e4a9a843e7186cdbe37eba"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "3e5a9d18a7d3539f4f812890944675ef"
+    "revision": "fedcbb30a7c74ebcd12e6d96488cf9c6"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "1761f8d11d74d359acb930c099bb3e00"
+    "revision": "eae2711f5c554aa007be45245e701680"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "ebb9fa4575de96ab96158bc9daf80915"
+    "revision": "4c33a66b3965947d48d498c2ca7052f8"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "495ec59f825e14bbeca2a19d281bd571"
+    "revision": "15606e176c205bec2232006e541320a7"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "91446d527fb14aa98e6ee210d655dcf1"
+    "revision": "2e051919159c041931863c1e2348af63"
   },
   {
     "url": "tags/diary/index.html",

@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "17c4f0bb34eae390079b485b97311e37"
+    "revision": "9fd9770235a4e7b7f33e722d613f46dc"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "9a919ec5a93f4b416b0d5ce4d997d167"
+    "revision": "f6edacf178ed44ad92465ebc08cfdf7d"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "c00e5b3e02d683213e6e191aa12d1cdc"
+    "revision": "a94652613ee6e68bf9624c9263ae0741"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "aa1ea91947f2166d7c28bfd289a6bc73"
+    "revision": "0d4bddd61c020a3e557e91edf3726727"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "7118aa7221d6d6f4559036410bbcd0a8"
+    "revision": "bad52e127a8263756e9794f7dd2d4783"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "7552505eb9cdc5e35dc17572479dada2"
+    "revision": "fedcbb30a7c74ebcd12e6d96488cf9c6"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "016cc79e94538a36987c69af46252ca7"
+    "revision": "1761f8d11d74d359acb930c099bb3e00"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "15606e176c205bec2232006e541320a7"
+    "revision": "495ec59f825e14bbeca2a19d281bd571"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "f43398cb68c6b1797c0df0d899a732b7"
+    "revision": "afedac1e8d2a430e92cd953c10cfc57a"
   },
   {
     "url": "tags/google/index.html",

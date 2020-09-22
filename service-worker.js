@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "fc238211426e237c560efd940a2e5de0"
+    "revision": "53f9dfe02901e198befdc7e210c2a8d8"
   },
   {
     "url": "categories/debug/index.html",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "0c33b7c6203c9783949aa89bdc934be1"
+    "revision": "475d47bb3cb18bfa2523e1f902a960cd"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "227689838f152cbb8478c6b26a4b8959"
+    "revision": "f5ddd2798090a23607d4ecc721734515"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "078d33431307c6ad536f253f22f72e64"
+    "revision": "1a61b95946a01c9150a8be876be25f5f"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "7163e86d2b7733fe30dd7fe3840c41b2"
+    "revision": "8ad72b953380c78ca79f2bbcc0831eff"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "4a6f9b69df89c3dc0d6cde728b0889b6"
+    "revision": "4c5e021dc8dbd2b1a81be01867f2a37f"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "720219ff652722ee5cbbca3ab0e15416"
+    "revision": "aa1ea91947f2166d7c28bfd289a6bc73"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "d525dc6393de8c2c1c86b7199fdf549d"
+    "revision": "16bf72e77f99660882ef78059d398817"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "56bedc996afe043a848919e05bd5e079"
+    "revision": "7552505eb9cdc5e35dc17572479dada2"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "f542143b33e9246d2982f39516f6fb14"
+    "revision": "1761f8d11d74d359acb930c099bb3e00"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "f4e73112101f5419620eb251223bb8dc"
+    "revision": "c14df9e0c13d69f9b1fe490dab87190f"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "476744ec1996dea8b9ced5c4c790ff4d"
+    "revision": "495ec59f825e14bbeca2a19d281bd571"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "a571dc3cee916531d1547786bfc8588d"
+    "revision": "3cb1124b536a8857d774e8f19fef8fed"
   },
   {
     "url": "posts/index.html",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "f6376aaea73d348dcc1d3cdff8a98aaf"
+    "revision": "930f786e71634a3f1062eb0da755974f"
   },
   {
     "url": "static/js/detail.1c096df296133b5c9eef.js",

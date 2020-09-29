@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "749494abc6f1b210f6f3fad14bb3db6f"
+    "revision": "b169f6167800ef8b0b9e5ce68268ce5e"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "d76de2beb1328949f1e91341889d8bef"
+    "revision": "6c96750a64fdbd558aa7f5ef92413e07"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "a7d0d14894757f215f97c9669d190d20"
+    "revision": "354f7b9b7383e5571985d8ef323b6a9e"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "5e85493e7934ccec69fd0bae901625d6"
+    "revision": "a155d254c7fdefea38bc6f1e90588dd9"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "2a83e86c9fc35f4da2279ec19f707224"
+    "revision": "f89f482270d2fea16cc4a3e83437c58c"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "adfaf168474b4f97d31dd16bf8e62ef4"
+    "revision": "f2b435173ed9599a9823e886390333aa"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "58c83ffed80ba3d8661fdd5e5491f5e4"
+    "revision": "7047f3ce3bef584eb081c4c2c3e3fb5f"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "17db8d5dc28d8d95fa34cf6f27681572"
+    "revision": "0c8ae8deb31c2fd16fbc9c67ae14d9fb"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "5890b0600978e7e72cef524aff35e502"
+    "revision": "c899cb8015f6d8f777c52953d98494d2"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "17436ebb6261fa8cfab9d6fd7bb2990a"
+    "revision": "40c1953d3036626e912d4fc89e320c8a"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "407d860b1c9b6149f42ce5cc13978d9e"
+    "revision": "5ec5cdac435b2ae02def2a42a9b31671"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "8c82dd96173d074e4feb33dabd3d2ec2"
+    "revision": "09d0e49f6470d33ca28586a9e2d33a75"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "76eff16a0cb9bf2f2bf08d1c1a2962c4"
+    "revision": "f0dfab727db2a6cd34d0e0cb353ac43b"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "9fda9400253982bca6bf5f0fd80761ee"
+    "revision": "4192bbd8e68524c5343a9efca961533d"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "802b4bf48f24135a732f58f92722f1d6"
+    "revision": "c932e1a3514b496b49d24d73cd7874fd"
   },
   {
     "url": "static/css/detail.d2f4dd3f2e30af202eed.css",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "6c0412a615d4a3313ed3572f72177520"
+    "revision": "c2a5cb7633d1ca43f9c6bd9409561db9"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "46373700d206f9e6b1958feb70306253"
+    "revision": "04731de33f2f5bf46848e9bbe8e2846f"
   },
   {
     "url": "tags/google/index.html",

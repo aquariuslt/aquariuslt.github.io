@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "044c9ee2ebc30caf136f6cd70b7f361f"
+    "revision": "688135843e3d59b96246f40e547a837c"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "a27f8aa0192c015ee6fcd2c5dba959b1"
+    "revision": "394d4f978dea621d32ff89739f7f13c7"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "dc83041dd7b48e728e242d3d3adf712a"
+    "revision": "0fa20af9d1a3a35129fb7627ceacf190"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "e19ddf36cc42085a46715d274dfe7ac9"
+    "revision": "cddd720f6ef44ea276356e998762338c"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "9f3eca17aa2aa4d2f241e4de54a988da"
+    "revision": "f215735c5ee1c53723ba51bcdb2bb001"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "68ab024f55dc6da2bcebba0d364ee0aa"
+    "revision": "aaa2edcc3aced72a4637c32e3cd35eeb"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "ea4f2ac971a33a841f80f6a901fce75c"
+    "revision": "a9972479b07d33789bc90dd443c34b5a"
   },
   {
     "url": "static/js/detail.9c6249f25129e8d2bd91.js",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "76bdaf6cc5752dcd4407d3a6507a31e5"
+    "revision": "20974ab54b25048395e25cf25e5b44e5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

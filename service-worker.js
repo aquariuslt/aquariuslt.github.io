@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "0c0527df7491f249a21fd24fda0f92d9"
+    "revision": "7127145aa558600e8b59d5aff85c13b2"
   },
   {
     "url": "pages/projects/index.html",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "f61a927195d4cb118789ad202beda129"
+    "revision": "376e9788bf9841ceca95a3b8bce741e4"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "c5170a26d40c3fadddc50c09a430fdec"
+    "revision": "dddefa7eda6f7999c4977c46deae0fc1"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "7957740c7593c36054184fd317f5c298"
+    "revision": "0ea1a7087972e7529f83dd2467aa33ca"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "f215735c5ee1c53723ba51bcdb2bb001"
+    "revision": "9f3eca17aa2aa4d2f241e4de54a988da"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "5b0c7e8e183d8de8c1344eb7fc76025d"
+    "revision": "01fce64fe110a8f5618b7584faed0591"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "aaa2edcc3aced72a4637c32e3cd35eeb"
+    "revision": "68ab024f55dc6da2bcebba0d364ee0aa"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "ef0e590c87b0dcc73ba62e609463e897"
+    "revision": "bd94c214782ed0a0236e23033e45889a"
   },
   {
     "url": "static/css/detail.9c6249f25129e8d2bd91.css",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "10862d3665d0b370c676adcc4337ca1b"
+    "revision": "0bc4244b5e6dc03992053f5130677fe9"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "20974ab54b25048395e25cf25e5b44e5"
+    "revision": "76bdaf6cc5752dcd4407d3a6507a31e5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

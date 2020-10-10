@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "a32ebc4347e704ef33d8d6a75c3f9d51"
+    "revision": "4ed710be88df6bead8b2b71cb3c65f15"
   },
   {
     "url": "pages/projects/index.html",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "c7e2e05f91dbd1e85956c75c1bd9f895"
+    "revision": "8ec4f5e0bd84d2b29fe04f9f3140f349"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "4ed0097c8dff0d42a798052942e34da6"
+    "revision": "8e05a03add264ef037ac05bde170eefb"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "e2a6e4a8c4cf43f140267b46cfcc04cc"
+    "revision": "1e21661973720f5274380bc978807fd4"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "eb2597e3934fcb2d54945980bce5375c"
+    "revision": "b8f10be9bdf1eac74d65a5ae81d80d90"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "17ae7939182f0504e2a2908c2eeb23f3"
+    "revision": "63be1b240c9f134d57311af66ad5cf9e"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "3fff031498220705f200236027abd49a"
+    "revision": "0c875214964136f22805317874b2fc35"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "9d530610f2ad1f0a9510c004f3374364"
+    "revision": "68f394a2f95dee2b42b40349b77d53f7"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "a8cf4d13a743619e873a096c9743961c"
+    "revision": "1cec56faecc6460adf2261a7bcb954fb"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "6989c3873ad75a62bf19eae0ed46f3fd"
+    "revision": "accd331a8224aee19c48b1eeb7f170ff"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "7e3d8c39cdff4d83246325d657b11be4"
+    "revision": "e04f3095b720d7d322043ae41b822784"
   },
   {
     "url": "posts/index.html",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "f07260f4984736ae0db550b3f22fff88"
+    "revision": "898f4644a39ec5301eb0a2b5cf4c8870"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "4425ef7873138a1300f54ffaf0dc0b9b"
+    "revision": "6ec6b526ee3e2410ebe681f47ece10aa"
   },
   {
     "url": "tags/google/index.html",

@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "8fe278a9561daf7f9f14f7a84962e2f3"
+    "revision": "4dadee01650d88d7264eb2444d09371d"
   },
   {
     "url": "categories/debug/index.html",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "4dd56f8683d6c78dbb1d9c15e3dd3374"
+    "revision": "e1d0451000cf1a2695d9ace89b3e63e4"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "62d3d5eb48c9a5cc7dd542e7a8bc962b"
+    "revision": "b175e912ec7913bfc1ced78b3236beb9"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "9322119f9a0a14bd205303cac09e148d"
+    "revision": "c4e1d9ebbf80854475180ac2feb2be20"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "7ff02f099f3ee80b6d0fb19221268293"
+    "revision": "bcb3e767dcc59eb9f06b3ee3c97984ee"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "9054f5a6dd4ae26f8f15de2040371f08"
+    "revision": "606637c69c6563af232f5951ae20a021"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "1c6aca44f25922e4fc4c83f3d3a8c8b4"
+    "revision": "3f42811141071b64a18592306200440f"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "6a1ac922c85fc76a6258f207e1ec829d"
+    "revision": "7c9e96cf37343bc85e7cc1f95aec22b6"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "4e1948dc8b23101ded530701b33275c2"
+    "revision": "49e10898f3c546ce2773d65851979d85"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "f695d5a8d51eca7455bf37d09cc1b5b8"
+    "revision": "1da11ec24aaf9c8821922ee59f62e437"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

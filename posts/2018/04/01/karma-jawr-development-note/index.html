@@ -1492,7 +1492,7 @@ describe('ext', function() {
 <p><strong>第一步:</strong> 给<code>karma.conf.js</code> 提供一个额外的 options field: jawr 主要是提供一些 jawr 相关配置文件的绝对路径</p>
 <p>目前我给他设置了一个 type-definition</p>
 <pre class="hljs"><code><span class="hljs-keyword">declare</span> <span class="hljs-keyword">interface</span> JawrOptions {
-  configLocation: <span class="hljs-built_in">string</span>;
+  <span class="hljs-attr">configLocation</span>: <span class="hljs-built_in">string</span>;
   webappLocation: <span class="hljs-built_in">string</span>;
   targetLocation: <span class="hljs-built_in">string</span>;
 
@@ -1556,9 +1556,9 @@ describe('ext', function() {
 <span class="hljs-keyword">var</span> jawrHandler = <span class="hljs-built_in">require</span>(<span class="hljs-string">'./jawr.handler'</span>);
 
 <span class="hljs-comment">/**
- * @param {Array} files: file pattern
- * @param {JawrOptions} jawrOptions: jawrOptions
- * @param {Object} logger: karma logger
+ * <span class="hljs-doctag">@param <span class="hljs-type">{Array}</span> </span>files: file pattern
+ * <span class="hljs-doctag">@param <span class="hljs-type">{JawrOptions}</span> </span>jawrOptions: jawrOptions
+ * <span class="hljs-doctag">@param <span class="hljs-type">{Object}</span> </span>logger: karma logger
  * */</span>
 <span class="hljs-keyword">var</span> framework = <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params">files, jawrOptions, logger</span>) </span>{
   frameworkLogger.initLogger(logger);

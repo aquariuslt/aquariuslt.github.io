@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "c1c5637b8e8f398781820e3a271018b9"
+    "revision": "6bb95603d751b0174d299b61f3e67dfd"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "f69013cce0a9c9a2673b2288f13c4904"
+    "revision": "64fa9b895ce6224be673bb93873c564f"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "0c49b1df5423de642f66b3b5ec5c1289"
+    "revision": "0f7ee0afa1b293364616631f1dcb938a"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "9c020ce3fb4d2b83a737547e8e8d83b1"
+    "revision": "752f4bfe7426c0fd999118d9693d6311"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "0e792b3a2ea03520631ef75272a75d83"
+    "revision": "c964f9e5047962304864d4d244300331"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "cd42be39a4f2fda3211e742c0a4d2285"
+    "revision": "7716f432c72fb8ffbfab49a68c173fc1"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "1bcdfd994dc73e89b9f940586bfe15e2"
+    "revision": "6741f264bc93d1fda70afe77ee62045b"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "0fde55557d6563b8c1f98326fc3132e7"
+    "revision": "956e707bca0f332e937bec0c71825d25"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "f561a937992af4e167b8a41e878dfb78"
+    "revision": "1dcf2af03b3d171d2176a06367d2a624"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "0104270795f10282ece6387aea2f3406"
+    "revision": "6386be8e64e2ca5e930c2651054977db"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "46a4bb641349934d78c28083fa4be5e5"
+    "revision": "56c5e6f29c49d186507034e76fd90326"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "0d5be41e4f5cdc5c1ff6be7f63db741b"
+    "revision": "eff9c0e7b9c23b9991c0def094066800"
   },
   {
     "url": "static/css/detail.6122d9fb854a4ae890a1.css",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "219dd1280afc01efb03ff55218558b6d"
+    "revision": "1db66e9472239cf6922ac051c8091caa"
   },
   {
     "url": "tags/google/index.html",

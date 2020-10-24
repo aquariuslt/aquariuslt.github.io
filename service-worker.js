@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "24ee137d9495eeec74f87736b8a32c05"
+    "revision": "4a9fad8382bb6fc6104f6f529a042950"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "6bb95603d751b0174d299b61f3e67dfd"
+    "revision": "c1c5637b8e8f398781820e3a271018b9"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "0f7ee0afa1b293364616631f1dcb938a"
+    "revision": "0c49b1df5423de642f66b3b5ec5c1289"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "06a3144d59aa743363deb48ca093879c"
+    "revision": "994fc40de58179edfac0d1a8a8faad59"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "c964f9e5047962304864d4d244300331"
+    "revision": "0e792b3a2ea03520631ef75272a75d83"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "d07144d05fd00c54aee9ee196157d9a6"
+    "revision": "cd42be39a4f2fda3211e742c0a4d2285"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "0bcc4307c212287d8d7afc8eebf2a680"
+    "revision": "55f44f75c77a2404da701ee50880afa0"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "6741f264bc93d1fda70afe77ee62045b"
+    "revision": "1bcdfd994dc73e89b9f940586bfe15e2"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "6031ddb3e331db1f57cc652d6ae3a25d"
+    "revision": "0fde55557d6563b8c1f98326fc3132e7"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "1dcf2af03b3d171d2176a06367d2a624"
+    "revision": "f561a937992af4e167b8a41e878dfb78"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "6386be8e64e2ca5e930c2651054977db"
+    "revision": "0104270795f10282ece6387aea2f3406"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "f58786b2280b9cfecff4172154927b5e"
+    "revision": "a4a5120b7e96a2ce74e9c64f15d4d7b6"
   },
   {
     "url": "posts/index.html",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "16a4d36a732780040a5de3b0a8b362df"
+    "revision": "527926096590402d7f50d2454c50a62a"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "1db66e9472239cf6922ac051c8091caa"
+    "revision": "219dd1280afc01efb03ff55218558b6d"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "208f31aeea0c31f4625403edca623697"
+    "revision": "2b24fbf2464f6db5bb55de4c87cb7c69"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

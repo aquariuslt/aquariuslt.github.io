@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "2ad9465a11aa165a5bb575c24054c415"
+    "revision": "d3afef6b2c57502ff0ebe6e481f6622c"
   },
   {
     "url": "pages/projects/index.html",
@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "5980e6c2d682ef05221c638ed85e0aa7"
+    "revision": "bab83cf37268cbf537d7842c06e687be"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "2f5958469884db34de4fbcadd549b752"
+    "revision": "07c216b473a2ec806f3d25591d7976d8"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "c597b4c10ca7b579054499065c87a6d2"
+    "revision": "686872d6e1a7192075aedba3e315f2f0"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "8cbb7733e7ccdca1df1e2e1e2cabd738"
+    "revision": "b57235e73214f88868fe80022a9f5a9b"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "ae06580a9c97914a42b234831d0f6a83"
+    "revision": "49c90d85420c65149927641dc102796a"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "c2070d2e2a315ee7b82abd3c69e3a3ba"
+    "revision": "8b94567294ee60ef6e07f33d9a256a61"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "14f2d298957e6d90b6eb704357bc8853"
+    "revision": "dfda92d420a6f0f3c359e0446ae9adcd"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "80f30c3ba6227d92afd1a1d7a871e99a"
+    "revision": "33ce08746fcb915e87503c2a03183d98"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "d214cbbd02269925131376c5b231148d"
+    "revision": "80cc3585cf3901923131521edc97dfe8"
   },
   {
     "url": "tags/diary/index.html",

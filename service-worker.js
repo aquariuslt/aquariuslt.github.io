@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "ec449cb10b102969c589dba2dfe2e48c"
+    "revision": "70e69c02635e47dcd4d7db560324f6f7"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "c5f979608929257162ea8574543d67de"
+    "revision": "884a5177be7f886562e71f34fb8ced8e"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "cfa3a2dcbe9fb9760d03d48ed986b946"
+    "revision": "d87db16e7dc879c5faef53d49e0aa866"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "35080f8155d20e9d261a932b60c4439f"
+    "revision": "8f0e1c78f5ee2d222fd4819b98d9acc1"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "b559515cdde05e83a2b4766f4b84e07c"
+    "revision": "161a1321efc4250a65e81ad999d87d27"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "2c36a216cc39d0ca5d743b9678404bc8"
+    "revision": "63bb88a3db9494b812a099d8f452b415"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "cad3a2e1a2d3506d3e8fdf5dce10b22e"
+    "revision": "158cb822256ab908eae73cd2c825ce43"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "2e212b27b56ba4f845b9a274b0f57b81"
+    "revision": "c9a34a994c564c994d1a4816a6aeb192"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "dab030138ba6aeec960f7fc95f563028"
+    "revision": "07e839bffd97d8484df499f4f5ed8e34"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "46cf83d159313d3c8d9128df3ad3c081"
+    "revision": "c7603361921a3a47a0b9c73804885f93"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "2b7b13383315a4b1de95950ad2ad45db"
+    "revision": "60120af3254b09993a11d37da7c1a030"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "a8a678c6d614ec71daa06602f813302f"
+    "revision": "b77232c57fa5bd52280d45492991c7e2"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "c8779b773dec8554a9ac5fac33930eef"
+    "revision": "da3e6641ca9305c17105e3f14dfb22c3"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "9a6453daf320ee35615dcd967251504e"
+    "revision": "ea75e23481a83144000df3247202fff4"
   },
   {
     "url": "tags/google/index.html",

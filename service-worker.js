@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "41851a3ac4d64f632234fdf4e1065fd2"
+    "revision": "c3b509fedcbad19675ffbd5ebfbcb216"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "252138454cd8d07f22a5cffebd67b9be"
+    "revision": "0720ef56bff303bc8b363b50b30d0bf7"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "e3d1f2a39f5cad0aa523ea4a10b29aad"
+    "revision": "1a4cb38227a019a921e73bb850379236"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "22d9cb77fb27ed83cc987a2e17d7eab3"
+    "revision": "5a8032be4dae6e18e8dad8bb66df281d"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "4e6d20be21f76f5a80f7463c30c9032c"
+    "revision": "cf75bb3f4e62ffe771bb2a2a5213e927"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "7e2fe36d3adb2447fe77cf4ad968956a"
+    "revision": "23895488dfcc50e9ae6f7dd50005aeec"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "eff810d65ded0c8a5801acdcf6cac4c6"
+    "revision": "80f07ec39e9a1c046e5a436f48225ab5"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "860361dd02193bcc58eb66b552545a69"
+    "revision": "44e8a539bcbbad2a23c419ac5285f458"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "523f742138d6e7058b105cac4b56c8fc"
+    "revision": "fb2f5d9e30a5f9d3a6d0ab967f47443a"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "76e19b919c04572b1667c709b4e05769"
+    "revision": "edd464a99ce1f4008a0e10843f2da77c"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "ac57e5d8837c4fa65689e7d307ffe4fa"
+    "revision": "de15591eb8d94c90396a3a145f6ee727"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "8dca880c56fd25a963dcba6e5a8fa17a"
+    "revision": "f534af18cdb4ae73dfae7f88fb75149e"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "3f460ba60c7fbf834749414ca690fa4b"
+    "revision": "e6bdcb9f092a6c000a760d6fd7a4322f"
   },
   {
     "url": "static/css/detail.effd7be8d6bd4c08dfba.css",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "2d0fa685a0122b4093c7326f177cc925"
+    "revision": "88ffa1b667d060fd0dc6945888b4faf5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

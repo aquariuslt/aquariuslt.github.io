@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "a7ec5040714202b31f515de81bf52d47"
+    "revision": "3b0e5222c96f0aaaad4718d8ae9ff98c"
   },
   {
     "url": "categories/debug/index.html",
@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "d3afef6b2c57502ff0ebe6e481f6622c"
+    "revision": "2ad9465a11aa165a5bb575c24054c415"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "55c970eddb34f03ad52898e53dd3b670"
+    "revision": "e4e8035bda7242935bee2c4a616d0206"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "c288e558be5799acecdede99e5a77826"
+    "revision": "19bbf8f0e4ad5e4456991104a1f1d9f2"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "7c024342cb75589f9f6eb0d6185a1bd9"
+    "revision": "f30ab120067e239d3826d58fd4bfad9f"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "2e77961fd724d5347ea53c80f3b936f2"
+    "revision": "097bd88e31a8c6f6f07bfb584c9ef455"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "cb29205e22ca5eba7422a3d345d87fbc"
+    "revision": "2641088a36d99020f963e74db36dbbc9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "7b07dcba23d6806edd434e7d20feadcf"
+    "revision": "6d292babb59dc75269e2183b403ac94a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "a600a1caa0688000d9f113a3790b9ad0"
+    "revision": "2f195a65b92a9d99bca2c3d6bd8f6b93"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "686872d6e1a7192075aedba3e315f2f0"
+    "revision": "c597b4c10ca7b579054499065c87a6d2"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "f36e65c9935fc6733a9155bac137376a"
+    "revision": "8b94567294ee60ef6e07f33d9a256a61"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "1181d9a19ca2b4cba2803ee32f13a1b4"
+    "revision": "03650408e1e3222f720de2b7e9469e2a"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "c6d324d3abddde08fe75243c460fdfc7"
+    "revision": "dd1abf4308fe7bca2d8474b99c2bc925"
   },
   {
     "url": "static/css/detail.effd7be8d6bd4c08dfba.css",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "80cc3585cf3901923131521edc97dfe8"
+    "revision": "d214cbbd02269925131376c5b231148d"
   },
   {
     "url": "tags/diary/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "6a20dffab431e34e91803fe7ad2e9373"
+    "revision": "3b85436efe840fcbf07ff90ba18939cd"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

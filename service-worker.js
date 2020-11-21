@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "abff2c7be634b6019263b6cc606e1257"
+    "revision": "c99dc5de0d88c1de45eca7dae4635d26"
   },
   {
     "url": "categories/debug/index.html",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "8e674dded8ada317bee3c55b8ef1bd7f"
+    "revision": "0ddf0d9404c294bf9f4ce62d4a2e68be"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "7532904ea55a0e85356dbe6fcebf40ca"
+    "revision": "d9c2f8e9717c8c7c4aa1d6b087c1f11d"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "ff17cbd4baee40d11c8424a2987b2e02"
+    "revision": "2f9204f1ab7fbca7e7901f81a9b9b9d5"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "7738e188d260113ff06bf6cc1105c111"
+    "revision": "428a38e7d5396df0e4eb32bf6893fcd6"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "f79b787b37802ccb5c4ffba9c1f79f81"
+    "revision": "c4a0add1d96fa9f1039784fe48c7faff"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "08c6df1be9be1b716ccfe09f611c7586"
+    "revision": "442c3edd7ebea0d9fccdead01f8fc8e2"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "bf8b02356c5af520bdcc2b9d0c44f9e2"
+    "revision": "791b21a32ed28eeaf4719b2b1b8de5fb"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "da7f7dcd41c0fde890897d2ad8907967"
+    "revision": "44680806133eaf32449f9b986b114902"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "46e0d83447442a344f6b3cc8fd0d7204"
+    "revision": "c8ddd07e7d8111da80df928ae7aa0bda"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "b1531e7d0fe8598ecb5b6f94d86c5ab6"
+    "revision": "94a5afe15eec4e835172d9343a9b974f"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "8c79499fe8c7c73075cac442440e1d53"
+    "revision": "932aec36119f399d47b52bae8ae12f04"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "66d7f914de5137c4ef5a1a23ea4f4eb8"
+    "revision": "651cccf842704cb6b8f96eddcf4a490c"
   },
   {
     "url": "static/css/detail.3554e5c6f885ea4ce34f.css",

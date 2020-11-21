@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "198c00b1152fa08ddb571e7549f495f0"
+    "revision": "19ed71b852f2b1d72a0e1e9e2c701b1c"
   },
   {
     "url": "pages/projects/index.html",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "63a6c4181d7241f5f8523bb4b0dbc051"
+    "revision": "93cef5af64fa80b6c87e668d5c0403c7"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "99d86abec1b35dcd15fd8181dc39ac6f"
+    "revision": "cd9efed8139b43a93e4872ef0a5b4559"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "0ddf0d9404c294bf9f4ce62d4a2e68be"
+    "revision": "8e674dded8ada317bee3c55b8ef1bd7f"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "2f9204f1ab7fbca7e7901f81a9b9b9d5"
+    "revision": "ff17cbd4baee40d11c8424a2987b2e02"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "da8fa36041ede884fbf6b25aa3f995fa"
+    "revision": "7f40c57cc81f34a8c9d6055e0e13be31"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "48c657cb8b4f77d7e5c9d52aeb727b9a"
+    "revision": "e4663073b8271b951a8fcda2d521c9d6"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "c519c7f597ef4eb966c9bcc7c6102b99"
+    "revision": "f7b86d9aca1c084b9322212361830939"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "195b8eb5f74952a603a6173be7c24aca"
+    "revision": "8a7fffbdcab9da6c00a8e7f0e1f1ceb9"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "c9f35f6806ee3b7c08402ade39823998"
+    "revision": "dbcdd9e3473596db9d16028b451c8018"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "9134c2b4a247f49269e5609a3626fea6"
+    "revision": "785dd12eb44712ba3f4164b12e799be3"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "90cf890bb0b87ffb2372fb20460970bc"
+    "revision": "11084089723031f3e096a3912bdfb9c1"
   },
   {
     "url": "posts/index.html",

@@ -1386,11 +1386,11 @@ body::backdrop {
 <p>Patch 文件通常有 diff 所产生，用以描述两个不同的文件(集)，或者同一个文件(集)的两个不同的版本(reversion)</p>
 <p>通过版本控制工具 Git 产生 diff 大概是什么样?</p>
 <p>大概如下:</p>
-<pre class="hljs"><code>diff --git a/node_modules/lighthouse/lighthouse-core/lib/emulation.js b/node_modules/lighthouse/lighthouse-core/lib/emulation.js
-index 7869b7f..87b6725 100644
+<pre class="hljs"><code><span class="hljs-comment">diff --git a/node_modules/lighthouse/lighthouse-core/lib/emulation.js b/node_modules/lighthouse/lighthouse-core/lib/emulation.js</span>
+<span class="hljs-comment">index 7869b7f..87b6725 100644</span>
 <span class="hljs-comment">--- a/node_modules/lighthouse/lighthouse-core/lib/emulation.js</span>
 <span class="hljs-comment">+++ b/node_modules/lighthouse/lighthouse-core/lib/emulation.js</span>
-@@ -90,6 +90,18 @@ async function enableDesktop(driver) {
+<span class="hljs-meta">@@ -90,6 +90,18 @@</span> async function enableDesktop(driver) {
    ]);
  }
 

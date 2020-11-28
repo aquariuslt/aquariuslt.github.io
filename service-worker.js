@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "629fb40aa0d3f74d9942b0300a9b9f3f"
+    "revision": "2203a2267d4e4891985615193c9025e3"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "4c633556ff089995f9256a92390b19f4"
+    "revision": "fda71b31762a8b1fb01bc2d29ef12af4"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "e0e7c82d585e96d1ef1ed0b2c94e3c93"
+    "revision": "d182d439270033ecad178a05d44c3517"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "339ea34f45069c7efc2331c44dc3a96b"
+    "revision": "2b2ea8fd1848703d41cfd5b96eaf54ca"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "a48ffb45caf0d0e8ca4409a1440264b3"
+    "revision": "0ff1aadb7d8f3f8aee3c4ed2c1a5472b"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "8a460e08478010afe137438536f6c9fa"
+    "revision": "81e60bee8f4349b276ad01b661295149"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "c733bf0c7f275173c070466e1701641a"
+    "revision": "9e5a70b13130f9ffc3a5d0bcfbbb88f2"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "29a4a136c9804289ca984019472b0730"
+    "revision": "4b43728425aee9abc4cc5a1bcc360551"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "1cdf5574463ad430be0a12c1a112e2e9"
+    "revision": "0fc14c690007e750c4373909858921ac"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "29695dde60c2e2d2bb9dd008bc9cbdf2"
+    "revision": "3836a089866bc1bd65f98da9e434e855"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,11 +958,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "a8daab3ef4a20cf290b2cfc5028b4c36"
+    "revision": "c5ff67643ef8aa7f78e087095b335a4a"
   },
   {
     "url": "posts/index.html",
-    "revision": "e347f0a33c10ab226b683284993334bf"
+    "revision": "567c79f982b3febeee51a1a491cd69cb"
   },
   {
     "url": "static/css/detail.16f96916b66ba78dd3cb.css",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "6c228801ddae9cf3915fe361fd8d77b8"
+    "revision": "408e95a1a2ace5a9acd11eaffa37900e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "8a5f7302cfb3783f5e6837cf9a12c982"
+    "revision": "378b640e3bc9dccdea28eafe5a791e51"
   },
   {
     "url": "categories/debug/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "20323f496e4416865ff83e66e93f7029"
+    "revision": "830da19aee424d718fc49b0d966021d0"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "9ab52931b221dc86bc49ddeb46d47d76"
+    "revision": "fd4c6a471e5a6c4e4f0dd2ecc303dda3"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "8dfd2d3967aeb86227d3f1941a8ff6d0"
+    "revision": "7e8fcff3a3d08f8f0333a88d2fa9ccc9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "602ff0365afe929dbca8e4df1a615fbc"
+    "revision": "c3d03e49b66043ddcf54e9da2e46ba8b"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "c686466f7f3df4817e7e905dc0240cc2"
+    "revision": "a62cb31f7dcb91ec5d474be30fcfcfc5"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "4f187a1686d9987aac32bfa1db4721dd"
+    "revision": "5875b740ace45cf5b8a4d19c0ae92edf"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "6c3a4a7dc8b72bb9a7e25e7738bf13ae"
+    "revision": "8e390368c169e2249635a7ecf52d10ef"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "dbe783b5fdb679502f66424eac5700a0"
+    "revision": "0661a89d27dfa311738c7bf869a28e8c"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "245071fc5634b67ab012d2553880ae5e"
+    "revision": "e3409f5bf6b24780f2c76f608f3721f0"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "62af552726ba24807ca0ee6969dc1295"
+    "revision": "867bee2ff87522d06847eb6f7820d2e0"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "278214f38a9a4fe067af50760c4415ba"
+    "revision": "da8dea8d736d4cf98ff3a39329991c67"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "677779268308f4f7acb6b4a1b843bbc5"
+    "revision": "2bace83e08453c2e7f8ab82a4ec12134"
   },
   {
     "url": "tags/diary/index.html",

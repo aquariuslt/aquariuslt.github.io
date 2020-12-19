@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "ee765304b013a5943772ed7483f89902"
+    "revision": "456c0dada04ee193ee3d093e33ceda53"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "b2c31dca74251dd38022bf8913fbe077"
+    "revision": "3d52ab8430e17dc59eb4ff29b4312422"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "2bd9e1624ddf7325bd0d8b4b37f787f6"
+    "revision": "0f0934afd42ff7ed0ac709e0198bb5af"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "8b55df7f406a334b20279bf8a56dc0e6"
+    "revision": "1fbd48a053e3c56bfab79b4a30e13f77"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "cd7f48b057d68ce0b188a37c175268c9"
+    "revision": "fecf1226feab689f8fd19d66b4ceecfd"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "8dfd2d3967aeb86227d3f1941a8ff6d0"
+    "revision": "7ffb9348430c58bca5311df8272e8ecb"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "b692a0c92177fea98e5bfd081f80bb62"
+    "revision": "f534f4cb8c1744d57a738777b60ce18b"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "a5f78491ef88cd22266ae11fa2dbaae5"
+    "revision": "e268c67bd577e0309c9504460bd7d503"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "f4ed87415a6627ec331d97ffe8b596e5"
+    "revision": "237381158669bf44d454898e19dba310"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "4f187a1686d9987aac32bfa1db4721dd"
+    "revision": "cdda85b736edc196d41113517b1fe880"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "6c3a4a7dc8b72bb9a7e25e7738bf13ae"
+    "revision": "d22fb0a029508164f8389fadb567efc6"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "245071fc5634b67ab012d2553880ae5e"
+    "revision": "fd8ab85efdac2c88ef3d61b972b7765b"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "46900bd94822aa5681048fa35e3ef65e"
+    "revision": "6df482c507990b364cebb4349d6290a2"
   },
   {
     "url": "static/css/detail.113bba145bc0f43b7998.css",

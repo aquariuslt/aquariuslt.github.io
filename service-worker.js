@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "71c695013588a17c55a7e180b802a730"
+    "revision": "6d55d9cb4418bc5e34760a191a31f49a"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "0c71319124672d7f8619b478027a7226"
+    "revision": "a0be8bd2f1645e3624690b7b601a948e"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "6e830475c5d9a40ae38fd5f69b2ade68"
+    "revision": "0350beecb8578b75a3e35aeebd961727"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "0ec581c18a40acb0db3da110be878638"
+    "revision": "08f9845e0b3dda7ff7cb499bb96b2d89"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "0bcaae37a2fe6ffdb4392c475672505a"
+    "revision": "4f5a64d6f7c804858fca9d61d021cf96"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "5f368754f4fb03207c00dd06d3be25b8"
+    "revision": "d916d54159eab7a8af0ae73ead088940"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "923d99474beca9402d22fb10ffc2952b"
+    "revision": "e1d857f8d55d273f80115aeabee9aacf"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "80b877549550993c713303028a7ebc89"
+    "revision": "51da623f5c13ee31a727fc6a90cd3d4b"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "4d96eef38b84ba14d1502d2919e542ad"
+    "revision": "173b16e15915a012fa32e3b0ccb5b1bb"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "26e3e742acebbea46887234a45ba2c33"
+    "revision": "e871f5932974a8b54b001a3b73fcad97"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "e42c2167f0b112e35d39e0b58a5ac02e"
+    "revision": "7c0b301904b39e1db90ce4576afdf815"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "3c621d726d26dea07be924ea7683f1f9"
+    "revision": "8c90a2abd63d75083cf1bc43a5d4fdd9"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "ecd84cbea57a5147a94d79a777000fe0"
+    "revision": "8d9c4c5b4f82764c601d4978ac0c72af"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "a205ca9dfcc1e2226c965fa54a3cda09"
+    "revision": "644854e2009aa8459103230273417a20"
   },
   {
     "url": "static/css/detail.a28e51e7a80403ea2497.css",

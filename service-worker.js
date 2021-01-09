@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "25358f4e049b5886a76761e3ec8160e2"
+    "revision": "3bf59d587f7f1cddc84470f2b675f53c"
   },
   {
     "url": "categories/debug/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "64d8775b6a34028c78f85264da1a0a36"
+    "revision": "e6a5c288547ce21174e6b2660c88cc72"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "eeadec835d9b36a3dc2a4dc80bc11502"
+    "revision": "956a7047b4a671dd35659da3fea60864"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "7acb6cbdf08ecd68ca9eb409604e2df2"
+    "revision": "406b1f142e1c50275db5e14cc8f7d8d1"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "d2706216d85cc46f63544f2ad789c0dc"
+    "revision": "b3dcc6428bff41e0a3a972e9d2e85d53"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "9722363d36e72a7efab871d091b734f9"
+    "revision": "f8e2c3187e7594fbff8d8b6b944def70"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "d03624610c964ba036be1dd15360ce06"
+    "revision": "dbe362180cff13a3e6243048837fbc8d"
   },
   {
     "url": "static/css/detail.a28e51e7a80403ea2497.css",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "a8ff5123ace8d5d4c0736aadc0718772"
+    "revision": "c6e2dd1df65edeb417602b8f95122ebb"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "193adbccf94097e92304beaad6b192c7"
+    "revision": "0fc58e70b0d343fa92d2a17a416d5146"
   },
   {
     "url": "tags/google/index.html",

@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "2c98e4af0184b8dd076b9509674db359"
+    "revision": "b220da244c642d02c8a0c205cff189d1"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "48dec81047e60a7d5957613a1359119b"
+    "revision": "02c98c1b771e4b06525f89c2a2d60a57"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "761efb79658f91540875e2572213288c"
+    "revision": "ff2e10a1b38aa5bd14197bba76731ea1"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "576a2121da66825a8b8ae0de403c3b52"
+    "revision": "f5b7c3fbd0d61c619743d7bda41307bc"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "3a744613087dfe7a9fdfc91fedb43687"
+    "revision": "5e3237bdeab5bf65db1e37c1d05101fb"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "337252e2d244757cd50b0c0e10fdf093"
+    "revision": "a8cf8aedbb0a6640a32660c38962bc4f"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "19266afda87fd5df6cbd5b5fd8b63520"
+    "revision": "50a812242e197d3fe2748108f2404fb3"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "7ff09eefbb318356152a1407edff1d5f"
+    "revision": "35c4a3e48592663fd6713c203bdf9d2d"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "d2c224710ecabb7ebc343b826ed403a5"
+    "revision": "407165dc3aa471e1c85abfb2a75f2c4c"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "eb7905dc57fb9556ce34a13319e5435e"
+    "revision": "3dafe76c59c312e125569d64949c3015"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "0fc58e70b0d343fa92d2a17a416d5146"
+    "revision": "193adbccf94097e92304beaad6b192c7"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "0574447875fc6363dea5bae6730de0f6"
+    "revision": "3d4936b186436b5ae5a43b94c4a3a9cb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

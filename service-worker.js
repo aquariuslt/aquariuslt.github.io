@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "3a8d6c89f8b825dd160c7c8a19788708"
+    "revision": "647705a97bd9383d26dadd1b19f51ee6"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "3a259f91eb7fce585968d4f8c537368e"
+    "revision": "41107140336869e510dbc8f17ba7164d"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "759772654b901f27d238fc38d27166ce"
+    "revision": "f0c69b0fdba3f616e3175d5661cf0303"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "01dbd122fb3dc4034a3d0633cf8a535d"
+    "revision": "6edebbc66226a9616f0f464e1eb12cd5"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "5b253a875355c9d5a465d1c3f11f61fc"
+    "revision": "d313474ce8704f2d2aafbfe8c005ea5d"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "3da2a55c136a83a649e57f5af8921a32"
+    "revision": "2f234973f417e7f1694dfeb016ed998e"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "5e32f2752de3cf0252c64ebdb127ecdc"
+    "revision": "35ed9814ea74875b0d359c263f1d6781"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "856e6384aa53e55c44cfabc13bc321bc"
+    "revision": "7ad903ef986d67f64d0d523a5cd9c42e"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "7ed38b00503e7f297be8e34798faace1"
+    "revision": "4b8f2083997f2656e80df9af848a48a6"
   },
   {
     "url": "posts/index.html",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "dc0581c447969cc2e2c4a967c2761ccd"
+    "revision": "1fd9cb1940b3562f0996aedbbc0a388d"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "1695da4e5a1e8d08cda31aab053f9491"
+    "revision": "1719b1920dfea189b087cc74a20effe1"
   },
   {
     "url": "tags/google/index.html",

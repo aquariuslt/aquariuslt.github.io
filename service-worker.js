@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "90825e571af5b572ce6cab22763389bf"
+    "revision": "f1790a913d0b8f9094ccf3577cac6623"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "41107140336869e510dbc8f17ba7164d"
+    "revision": "3a259f91eb7fce585968d4f8c537368e"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "6edebbc66226a9616f0f464e1eb12cd5"
+    "revision": "b5221463fad093d46ebf33e61c6363a2"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "3cf0c3930631512009b7e1b0f7732be4"
+    "revision": "f2de37378e284e8b613b0a426dbee59b"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "e46362a1ea3adc2f5472af0c6b83d242"
+    "revision": "8fa815f4d4b34011ab7bdd5d312e1714"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "7ad903ef986d67f64d0d523a5cd9c42e"
+    "revision": "856e6384aa53e55c44cfabc13bc321bc"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "15c0fffb8e740f60dc5063532a5c80ac"
+    "revision": "0ef4436dccab1c4ee18119f7785ea7f6"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "92b98fe06bb2a75a9697ee8bc7c3cf84"
+    "revision": "ac61b97a4483ff448d6f34102fa453d8"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "f6fa1b989351aae1f3c733991b035a1a"
+    "revision": "5f12f4ec497876d0bb3a7f94d8045e8b"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "412fa5d7be5155662327bab83f431b24"
+    "revision": "7b11058c59487f65e27537b726805ce1"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "4b8f2083997f2656e80df9af848a48a6"
+    "revision": "7ed38b00503e7f297be8e34798faace1"
   },
   {
     "url": "posts/index.html",
@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "1fd9cb1940b3562f0996aedbbc0a388d"
+    "revision": "dc0581c447969cc2e2c4a967c2761ccd"
   },
   {
     "url": "tags/diary/index.html",
@@ -1138,7 +1138,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "1719b1920dfea189b087cc74a20effe1"
+    "revision": "1695da4e5a1e8d08cda31aab053f9491"
   },
   {
     "url": "tags/google/index.html",
@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "3446729b34a8368841ec1f31e7bab399"
+    "revision": "ac0623facd29d81c73ae28e46d3d64d6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "885c41d878f95fa1474ec8d0e9c98036"
+    "revision": "005caf2aa3074bf8424d3a639542c6be"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "647705a97bd9383d26dadd1b19f51ee6"
+    "revision": "3a8d6c89f8b825dd160c7c8a19788708"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "41107140336869e510dbc8f17ba7164d"
+    "revision": "3a259f91eb7fce585968d4f8c537368e"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "a5cc96ea94b6849b05d55a54e856dfa2"
+    "revision": "cc1af76df9c6f90b2004162b23d3a32d"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "b5221463fad093d46ebf33e61c6363a2"
+    "revision": "01dbd122fb3dc4034a3d0633cf8a535d"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "d313474ce8704f2d2aafbfe8c005ea5d"
+    "revision": "5b253a875355c9d5a465d1c3f11f61fc"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "61a67cd9ff58d19a6ff17938a12556a2"
+    "revision": "e5648ff4b978379ce8e1119452721054"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "d6ce145626fb1e498dc4eb7d378eb1fa"
+    "revision": "728ddade65b23edff8a7c5ede29fb70e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "3cf0c3930631512009b7e1b0f7732be4"
+    "revision": "f2de37378e284e8b613b0a426dbee59b"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "e46362a1ea3adc2f5472af0c6b83d242"
+    "revision": "8fa815f4d4b34011ab7bdd5d312e1714"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -958,11 +958,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "7e196f744e8690c48e4afd9bf027005b"
+    "revision": "7ed38b00503e7f297be8e34798faace1"
   },
   {
     "url": "posts/index.html",
-    "revision": "67fcc2ec638ac6db6c5e141aae6ab26f"
+    "revision": "7dc3540b8eb6215c4832d7bdff64713c"
   },
   {
     "url": "static/css/detail.ce37e5c2d2dfa428fa6e.css",

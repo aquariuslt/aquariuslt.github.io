@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "55b656545b06d5cd2cab433d724b8db5"
+    "revision": "36bbe5aad2a8007e77514ea6fc2b8b28"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "a1f66036adfebd00149c11eded9d2515"
+    "revision": "96154cf7488a46ac7efca6cf6b55a9d7"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "980fbfe8043249a0045865868ae8aed2"
+    "revision": "d07fb26e3fcdcc7e3f4d1f576c911ff3"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "64ce6de3b403c2f40b34daceb8feb3dc"
+    "revision": "fe0aa3788bffcb69a8bbb779eff2221c"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "4e8d7be602fa97af8a2348f25ed05e41"
+    "revision": "f9cf6ff6d0f7671619b4d6625abcc3cf"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "03cb6097402fecf5bfdb89b502f825ea"
+    "revision": "47f91ccdd7bbb109de20f98f1d532e1d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "1f3de1007a37f10737a2ae40a2ff70f7"
+    "revision": "0e94f376995e228bf4b09c260e6ab677"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "4b0605450334f15742399de207144a3e"
+    "revision": "0a864e023657ae8a297cba1653f1712e"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "c1baf9653fa3f8bb387dd9e8ea603f6a"
+    "revision": "f617ecd80e2d1479b9d5d379681d9670"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "093d3ab3c3ad2157937091cfb5a05b94"
+    "revision": "f9fbef3f6863d1a94bd61337ff464fb5"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "e06274feb0282cffa90edffc0b0f019a"
+    "revision": "547880a1368ca4d2f8a1ef57578946cb"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "a288c8f24af09158801579bd84d2c5b3"
+    "revision": "40b77aecdf0f583820c32aa87dc900e3"
   },
   {
     "url": "static/css/detail.ce37e5c2d2dfa428fa6e.css",

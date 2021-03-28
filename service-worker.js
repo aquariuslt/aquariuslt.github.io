@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "8e9359690cdcead9dffcf16168876233"
+    "revision": "2c4841dd1bde8d0e8c71b496740b1fb0"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "820f3e9a5c72514dac0c9e4c27a276b9"
+    "revision": "ae13871e7c4579843fb592c7f6931542"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "478cc970f1e8770df6164a766fed5884"
+    "revision": "c75e500604196b3bff87f546ea29733a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "a7ccc81c94bd1b032d32d2d742ae14ad"
+    "revision": "f3b738391846114fd08e303a178b1ffb"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "f908f755e1740f8c552248c5a3be3055"
+    "revision": "87a40a3521cad9e39167bf6c627ca1f9"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "2ff45c950d5bc0ce1d2187eccacff6a2"
+    "revision": "d9c9affbdddc8ca5d13fecde2caaa463"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "c3e934d78c17989341b57546a031c02f"
+    "revision": "61459b901d2b885745a5b3b898debfc4"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",

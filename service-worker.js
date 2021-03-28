@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "d696a7af43ec15e8d1322283bd7c7ba0"
+    "revision": "0b4e7f2351dc67ef90d61b50f4ddbcde"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "de6f261ed83c625010e20173a6b0675d"
+    "revision": "7b7cc04d05d6c67f0e795084ca47f5f5"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "cba2c2873f9ece748a35ae6d74f02cb7"
+    "revision": "3f14c04529777fba4e0273a23a708c0e"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "1420d04600f9d99134a082ce5e101e94"
+    "revision": "edd084fb7726346dd331847bde658b67"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "d1424b49d456a16d95a48c81c8281d85"
+    "revision": "a356b69db02f7aec915ea87db41fce50"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "95268985e34f006ea6d8d724ae70d658"
+    "revision": "94209f4ce02ddd4722905aa301d5a6b1"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "7b9d61fd1c2906b62c383aa2103d51f4"
+    "revision": "2774f98224da3449b251ac9760bb9720"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",

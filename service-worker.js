@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "5ae621645d14e479462d79694a39dbf9"
+    "revision": "c91bc1430238b35e253f3b5ba968bf43"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "8e9359690cdcead9dffcf16168876233"
+    "revision": "2c4841dd1bde8d0e8c71b496740b1fb0"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "7099c13585c650b1b670b0abffbad6cd"
+    "revision": "2911bf909b4fa75a1a7dde2bdf204b62"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "c6ff295d77e8fde0da6e790011b7d008"
+    "revision": "7536c8341b88179d336eee036892abd1"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "478cc970f1e8770df6164a766fed5884"
+    "revision": "c75e500604196b3bff87f546ea29733a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "f908f755e1740f8c552248c5a3be3055"
+    "revision": "87a40a3521cad9e39167bf6c627ca1f9"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "2cd17abb31c583f493a541857c546c97"
+    "revision": "a99f39a867a60a9e82d3a59ad56b8355"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "a8c75777859d94eb2ea3ef5f0640c29f"
+    "revision": "8ebcd86034fa09ba19ae9377859f6886"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "254b520d8dcd9e5b2ef82b51830d548f"
+    "revision": "2bb843da1c0dea737b54d28b738508ad"
   },
   {
     "url": "posts/index.html",

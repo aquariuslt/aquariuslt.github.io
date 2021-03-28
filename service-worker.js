@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "a933b4776310aa7ffb055d4ba1ec38e1"
+    "revision": "a1d2bc7fef8803f70a9e1ecfb9a6b230"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "e1f4eba5300563d18525df4fc9f5fb21"
+    "revision": "963f08176c41b8aa00a5465d8f5cada6"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "856330da28f974291bd0af0bfc66fa5c"
+    "revision": "30c1f91133f37e9766d73151beabbb92"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "045552824eb0dea555d8479d3c39569e"
+    "revision": "ff5ff8318c97a539574d3ee62eeb3be3"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "c2ca2b57c641867511c10ce8939129aa"
+    "revision": "d8a11f3f086bd63e50d8f707fadb5510"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "27dac7cda6485cc5c13c5279b649a0bd"
+    "revision": "d278474f34de6d7ee6826f8473f96b7a"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "cc1b63e8f9733d5c92bde797ab08c161"
+    "revision": "ddddc3fab75679c3560a47f558da7d78"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "4c1784d038f635a8a572ef77685bf14f"
+    "revision": "a4cd43f98e833bbb6da11ed05c1ff9be"
   },
   {
     "url": "posts/index.html",

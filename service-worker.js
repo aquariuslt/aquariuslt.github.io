@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "3881b83a1f074fcf832443ab19ab760c"
+    "revision": "af2524dd1bcf945821adaa8561a373e5"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "c7535bbb4440a9056db0c4b21b2f0196"
+    "revision": "2c20607dc620fc40c32d50feda9093b9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "045552824eb0dea555d8479d3c39569e"
+    "revision": "ff5ff8318c97a539574d3ee62eeb3be3"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "a356b69db02f7aec915ea87db41fce50"
+    "revision": "d1424b49d456a16d95a48c81c8281d85"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "d04e82b503481719b740d0735e1e1fc7"
+    "revision": "1633f2cd873fef9d50628907679528ea"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "d278474f34de6d7ee6826f8473f96b7a"
+    "revision": "27dac7cda6485cc5c13c5279b649a0bd"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "cc1b63e8f9733d5c92bde797ab08c161"
+    "revision": "ddddc3fab75679c3560a47f558da7d78"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "c500c88c9f1094301b8d9daaaa2b3b3e"
+    "revision": "2962ec988253c70bba63e8c111e29a33"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "a4cd43f98e833bbb6da11ed05c1ff9be"
+    "revision": "4c1784d038f635a8a572ef77685bf14f"
   },
   {
     "url": "posts/index.html",

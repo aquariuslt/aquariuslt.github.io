@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "f848f6d88993c75b8a77373ce33fc612"
+    "revision": "09676e124979e313dd7a31e70bd02ce1"
   },
   {
     "url": "pages/projects/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "0b4e7f2351dc67ef90d61b50f4ddbcde"
+    "revision": "d696a7af43ec15e8d1322283bd7c7ba0"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "26f7eac9110a04e2ad84384d933b3ae3"
+    "revision": "94b396c05d1487ba8af2312ec82e2b99"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "de6f261ed83c625010e20173a6b0675d"
+    "revision": "7b7cc04d05d6c67f0e795084ca47f5f5"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "794d41028be8d18dac73cf2054c62038"
+    "revision": "b69523bf0e550e14c67d533264b477e2"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "1420d04600f9d99134a082ce5e101e94"
+    "revision": "edd084fb7726346dd331847bde658b67"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "7c76745685babf3d824c98d53ccb0e6a"
+    "revision": "e9b8283022b1dd4a21096a81fa4d87a7"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "e77b9416b395a317cadb6313d2ea25b4"
+    "revision": "5b6f603c3314ee9d1ff39bb35b87e7fc"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "c500c88c9f1094301b8d9daaaa2b3b3e"
+    "revision": "2962ec988253c70bba63e8c111e29a33"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

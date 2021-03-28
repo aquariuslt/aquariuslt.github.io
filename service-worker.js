@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "71881e3502f3fbe0d2e32628540681a9"
+    "revision": "5c268364dd3ca80a95b47910142f7261"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "94b396c05d1487ba8af2312ec82e2b99"
+    "revision": "26f7eac9110a04e2ad84384d933b3ae3"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "30c1f91133f37e9766d73151beabbb92"
+    "revision": "856330da28f974291bd0af0bfc66fa5c"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "045552824eb0dea555d8479d3c39569e"
+    "revision": "ff5ff8318c97a539574d3ee62eeb3be3"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "edd084fb7726346dd331847bde658b67"
+    "revision": "1420d04600f9d99134a082ce5e101e94"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "d8a11f3f086bd63e50d8f707fadb5510"
+    "revision": "c2ca2b57c641867511c10ce8939129aa"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "27dac7cda6485cc5c13c5279b649a0bd"
+    "revision": "d278474f34de6d7ee6826f8473f96b7a"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "2962ec988253c70bba63e8c111e29a33"
+    "revision": "c500c88c9f1094301b8d9daaaa2b3b3e"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "4c1784d038f635a8a572ef77685bf14f"
+    "revision": "a4cd43f98e833bbb6da11ed05c1ff9be"
   },
   {
     "url": "posts/index.html",
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "7e3d489a22182207f303eee5520336d1"
+    "revision": "49965e218718007cf8475e4dad0e005e"
   },
   {
     "url": "static/js/detail.8dbe8221128ea215f1fc.js",

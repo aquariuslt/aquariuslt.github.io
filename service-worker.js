@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "09676e124979e313dd7a31e70bd02ce1"
+    "revision": "f848f6d88993c75b8a77373ce33fc612"
   },
   {
     "url": "pages/projects/index.html",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "a933b4776310aa7ffb055d4ba1ec38e1"
+    "revision": "a1d2bc7fef8803f70a9e1ecfb9a6b230"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "af2524dd1bcf945821adaa8561a373e5"
+    "revision": "3881b83a1f074fcf832443ab19ab760c"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "de6f261ed83c625010e20173a6b0675d"
+    "revision": "7b7cc04d05d6c67f0e795084ca47f5f5"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "856330da28f974291bd0af0bfc66fa5c"
+    "revision": "30c1f91133f37e9766d73151beabbb92"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "c2ca2b57c641867511c10ce8939129aa"
+    "revision": "d8a11f3f086bd63e50d8f707fadb5510"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "d04e82b503481719b740d0735e1e1fc7"
+    "revision": "1633f2cd873fef9d50628907679528ea"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "e9b8283022b1dd4a21096a81fa4d87a7"
+    "revision": "7c76745685babf3d824c98d53ccb0e6a"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "c500c88c9f1094301b8d9daaaa2b3b3e"
+    "revision": "2962ec988253c70bba63e8c111e29a33"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

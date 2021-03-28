@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "5c268364dd3ca80a95b47910142f7261"
+    "revision": "71881e3502f3fbe0d2e32628540681a9"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "963f08176c41b8aa00a5465d8f5cada6"
+    "revision": "e1f4eba5300563d18525df4fc9f5fb21"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "d1424b49d456a16d95a48c81c8281d85"
+    "revision": "a356b69db02f7aec915ea87db41fce50"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "94209f4ce02ddd4722905aa301d5a6b1"
+    "revision": "95268985e34f006ea6d8d724ae70d658"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "e9b8283022b1dd4a21096a81fa4d87a7"
+    "revision": "7c76745685babf3d824c98d53ccb0e6a"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "6d2e74a5ece00b41388a3fea2eab48cd"
+    "revision": "cdc50c08f002584e189a6ebaab9308c1"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "d278474f34de6d7ee6826f8473f96b7a"
+    "revision": "27dac7cda6485cc5c13c5279b649a0bd"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "ddddc3fab75679c3560a47f558da7d78"
+    "revision": "cc1b63e8f9733d5c92bde797ab08c161"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",

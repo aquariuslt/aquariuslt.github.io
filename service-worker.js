@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "c91bc1430238b35e253f3b5ba968bf43"
+    "revision": "5ae621645d14e479462d79694a39dbf9"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "2c4841dd1bde8d0e8c71b496740b1fb0"
+    "revision": "8e9359690cdcead9dffcf16168876233"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "ae13871e7c4579843fb592c7f6931542"
+    "revision": "820f3e9a5c72514dac0c9e4c27a276b9"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "c75e500604196b3bff87f546ea29733a"
+    "revision": "478cc970f1e8770df6164a766fed5884"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "87a40a3521cad9e39167bf6c627ca1f9"
+    "revision": "f908f755e1740f8c552248c5a3be3055"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "6aa63606a644f7d7cd000e10f5c48026"
+    "revision": "9f5e9d101c48f80862958ebc75ddc579"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "61459b901d2b885745a5b3b898debfc4"
+    "revision": "c3e934d78c17989341b57546a031c02f"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "8ebcd86034fa09ba19ae9377859f6886"
+    "revision": "a8c75777859d94eb2ea3ef5f0640c29f"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "7f409dcd570c0b6651df61da74349d24"
+    "revision": "63c6bd820e6cd30727554d4b757ebd62"
   },
   {
     "url": "static/js/detail.917ccca10a290f4d052c.js",

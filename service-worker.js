@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "5c268364dd3ca80a95b47910142f7261"
+    "revision": "71881e3502f3fbe0d2e32628540681a9"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "36c550422316d2a23504d7012e114802"
+    "revision": "14b57ec561759e5228266ea21c282964"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "2c20607dc620fc40c32d50feda9093b9"
+    "revision": "c7535bbb4440a9056db0c4b21b2f0196"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "e1f4eba5300563d18525df4fc9f5fb21"
+    "revision": "963f08176c41b8aa00a5465d8f5cada6"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "ff5ff8318c97a539574d3ee62eeb3be3"
+    "revision": "045552824eb0dea555d8479d3c39569e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "1420d04600f9d99134a082ce5e101e94"
+    "revision": "edd084fb7726346dd331847bde658b67"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "d1424b49d456a16d95a48c81c8281d85"
+    "revision": "a356b69db02f7aec915ea87db41fce50"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "e9b8283022b1dd4a21096a81fa4d87a7"
+    "revision": "7c76745685babf3d824c98d53ccb0e6a"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",

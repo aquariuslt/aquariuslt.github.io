@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "f848f6d88993c75b8a77373ce33fc612"
+    "revision": "09676e124979e313dd7a31e70bd02ce1"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "71881e3502f3fbe0d2e32628540681a9"
+    "revision": "5c268364dd3ca80a95b47910142f7261"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "3881b83a1f074fcf832443ab19ab760c"
+    "revision": "af2524dd1bcf945821adaa8561a373e5"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "e1f4eba5300563d18525df4fc9f5fb21"
+    "revision": "963f08176c41b8aa00a5465d8f5cada6"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "30c1f91133f37e9766d73151beabbb92"
+    "revision": "856330da28f974291bd0af0bfc66fa5c"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "edd084fb7726346dd331847bde658b67"
+    "revision": "1420d04600f9d99134a082ce5e101e94"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "95268985e34f006ea6d8d724ae70d658"
+    "revision": "94209f4ce02ddd4722905aa301d5a6b1"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "1633f2cd873fef9d50628907679528ea"
+    "revision": "d04e82b503481719b740d0735e1e1fc7"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "7c76745685babf3d824c98d53ccb0e6a"
+    "revision": "e9b8283022b1dd4a21096a81fa4d87a7"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "cc1b63e8f9733d5c92bde797ab08c161"
+    "revision": "ddddc3fab75679c3560a47f558da7d78"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",

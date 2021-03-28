@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "a1d2bc7fef8803f70a9e1ecfb9a6b230"
+    "revision": "a933b4776310aa7ffb055d4ba1ec38e1"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "de6f261ed83c625010e20173a6b0675d"
+    "revision": "7b7cc04d05d6c67f0e795084ca47f5f5"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "963f08176c41b8aa00a5465d8f5cada6"
+    "revision": "e1f4eba5300563d18525df4fc9f5fb21"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "ff5ff8318c97a539574d3ee62eeb3be3"
+    "revision": "045552824eb0dea555d8479d3c39569e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "d8a11f3f086bd63e50d8f707fadb5510"
+    "revision": "c2ca2b57c641867511c10ce8939129aa"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "1633f2cd873fef9d50628907679528ea"
+    "revision": "d04e82b503481719b740d0735e1e1fc7"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "ddddc3fab75679c3560a47f558da7d78"
+    "revision": "cc1b63e8f9733d5c92bde797ab08c161"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",

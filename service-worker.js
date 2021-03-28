@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "71881e3502f3fbe0d2e32628540681a9"
+    "revision": "5c268364dd3ca80a95b47910142f7261"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "14b57ec561759e5228266ea21c282964"
+    "revision": "36c550422316d2a23504d7012e114802"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "af2524dd1bcf945821adaa8561a373e5"
+    "revision": "3881b83a1f074fcf832443ab19ab760c"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "edd084fb7726346dd331847bde658b67"
+    "revision": "1420d04600f9d99134a082ce5e101e94"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "27dac7cda6485cc5c13c5279b649a0bd"
+    "revision": "d278474f34de6d7ee6826f8473f96b7a"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "2962ec988253c70bba63e8c111e29a33"
+    "revision": "c500c88c9f1094301b8d9daaaa2b3b3e"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

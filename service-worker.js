@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "09676e124979e313dd7a31e70bd02ce1"
+    "revision": "f848f6d88993c75b8a77373ce33fc612"
   },
   {
     "url": "pages/projects/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "d696a7af43ec15e8d1322283bd7c7ba0"
+    "revision": "0b4e7f2351dc67ef90d61b50f4ddbcde"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "7b7cc04d05d6c67f0e795084ca47f5f5"
+    "revision": "de6f261ed83c625010e20173a6b0675d"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "856330da28f974291bd0af0bfc66fa5c"
+    "revision": "30c1f91133f37e9766d73151beabbb92"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "ff5ff8318c97a539574d3ee62eeb3be3"
+    "revision": "045552824eb0dea555d8479d3c39569e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "1420d04600f9d99134a082ce5e101e94"
+    "revision": "edd084fb7726346dd331847bde658b67"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "a356b69db02f7aec915ea87db41fce50"
+    "revision": "d1424b49d456a16d95a48c81c8281d85"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "5b6f603c3314ee9d1ff39bb35b87e7fc"
+    "revision": "e77b9416b395a317cadb6313d2ea25b4"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "cdc50c08f002584e189a6ebaab9308c1"
+    "revision": "6d2e74a5ece00b41388a3fea2eab48cd"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "a4cd43f98e833bbb6da11ed05c1ff9be"
+    "revision": "4c1784d038f635a8a572ef77685bf14f"
   },
   {
     "url": "posts/index.html",

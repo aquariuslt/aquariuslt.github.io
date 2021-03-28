@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "5c268364dd3ca80a95b47910142f7261"
+    "revision": "71881e3502f3fbe0d2e32628540681a9"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "7b7cc04d05d6c67f0e795084ca47f5f5"
+    "revision": "de6f261ed83c625010e20173a6b0675d"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "b69523bf0e550e14c67d533264b477e2"
+    "revision": "794d41028be8d18dac73cf2054c62038"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "edd084fb7726346dd331847bde658b67"
+    "revision": "1420d04600f9d99134a082ce5e101e94"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "c2ca2b57c641867511c10ce8939129aa"
+    "revision": "d8a11f3f086bd63e50d8f707fadb5510"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "2774f98224da3449b251ac9760bb9720"
+    "revision": "7b9d61fd1c2906b62c383aa2103d51f4"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "e9b8283022b1dd4a21096a81fa4d87a7"
+    "revision": "7c76745685babf3d824c98d53ccb0e6a"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",

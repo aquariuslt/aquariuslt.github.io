@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "ad992db1680e040e3026aee9844ffe7d"
+    "revision": "b001297f6ab7a7d3640fb143d8a09be3"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "736bdad0eb26b8e293b27cdb77d70892"
+    "revision": "2d34524dd57efe2c8066379995812da4"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "490605b121f9ac17355ee5ae53462a8a"
+    "revision": "75dda1b9e69317d44b4009232dd4d89d"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "70ee6128736a9f7be4b55f98f4da4a9a"
+    "revision": "0d9d307c758ad75e8182dd78627d20bb"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "40f3208165a615ae4f0ed0fe6a3689f9"
+    "revision": "452774d909264e7cd68b590ae6753123"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "45618d836811dc6fe777589f9e0119cf"
+    "revision": "4a952f87000affe98e4b3ed2479b78e7"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "2d244915f3e1543dba5692a3f6d440e7"
+    "revision": "27ebb9b490354886b8021d18377011f0"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "48929ab7200824fc972496d32cb9c4e1"
+    "revision": "c0d885f0ce5cf48bc039d92ec3d99d66"
   },
   {
     "url": "posts/index.html",

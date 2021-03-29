@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "8128e8eb166cd60582ad79a0bc0ca111"
+    "revision": "25288433263a360dfe5f0b715cfbfff1"
   },
   {
     "url": "pages/projects/index.html",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "75dda1b9e69317d44b4009232dd4d89d"
+    "revision": "490605b121f9ac17355ee5ae53462a8a"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "cc47e44c6e2b8c50f3958ef132eec572"
+    "revision": "02ae453f7a979022003ded7893e50216"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "3e8ae9cd13832a9860cca0111a27395c"
+    "revision": "16c07ae2048b5e049c2e4521b71f4ad8"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "0d9d307c758ad75e8182dd78627d20bb"
+    "revision": "70ee6128736a9f7be4b55f98f4da4a9a"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "635113edf01cd15237d3cfed662aabc3"
+    "revision": "b750a4267c6f97747be58d7396087eed"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "452774d909264e7cd68b590ae6753123"
+    "revision": "40f3208165a615ae4f0ed0fe6a3689f9"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "a81db72555ed34caf1a6aff2eed5e970"
+    "revision": "fc8d26e2ffbd705d10bc4c2f9c501f09"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "c0d885f0ce5cf48bc039d92ec3d99d66"
+    "revision": "48929ab7200824fc972496d32cb9c4e1"
   },
   {
     "url": "posts/index.html",

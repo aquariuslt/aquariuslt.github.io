@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "5ad65dc0591868595fd65703d6ec988a"
+    "revision": "8293fe4356d4c5405fb270065fbb473c"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "6bbe6eb0c00d67f45f7767f4707dca0d"
+    "revision": "8e025ab66c05e2cc4ee86e136e3df2a1"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "0fb98a194b68cee545b7de57fe6ae448"
+    "revision": "39ba03a81d12584d383974e35cae3680"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "4f69e7f85c30838ed460a3ae0f0fb0af"
+    "revision": "2611d2b77181caa49fe7b4408135a29f"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "d25d8e4de40213f93dc2553161f9943c"
+    "revision": "53d8cca9b233104a7e2f29c91d244713"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "d8f623e0429f3728505d953461754c1f"
+    "revision": "63f60b9a5dca1611bdcb63185d39cd84"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "e83b58e6335c1b08bd7a22890c411259"
+    "revision": "bf3eaed2093e337bdaffdc6985a87fd2"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "a86b6e4ec29358277105ab6d2ee78c05"
+    "revision": "64c8d13acba4c8ea1536fab1622cf831"
   },
   {
     "url": "posts/index.html",

@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "8128e8eb166cd60582ad79a0bc0ca111"
+    "revision": "25288433263a360dfe5f0b715cfbfff1"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "b001297f6ab7a7d3640fb143d8a09be3"
+    "revision": "ad992db1680e040e3026aee9844ffe7d"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "0f0a8a11d0ceb712200f548e552afa93"
+    "revision": "6061ed56c54c488bd4ae6b914628adbf"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "70ee6128736a9f7be4b55f98f4da4a9a"
+    "revision": "0d9d307c758ad75e8182dd78627d20bb"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "b750a4267c6f97747be58d7396087eed"
+    "revision": "635113edf01cd15237d3cfed662aabc3"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",

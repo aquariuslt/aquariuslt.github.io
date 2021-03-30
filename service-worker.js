@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "25288433263a360dfe5f0b715cfbfff1"
+    "revision": "8128e8eb166cd60582ad79a0bc0ca111"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "ad992db1680e040e3026aee9844ffe7d"
+    "revision": "b001297f6ab7a7d3640fb143d8a09be3"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "490605b121f9ac17355ee5ae53462a8a"
+    "revision": "75dda1b9e69317d44b4009232dd4d89d"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "0d9d307c758ad75e8182dd78627d20bb"
+    "revision": "70ee6128736a9f7be4b55f98f4da4a9a"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "635113edf01cd15237d3cfed662aabc3"
+    "revision": "b750a4267c6f97747be58d7396087eed"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "40f3208165a615ae4f0ed0fe6a3689f9"
+    "revision": "452774d909264e7cd68b590ae6753123"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "cda3d9eaeb73232a5e9c811056c8631e"
+    "revision": "3a32422f57855f265b938603de57a11d"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "fc8d26e2ffbd705d10bc4c2f9c501f09"
+    "revision": "a81db72555ed34caf1a6aff2eed5e970"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

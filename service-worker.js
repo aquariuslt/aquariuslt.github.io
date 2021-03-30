@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "acbc7926d9b447d5a4f4f46e5e4423fa"
+    "revision": "a5d0f6b267971f77be63494288c2e2f5"
   },
   {
     "url": "pages/projects/index.html",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "66b536e8634c2f2b20e160d33303873f"
+    "revision": "a827b2d7a2832ce9c62a8a4131b8ff2e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "63f60b9a5dca1611bdcb63185d39cd84"
+    "revision": "d8f623e0429f3728505d953461754c1f"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "e83b58e6335c1b08bd7a22890c411259"
+    "revision": "bf3eaed2093e337bdaffdc6985a87fd2"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "20ab09176bbebc530034a949f8336891"
+    "revision": "a0e63f7b3f934fc0266b58192249011b"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

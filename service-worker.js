@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "8d7e5d3c2778f56e920acf5a5f2eea1e"
+    "revision": "b7e133b6367e6717d3aac519ee9bf104"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "d1a509c611b58806eee965cef6d18814"
+    "revision": "3ed3d562fad8c55df37cdcd423ca62c0"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "635113edf01cd15237d3cfed662aabc3"
+    "revision": "b750a4267c6f97747be58d7396087eed"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "a81db72555ed34caf1a6aff2eed5e970"
+    "revision": "fc8d26e2ffbd705d10bc4c2f9c501f09"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -1258,7 +1258,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "2de9b6a357acf01ebb793e2d44b89639"
+    "revision": "fb76d5d5578614fef74466f38c39ca3c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

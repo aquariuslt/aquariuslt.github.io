@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "73c8b10e0d9ee0311509449663edc984"
+    "revision": "e1c39b5faad7d39b314cd6f477e8333a"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "dce52a83bd3fcf9b7b4fb63d375d42e5"
+    "revision": "08f8c6632659f91f6152817315a81f3f"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "6572ef58f5822c1d3f66937b5e505056"
+    "revision": "5a36f7d1f8ec765da9dc9bf946c343e8"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "9635e186ca3296260ac9388de508938b"
+    "revision": "680aaa1f951f9a21042952aa17f5037e"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "8fe3feb628a96f8096fede93c738c692"
+    "revision": "33177b96e3ba6fd2e92b9b96e2a72c09"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "adc00df56cb9a280100c23bda21f4d59"
+    "revision": "3336ddda0ec2888cc7b81e3596cd5e26"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "d73d9cdfc76ad0f7a5315dcf1a5ff4f6"
+    "revision": "1503cd5c5c0fe9b91880142a67c89c67"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "0c5fd66b777350446c5032014d57687d"
+    "revision": "cc148efe29c180258d2dfd401216ea0b"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "e5de416906eb864bdea1a632d63c8f9f"
+    "revision": "1982e136c5d1637743822415f98c3354"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "be8e38e5a379bd9d8f88b194dea47214"
+    "revision": "8915a77270d11dfed65d866320e9c834"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "a9dd9585b314bdb6cd99445e9ee8fc9a"
+    "revision": "6ef3cb79ddcf70241272597385b87dbd"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "c94f39da62eb58ad09187ab085a5f04c"
+    "revision": "53ccbd7c67cf4abe83cdc72c981f95a6"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",

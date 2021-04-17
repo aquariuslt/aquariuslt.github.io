@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "e1c39b5faad7d39b314cd6f477e8333a"
+    "revision": "73c8b10e0d9ee0311509449663edc984"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "33177b96e3ba6fd2e92b9b96e2a72c09"
+    "revision": "8fe3feb628a96f8096fede93c738c692"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "1503cd5c5c0fe9b91880142a67c89c67"
+    "revision": "d73d9cdfc76ad0f7a5315dcf1a5ff4f6"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "cc148efe29c180258d2dfd401216ea0b"
+    "revision": "0c5fd66b777350446c5032014d57687d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "0cb9ffd4b2022ebeaf548dc0dc2e15a3"
+    "revision": "7cfa39b53a9eed2806913a802e259dbd"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "8915a77270d11dfed65d866320e9c834"
+    "revision": "be8e38e5a379bd9d8f88b194dea47214"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "e795682a81599dfed4c6856e8422dda8"
+    "revision": "73e6626ff31a2e61d4e4be53a24c5380"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",

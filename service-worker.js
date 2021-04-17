@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "08f8c6632659f91f6152817315a81f3f"
+    "revision": "dce52a83bd3fcf9b7b4fb63d375d42e5"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "5c8b3cd3623ece8e71581f326821c41a"
+    "revision": "94fd11d2a518546e8ebd84c6a120fcf1"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "3336ddda0ec2888cc7b81e3596cd5e26"
+    "revision": "adc00df56cb9a280100c23bda21f4d59"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "1982e136c5d1637743822415f98c3354"
+    "revision": "e5de416906eb864bdea1a632d63c8f9f"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "6ef3cb79ddcf70241272597385b87dbd"
+    "revision": "a9dd9585b314bdb6cd99445e9ee8fc9a"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "53ccbd7c67cf4abe83cdc72c981f95a6"
+    "revision": "c94f39da62eb58ad09187ab085a5f04c"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",

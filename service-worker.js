@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "5a36f7d1f8ec765da9dc9bf946c343e8"
+    "revision": "6572ef58f5822c1d3f66937b5e505056"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "680aaa1f951f9a21042952aa17f5037e"
+    "revision": "9635e186ca3296260ac9388de508938b"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "33177b96e3ba6fd2e92b9b96e2a72c09"
+    "revision": "8fe3feb628a96f8096fede93c738c692"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "94fd11d2a518546e8ebd84c6a120fcf1"
+    "revision": "5c8b3cd3623ece8e71581f326821c41a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "adc00df56cb9a280100c23bda21f4d59"
+    "revision": "3336ddda0ec2888cc7b81e3596cd5e26"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "a9dd9585b314bdb6cd99445e9ee8fc9a"
+    "revision": "6ef3cb79ddcf70241272597385b87dbd"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "f9a4f622d1c6c1ae35cfbd4145efa548"
+    "revision": "ae0ceaeca440ff63f0cc81cbd4a40708"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "1982e136c5d1637743822415f98c3354"
+    "revision": "e5de416906eb864bdea1a632d63c8f9f"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "d61bf00eefc413fb2964a0180340b87b"
+    "revision": "b4bcc0efdedb8ea2d8767ee1954fd03f"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "12edb2c4c12a7f17e54acd7d5110bd51"
+    "revision": "e677ab5c23c2a764bb16af118c5537c5"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "73e6626ff31a2e61d4e4be53a24c5380"
+    "revision": "e795682a81599dfed4c6856e8422dda8"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "b7a36d5b55e5147705c17465a75050e7"
+    "revision": "9fec53b545da8f0075bb1fcb936279d2"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "c1109537470105df8fc52e04a1c766ad"
+    "revision": "4e99d44929c54a9bbec9ade25bdf4da7"
   },
   {
     "url": "static/js/detail.c6ce04d582665f3caaa3.js",

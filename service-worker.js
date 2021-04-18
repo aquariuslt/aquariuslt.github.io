@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "9cc5bdfd2591a23a72e503903c9ed3c2"
+    "revision": "999751361a76f0a25851988b77bc3d17"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "9f8005468df88ae64640b44c5ff48e3a"
+    "revision": "c902456920533502b588d6e326f292d2"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "94d7f5ef7fe2d744985e36aff74282d5"
+    "revision": "b8888ee1f68216950c53a7078ba0a436"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "e41e709f8d4a3c94f79875539aa37b63"
+    "revision": "12754f7d8a6c2c871857a955fdff5f21"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "3add6ef42db480285f374c029dc9f1d4"
+    "revision": "7678037ec0bbc0f6e0f7e0b026e6d741"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "d8173c5933b266911f1c654108bb591d"
+    "revision": "22cfb34ea9e267b50f1305f3e989e2a5"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -962,7 +962,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "b96a48c24d2380fcfcfe4eef4e53062f"
+    "revision": "30a08896a59d79b9bcd94b7868a08545"
   },
   {
     "url": "static/css/detail.a681613bbb59cb391c90.css",

@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "11e64c47eced70820fe77b9c34a32b70"
+    "revision": "8aa4a7f5ac8c7db523fdddfd505917d4"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "1f4aed63ca49649de22b347a9ccf98c5"
+    "revision": "5bcd446c52a6cf53140fb6311ffda69b"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "437bc25863041a7697b90d80d90a4186"
+    "revision": "90e61d743eab0d6d6ddb7c5529424271"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "c95ba196feb323266208d930912f2c84"
+    "revision": "a1f761247b1dfc07ce596fa5c6aa8dad"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "dbcf0ba32f3cb54b450a2b3d802884a9"
+    "revision": "3f64b8a4120d1ab722f0608b4e384dd5"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "aaa731bf314a39c1d74d7f597a47dde8"
+    "revision": "deeea63c4627dcce9697774df2212b91"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "e7aa151092a4d92c03fdfaf2fa701ae2"
+    "revision": "d7f130e7959dea22ab79575ddb0ee9d9"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "b8b727ebb85c0916bdaffd5da0835163"
+    "revision": "0c9a344f420240ab26760bf524f84e2a"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",

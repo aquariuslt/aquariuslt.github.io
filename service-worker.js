@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "dc8fc1f08f02311df751dfb36dbeac1e"
+    "revision": "f2c703a1af5c7d86ab6765d5abc9775a"
   },
   {
     "url": "pages/projects/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "425c75f40a15876cd61802028618c703"
+    "revision": "da4c2e162da2450ca43de6663af2db0f"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "9daa237d962554f2b866587555d5d6ca"
+    "revision": "ca83d744fc165ed8a8303d293a012201"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "dcac51ef7f38282b301d0207b89ad5ea"
+    "revision": "1b58f34aa4a2180252b1db4af07454d4"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "3f64b8a4120d1ab722f0608b4e384dd5"
+    "revision": "dbcf0ba32f3cb54b450a2b3d802884a9"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "e2729ae3c7fb090ea9bf5657d5543502"
+    "revision": "7e667287c4f6bc4f2230ed993d6198ed"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "2003c07f01a4c69660eb43f30f1a2260"
+    "revision": "6dd28fff0b76c1c003843666e15ba331"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "25c7ceca7768ea2b0c4c4da7c11c2347"
+    "revision": "9652e29df7260e91731d7d0fa76425fe"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "0c9a344f420240ab26760bf524f84e2a"
+    "revision": "b8b727ebb85c0916bdaffd5da0835163"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -1258,7 +1258,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "529890809d00c1614bc86637774a6946"
+    "revision": "6b649f8be3a5990909571a896e33877a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

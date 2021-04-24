@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "f2c703a1af5c7d86ab6765d5abc9775a"
+    "revision": "dc8fc1f08f02311df751dfb36dbeac1e"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "8aa4a7f5ac8c7db523fdddfd505917d4"
+    "revision": "11e64c47eced70820fe77b9c34a32b70"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "da4c2e162da2450ca43de6663af2db0f"
+    "revision": "425c75f40a15876cd61802028618c703"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "ca83d744fc165ed8a8303d293a012201"
+    "revision": "9daa237d962554f2b866587555d5d6ca"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "a1f761247b1dfc07ce596fa5c6aa8dad"
+    "revision": "c95ba196feb323266208d930912f2c84"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "1b58f34aa4a2180252b1db4af07454d4"
+    "revision": "dcac51ef7f38282b301d0207b89ad5ea"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "deeea63c4627dcce9697774df2212b91"
+    "revision": "aaa731bf314a39c1d74d7f597a47dde8"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "7e667287c4f6bc4f2230ed993d6198ed"
+    "revision": "e2729ae3c7fb090ea9bf5657d5543502"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "6dd28fff0b76c1c003843666e15ba331"
+    "revision": "2003c07f01a4c69660eb43f30f1a2260"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -1258,7 +1258,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "6b649f8be3a5990909571a896e33877a"
+    "revision": "529890809d00c1614bc86637774a6946"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

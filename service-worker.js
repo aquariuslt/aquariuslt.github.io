@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "85fc5f270bcfba5fcaec291b672f6e55"
+    "revision": "519dbf19e3ffb9bc5bac04892f4ff91e"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "14b07f0c75a32c52d5e4895be7786719"
+    "revision": "60d7d3423e6edac59ccf96ef3b2595a2"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "0196fcde9cbd357576b06cb257a1964e"
+    "revision": "4060c0140648547ea04f02b36f611d86"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "cc52dcfeacb6f2c9c14221206dd733e7"
+    "revision": "7021dd9f47b4426107c90becca8fe95a"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "0927ae1854b5c061f0f12beaa37f0721"
+    "revision": "ff0c0aa53a8ecbcbe250efc62d84ad18"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",

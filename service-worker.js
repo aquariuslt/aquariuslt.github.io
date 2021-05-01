@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "d4206d2f4e13c31c123f18e4da8e82cc"
+    "revision": "b1604541271c75ff18fb19b2aac6c52b"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "75e35d3c61eaf7ce7c9d4042af1391a5"
+    "revision": "6aec03432d24d1ec667a06c75a73a956"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "46b7ca1b15bfc054507dac8db4600dcd"
+    "revision": "d67b6c8e40508f92f8712e39c6321895"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "3af00b059454fd6805acc82659fbcb00"
+    "revision": "d4dd417097638305ea8bc83dd80ec723"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "abd664a1c6a298182c68c8116defce68"
+    "revision": "2baa57056f9751957e7ab5da18199f99"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "721eca17264ab955fa507434b5a26442"
+    "revision": "8771a8c759e0f74f2d8055f3d8d2ddc5"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "edf20c86d9ff569a6484ef16c6081fa8"
+    "revision": "f70d71f74ebaf28ed81ff6ac7290a440"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "1ecb6bba670e35934d01d9ccea090454"
+    "revision": "82eaa817689c0060cdd7377a0f824f63"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "421559b60bb539d38a6e188ab0436d9e"
+    "revision": "3efe2d719f95c5359a6d006e835193f5"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "8caa01318e1c0aa5e854d77fc04d9ee0"
+    "revision": "5616ebbea95ff9fc74d8d6b727da3224"
   },
   {
     "url": "posts/index.html",

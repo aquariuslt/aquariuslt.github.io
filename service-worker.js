@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "a939f7015d3cb1ecb6a1d660b945da07"
+    "revision": "b86e1ce56130bd1e2bf1b9b793168411"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "a64905f712aedee72f8ec1a84d277ebc"
+    "revision": "eb0df4e0f136db19e3281d0199663ca3"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "c43e8a15b387de14e04d8e60b2ef8e20"
+    "revision": "3752889216b8f05b35412af3dcbff68f"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "4bc6ed61ea869bade71a073737f38930"
+    "revision": "729ef0e4254cb86005983db31240666b"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "7a9731deade32ea9461da036a99923eb"
+    "revision": "5c893bfc0a55c8ea23f864c5ded9bc1e"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "69433597636303206365ea9b1a107174"
+    "revision": "c4aa82524c8b97fce96c339145aaf7d3"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "3701075a189ad58ae9876b78d9d0955a"
+    "revision": "8f05fbb9cd4b6c393514701c4cfe4a64"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "dec03cda20a2456a73c1ab84844d10be"
+    "revision": "be18dcf2b1196388ceff491772f89821"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "115bde0c398cdddf6e2caf6be9076cfc"
+    "revision": "9828257e16c59d17c5293296cf336a58"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "45bb1cc58eda246d3d7b36e3b9b88d86"
+    "revision": "23b13e7ef17f3ae7e9711f8aaccb20b5"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "0febe8e1fb110cbb92fb485bc0704514"
+    "revision": "0198d29297b963dcba0b06a837a931f1"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

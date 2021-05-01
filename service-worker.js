@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "b86e1ce56130bd1e2bf1b9b793168411"
+    "revision": "a939f7015d3cb1ecb6a1d660b945da07"
   },
   {
     "url": "pages/projects/index.html",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "729ef0e4254cb86005983db31240666b"
+    "revision": "4bc6ed61ea869bade71a073737f38930"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "2f9fc0f552127c5dec1b37296bb0f2c9"
+    "revision": "bca2f0d95efdd048f47fc20d1c8d8d11"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "c9714418850d71ab68f1d64d5227f6dc"
+    "revision": "6963cb12b742d0f7e8f9ace84031ec29"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "9828257e16c59d17c5293296cf336a58"
+    "revision": "115bde0c398cdddf6e2caf6be9076cfc"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "23b13e7ef17f3ae7e9711f8aaccb20b5"
+    "revision": "45bb1cc58eda246d3d7b36e3b9b88d86"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "0198d29297b963dcba0b06a837a931f1"
+    "revision": "0febe8e1fb110cbb92fb485bc0704514"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

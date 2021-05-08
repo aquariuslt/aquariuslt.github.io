@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "47160cd7bf50822af0fef64d849ad818"
+    "revision": "7377b615fc5cc2018822ee0481f1bc80"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "537dfc20afcba4fd33824c771705f068"
+    "revision": "8fa576e097662973ddc43d25b7f02cfd"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "740fb752248dfd7bcbfc27f42ade2327"
+    "revision": "3c2c02c236ee6b71b5a800fbc14155be"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "c7d285d2c4e84a6c202f8d2c2bd47f38"
+    "revision": "00dabbbb5127ee0b906930217465b66c"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "0bdb9669eba708dd05aa3ca175fa1d44"
+    "revision": "f3a31d813dca34d5f925c8fa24691641"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "2f3e4a12e4a2c0ba009a75c457b9d10d"
+    "revision": "dbf1b011d6ced369333091a201a0d857"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "fee6a308b8f58ed0131f53f2005ae37a"
+    "revision": "39a5d55dd99ba27ae9742ae1e22b5df0"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "02f5cedab3f7c9f5e5266f61eb865a5b"
+    "revision": "554d2e0153f3a8f2ac4944480891f733"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "04325ab54083311c79a8f3469d5cdf0f"
+    "revision": "294190aa603cfb70c645c600c2179774"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "277093d060f576bd478ea99e312c566c"
+    "revision": "f8749552b3e87924282d2b7c93631eb5"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",

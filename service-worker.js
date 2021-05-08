@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "ff1cde1395e20b97b61322bfae56de5a"
+    "revision": "037a05564aea87ea23f3bb131ded5dfc"
   },
   {
     "url": "pages/projects/index.html",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "740fb752248dfd7bcbfc27f42ade2327"
+    "revision": "3c2c02c236ee6b71b5a800fbc14155be"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "17a4b8d2fdaa7c5fae96d43ca77f80a6"
+    "revision": "92f6bc020456caef7c0319fab6314af9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "f3a31d813dca34d5f925c8fa24691641"
+    "revision": "0bdb9669eba708dd05aa3ca175fa1d44"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "7dd1efa316b86004e06bdefa8882138f"
+    "revision": "06fcf04b1b070b3b34ad65bf2dcc1170"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "736d926edc0a8aa6381afe18369352b3"
+    "revision": "f443bdd413ae78ca7dffe77de9334b6f"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "294190aa603cfb70c645c600c2179774"
+    "revision": "04325ab54083311c79a8f3469d5cdf0f"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "7d2691af9e0dc77ddde5787005a164f6"
+    "revision": "de7d2e05bcdd3d4d791b969e1fef6729"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "7dbdf407d091a67c7a958165c8d9eea9"
+    "revision": "af822de679d9b43d968d7c9ac6f99540"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",

@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "c0047e948fc55f72fe16ddf04cca0e44"
+    "revision": "2103a639c5f447c1146a51df8297b8a9"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "c80e267cf47386975d659f992895fd5b"
+    "revision": "55fd1702d6cf84a0974b87ec614064d4"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "464bc45e392b4f9f92a0f6802bf2055b"
+    "revision": "86a8fb76d34cb41e883a8b9152cee0f6"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "2a8a0ea3fd1401d5d38d2b0e9108d14d"
+    "revision": "779c1481c287f332d28696c438053eda"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "812fde30edb82389a488067439b4d2f3"
+    "revision": "3a1fdb264da335d31994fce11f232bc8"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "104306e4992ddf5dab745f0786d80509"
+    "revision": "6b3efed44a5e7545fa159caf921106f0"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "73a30e897ee5302f78a8be87fd37ae0f"
+    "revision": "1ce726bbb57e453d28cf91e50451f62f"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "900fc84bbc9930580b42e634c86390e1"
+    "revision": "bac75fc362d21e4b4aff9b4ee1decc18"
   },
   {
     "url": "posts/index.html",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "304b7d8e310d6a5828c975ef73007754"
+    "revision": "88239204baf1ddb69b5ba388db556c93"
   },
   {
     "url": "static/js/detail.7c2814259989c91fc834.js",

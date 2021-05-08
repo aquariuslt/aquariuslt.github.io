@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "037a05564aea87ea23f3bb131ded5dfc"
+    "revision": "ff1cde1395e20b97b61322bfae56de5a"
   },
   {
     "url": "pages/projects/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "7377b615fc5cc2018822ee0481f1bc80"
+    "revision": "47160cd7bf50822af0fef64d849ad818"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "92f6bc020456caef7c0319fab6314af9"
+    "revision": "17a4b8d2fdaa7c5fae96d43ca77f80a6"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "0bdb9669eba708dd05aa3ca175fa1d44"
+    "revision": "f3a31d813dca34d5f925c8fa24691641"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "06fcf04b1b070b3b34ad65bf2dcc1170"
+    "revision": "7dd1efa316b86004e06bdefa8882138f"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "04325ab54083311c79a8f3469d5cdf0f"
+    "revision": "294190aa603cfb70c645c600c2179774"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "de7d2e05bcdd3d4d791b969e1fef6729"
+    "revision": "7d2691af9e0dc77ddde5787005a164f6"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "af822de679d9b43d968d7c9ac6f99540"
+    "revision": "7dbdf407d091a67c7a958165c8d9eea9"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "152cd9781e7eac3ec05aad599002e001"
+    "revision": "674f2a84785fdc3ea2b9c078e2e88525"
   },
   {
     "url": "static/js/detail.7c2814259989c91fc834.js",

@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "037a05564aea87ea23f3bb131ded5dfc"
+    "revision": "ff1cde1395e20b97b61322bfae56de5a"
   },
   {
     "url": "pages/projects/index.html",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "8fa576e097662973ddc43d25b7f02cfd"
+    "revision": "537dfc20afcba4fd33824c771705f068"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "f3a31d813dca34d5f925c8fa24691641"
+    "revision": "0bdb9669eba708dd05aa3ca175fa1d44"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "7962ef4a9bcd036df799d7f9c139de96"
+    "revision": "cd280838a86b8d86e17afb7da6ca5554"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "dbf1b011d6ced369333091a201a0d857"
+    "revision": "2f3e4a12e4a2c0ba009a75c457b9d10d"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "39a5d55dd99ba27ae9742ae1e22b5df0"
+    "revision": "fee6a308b8f58ed0131f53f2005ae37a"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",

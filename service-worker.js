@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "8ea6ad306211373d0956586b22d9f016"
+    "revision": "9e5f9415c1a8ee29ba2d1668d3129395"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "d04b2d0dc5d977134ed0cfb0d4a149db"
+    "revision": "ff80f16e1689adf0185e91f63d090463"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "6b529223082b908715e591a5efe09cc7"
+    "revision": "5c46c5b9907b05a5da7dc68ad53d142a"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "af281008319224448f5e1749660844bd"
+    "revision": "746e262712feafb8df2dc31bdfb575c2"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "1f4ea9f8f3d382b2cbb17351f364b15a"
+    "revision": "d722cfb929c76ef2657b12da8ad71ba7"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "17f06be8d53b8a6549cb415e9815e5cc"
+    "revision": "8b710a254e1699cb7d8f2c3a7d590551"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "e8daa8caf031a31aa9e567df534f801a"
+    "revision": "304b7d8e310d6a5828c975ef73007754"
   },
   {
     "url": "static/js/detail.7c2814259989c91fc834.js",

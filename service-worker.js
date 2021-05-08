@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "b16f48c315e84dc38c84a774ef5d86d3"
+    "revision": "1689177def2174665f535a1a1678672f"
   },
   {
     "url": "pages/projects/index.html",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "8ea6ad306211373d0956586b22d9f016"
+    "revision": "9e5f9415c1a8ee29ba2d1668d3129395"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "4c040077ca86fec2b7b9b1759f25f612"
+    "revision": "c7b2d2e149aecac00ebd8af66fe0c0a1"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "7c8333e49db8d39ccc83ac3e639c6d98"
+    "revision": "edd5dabba1c175cc17ec08e188a03f1e"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "cb17d2e65aca417ab4e9ff9e72bc2206"
+    "revision": "441224d0a91f7b7ed39806b8f22c7280"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "6e06948271e0089480f1acaf83a46f08"
+    "revision": "8267a5588de0817b7674a82dff11ddb4"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "accbcb1a4902e3e1930db42d2f09041c"
+    "revision": "f3603491974d1b7dcecdef4fbacf4a59"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "9aed9ffe8c794a99c22a3a873facfd31"
+    "revision": "0792d8392613b8688cd0f7f73ed4fbe2"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "86a8e7d67cd76125cc9cd94de587f0e6"
+    "revision": "268bd3d1b4728194e5aa41f22289c8b7"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "00d90b5e268ce275b1f33efa754c80c2"
+    "revision": "c3ca0e8c6bddd25caa61a3857a117cc6"
   },
   {
     "url": "posts/index.html",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "7137969508bedce01dee69b3af00872b"
+    "revision": "c7f5d0d9e8100965b1a069e927e4a251"
   },
   {
     "url": "static/js/detail.7c2814259989c91fc834.js",
@@ -1114,7 +1114,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "390f8e42cd1a987b97293f3c55e2e70a"
+    "revision": "60b16ddee2fec582c2fe79648ac7b6c6"
   },
   {
     "url": "tags/diary/index.html",
@@ -1134,7 +1134,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "5a8530b10176470f12f2844af2ff56aa"
+    "revision": "0771e2eb7f1680c9977d33931a84d139"
   },
   {
     "url": "tags/google/index.html",

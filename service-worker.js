@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "519d75591c3a51ec70bbb9b6ffab6bad"
+    "revision": "36e94d033f75d3a41c63405270eaee7e"
   },
   {
     "url": "pages/projects/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "a9e8ae79f9e785153216d58fb8a5cf68"
+    "revision": "6159ab513ac7b4bb42daa7023d87ca93"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "7fbaae38e0f83abe5359e4ee840285a6"
+    "revision": "fc3c1dc2ca7ac5bf7b24a1e5347a6972"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "9fca7d0dda1d31396f26eb7a945538d8"
+    "revision": "0747a855065dcef201737deeba1958e3"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "3617a196ec11f2ccec689b6d8f5cd509"
+    "revision": "7aa5a8e9d3569967dd8a32226e920fb7"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "66efb2cb6984078162bc536bbd8bca8e"
+    "revision": "b2effcedc76af9b5684ab8e74af4a6d8"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "06abacfda4f29a9c1eafcd7bc72bf5d4"
+    "revision": "0efbb11fb7ac6fdf5195112b8a5fd5f0"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "090799f1ad33c8da038b6df317bdd22c"
+    "revision": "e8d909ccf35258683d8e4baa506249be"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "e13575cca814132b969506f98374e391"
+    "revision": "318da3bba77a00cad9389327e01d52a4"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "73da374d0ead1ac40bb45de469000490"
+    "revision": "6baab1a609ce21ce430ee8094403c085"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -1134,7 +1134,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "4f13cfeb540a5dda42345836d0078ff2"
+    "revision": "29bc30512b5f9b8094310b2ae113eb06"
   },
   {
     "url": "tags/google/index.html",

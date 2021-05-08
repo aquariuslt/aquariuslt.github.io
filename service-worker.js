@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "2103a639c5f447c1146a51df8297b8a9"
+    "revision": "c0047e948fc55f72fe16ddf04cca0e44"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "d834122a98d7a76a223bc613533665ee"
+    "revision": "b2f5d05c3187fde9b9107f9f7f8a6057"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "86a8fb76d34cb41e883a8b9152cee0f6"
+    "revision": "464bc45e392b4f9f92a0f6802bf2055b"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "1ce726bbb57e453d28cf91e50451f62f"
+    "revision": "73a30e897ee5302f78a8be87fd37ae0f"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "496ba0c132586a7e0fe230b52fe9d174"
+    "revision": "29e30700f8bdc4562c3f39bdf7718bee"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "5324eb92793abb0ef9afd1a4101eabe4"
+    "revision": "92136f5e22b5e3a4c8e60cfcb53b23ad"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "88239204baf1ddb69b5ba388db556c93"
+    "revision": "c49defab9ca30c01c87b97fc566cc54d"
   },
   {
     "url": "static/js/detail.7c2814259989c91fc834.js",

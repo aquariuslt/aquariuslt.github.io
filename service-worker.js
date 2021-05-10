@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "c56b4c8ffde61a46d20bb27aecb33418"
+    "revision": "f0938e2ffd17a0347408182155dad167"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "b2f5d05c3187fde9b9107f9f7f8a6057"
+    "revision": "d834122a98d7a76a223bc613533665ee"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "73a30e897ee5302f78a8be87fd37ae0f"
+    "revision": "1ce726bbb57e453d28cf91e50451f62f"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "75814a7bf81532c3c79fe9633bc6392b"
+    "revision": "8f30d19cd0170d59cb220c9ed25f86e7"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

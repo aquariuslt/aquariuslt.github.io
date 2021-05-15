@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "0d3a4e4cb661b3d0770a599d0bbce7d6"
+    "revision": "d97ff133075a18c982609f17c2b4251d"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "5ea86a6b7ceb4d9a2a74fc08b43353f1"
+    "revision": "3d27ca1e7217b4f9e7b2ec756992d3ec"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "5eecd6686eb41d6e2b5e5ff1fc6aa89a"
+    "revision": "a9d979cf17c73356ac13a79ae75a3980"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "760c0edd145852f38790431c9d509164"
+    "revision": "c16bea4a58bbe7e4d291c54d2d76ed1b"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "d6efe28e706c6e4c6204790f0909e0c7"
+    "revision": "1f5cb813d2ba22a2a7a1f37ac1438c17"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "c06dc7a9df80920ba4f092765ebc857b"
+    "revision": "1a33577bafcbcc2244c3418b96c79c86"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -1134,7 +1134,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/github/index.html",
-    "revision": "9e623004e3a97d0d7d2999d1575c6a2a"
+    "revision": "0010b9245437d1458d824a72cdd6b95f"
   },
   {
     "url": "tags/google/index.html",

@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "8729734baeaba7edb5fbaf39318c6f0b"
+    "revision": "0aeed7b69bb8253cba7deb61e8c81fd8"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "6e71ba285517d81ee3b42a9a4d09c37f"
+    "revision": "976d0295be9608e20a0a97625503e981"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "1065dbcba1a7238575d6f3b861ebbd2f"
+    "revision": "4782f38f8da3804051ee7627922c24f3"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "6d4687c94ed1d765fd5b0cced26f6fee"
+    "revision": "7a9a537fddd43d94e384d687005759cb"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "b3177b72caa3f9862997c46785fb9b8a"
+    "revision": "3d288ef0ffbb87c249e580c3f38d7376"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "bdd2539a70c273ec2055cab43c63ccb4"
+    "revision": "e9890a0e4e9b184bb25c52609d7a4e6b"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "a991ab6f0370aea753e2a66206c706ad"
+    "revision": "f11e339e3306fc7f010a768d4895a41f"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "3fba33a0a1b2d4b456ed993dc42fc9ab"
+    "revision": "86610c908d20bf7bc330229776ecae02"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

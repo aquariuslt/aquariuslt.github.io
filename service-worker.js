@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "2ada45425cfacebe8da7ed9ae02695a0"
+    "revision": "cb23a864d8edb7aab296edf653998fcf"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "0482f071fb0632a4d655ffb865a99b76"
+    "revision": "2b0990fdf02b87ba64bbf106f58a4220"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "ff4d22fd6b61ebcfc556f76b59a67a13"
+    "revision": "60fadbdf072ee869a22e2e762886f1a5"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "1a33577bafcbcc2244c3418b96c79c86"
+    "revision": "c06dc7a9df80920ba4f092765ebc857b"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "81517c81aa0f0ad08d325fa084b830fd"
+    "revision": "272ed159ec9ccb4a1e493a83ede02d2a"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "e29190233ab29479d3b7d513c92ed677"
+    "revision": "8cd2edd3924a5543b837aff1bbf86d38"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "a540ca6b9d3eb0b53b4eb09776beebb3"
+    "revision": "2db4c6542ee51e1dcc7157de3620579c"
   },
   {
     "url": "posts/index.html",

@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "08f44016f44c1e1345ec888e627b1f8a"
+    "revision": "773a9c2b7593e003f944e72850f1b077"
   },
   {
     "url": "pages/projects/index.html",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "d97ff133075a18c982609f17c2b4251d"
+    "revision": "0d3a4e4cb661b3d0770a599d0bbce7d6"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "933ed511c8140d0dc9dd30ee1395b1db"
+    "revision": "d267d01ab7044b4d67e66653bb59bd3f"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "3d27ca1e7217b4f9e7b2ec756992d3ec"
+    "revision": "5ea86a6b7ceb4d9a2a74fc08b43353f1"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "6d4687c94ed1d765fd5b0cced26f6fee"
+    "revision": "7a9a537fddd43d94e384d687005759cb"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "913b4a07c2096343bde714aa24bca96d"
+    "revision": "acb69ddd27d75d3e46e030779abb626e"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "1f5cb813d2ba22a2a7a1f37ac1438c17"
+    "revision": "d6efe28e706c6e4c6204790f0909e0c7"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "60fadbdf072ee869a22e2e762886f1a5"
+    "revision": "ff4d22fd6b61ebcfc556f76b59a67a13"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "40e8a95c7723793295616e759a2ec1e2"
+    "revision": "106582f8b2559c60ed2557679eefc270"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",

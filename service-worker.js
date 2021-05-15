@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "0aeed7b69bb8253cba7deb61e8c81fd8"
+    "revision": "8729734baeaba7edb5fbaf39318c6f0b"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "976d0295be9608e20a0a97625503e981"
+    "revision": "6e71ba285517d81ee3b42a9a4d09c37f"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "d4c7914d278afce83a97f14c431adba5"
+    "revision": "cce198719d95e42079c515c16d7c2357"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "e9890a0e4e9b184bb25c52609d7a4e6b"
+    "revision": "bdd2539a70c273ec2055cab43c63ccb4"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "86610c908d20bf7bc330229776ecae02"
+    "revision": "3fba33a0a1b2d4b456ed993dc42fc9ab"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "c06dc7a9df80920ba4f092765ebc857b"
+    "revision": "1a33577bafcbcc2244c3418b96c79c86"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",

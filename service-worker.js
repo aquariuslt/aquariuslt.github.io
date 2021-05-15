@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "8729734baeaba7edb5fbaf39318c6f0b"
+    "revision": "0aeed7b69bb8253cba7deb61e8c81fd8"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "976d0295be9608e20a0a97625503e981"
+    "revision": "6e71ba285517d81ee3b42a9a4d09c37f"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "44dfe05e857e031bd2e4e43af6504478"
+    "revision": "a245c98fcb3bda452ad5d8101845ede5"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "1f5cb813d2ba22a2a7a1f37ac1438c17"
+    "revision": "d6efe28e706c6e4c6204790f0909e0c7"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "e9890a0e4e9b184bb25c52609d7a4e6b"
+    "revision": "bdd2539a70c273ec2055cab43c63ccb4"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "60fadbdf072ee869a22e2e762886f1a5"
+    "revision": "ff4d22fd6b61ebcfc556f76b59a67a13"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "40e8a95c7723793295616e759a2ec1e2"
+    "revision": "106582f8b2559c60ed2557679eefc270"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "272ed159ec9ccb4a1e493a83ede02d2a"
+    "revision": "81517c81aa0f0ad08d325fa084b830fd"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "cfa3aa574eb39d64b5ac07237bc8613c"
+    "revision": "661771bd7b9935517437763101fd0945"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "181275a46c698687d036e55002094a4f"
+    "revision": "12d0aadb4c1c668095232bdba4fb8aa9"
   },
   {
     "url": "pages/projects/index.html",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "8acf211754d3d3f031361809b089c03b"
+    "revision": "79ef832785029e0ec11e6c3ac30785d6"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "fede97b2c18c6d6bf25f1a4ae7262b94"
+    "revision": "d8ef8e251e5888c78ee06ca6b36f2600"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "9daf2ba4dacd2c416d3b51625b1a3081"
+    "revision": "60c078719510bd81ab1c905da4663c6b"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "97dea4d779b0b912ab2421342a9d7dd1"
+    "revision": "f42e3cb540c2a7e21e738b48fcddb934"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "7ec16e26f5b662a42b307e16ea73f4e7"
+    "revision": "56ef9a48d2ecce579a0f6089a1c30528"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",

@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "181275a46c698687d036e55002094a4f"
+    "revision": "12d0aadb4c1c668095232bdba4fb8aa9"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "0121080f27fdfeb7050aec0a7c27aae8"
+    "revision": "2063d745844442658c32399a2ddaeea0"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "2c011b792456197f8fe90d8cf4d4a405"
+    "revision": "0a4e3bd7617e35740b308847a89fa1f7"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "559305ddbb0778510c7e66236b763207"
+    "revision": "d80ac535200b51b439d05f731ec8ec98"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "5e6cb8336b8fc20abea8b9e3dcf05ba9"
+    "revision": "34dc467cc86cf010ccd2bea25cc0a398"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "bc188b7d5249a860dc65e874d72881ea"
+    "revision": "9fb2116de6b99e375ab55c9bf689fe5b"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "ce0d951724c3a817d84e84b1a483ad6b"
+    "revision": "dee564a11746da09a82b6e8ed318093e"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "fcdb3d3032691e372bf6779c7a43432c"
+    "revision": "74d468ec11958ff77b5a0a4561f649ee"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "2f499f9789c4e2b288a2aa2f2713cdd3"
+    "revision": "d44f3e0adef14bee0a741704c13918f4"
   },
   {
     "url": "posts/index.html",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "35aef8b4c9971f295090fd2552a5faab"
+    "revision": "ebb44f466bda3f5f61773359a2f1799e"
   },
   {
     "url": "static/js/detail.a24a330895b07e256305.js",

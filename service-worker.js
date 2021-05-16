@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "c168b6664493507e0a00fc28eb05d131"
+    "revision": "ef23342e332f9d6c688d37fb7b5d15a9"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "9fb2116de6b99e375ab55c9bf689fe5b"
+    "revision": "bc188b7d5249a860dc65e874d72881ea"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "fca953dbef4872e7ea3c7b8b1f6f4d7a"
+    "revision": "8f619a8e1f87f10b17ab9f701d4e9321"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "1e3b676779834c19fe0f36f6b4abbc48"
+    "revision": "52d38f6a693cf400fd0ea01b8eaa9148"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1114,7 +1114,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "4c77c78b84f3defc25162cb590aa38da"
+    "revision": "57c09ad0b02ed4e92b04482a22e0c6cf"
   },
   {
     "url": "tags/diary/index.html",

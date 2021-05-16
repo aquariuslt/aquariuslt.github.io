@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "62928b55b60f45071278f06820b7c9b0"
+    "revision": "7ede0b9ecfa8b47da6398a27a4b1385c"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "ef23342e332f9d6c688d37fb7b5d15a9"
+    "revision": "c168b6664493507e0a00fc28eb05d131"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "dcbc2a84de7255355080c5936dcc9272"
+    "revision": "2d7e6d1133cada91b9c3a3f3de8a80b8"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "56ef9a48d2ecce579a0f6089a1c30528"
+    "revision": "7ec16e26f5b662a42b307e16ea73f4e7"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "52d38f6a693cf400fd0ea01b8eaa9148"
+    "revision": "1e3b676779834c19fe0f36f6b4abbc48"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1114,7 +1114,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "57c09ad0b02ed4e92b04482a22e0c6cf"
+    "revision": "4c77c78b84f3defc25162cb590aa38da"
   },
   {
     "url": "tags/diary/index.html",

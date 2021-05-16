@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "12d0aadb4c1c668095232bdba4fb8aa9"
+    "revision": "181275a46c698687d036e55002094a4f"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "2063d745844442658c32399a2ddaeea0"
+    "revision": "0121080f27fdfeb7050aec0a7c27aae8"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "0a4e3bd7617e35740b308847a89fa1f7"
+    "revision": "2c011b792456197f8fe90d8cf4d4a405"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "34dc467cc86cf010ccd2bea25cc0a398"
+    "revision": "5e6cb8336b8fc20abea8b9e3dcf05ba9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "2d7e6d1133cada91b9c3a3f3de8a80b8"
+    "revision": "dcbc2a84de7255355080c5936dcc9272"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "8f619a8e1f87f10b17ab9f701d4e9321"
+    "revision": "fca953dbef4872e7ea3c7b8b1f6f4d7a"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "dee564a11746da09a82b6e8ed318093e"
+    "revision": "ce0d951724c3a817d84e84b1a483ad6b"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "6b387870d258a1a92d6c77bffc35e699"
+    "revision": "35aef8b4c9971f295090fd2552a5faab"
   },
   {
     "url": "static/js/detail.a24a330895b07e256305.js",

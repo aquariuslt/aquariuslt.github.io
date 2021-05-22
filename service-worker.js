@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "0e6c32c299f293998664c293894749fd"
+    "revision": "d828fb057abe338a866af39e306177df"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "fff7cce9eb234139e6bc3923401f0445"
+    "revision": "0bce56f5b5f7dd6200ce2ec5ded008ae"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "62dacefd9bdea51a15abe6b5225fb344"
+    "revision": "574e6b65a314658f0d04f470d6917630"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "540ae73a15fb54f7b69bac74c05b9418"
+    "revision": "f53650259e2d27b0b83d817c2f3e5020"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "84eedde064010a36e21ee26f450c1a42"
+    "revision": "14e3d8a08c4f4208694341884b8e923f"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "7bba0edad8d9f4b4603fb909dc9c8278"
+    "revision": "71980ccc4479e95de8ec7db120c6ca7c"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "837eaa6e78ecbd09263a2cf1f43e0c60"
+    "revision": "f41c0d75cfb8ba3b88c9eccfe4914cb2"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -1114,7 +1114,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/ci/index.html",
-    "revision": "eef5d5914bfaa8623e71b646f49b6fcd"
+    "revision": "7edbd15347426fecdd22fb085acc4787"
   },
   {
     "url": "tags/diary/index.html",

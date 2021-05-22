@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "0bce56f5b5f7dd6200ce2ec5ded008ae"
+    "revision": "fff7cce9eb234139e6bc3923401f0445"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "3cea5ee6d125a480cdc831871ac4a650"
+    "revision": "aff4fd42913fdbd29ee4940e9e221dc4"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "f53650259e2d27b0b83d817c2f3e5020"
+    "revision": "540ae73a15fb54f7b69bac74c05b9418"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "23ec565a6e1f40a2c8cc02075ab3c421"
+    "revision": "ba2c1f8147917e7a7c5d60d4bb673df8"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "eb4b91c81d863089a2bdee4cc15b5811"
+    "revision": "b9ef3f7ed9ce40b445923a53c491b79a"
   },
   {
     "url": "posts/index.html",

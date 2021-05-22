@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "62dacefd9bdea51a15abe6b5225fb344"
+    "revision": "574e6b65a314658f0d04f470d6917630"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "3cea5ee6d125a480cdc831871ac4a650"
+    "revision": "aff4fd42913fdbd29ee4940e9e221dc4"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "540ae73a15fb54f7b69bac74c05b9418"
+    "revision": "f53650259e2d27b0b83d817c2f3e5020"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "e8f2b3120efa218f2ad02d20e957153d"
+    "revision": "5b2b1cd1257f7d7c5c0a77f8038942a7"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "aa6dffc2953dff6d4191b0e7530d9584"
+    "revision": "7fe2aa9379d72c5b36b52b72e097307b"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "f41c0d75cfb8ba3b88c9eccfe4914cb2"
+    "revision": "837eaa6e78ecbd09263a2cf1f43e0c60"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "ebb44f466bda3f5f61773359a2f1799e"
+    "revision": "bca33e94e1ea9a5f3132f21e4999f96f"
   },
   {
     "url": "static/js/detail.9c6ae4737a764a94d101.js",

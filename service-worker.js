@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "7015bf3980a030c3f0a270c3f41d74f8"
+    "revision": "fa156f001adb75b46808febfc3a4ddfd"
   },
   {
     "url": "pages/projects/index.html",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "574e6b65a314658f0d04f470d6917630"
+    "revision": "62dacefd9bdea51a15abe6b5225fb344"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "728d4b63d40809ba3e050f746842bcbc"
+    "revision": "c5e1994e2210ed23b159ed08a0bb69c3"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "aff4fd42913fdbd29ee4940e9e221dc4"
+    "revision": "3cea5ee6d125a480cdc831871ac4a650"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "7d0a04fb73a53b3414b60beec5dff20e"
+    "revision": "8140a17b1b32d662f2cbeade658629e0"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "14e3d8a08c4f4208694341884b8e923f"
+    "revision": "84eedde064010a36e21ee26f450c1a42"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "7fe2aa9379d72c5b36b52b72e097307b"
+    "revision": "aa6dffc2953dff6d4191b0e7530d9584"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",

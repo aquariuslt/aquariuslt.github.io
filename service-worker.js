@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "86f73cd649f1bb50bf58a3871335fe07"
+    "revision": "fe31e5d9e2d92af3a9d671f81bbc0be0"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "315e478f3a0651c52ade7ef84d5afa77"
+    "revision": "363f3e2bdc794e561a0e8f184b1f0925"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "72b26d96c9c6c5b903b5ff8d2eb1529e"
+    "revision": "aa7084e233855a84da45eea98f3a0697"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "e0a0da29e8c09b3ca498419f65e5a4d3"
+    "revision": "8c5d114f63836765f8555fb75b752cf2"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "d5767258494be80768c801a00e81fecd"
+    "revision": "4cd0df29e4bb729804a43a199634b0fc"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",

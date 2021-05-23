@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "bf0637ffeb1972c38641f3137308d947"
+    "revision": "d558fccfda76947544dc41fff1fded67"
   },
   {
     "url": "pages/projects/index.html",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "e902e20aab66e16ad471f2aca2a422a4"
+    "revision": "1054cead67a2826fed18eac8368a5e44"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "622890b6a6462b288d7cbf742d32f5fd"
+    "revision": "95bccbe61d2bd394e803e8b83069d501"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "db9692304c8e7da61ba7163e2f4ad10f"
+    "revision": "529bcac8e486cdf49babf3b0138cadd9"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "ab724140efde56fe2be8334dcf4cb040"
+    "revision": "95b7f8369435e935e062513686f8b09b"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "efcf04fcdc81cc62cf997f40f60babde"
+    "revision": "fed0f3e38b06defd7b8485598f801ced"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "2f0a990c79a246de3c6d47aed6b7c868"
+    "revision": "945254411de238c3f7e7c9a70decb6f6"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "a5679fb7e880b6632d4bb78a2a9a3010"
+    "revision": "d601ae16e290923c3b443203c25bf7db"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "c729bbb09b2b22cd1d7de51a74535ccf"
+    "revision": "7dfef9d328fb95ffb253e9149c01437f"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

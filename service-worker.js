@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "aa385776bbf47db8c698a828d963829b"
+    "revision": "a966087fcd1c689ffe4ccd3d211628a6"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "6c717d0fb1cedad85e3f0c09605ff894"
+    "revision": "6dc3a4b9b78a3f4502ffaa5604131039"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "b0501e883e33d6a06475027e28ee5d71"
+    "revision": "b64cce844ee7957ba697ce3b362fe22e"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "3deb813c431d7f2714fb9baa7de0250e"
+    "revision": "4ee931b585008850c0ac99274f42426d"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "bddf4cb75582fb2a697eff6c7df25a2b"
+    "revision": "5987d562fd540548d99a01c177263724"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "bed3bfed562b3c56bfefec60776fdebb"
+    "revision": "eff3042a609a3e25cf04ee1c6198c309"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "fee36450b5409ab44ccc53d58f3612f7"
+    "revision": "dfe1fe048f8f4275a37ce9100c81d360"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "a4ee21725b6f07f7d270bcf3720ac589"
+    "revision": "fa19a0ebfa46892fa4395cd4b872aac4"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "44c1cb39205b15a45f7428a9cc251856"
+    "revision": "f94c1a7d3d29fc00fd500727217869a7"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "c2e1c5b60f1c78d30d2311d6307f792c"
+    "revision": "7213ae78cfb3ca6507b13aff5f594f2b"
   },
   {
     "url": "posts/index.html",

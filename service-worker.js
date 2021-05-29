@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "2cdc23222637cb6d1bf32280e33b7955"
+    "revision": "6026150874578aa862ad5145b1cab291"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "f908db85c889ce0ffbca3bde60443da6"
+    "revision": "8a57eee6f89eccf68ca24f2bbe14b00f"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "900b55daa369ae52f92cc7f3b9a85457"
+    "revision": "080c97320c827b0f5d248853bd36d72c"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "839768adb3fce42c086a396a10a659f1"
+    "revision": "47f7836ba89e855e177e82f57982e54b"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "1d8273e4bc26a29bfc4f04d9d561ee95"
+    "revision": "791a2643285399a099a920c4de645427"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "0c2f9997d42147e02606d59fc628967d"
+    "revision": "269616d0250189ea931477d34e80b731"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "5e8e902ec253b85ee213cd345a44da2a"
+    "revision": "43c934ed3f280707f3280643f7bbd59a"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",

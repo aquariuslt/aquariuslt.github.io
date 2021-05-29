@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "d57cdbc27fa00363ffbf82e64fb0714e"
+    "revision": "e6e47e3d57a23957952603c252f7b6ab"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "a97862c7fcfba58ce23042eb7d6a5ec6"
+    "revision": "7dba81c1ba42d5e89eca4d9530a0d4ad"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "0c2f9997d42147e02606d59fc628967d"
+    "revision": "269616d0250189ea931477d34e80b731"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "35de0ec89de6f7c491c08b216a78ff4a"
+    "revision": "0cb028938428b02b74c1699b64c06ae4"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "417f1bf5592ec6b8f88dda4bc6d2d6b4"
+    "revision": "7e6b84052a2ab0c32e5f5e23bfcd0e00"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "8471355b990316423cb7b2f60ffd981c"
+    "revision": "60992e86e1c93bf42806abf922a248d0"
   },
   {
     "url": "static/js/detail.380cb999314da7650cf8.js",

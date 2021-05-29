@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "6026150874578aa862ad5145b1cab291"
+    "revision": "2cdc23222637cb6d1bf32280e33b7955"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "4a5df333a831a75447e1aee9adace33a"
+    "revision": "78915925f0134a1f720693e130ef51dd"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "8a57eee6f89eccf68ca24f2bbe14b00f"
+    "revision": "f908db85c889ce0ffbca3bde60443da6"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "791a2643285399a099a920c4de645427"
+    "revision": "1d8273e4bc26a29bfc4f04d9d561ee95"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "33024f8eefacaf169ecd18e22ff8212c"
+    "revision": "ca7b312ed3b5999d3a92a215c712630e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "5b25fc9c988002c5e408cc2cebfb8da4"
+    "revision": "0df337fb42f5be7508e732d0c148d8a2"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

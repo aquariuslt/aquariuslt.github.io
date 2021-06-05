@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "b5402371b93bd2bc52a5b84d2dd11887"
+    "revision": "b5041585f4a8a286c3fecd968450c756"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "0a57d1ef2f14d01108b390c0dc213859"
+    "revision": "4ad1d5caa43f749e9258a844640f19a4"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "c62fec8c2b639eed168cb45291297708"
+    "revision": "1b5121d26b4451f44c8ca9524ba1e53c"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "72ed21561a5fe7b3d06df909ce4b3908"
+    "revision": "a038f59716f239077c5f1057f014f26a"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "700f79a839eb25a2f1172c903aafd62e"
+    "revision": "bf2f5dd89502d24e8d5f1f3cce08474c"
   },
   {
     "url": "posts/index.html",

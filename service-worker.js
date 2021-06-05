@@ -366,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "251d18cb3f687decbc6add5381d7e32b"
+    "revision": "bf3f6596a9b1052b4d00644696c6560a"
   },
   {
     "url": "categories/debug/index.html",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "2a3393efd341cb89dad6fe5ec36183da"
+    "revision": "42128d82f3c3e48590d1808e0a256b58"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "b232d1042ce54838fed130ba10022809"
+    "revision": "49ef2edb108c0dcb156e7f13aafb0d2c"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "d98758086f53f7b0f3a07c3d316fa5e2"
+    "revision": "9ee30f1a3e63bbb7af1ebadfc9dbbafc"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "bbca081e65133c428dd8f1fc1c160d59"
+    "revision": "4f9fcb982b86c339c2e685717ac0b669"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "98ceb710d6e7a22b2c56acae4c3c9dc1"
+    "revision": "9838ba304bc1bcd50b2e7523c9f47cb9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "0a57d1ef2f14d01108b390c0dc213859"
+    "revision": "4ad1d5caa43f749e9258a844640f19a4"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "2ff1006eb876006840d8199057f18abd"
+    "revision": "8c13046b5cefb8f9693d5d5b547317be"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "d827b0f06fb6b9a69ce1990c44a81900"
+    "revision": "46ce0d38f9d85b94ce293867949267e2"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "2519684e3e473c2371d8d2897ec78ded"
+    "revision": "be43f19d9b6d9c6acb7d5126b709c9ff"
   },
   {
     "url": "static/js/detail.daea9fae310c3a7c872d.js",

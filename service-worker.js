@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "9838ba304bc1bcd50b2e7523c9f47cb9"
+    "revision": "98ceb710d6e7a22b2c56acae4c3c9dc1"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "3b9f6a680f55cc14609e28aa64fcbe28"
+    "revision": "53392bc77b385f034163868b96533924"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "17054215d8a2f6c550a38c2fd4313703"
+    "revision": "c493160419b2f4106c792cff51cfb12c"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "9b04041a90edbed80faacbcde78de3b5"
+    "revision": "f691c87e6311dcfabca1fbcbc5578f4b"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

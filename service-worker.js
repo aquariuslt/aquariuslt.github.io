@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "c6bc3248160b010ea409accefce40e9d"
+    "revision": "edc4d6dd033b055c9bd65581c39e3ae9"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "2a3393efd341cb89dad6fe5ec36183da"
+    "revision": "42128d82f3c3e48590d1808e0a256b58"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "49ef2edb108c0dcb156e7f13aafb0d2c"
+    "revision": "b232d1042ce54838fed130ba10022809"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "9ee30f1a3e63bbb7af1ebadfc9dbbafc"
+    "revision": "d98758086f53f7b0f3a07c3d316fa5e2"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "98ceb710d6e7a22b2c56acae4c3c9dc1"
+    "revision": "9838ba304bc1bcd50b2e7523c9f47cb9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "218672a4379893492650e2c2e692f3c2"
+    "revision": "ef9bbd121eb5871b6981c6caf050bb30"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "c62fec8c2b639eed168cb45291297708"
+    "revision": "1b5121d26b4451f44c8ca9524ba1e53c"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",

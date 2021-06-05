@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "edc4d6dd033b055c9bd65581c39e3ae9"
+    "revision": "c6bc3248160b010ea409accefce40e9d"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "42128d82f3c3e48590d1808e0a256b58"
+    "revision": "2a3393efd341cb89dad6fe5ec36183da"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "d98758086f53f7b0f3a07c3d316fa5e2"
+    "revision": "9ee30f1a3e63bbb7af1ebadfc9dbbafc"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "4ad1d5caa43f749e9258a844640f19a4"
+    "revision": "0a57d1ef2f14d01108b390c0dc213859"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "ef9bbd121eb5871b6981c6caf050bb30"
+    "revision": "218672a4379893492650e2c2e692f3c2"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "1b5121d26b4451f44c8ca9524ba1e53c"
+    "revision": "c62fec8c2b639eed168cb45291297708"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "f691c87e6311dcfabca1fbcbc5578f4b"
+    "revision": "9b04041a90edbed80faacbcde78de3b5"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "62c884c1bb18b5091344413f56222a50"
+    "revision": "ea912a5e81b631772eb32948d88e7d42"
   },
   {
     "url": "static/js/detail.daea9fae310c3a7c872d.js",

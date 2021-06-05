@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "edc4d6dd033b055c9bd65581c39e3ae9"
+    "revision": "c6bc3248160b010ea409accefce40e9d"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "42128d82f3c3e48590d1808e0a256b58"
+    "revision": "2a3393efd341cb89dad6fe5ec36183da"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "b232d1042ce54838fed130ba10022809"
+    "revision": "49ef2edb108c0dcb156e7f13aafb0d2c"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "d98758086f53f7b0f3a07c3d316fa5e2"
+    "revision": "9ee30f1a3e63bbb7af1ebadfc9dbbafc"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "ef9bbd121eb5871b6981c6caf050bb30"
+    "revision": "218672a4379893492650e2c2e692f3c2"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "1b5121d26b4451f44c8ca9524ba1e53c"
+    "revision": "c62fec8c2b639eed168cb45291297708"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "53392bc77b385f034163868b96533924"
+    "revision": "3b9f6a680f55cc14609e28aa64fcbe28"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "6e2697941a27e9795d976fa93b0fc86c"
+    "revision": "ea6cc2ea5dd5ddb82f37cd3cb3ec79c5"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "bf2f5dd89502d24e8d5f1f3cce08474c"
+    "revision": "700f79a839eb25a2f1172c903aafd62e"
   },
   {
     "url": "posts/index.html",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "ea912a5e81b631772eb32948d88e7d42"
+    "revision": "5df96fc6eb071667e3b12dee94c41dd8"
   },
   {
     "url": "static/js/detail.daea9fae310c3a7c872d.js",

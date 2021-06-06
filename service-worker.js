@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "cdbb927b53dcde78377574ff9341ba98"
+    "revision": "4e5f701b94ea13f49e704d6eba62b339"
   },
   {
     "url": "pages/projects/index.html",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "d9f935b4c0f99925f925a8c9ff6f6ccc"
+    "revision": "3b90a6145005d6d532bcb31b26e2187a"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "b232d1042ce54838fed130ba10022809"
+    "revision": "49ef2edb108c0dcb156e7f13aafb0d2c"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "ba2a77c6c41585c72106501d82cd3935"
+    "revision": "b1bb10b9f6710393d289b025d1678f29"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "53392bc77b385f034163868b96533924"
+    "revision": "3b9f6a680f55cc14609e28aa64fcbe28"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "6e2697941a27e9795d976fa93b0fc86c"
+    "revision": "ea6cc2ea5dd5ddb82f37cd3cb3ec79c5"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "d2c13d04f6c16af5dd5f88095703d007"
+    "revision": "cccc7360e3dfa925352714b9d19e8da4"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "46ce0d38f9d85b94ce293867949267e2"
+    "revision": "d827b0f06fb6b9a69ce1990c44a81900"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "bf2f5dd89502d24e8d5f1f3cce08474c"
+    "revision": "700f79a839eb25a2f1172c903aafd62e"
   },
   {
     "url": "posts/index.html",

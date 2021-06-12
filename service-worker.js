@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "80850d10d86be6a2320d0a2d75867477"
+    "revision": "685317e614f0296cf216f7c717e6385b"
   },
   {
     "url": "pages/projects/index.html",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "85a9018f97acca8d7ab4cafc10637c46"
+    "revision": "20e26c2fcfa0ec5a411c975c2a1906e3"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "ed1ee321a91e13f5012b140049a9e144"
+    "revision": "c04043e638d89705d2106c004d6a4422"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "f191ae92524667ca73d3b5831fd0e7e4"
+    "revision": "830bd3f23a672b2990a7635350fd9fba"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "16073d946ecc3c0a4944c7b09ea5e06e"
+    "revision": "7c75d7c5b449673f22060c24d5d5f43d"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "f5ddfcd01a9c738efaf64017005694d0"
+    "revision": "12bb1d3a94b2f566da4cbb1055aaac4a"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "85a0b8addefce639461177ac16c942f3"
+    "revision": "61d5eb4beff9576b59504bb00e349a00"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "1d966d1c1c6f7ca2df74c4973ce8006a"
+    "revision": "083f00fb0c0f0b1a2f366695d4c708d5"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "f471a06ba87dad7c6c2b222efa6e0afa"
+    "revision": "48fba591146dc106cbf3f0d0ccff8ed8"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "269159bd9daec6cecd2ff71bb40115bd"
+    "revision": "3154ef1bdfc4d9f26197679c8da1e1ad"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "a3aa3686d3ce600d5fb83c801ea846dc"
+    "revision": "bf3cc2c60914cc6b9a0bff349d898827"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "2f9187ef3a51a53fa39ddce2553a3387"
+    "revision": "4ea9fa964bb2d4c778d3caa50acc3802"
   },
   {
     "url": "posts/index.html",

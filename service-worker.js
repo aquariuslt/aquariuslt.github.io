@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "c91e4036de1115fc9ab5dabe0bf8c8f9"
+    "revision": "ea6f6576e0d21a812c215c88d9528b9a"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "2986902a9661c2145fa1c6c53d42d6d2"
+    "revision": "d36355724d0dd9af5f919db9392c99e9"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "63a8999edcb2e96260795622e7d90197"
+    "revision": "7f9a725c46cde0085e558b6626935414"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "ee785db83504d27409c54059ae0cc3f5"
+    "revision": "48d3c18d5e8c033917a2afec9e1e422f"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "c8e2e048939d809d0cc5f4d477e75c2a"
+    "revision": "d5a8579b48c35863122fbfa376973655"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "bf368a8336ca5a6760b132c5176321d9"
+    "revision": "87738ed9a1113b652733a34945967d80"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",

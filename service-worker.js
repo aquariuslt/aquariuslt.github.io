@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "80850d10d86be6a2320d0a2d75867477"
+    "revision": "685317e614f0296cf216f7c717e6385b"
   },
   {
     "url": "pages/projects/index.html",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "5574c7460ff3c42b7278cf8cb8d0fed3"
+    "revision": "40c3b80ad491dcffb6ddcc8316f67b16"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "d72b92e1b3675fbe386fe84bb3479bd8"
+    "revision": "77ab44e6ef6a83bd5b113c3c1886cb98"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "7dc1eaaf5a88777e3b48f74258123ecd"
+    "revision": "0bddb3c39c007c5b450e207afa22284d"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "b1d42d15024fe8ad36be3460f33a292b"
+    "revision": "5aa268cdad3adeb0a136e25d6a6c6cec"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "faa76684bbfd73e5dcc926cf29d1b5bb"
+    "revision": "1fc2633541a96aea7282c775ddf3abd3"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "2a552d40bf5c9a07fb0f253402da63c6"
+    "revision": "c82437f91ca09728f9f127b2e1cd488d"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "5df96fc6eb071667e3b12dee94c41dd8"
+    "revision": "3e8054dc8cf90b558390817bbaba5e8c"
   },
   {
     "url": "static/js/detail.daea9fae310c3a7c872d.js",

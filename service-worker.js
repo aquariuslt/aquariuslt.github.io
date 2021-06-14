@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "066a9e0d937973d371b23dde09b366c5"
+    "revision": "8dc0b865a179900fc798703cf02d46d4"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "c04043e638d89705d2106c004d6a4422"
+    "revision": "ed1ee321a91e13f5012b140049a9e144"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "4886c86995bf670e1e9da48374d669eb"
+    "revision": "c5a411d9091aac85b1aed820ec09ee6f"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "9fa9ab94ab26b9b8042951bdb0adcb1e"
+    "revision": "c5999d6aee67c3304ff06469d1dc532e"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "40c3b80ad491dcffb6ddcc8316f67b16"
+    "revision": "5574c7460ff3c42b7278cf8cb8d0fed3"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "77ab44e6ef6a83bd5b113c3c1886cb98"
+    "revision": "d72b92e1b3675fbe386fe84bb3479bd8"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "0bddb3c39c007c5b450e207afa22284d"
+    "revision": "7dc1eaaf5a88777e3b48f74258123ecd"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "5aa268cdad3adeb0a136e25d6a6c6cec"
+    "revision": "b1d42d15024fe8ad36be3460f33a292b"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "85a0b8addefce639461177ac16c942f3"
+    "revision": "61d5eb4beff9576b59504bb00e349a00"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "48fba591146dc106cbf3f0d0ccff8ed8"
+    "revision": "f471a06ba87dad7c6c2b222efa6e0afa"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "85bacbcc7cc944ba9d61c886a3dbf6d7"
+    "revision": "4a541ead76bea94a708eebd80c25b7a0"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "9273f31dbc16251374dc2d7873d912f6"
+    "revision": "5f32a47b78976db96714082937b2b691"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "4ea9fa964bb2d4c778d3caa50acc3802"
+    "revision": "2f9187ef3a51a53fa39ddce2553a3387"
   },
   {
     "url": "posts/index.html",

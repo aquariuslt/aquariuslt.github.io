@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "a18d629b3d42c85a8c2b1db68b498082"
+    "revision": "e473ce19848e78b1f7e40a436770afa2"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "a70b454a0df150879be50e7f35132f19"
+    "revision": "cf6f5a263f0a78118a86c332cefc7f1e"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "832cfdd0975fdfd19bf23a458ce4134e"
+    "revision": "a0a0cce36435b579d372b66cf0e5704d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "1f877b74ccd8e9895e1afd5cd54f7514"
+    "revision": "2732ff95f63357398c33a922577a058c"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "978c91158df7176daef2aa8a6ada8980"
+    "revision": "014d3a14953a7155e9045603fa3503dc"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "32998fdfa4f4d6f48369f909ca5fc64d"
+    "revision": "a7652a079e58329b0c82e666a624a0b6"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "1a7bffbf398f050c6326a3634c8ee3fd"
+    "revision": "1fbba72055a3fade026237d00e27f298"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "6638d4f3a31a280eadcf0d0b3e8e5d94"
+    "revision": "bb7c8842ab339522fecdf642361de0bb"
   },
   {
     "url": "posts/index.html",

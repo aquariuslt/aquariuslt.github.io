@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "9cfb258f4a1540d66b5321368ccf9c83"
+    "revision": "fcefd82ee127f07827d87420dd154e3a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "69143de3c301cda936dc37c251fb695e"
+    "revision": "0fb912becaf6a06b647b2a424b23a8d8"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3e19723890586cab13cd048e0806f499"
+    "revision": "d4f26ab8c71cf92e6611705a9b7d0e72"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "ebf7fa2bbba7e346d3a01d5d244febf7"
+    "revision": "ff0fc3c8c5cc5430de3d504fc72eb2a6"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "142416f36b86732dd933697180f45d05"
+    "revision": "300d7dc6b7cfcb63aba78ceee9aaaecf"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "d05aa44f71428a9640d3b8fd29a0cb63"
+    "revision": "53600daf056361f35b79d7b657d894f9"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "6638d4f3a31a280eadcf0d0b3e8e5d94"
+    "revision": "bb7c8842ab339522fecdf642361de0bb"
   },
   {
     "url": "posts/index.html",

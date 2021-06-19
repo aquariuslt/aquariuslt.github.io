@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "80cc495f5c4d11b7c0bcf8b3045b8872"
+    "revision": "25e1d9e8be503c58c5c7f5580d43be59"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "69b7884d846cb95b95a7778caf976c36"
+    "revision": "dedeedb6a5c69aa75c20d43878b2df8f"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "82ec703c2bc5dafecbba68fafb9d6377"
+    "revision": "c3da4b343768566f3711047b19719ff0"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "69143de3c301cda936dc37c251fb695e"
+    "revision": "0fb912becaf6a06b647b2a424b23a8d8"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "cf6f5a263f0a78118a86c332cefc7f1e"
+    "revision": "a70b454a0df150879be50e7f35132f19"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "2732ff95f63357398c33a922577a058c"
+    "revision": "1f877b74ccd8e9895e1afd5cd54f7514"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "79dfb2be882c811b3d284c127eb54806"
+    "revision": "b5b972df1119aa61aea591924c902847"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "1fbba72055a3fade026237d00e27f298"
+    "revision": "1a7bffbf398f050c6326a3634c8ee3fd"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

@@ -394,11 +394,11 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "25e1d9e8be503c58c5c7f5580d43be59"
+    "revision": "80cc495f5c4d11b7c0bcf8b3045b8872"
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "dedeedb6a5c69aa75c20d43878b2df8f"
+    "revision": "69b7884d846cb95b95a7778caf976c36"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "c3da4b343768566f3711047b19719ff0"
+    "revision": "82ec703c2bc5dafecbba68fafb9d6377"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "618fae2acdf719d9b49b6c15473936dd"
+    "revision": "3558140b134dde3875473498edbba565"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "0fb912becaf6a06b647b2a424b23a8d8"
+    "revision": "69143de3c301cda936dc37c251fb695e"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "b5b972df1119aa61aea591924c902847"
+    "revision": "79dfb2be882c811b3d284c127eb54806"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "d0cb07acc71dfbace04da67dad233f9e"
+    "revision": "5197a6bdcc91e5d29532f190949b5f0c"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "bb7c8842ab339522fecdf642361de0bb"
+    "revision": "6638d4f3a31a280eadcf0d0b3e8e5d94"
   },
   {
     "url": "posts/index.html",

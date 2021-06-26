@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "5008c02ad61f98d956cd21599f87f30f"
+    "revision": "8803ed36deca9b1ff8429cc455af18d3"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "fcefd82ee127f07827d87420dd154e3a"
+    "revision": "9cfb258f4a1540d66b5321368ccf9c83"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "cf6f5a263f0a78118a86c332cefc7f1e"
+    "revision": "a70b454a0df150879be50e7f35132f19"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "832cfdd0975fdfd19bf23a458ce4134e"
+    "revision": "a0a0cce36435b579d372b66cf0e5704d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3e19723890586cab13cd048e0806f499"
+    "revision": "d4f26ab8c71cf92e6611705a9b7d0e72"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "ebf7fa2bbba7e346d3a01d5d244febf7"
+    "revision": "ff0fc3c8c5cc5430de3d504fc72eb2a6"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "ae5f3758c3a58ab3ad7f4b606c7b9544"
+    "revision": "479ab9afe97d3347a7b6b40a599cfa4e"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "a4bf5d08f113a199be80c3dea243da07"
+    "revision": "9f0b61ed1683c15b7a08de49f0b363fb"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "a7652a079e58329b0c82e666a624a0b6"
+    "revision": "32998fdfa4f4d6f48369f909ca5fc64d"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "d0cb07acc71dfbace04da67dad233f9e"
+    "revision": "5197a6bdcc91e5d29532f190949b5f0c"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "f020a45eb05d166c6d41ecc776d84675"
+    "revision": "a07a2a7550d56daf8bd21c2148ce0772"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "6638d4f3a31a280eadcf0d0b3e8e5d94"
+    "revision": "bb7c8842ab339522fecdf642361de0bb"
   },
   {
     "url": "posts/index.html",
@@ -1074,7 +1074,7 @@ self.__precacheManifest = [
   },
   {
     "url": "static/img/yandex-browser-manifest.json",
-    "revision": "11e29a59295bf73fba6cb4ee6a0b70ee"
+    "revision": "e7db18d4b534f34a79cd0e2ba7172bd2"
   },
   {
     "url": "static/js/detail.047cea74b4e0a540cc4d.js",

@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "5008c02ad61f98d956cd21599f87f30f"
+    "revision": "8803ed36deca9b1ff8429cc455af18d3"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "fa1995e2979f617c01b661606ab6b24d"
+    "revision": "407d5c31cab6376eb3106f28c8509a4e"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "192c079882364be36e754acbda424803"
+    "revision": "9874ef0da6e726ec51d884247536dfda"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "a70b454a0df150879be50e7f35132f19"
+    "revision": "cf6f5a263f0a78118a86c332cefc7f1e"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3e19723890586cab13cd048e0806f499"
+    "revision": "d4f26ab8c71cf92e6611705a9b7d0e72"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "ae5f3758c3a58ab3ad7f4b606c7b9544"
+    "revision": "479ab9afe97d3347a7b6b40a599cfa4e"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "79dfb2be882c811b3d284c127eb54806"
+    "revision": "b5b972df1119aa61aea591924c902847"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "a82149789642fac7766c4c2b8cc10795"
+    "revision": "30b6d569b5837fa825926cc6a1da1148"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "bb7c8842ab339522fecdf642361de0bb"
+    "revision": "6638d4f3a31a280eadcf0d0b3e8e5d94"
   },
   {
     "url": "posts/index.html",

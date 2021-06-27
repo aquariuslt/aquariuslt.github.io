@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "80cc495f5c4d11b7c0bcf8b3045b8872"
+    "revision": "25e1d9e8be503c58c5c7f5580d43be59"
   },
   {
     "url": "pages/projects/index.html",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "507deebe230c0c9bf9ff6ce8e357299e"
+    "revision": "7d3c1f8d8a7aa7f16937a1884b0f97c5"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "407d5c31cab6376eb3106f28c8509a4e"
+    "revision": "fa1995e2979f617c01b661606ab6b24d"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "9874ef0da6e726ec51d884247536dfda"
+    "revision": "192c079882364be36e754acbda424803"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "cecbe7c6e6ea0f18c63417b308bb7bda"
+    "revision": "aa0fdf3251dfe6de044befd0815bad04"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "9cfb258f4a1540d66b5321368ccf9c83"
+    "revision": "fcefd82ee127f07827d87420dd154e3a"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "cf6f5a263f0a78118a86c332cefc7f1e"
+    "revision": "a70b454a0df150879be50e7f35132f19"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "a0a0cce36435b579d372b66cf0e5704d"
+    "revision": "832cfdd0975fdfd19bf23a458ce4134e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "3e19723890586cab13cd048e0806f499"
+    "revision": "d4f26ab8c71cf92e6611705a9b7d0e72"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "479ab9afe97d3347a7b6b40a599cfa4e"
+    "revision": "ae5f3758c3a58ab3ad7f4b606c7b9544"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "142416f36b86732dd933697180f45d05"
+    "revision": "300d7dc6b7cfcb63aba78ceee9aaaecf"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",

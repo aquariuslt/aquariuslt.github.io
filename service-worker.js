@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "25e1d9e8be503c58c5c7f5580d43be59"
+    "revision": "80cc495f5c4d11b7c0bcf8b3045b8872"
   },
   {
     "url": "pages/projects/index.html",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "7d3c1f8d8a7aa7f16937a1884b0f97c5"
+    "revision": "507deebe230c0c9bf9ff6ce8e357299e"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "e473ce19848e78b1f7e40a436770afa2"
+    "revision": "a18d629b3d42c85a8c2b1db68b498082"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "aa0fdf3251dfe6de044befd0815bad04"
+    "revision": "cecbe7c6e6ea0f18c63417b308bb7bda"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "fcefd82ee127f07827d87420dd154e3a"
+    "revision": "9cfb258f4a1540d66b5321368ccf9c83"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "832cfdd0975fdfd19bf23a458ce4134e"
+    "revision": "a0a0cce36435b579d372b66cf0e5704d"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "300d7dc6b7cfcb63aba78ceee9aaaecf"
+    "revision": "142416f36b86732dd933697180f45d05"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "014d3a14953a7155e9045603fa3503dc"
+    "revision": "978c91158df7176daef2aa8a6ada8980"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "5197a6bdcc91e5d29532f190949b5f0c"
+    "revision": "d0cb07acc71dfbace04da67dad233f9e"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "d05aa44f71428a9640d3b8fd29a0cb63"
+    "revision": "53600daf056361f35b79d7b657d894f9"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "fa1995e2979f617c01b661606ab6b24d"
+    "revision": "407d5c31cab6376eb3106f28c8509a4e"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "3558140b134dde3875473498edbba565"
+    "revision": "618fae2acdf719d9b49b6c15473936dd"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "a70b454a0df150879be50e7f35132f19"
+    "revision": "cf6f5a263f0a78118a86c332cefc7f1e"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "ae5f3758c3a58ab3ad7f4b606c7b9544"
+    "revision": "479ab9afe97d3347a7b6b40a599cfa4e"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "b5b972df1119aa61aea591924c902847"
+    "revision": "79dfb2be882c811b3d284c127eb54806"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "f020a45eb05d166c6d41ecc776d84675"
+    "revision": "a07a2a7550d56daf8bd21c2148ce0772"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",

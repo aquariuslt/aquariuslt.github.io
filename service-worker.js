@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "2fcc722a8ab6575ffeb5081eeb252534"
+    "revision": "8b63ab1865c33ed596da57ac4cac27b2"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "67a622a7a809b2449687d2406502da71"
+    "revision": "7c127671ea28fec66de04298cc131829"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "707bd40aeefab709c9de438d26752dbc"
+    "revision": "08af128cbc59fcbcfbe66bd6b4385b46"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "3ea0cd38e6493a9bda76d65b64a84443"
+    "revision": "337c8cd30810a8cbb6882573f08b982a"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "5cd3661067e8f6732492915017477fe4"
+    "revision": "2c6b28daa10d38fd194e8af1e99bde44"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "81e4f00ca07685e9c544747a22c9a80e"
+    "revision": "04b5c56f3a3da8fcffadf87adea72ae9"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "be3ea6134ede845de6dae557d6e5ad50"
+    "revision": "0e5b7b985252019f45f7f3728e1e0dfe"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "67986e28a606be4996d153610f9fd9be"
+    "revision": "6df595131f1fcd1d9bcea1b2402d2bdd"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "3e8a7cb1c44c5b043c22dfc9d5bb91f8"
+    "revision": "e3f18ccaeeb145d3011c232110deecc1"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "e8271206368b9f386315b234e2bea359"
+    "revision": "023f61c4792b1d6207fedbb766e0338e"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

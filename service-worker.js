@@ -394,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/about/index.html",
-    "revision": "55effa497847ae316c09b2130ede97d0"
+    "revision": "8db7a638ccec9559ff442c846d49c9b6"
   },
   {
     "url": "pages/projects/index.html",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "3025a4838af202ff5758d6b5accb1612"
+    "revision": "01ec94929702bc31f2d571a503562f44"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "2964c2b629307c370500db198c083171"
+    "revision": "ab9fdbfba7b40744d3bb5b3ef00572d0"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "9a9c2fe9be0d7d35845df97736817d3b"
+    "revision": "635ab5e3810443c2b4abe533d34606ec"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "0e453235e47318b1fc1af042913c083d"
+    "revision": "f09b1a07b3fc4d0ed03bb330959b5903"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "b1b3e755f9aba61b3957ad3fc82b3a6f"
+    "revision": "c6201aa94720e48cfa7067e8e21826f0"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "babadeb4e2cb0101fc8eba284c23f91a"
+    "revision": "bb4eb710390f89cdf2b6d65421e1a798"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "38430a073c73c231ae03d852fb61c4a9"
+    "revision": "65b6bbc6c5fa57c5921716f70aa7b632"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "5022ee0d50f6e2f75770676ce0021b9a"
+    "revision": "5f6e5b14ca72a6f3a6b4025eed5e3433"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "c77779a7a690c46db14f390563ba7b7d"
+    "revision": "1d2a3208dff5e772f869534072c28f28"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "6984ee14d28fe84c937fc34896bb82ac"
+    "revision": "e91dfd91c55b69095b102e5947d7591d"
   },
   {
     "url": "posts/index.html",
@@ -1258,7 +1258,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tags/webpack/index.html",
-    "revision": "d25cf832bbff2b30b6e3f89eb10b86e6"
+    "revision": "a7ad9aac171d19550397ffa0c9063696"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

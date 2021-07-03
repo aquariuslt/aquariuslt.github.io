@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "7548ede9e1e5d6c9622b11cdb09e4af9"
+    "revision": "943a146f0e709534e708c1317489a96e"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "98390d8f63c53d62613c6d802e7fc209"
+    "revision": "f75069449eaae4aef442523365c1ab6d"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "c522745457e8f207f5d5381be9b5d1f6"
+    "revision": "e04f912104bed1fba5308d23885d740e"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "aecd4c396fb0023a051fa7bc77538af9"
+    "revision": "2edc6df2a6715fd4b61de5d9feecb4dd"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "c72efbf61e64031a62192fdef786fc72"
+    "revision": "f067224853653baa52f7a3950c86d384"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "037ff14199c246655641aa67215818e4"
+    "revision": "503a6962fefcbf6777431e4aa3c47961"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "b8d4801b8e64cfe0a460f8e9c2eb683d"
+    "revision": "027ac65ef0014dc6c1d6150cd41c3601"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",

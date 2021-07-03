@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "e3818ced856b346dd5e0b5a634a6e50a"
+    "revision": "25f36561a380f7be70008dcb84d52248"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "943a146f0e709534e708c1317489a96e"
+    "revision": "7548ede9e1e5d6c9622b11cdb09e4af9"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "a30ffd02e96a8d22dc0703f3af644d9e"
+    "revision": "9484d7e4e158f454d4a854193ceacf9d"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "9a46631f6fe3522f80588ab3759ba5a3"
+    "revision": "2fb3f6e7601b115465b22db295823723"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "e04f912104bed1fba5308d23885d740e"
+    "revision": "c522745457e8f207f5d5381be9b5d1f6"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "c8966ae18eaaf8cc9d88013f6d197e0e"
+    "revision": "f13521c9c3cb02e64e282108ad8ca749"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "2edc6df2a6715fd4b61de5d9feecb4dd"
+    "revision": "aecd4c396fb0023a051fa7bc77538af9"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "5908ac23644a077216da07f719727338"
+    "revision": "2edcb6b8730d0c7dcad04f0c871bf748"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "f067224853653baa52f7a3950c86d384"
+    "revision": "c72efbf61e64031a62192fdef786fc72"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",

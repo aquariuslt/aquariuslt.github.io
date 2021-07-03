@@ -410,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/10/25/apache-shiro-spring-integration/index.html",
-    "revision": "25f36561a380f7be70008dcb84d52248"
+    "revision": "e3818ced856b346dd5e0b5a634a6e50a"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/cover.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "9484d7e4e158f454d4a854193ceacf9d"
+    "revision": "a30ffd02e96a8d22dc0703f3af644d9e"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "2fb3f6e7601b115465b22db295823723"
+    "revision": "9a46631f6fe3522f80588ab3759ba5a3"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "e84b28de459105f60a71eb9dd85f05c4"
+    "revision": "fc9633b55253052cb6ef9e3f4670517b"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "a1aa1d856f09e7ee350e694119cf836b"
+    "revision": "b5b9778af2eeb8831182f128ff7b0722"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "f13521c9c3cb02e64e282108ad8ca749"
+    "revision": "c8966ae18eaaf8cc9d88013f6d197e0e"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "2edcb6b8730d0c7dcad04f0c871bf748"
+    "revision": "5908ac23644a077216da07f719727338"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "510571a86e438669f9f8895267cbe3fc"
+    "revision": "91ce79eeeb5ae8c3c4e6cf086c3c3349"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "26872ad10000821cdb29271bdd6bfeaa"
+    "revision": "4476152350bba1966b62790de2752ebc"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -914,7 +914,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/15/dot-ignore-management-for-npm-package/index.html",
-    "revision": "027ac65ef0014dc6c1d6150cd41c3601"
+    "revision": "b8d4801b8e64cfe0a460f8e9c2eb683d"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/check-motion-sense-at-settings.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "cd2884b9f5fe6b68b0016eb2ed05797c"
+    "revision": "4984da3715994d215823142b7ed6155a"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "ebaa1db2381ea858b5f21e6cefad299b"
+    "revision": "e1a4b56204c7ef2b2db41f2776f5cb62"
   },
   {
     "url": "posts/index.html",

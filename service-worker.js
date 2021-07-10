@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "ae08dd048486f451cd66246c7e4165d5"
+    "revision": "e3ccf91cf62449d5386c856642eb9b55"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "9ceb341ea69ae2d443fa98897fcfa111"
+    "revision": "ae8b2b323419b0591e06a31381305452"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "d9253cf2ebba0a1890a68a9f1b5d0d16"
+    "revision": "78d9ad95528e8ebfb8d0473cfde4a1e8"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "8e78a3021b41bd9f496dcc03ad4fdbaf"
+    "revision": "3908d302110b92aa81e7fc40af4f6237"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -742,7 +742,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/index.html",
-    "revision": "8896e3f1e34ffde862694f7df3928ac4"
+    "revision": "50e7046e96a11b3c7e916efa9c2eb741"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/karma-jawr-generated-index.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "7faaa389cfc2a52904af21bc85e36d2a"
+    "revision": "06d0c4529d47dbf3666101368e4d9d85"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "356f134abbd44c1f85409e68e8a60751"
+    "revision": "eb77f76bfd20c680e06f7cda0cd7606d"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "f81fc1511dc1dde1f37b2695447467a2"
+    "revision": "55e079cc727a3c59f61323d60ced6227"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "ab588945a638dfddbeaf5633f91e1582"
+    "revision": "027ffba2ef93a416c3bbfb724af7fce6"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",

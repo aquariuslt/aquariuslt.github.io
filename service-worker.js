@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "09a503ff38f71b7255590c85b5a7f9a4"
+    "revision": "193a46d031ff117ea956211d9f6aaf6b"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "a144a6e5ce363dd0784922b4de98cd83"
+    "revision": "7fe6ab88e6c8bb87f2b2419dd3ffa753"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "d9253cf2ebba0a1890a68a9f1b5d0d16"
+    "revision": "78d9ad95528e8ebfb8d0473cfde4a1e8"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "c10f1c7f90f927b72df137f74cde586e"
+    "revision": "a7cf63bb719cbadb45f464c1ff6cc68d"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "c8d0eb0f1c7242dcefc0c98a8d825af0"
+    "revision": "7ca5a518d844a988d2765712f805d1ed"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "ba0a6fffc164e835a5c3e9ba203c1188"
+    "revision": "b0a511711e14b25053baf9610a415120"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -890,7 +890,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "f81fc1511dc1dde1f37b2695447467a2"
+    "revision": "55e079cc727a3c59f61323d60ced6227"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "6a151c02a59fd02813a5002294564f72"
+    "revision": "ce75c7097bad801a709336956007a0c5"
   },
   {
     "url": "posts/index.html",

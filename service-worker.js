@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "ae8b2b323419b0591e06a31381305452"
+    "revision": "9ceb341ea69ae2d443fa98897fcfa111"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "95a592eb3cb7882c760de6159f7bcde6"
+    "revision": "7c18afa590b19ec0a698e24348fba8c0"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "b0a511711e14b25053baf9610a415120"
+    "revision": "ba0a6fffc164e835a5c3e9ba203c1188"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "133ac64e71cee0a2c3d82c74c6555402"
+    "revision": "86ed0be7af04aac5e1729c482b5a1a86"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -890,11 +890,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/02/12/using-patch-package-patching-node-modules/index.html",
-    "revision": "55e079cc727a3c59f61323d60ced6227"
+    "revision": "f81fc1511dc1dde1f37b2695447467a2"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "027ffba2ef93a416c3bbfb724af7fce6"
+    "revision": "ab588945a638dfddbeaf5633f91e1582"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",

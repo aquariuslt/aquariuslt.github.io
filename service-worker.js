@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "f1195d6b3129a61bdc23f6bc76e63ee5"
+    "revision": "67f900a6f789826bef68db40c59f1cb8"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "fcbcaa6bf9e6b1536a99923b041bcc18"
+    "revision": "6ae39c3e2d4c6b2cd06d564d1a38fc7f"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -550,7 +550,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/03/06/site-code-structure/index.html",
-    "revision": "7af8d717fbf2e0880c515ac93ebd9d5a"
+    "revision": "38769eb2cb804f01f56be5249b7c385b"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/cover.webp",
@@ -574,7 +574,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/10/google-codejam-2016-qualification-round/index.html",
-    "revision": "0df73ecaac1e734ea9fe95144183a341"
+    "revision": "f1a22c4799a20621f2992cfb73f015a9"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/cover.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "9673c1a7c0bc8555e695606d3c62f1f4"
+    "revision": "05c637e09cda18d534bf395d0f56e168"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "254e051eaa1545022644c280f7750bdd"
+    "revision": "63bf55c071c88be61c8f9879157e4153"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "67ede6abe1f9a1104d26114ec537369c"
+    "revision": "63358c14aa5bc96b8e03b11d3fbd231d"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",
@@ -894,7 +894,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/index.html",
-    "revision": "cd3ac5ed6eaf6f0a89e82f5a2e360efc"
+    "revision": "c1a5a53c03b69c782194bcb7ce1e28d1"
   },
   {
     "url": "posts/2020/03/01/keep-your-repo-dependencies-up-to-date-with-renovate/revonate-circleci-docker-image-support.webp",

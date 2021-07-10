@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "e01c3e013aac92a43883e59d9599d41f"
+    "revision": "a45da125902dc455a4758ff56e8d3559"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "f1195d6b3129a61bdc23f6bc76e63ee5"
+    "revision": "67f900a6f789826bef68db40c59f1cb8"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "b2730e94a52d5f183dc7a87ab67c8ad2"
+    "revision": "129a6ba1e0cda9c92fe7a8d95f65b16f"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "989073d7d2b07749d60535be60da3a5c"
+    "revision": "e87c91117d3c07976afe7a077e68ac89"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "35081b9dac7b4939a14f114e0f18b04a"
+    "revision": "36253c5eb111bc68399eb403208bd78c"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "9e4362f8b21ba7f5d6ea5659646a8dfb"
+    "revision": "307c18194894fd3ffd217488a238ceb2"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "ecc2fe56458c2885a63e43a842a73fad"
+    "revision": "801ed3e0b5a0ef9117406694678da446"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "862d732753b567dc71b38e0f473ab187"
+    "revision": "27e53bacfffaefdd6e01d486b7e71cc3"
   },
   {
     "url": "posts/index.html",

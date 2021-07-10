@@ -534,7 +534,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/index.html",
-    "revision": "9a55803103c117dde4b4692edd4b6c1e"
+    "revision": "bc2e77614995d5a67b381065632d327b"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/update-centos-hosts.webp",
@@ -582,7 +582,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/index.html",
-    "revision": "989073d7d2b07749d60535be60da3a5c"
+    "revision": "e87c91117d3c07976afe7a077e68ac89"
   },
   {
     "url": "posts/2016/04/30/angular-ui-performance-tuning-experience/notification.webp",
@@ -670,7 +670,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/01/01/review-2016/index.html",
-    "revision": "36253c5eb111bc68399eb403208bd78c"
+    "revision": "35081b9dac7b4939a14f114e0f18b04a"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/add-shortcut.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "254e051eaa1545022644c280f7750bdd"
+    "revision": "63bf55c071c88be61c8f9879157e4153"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "307c18194894fd3ffd217488a238ceb2"
+    "revision": "9e4362f8b21ba7f5d6ea5659646a8dfb"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "0478ad6d268e1dbf2c9525ed661704a3"
+    "revision": "5bb59a00e3dfaf1199b9d4ec95e64b46"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "3534b52b3fe7963c7918df9da471b049"
+    "revision": "504ce08dfcc66aef0f2025e7395041c6"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "ecc2fe56458c2885a63e43a842a73fad"
+    "revision": "801ed3e0b5a0ef9117406694678da446"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",

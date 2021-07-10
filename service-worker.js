@@ -398,7 +398,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/projects/index.html",
-    "revision": "a45da125902dc455a4758ff56e8d3559"
+    "revision": "e01c3e013aac92a43883e59d9599d41f"
   },
   {
     "url": "pages/projects/projects.webp",
@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "7f9bd5d5f53cb6076c2fcd3bd3d64a86"
+    "revision": "6c1dab4cf9965529b795083d4c7650eb"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -446,7 +446,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/index.html",
-    "revision": "67f900a6f789826bef68db40c59f1cb8"
+    "revision": "f1195d6b3129a61bdc23f6bc76e63ee5"
   },
   {
     "url": "posts/2015/12/13/ubuntu-mean-development-environment-setup/update-nodejs.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "05c637e09cda18d534bf395d0f56e168"
+    "revision": "9673c1a7c0bc8555e695606d3c62f1f4"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "63bf55c071c88be61c8f9879157e4153"
+    "revision": "254e051eaa1545022644c280f7750bdd"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -702,7 +702,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/05/05/vue-version-for-blog-app/index.html",
-    "revision": "307c18194894fd3ffd217488a238ceb2"
+    "revision": "9e4362f8b21ba7f5d6ea5659646a8dfb"
   },
   {
     "url": "posts/2018/01/01/review-2017/cover.webp",
@@ -814,7 +814,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/index.html",
-    "revision": "63358c14aa5bc96b8e03b11d3fbd231d"
+    "revision": "67ede6abe1f9a1104d26114ec537369c"
   },
   {
     "url": "posts/2019/07/23/travel-in-beijing/msra.webp",

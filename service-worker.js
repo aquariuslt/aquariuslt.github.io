@@ -458,7 +458,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/14/nodejs-libclntsh-so-11-1-cannot-open-shared-object-file/index.html",
-    "revision": "3df675f1e35d8f6089faac9ff91c5f92"
+    "revision": "bb327c4d0242664dc6c699d898c0796e"
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "7fe6ab88e6c8bb87f2b2419dd3ffa753"
+    "revision": "a144a6e5ce363dd0784922b4de98cd83"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "78d9ad95528e8ebfb8d0473cfde4a1e8"
+    "revision": "d9253cf2ebba0a1890a68a9f1b5d0d16"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -686,7 +686,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/index.html",
-    "revision": "2ff3318205f8b646a66b96170cd40994"
+    "revision": "d51dcfd1c0c9170e3353bd09a00b3e4f"
   },
   {
     "url": "posts/2017/03/12/new-version-blog-migration/launching.webp",
@@ -734,7 +734,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/03/03/latest-update-on-blog-app/index.html",
-    "revision": "7c18afa590b19ec0a698e24348fba8c0"
+    "revision": "95a592eb3cb7882c760de6159f7bcde6"
   },
   {
     "url": "posts/2018/03/04/karma-based-traditional-java-web-frontend-unittest-solution/cover.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "ba0a6fffc164e835a5c3e9ba203c1188"
+    "revision": "b0a511711e14b25053baf9610a415120"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -878,7 +878,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/01/28/review-2019/index.html",
-    "revision": "86ed0be7af04aac5e1729c482b5a1a86"
+    "revision": "133ac64e71cee0a2c3d82c74c6555402"
   },
   {
     "url": "posts/2020/01/28/review-2019/movement.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "9bae2d958a70ac77a2315930b573ab4f"
+    "revision": "e78d068b46daf3064c44495860fc1634"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "6a151c02a59fd02813a5002294564f72"
+    "revision": "ce75c7097bad801a709336956007a0c5"
   },
   {
     "url": "posts/index.html",

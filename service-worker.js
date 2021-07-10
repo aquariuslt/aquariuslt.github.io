@@ -418,7 +418,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/index.html",
-    "revision": "7f9bd5d5f53cb6076c2fcd3bd3d64a86"
+    "revision": "6c1dab4cf9965529b795083d4c7650eb"
   },
   {
     "url": "posts/2015/11/10/beanutils-vs-reflection/method-executing-time.webp",
@@ -466,7 +466,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2015/12/27/site-upgrade-plan/index.html",
-    "revision": "c7846f4db555333a3724dea58e3ebcf5"
+    "revision": "a166dfa1a6e7570837aa1ca3a4840d7c"
   },
   {
     "url": "posts/2016/01/01/review-2015/cover.webp",
@@ -482,7 +482,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/01/review-2015/index.html",
-    "revision": "b2730e94a52d5f183dc7a87ab67c8ad2"
+    "revision": "129a6ba1e0cda9c92fe7a8d95f65b16f"
   },
   {
     "url": "posts/2016/01/01/review-2015/rmbp.webp",
@@ -526,7 +526,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/01/11/nodejs-oracledb-install-on-rhel-6/index.html",
-    "revision": "59f51a84fa65d1f6fbcb5ac9fe605804"
+    "revision": "e764eed9edfa880dfcce951f1852a3ab"
   },
   {
     "url": "posts/2016/01/12/nodejs-oracledb-ora-21561-solution/cover.webp",
@@ -562,7 +562,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/index.html",
-    "revision": "c62ecf5c22e27ac857043162fcf30894"
+    "revision": "658d29f4d253f116dcedc033ff9d130b"
   },
   {
     "url": "posts/2016/04/09/hadoop-2-7-2-single-node-and-cluster-mode-installation-guide/nodes-of-the-cluster.webp",
@@ -622,7 +622,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/index.html",
-    "revision": "9673c1a7c0bc8555e695606d3c62f1f4"
+    "revision": "05c637e09cda18d534bf395d0f56e168"
   },
   {
     "url": "posts/2016/07/05/move-to-new-apartment/kitchen.webp",
@@ -710,7 +710,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/01/01/review-2017/index.html",
-    "revision": "eb8de8e1aeb1fa4eaac247f013a5c70b"
+    "revision": "587bfb98dfeaa4bbdd003de023fe2d85"
   },
   {
     "url": "posts/2018/01/01/review-2017/macbook-pro.webp",
@@ -754,7 +754,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/04/01/karma-jawr-development-note/index.html",
-    "revision": "5bb59a00e3dfaf1199b9d4ec95e64b46"
+    "revision": "0478ad6d268e1dbf2c9525ed661704a3"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/create-release.webp",
@@ -770,7 +770,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/index.html",
-    "revision": "f2188a7d36cd20f9375b3454a963951a"
+    "revision": "4b30d78c6cc103c77c4890ae560ab544"
   },
   {
     "url": "posts/2019/07/07/github-actions-overview-and-practice/trigger-release-workflow.webp",
@@ -854,7 +854,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/index.html",
-    "revision": "3534b52b3fe7963c7918df9da471b049"
+    "revision": "504ce08dfcc66aef0f2025e7395041c6"
   },
   {
     "url": "posts/2019/08/18/github-actions-new-yaml-syntax/migrating-github-actions.webp",
@@ -870,7 +870,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2019/11/14/monorepo-practice-in-typescript-projects/index.html",
-    "revision": "e12929eebeea4a2bb4b8010ed8730bf7"
+    "revision": "c9d9cb6ee76aa112150fcb20e41fd3b7"
   },
   {
     "url": "posts/2020/01/28/review-2019/cover.webp",
@@ -922,7 +922,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/index.html",
-    "revision": "ecc2fe56458c2885a63e43a842a73fad"
+    "revision": "801ed3e0b5a0ef9117406694678da446"
   },
   {
     "url": "posts/2020/03/28/enable-motion-sense-on-pixel-4-xl-after-march-update/magisk-patch-boot-img.webp",
@@ -958,7 +958,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020/04/04/using-bundlewatch-instead-of-bundlesize/index.html",
-    "revision": "27e53bacfffaefdd6e01d486b7e71cc3"
+    "revision": "862d732753b567dc71b38e0f473ab187"
   },
   {
     "url": "posts/index.html",
